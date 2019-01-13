@@ -1,1 +1,12 @@
-remote_theme: "mmistakes/so-simple-theme"
+title: Alpha's Manifesto
+locale: en
+remote_theme: mmistakes/so-simple-theme
+read_time: true
+words_per_minute: 150
+mathjax: true
+search_full_content: true
+category_archive_path: /categories/#
+tag_archive_path: /tags/#
+disqus:
+  shortname: alphasmanifestoblog
+google_analytics: UA-367009-7
