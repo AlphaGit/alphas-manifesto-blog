@@ -35,6 +35,9 @@ comments:
   content: Well written and presented about Docker and the file system.Much informative
     too..
 ---
+
+![](/assets/Docker-heavy.png)
+
 <p><!-- wp:paragraph --></p>
 <p>Most blogs and manuals will recommend you the simpler approaches to reducing the image of your docker image. We'll go a little further today but let's reiterate them anyway:</p>
 <p><!-- /wp:paragraph --></p>

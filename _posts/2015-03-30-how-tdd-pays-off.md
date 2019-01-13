@@ -57,6 +57,9 @@ comments:
     here&#8217;s another reason to test your stuff: you may make the smallest of mistakes
     and [&#8230;]"
 ---
+
+![](/assets/Semaforo1.png)
+
 <p style="text-align: justify;"><strong>Software engineers, amirite?</strong> They keep blabbing about this fancy-pantsy weird wibbly-wobbly stuff nobody understands and they just want to keep things complicated. They want to&nbsp;<em>test</em> things even before they are done and <em>then</em> develop the app. Are they insane? And it even takes more time, so it's a waste of money.</p>
 <p style="text-align: justify;">Well, my little <em>friend-that-does-not-adhere-to-software-methodologies</em>, they are right on what they do. And <strong>it does pay off</strong>. Let me tell you why.</p>
 <p style="text-align: justify;">(In here also: an update on the mongo-faceted project.)</p>

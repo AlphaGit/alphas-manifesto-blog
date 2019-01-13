@@ -35,6 +35,9 @@ comments:
   date_gmt: '2018-11-23 12:18:36 +0000'
   content: "Well written and presented stuff.Keep it up.\r\nhttps://www.simpliv.com"
 ---
+
+![](/assets/working-effectively-legacy.jpg)
+
 <p><!-- wp:paragraph --></p>
 <p style="text-align: justify;">I just finished reading&nbsp;<em>Working effectively with legacy code</em>, by Michael Feathers. The title is perfectly descriptive and quite ambiguous at the same time. Let me explain to you why.</p>
 <p><!-- /wp:paragraph --></p>

@@ -38,6 +38,9 @@ comments:
     is, how to make your code changes easy to review and discuss. Now we&#8217;re
     going to talk [&#8230;]"
 ---
+
+![](/assets/CodeReviewFilter1.jpg)
+
 <p style="text-align: justify;">This has been a common question and a subject of debate since everyone has their opinions on what <em>good code</em>&nbsp;is and what <em>bad code</em> is. Regardless, the pull request is not about the code itself but about the actions of reviewing, adjusting, discussing and assimilating (merging) code, which may be good or bad in itself.</p>
 <p style="text-align: justify;">This will be later followed by a set of notes on <a href="https://blog.alphasmanifesto.com/2016/11/17/how-to-perform-a-good-code-review/"><em>how to perform a good code review</em></a>.</p>
 <p style="text-align: justify;">Without further ado, let's start with what is going to be a long article about sending a good pull request.</p>

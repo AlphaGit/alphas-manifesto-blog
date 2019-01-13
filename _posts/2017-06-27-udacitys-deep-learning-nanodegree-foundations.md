@@ -27,6 +27,9 @@ tags:
 - machine learning
 comments: []
 ---
+
+![](/assets/nd101.png)
+
 <p style="text-align: justify;">A few weeks ago I graduated from Udacity's Deep Learning Foundations Nanodegree program. It was an introduction to all things deep learning, from the very basics to state of the art techniques. Let me tell you a little bit about it.</p>
 <p style="text-align: justify;"><!--more--></p>
 <h2 style="text-align: justify;">The course itself</h2>

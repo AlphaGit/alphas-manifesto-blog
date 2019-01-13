@@ -33,6 +33,9 @@ tags:
 - convention
 comments: []
 ---
+
+![](/assets/Singleton.png)
+
 <p style="text-align: justify;">No, I'm not talking about those that can't find someone to be with. You're ok in my book.</p>
 <p style="text-align: justify;">One of my favorite question to ask at technical interviews is "Can you tell me advantages and disadvantages of the singleton pattern?" I get varied responses, but while almost everybody can think of the advantages, nobody mentions the problems that come along with it. I'm going to quickly explain what singletons are and then roast&nbsp;them good.</p>
 <p><!--more--></p>

@@ -36,6 +36,11 @@ comments:
     your tools. Every content of the pull request that is not helping to achieve the
     goal is helping to hide it. [&#8230;]"
 ---
+
+![](/assets/whip.png)
+
+They should work for you!
+
 <p style="text-align: justify;">Have you ever met a carpenter that would pick up a wrench and hit a nail with it? Probably not, and if you saw that, you would probably be thinking in taking your business elsewhere. And if you wouldn't, then you should. Here's why.</p>
 <p><!--more--></p>
 <p style="text-align: justify;">It drives me crazy when I see a commit change with too many changes in it that are accidental, "because git just includes them". Or seeing people ignoring test failures because "it has always been like that". But let me step back from software for a second...</p>

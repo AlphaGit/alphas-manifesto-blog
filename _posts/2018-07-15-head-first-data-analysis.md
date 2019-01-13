@@ -25,6 +25,9 @@ tags:
 - head first series
 comments: []
 ---
+
+![](/assets/headfirstdataanalysis.jpg)
+
 <p style="text-align: justify;">I just finished reading "Head First Data Analysis ", by Michael Milton, and it was the first book I've ever read from the "Head First" series.</p>
 <p style="text-align: justify;">The book was very easily approachable, with concepts introduced only when they were necessary and to make a good, valid, practical point. The whole structure of the book revolves&nbsp;around practice and "real life" examples (although, greatly simplified) to prove how methodical logical steps can naturally lead to a good analysis mechanism.</p>
 <p><!--more--></p>

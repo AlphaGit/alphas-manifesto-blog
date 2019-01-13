@@ -28,6 +28,9 @@ tags:
 - Google Lens
 comments: []
 ---
+
+![](/assets/googleimg.jpg)
+
 <p style="text-align: justify;">This is another great guest post, this time from&nbsp;<a href="https://twitter.com/araesininthesun">Rae Steinbach</a>. She&nbsp; is a graduate of Tufts University with a combined International Relations and Chinese degree. After spending time living and working abroad in China, she returned to NYC to pursue her career and continue curating quality content. Rae is passionate about travel, food, and writing, of course.</p>
 <p style="text-align: justify;">Her post talks about the impact that Google's AI vision will have on retail businesses. Thanks Rae; thank you very much!</p>
 <hr />

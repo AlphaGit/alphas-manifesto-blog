@@ -55,6 +55,9 @@ comments:
     should allow for tests. Again, I think tests are still part of your requirements
     (even if not functional) and they should be considered part of the design.\r\n\r\nThanks!"
 ---
+
+![](/assets/arrow.jpg)
+
 <p style="text-align: justify;">You may know I'm a proponent for simplicity. I believe that if a particular feature can be achieved with a single <code>if</code>&nbsp;statement, then that's&nbsp;all that needs to be done. I'm also a proponent of testability, that all code should be easily testable so that we can make sure that it works. As it turns out, these two don't usually go hand in hand. (Spoiler alert: that's not true.)</p>
 <p><!--more--></p>
 <p style="text-align: justify;">What's wrong with this code? (Aside from the poor naming.)</p>

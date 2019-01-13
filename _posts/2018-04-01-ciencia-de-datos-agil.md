@@ -26,6 +26,9 @@ tags:
 - agile
 comments: []
 ---
+
+![](/assets/7puentes.jpg)
+
 <p style="text-align: justify;">(Post only in Spanish since I'm reviewing Spanish content. It's a Udemy course talking about Data Science in an agile framework.)</p>
 <p style="text-align: justify;">Hace unos d&iacute;as termin&eacute; de participar del curso <a href="https://www.udemy.com/ciencia-de-datos-agil/learn/v4/">Ciencia de datos &aacute;gil</a>, por Ernesto Mislej, co-fundador de 7puentes. Al comienzo me recomendaron el curso porque cubr&iacute;a un hueco que no estaba muy bien explicado en las fuentes online: c&oacute;mo llevar adelante un proyecto de Data Science, fuera del t&iacute;pico proceso waterfall que siempre se describe. Adem&aacute;s, Ernesto es una fuente de buena reputaci&oacute;n, por lo que el curso me interes&oacute;.</p>
 <p style="text-align: justify;">El curso es relativamente corto, pero es algo condensado. El formato del curso es primero plantear algunos aspectos te&oacute;ricos sobre el marco metodol&oacute;gico agile y la ciencia de datos. Luego, con esas bases, comienza un ejemplo pr&aacute;ctico como si estuvi&eacute;ramos siendo parte de un proyecto. Tras eso, Ernesto nos lleva por lo que ser&iacute;an nuestras deducciones, idas, vueltas y conclusiones. Tambi&eacute;n nos explica qu&eacute; reuniones se "dieron" con nuestros clientes y todo lo que ocurre en un proyecto agile com&uacute;n y corriente.</p>
