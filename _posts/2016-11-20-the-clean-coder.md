@@ -99,6 +99,8 @@ comments:
 
 ![](/assets/the-clean-coder-cover.jpg)
 
+a.k.a. "Software Professionalism"
+
 <p style="text-align: justify;">I recently read Uncle Bob's "The Clean Coder". I have to say, this book slapped me in the face. There's so much to discuss.</p>
 <p style="text-align: justify;"><!--more--></p>
 <p style="text-align: justify;">First of all, the title of the book has a subtlety that makes it quite different than what I expected. I thought it would discuss about good code practices, but it doesn't: it talks about&nbsp;<em>coders</em>, not&nbsp;<em>code</em>.</p>

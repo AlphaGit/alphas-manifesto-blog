@@ -61,6 +61,8 @@ comments:
   date_gmt: '2012-08-22 21:29:12 +0000'
   content: "[...] Pruebas con VS11: D&iacute;a uno [...]"
 ---
+Comenzando a explorar lo que la beta nos ofrece.
+
 <p style="text-align: justify;">Comenc&eacute; como un proceso de autocapacitaci&oacute;n mi investigaci&oacute;n personal de las caracter&iacute;sticas que Visual Studio 11, todav&iacute;a en Beta, nos ofrece. Pretendo documentar mi experiencia personal porque si bien no va a ser una buena indicaci&oacute;n de c&oacute;mo es el producto, puede que detecte muchos peque&ntilde;os problemitas o cosas que estar&iacute;an buenos tener en cuenta, al menos prepararse para ellos. Conociendo mi suerte, estoy seguro de que algo voy a romper.</p>
 <h2 style="text-align: justify;">Instalaci&oacute;n</h2>
 

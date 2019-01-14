@@ -35,6 +35,8 @@ tags:
 - project management
 comments: []
 ---
+El manual de Nick Fury para coordinar equipos
+
 <p>Cuando escrib&iacute; <a href="https://blog.alphasmanifesto.com/2012/06/24/avengers/">mi review de la pel&iacute;cula Avengers</a> mencion&eacute; lo siguiente:</p>
 <blockquote>
 <p style="text-align: justify;">Nick Fury es el coordinador de ese movimiento [Avengers defendiendo al mundo], y con su actitud de <em>badass</em> se encarga de dejar claro qu&eacute; es lo que estamos enfrentando y qu&eacute; es lo que &eacute;l est&aacute; dispuesto a hacer.</p>

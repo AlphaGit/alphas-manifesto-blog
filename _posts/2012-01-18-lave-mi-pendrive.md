@@ -24,5 +24,8 @@ tags:
 - pendrive
 comments: []
 ---
+
+Una guía para salvar los electrónicos mojados
+
 <p style="text-align: justify;">Paseando como siempre en los foros de StackExchange, espec&iacute;ficamente en el de SuperUser, me encontr&eacute; con una pregunta anecd&oacute;tica: <a href="http://superuser.com/questions/372446/i-washed-my-usb-drive-any-long-term-risks">Lav&eacute; mi pendrive. Alg&uacute;n riesgo a largo plazo?</a>&nbsp;Las respuestas sobre esa pregunta en particular son algo diferentes, algunos han experimentado problemas y otros no, pero las respuestas extendidas dan muchas instrucciones de c&oacute;mo tratar en estos casos. Personalmente le&iacute; m&aacute;s de lo que sab&iacute;a, hay muchos buenos consejos para aplicar en esa situaci&oacute;n.</p>
 <p style="text-align: justify;"><em>Soy un zorrinito limpio.</em></p>

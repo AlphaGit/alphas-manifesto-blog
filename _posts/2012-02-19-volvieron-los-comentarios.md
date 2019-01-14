@@ -85,5 +85,8 @@ comments:
     hacer esta review. Resulta que s&iacute; es una review muy dif&iacute;cil para
     hacer, me cuesta ver [...]"
 ---
+
+...y volvieron para quedarse!
+
 <p style="text-align: justify;">Eso, ya pude habilitar los comentarios (y quedarom medianamente arreglados), hagans&eacute; un fest&iacute;n de feedback para decirme qu&eacute; piensan. Acuerdens&eacute; de comentar en todo lo dem&aacute;s, toda opini&oacute;n es bienvenida (no por eso aceptada, jeje).</p>
 <p style="text-align: justify;"><em>Soy un zorrinito comentado.</em></p>

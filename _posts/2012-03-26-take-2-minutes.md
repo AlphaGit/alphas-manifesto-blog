@@ -25,5 +25,7 @@ tags:
 - apps
 comments: []
 ---
+...to clear your app permisions
+
 <p style="text-align: justify;">De parte de <a href="http://i.microsiervos.com/">i.MicroSiervos</a> me entero de la existencia de <a href="http://mypermissions.org/">MyPermissions.org</a>, una peque&ntilde;a recopilaci&oacute;n de links comunes a distintas aplicaciones que nos lleva directamente al punto para remover/editar permisos de aplicaciones. Podemos encontrar muchas cosas en nuestro cementerio de aplicaciones de Facebook, Twitter, Google, Yahoo, Dropbox, etc. Vale la pena tomarse dos minutos y ver qu&eacute; cosas estamos permitiendo que realmente no usamos, o peor a&uacute;n, no deber&iacute;amos usar.</p>
 <p style="text-align: justify;"><em>Soy un zorrinito seguro.</em></p>

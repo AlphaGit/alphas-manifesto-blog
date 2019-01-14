@@ -44,6 +44,8 @@ comments:
 
 ![](/assets/multitasking.png)
 
+Before it makes you frown
+
 <p style="text-align: justify;">Not sure if this has happened to you, but sometimes there's just too much going on at the same time. Pretty much more that we can handle in our head.</p>
 <p style="text-align: justify;">This happens to me quite a bit:&nbsp;I'll in the middle of an important meeting when suddenly someone comes in Skype saying "would you mind to code review this, please? It's kind of urgent". Then somebody&nbsp;will reach out to me saying "hey, I think the server's down". Then somebody will say "I think this&nbsp;issue is actually a server configuration thing, we're blocked", and somebody else will say "I cannot get the tests to run, it says undefined is not a function". It's like it's raining urgent issues! This&nbsp;a way I found to handle the situation.</p>
 <p style="text-align: justify;"><!--more--></p>

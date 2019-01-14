@@ -30,6 +30,8 @@ comments: []
 
 ![](/assets/Art.png)
 
+Well, sort of...
+
 <p style="text-align: justify;">I just finished an art course on an MOOC platform and got a certificate for it. Let me tell you how was it like.</p>
 <p><!--more--></p>
 <p>In case you didn't know, I am a big fan of <a href="http://en.wikipedia.org/wiki/Massive_open_online_course">MOOCs</a>, online education and affordable options (because, who's not?). I've been playing around with different platforms lately, but Coursera caught my attention with some of their options, specially their certificates and specializations. Each of them are about USD $ 50, which is really affordable, and even if you don't get a certificate, the platform itself is really decent.</p>

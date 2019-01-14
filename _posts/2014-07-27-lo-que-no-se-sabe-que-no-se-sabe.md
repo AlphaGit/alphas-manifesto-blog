@@ -41,6 +41,8 @@ comments:
     so&nbsp;I&#8217;ll translate it.) But as a sidenote to that very same post, I
     [&#8230;]"
 ---
+Manejo del conocimiento, parte 2
+
 <blockquote>Temo por cualquiera atrapado entre lo que sabe y lo que todav&iacute;a no sabe que no sabe.</p>
 <p style="text-align: right;">-- Cecil, Pilot (Welcome to Night Vale)</p>
 </blockquote>

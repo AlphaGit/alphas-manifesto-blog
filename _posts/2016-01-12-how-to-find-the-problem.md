@@ -41,6 +41,8 @@ comments:
 
 ![](/assets/chemistryskunk.png)
 
+Applied skepticism
+
 <p style="text-align: justify;">User minusSeven from the StackExchange community asked a seemingly uninteresting question that happens to be really deep and meaningful: <a href="http://productivity.stackexchange.com/questions/4827">How do you learn programming when you're stuck and without access to the internet?</a>&nbsp;All the answers there are really good and useful, but I think there's an underlying theme worth discussing: how a methodical approach should be.</p>
 <p><!--more--></p>
 <p style="text-align: justify;">The internet and good resources like the StackExchange community are really valuable tools to find information, and even better, confirmed and pragmatic information. You don't just find how a specific language is supposed to work, but you also, from real people, with real feedback, <em>how they actually work</em>. And this is priceless, because they provide you with workarounds to known bugs and to non-publicly-accepted platform issues. They are also focused on quality and maintainability. What more is there to ask for?</p>

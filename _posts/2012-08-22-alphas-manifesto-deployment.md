@@ -29,6 +29,8 @@ tags:
 - theme
 comments: []
 ---
+Open source & automatic deployments
+
 <p style="text-align: justify;">Aqu&iacute; hay dos noticias en realidad: Por un lado, <em>Alpha's Manifesto</em>, el theme de este blog, es ahora open source (work in progress) y por otro lado, logr&eacute; configurar deployments autom&aacute;ticos para cuando ocurran cambios en este theme.</p>
 <p><!--more--></p>
 <h2 style="text-align: justify;">Theme open source</h2>

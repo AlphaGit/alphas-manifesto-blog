@@ -23,6 +23,9 @@ tags:
 - comentarios
 comments: []
 ---
+
+Empezando un blog más ordenado y limpio
+
 <p>Allo, me pegu&eacute; una terrible actualizaci&oacute;n de estilos. Como ven, la p&aacute;gina est&aacute; mucho m&aacute;s limpia, y desde mi punto de vista, un poco m&aacute;s legible y elegante. Se aceptan sugerencias.</p>
 <p>Notar&aacute;n que no todo est&aacute; disponible como antes, muchas cosas desaparecieron. Algunas volver&aacute;n a aparecer, otras quedar&aacute;n en el olvido.</p>
 <p>Las cosas que deber&iacute;an volver a aparecer y/o que no est&aacute;n funcionando bien (y debo arreglar) son</p>

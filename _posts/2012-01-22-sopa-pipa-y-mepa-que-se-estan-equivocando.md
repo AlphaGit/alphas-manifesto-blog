@@ -31,6 +31,9 @@ tags:
 - SaaS
 comments: []
 ---
+
+El problema es la receta, no la sopa.
+
 <p>Hace mucho que todos estamos siendo bombardeados por la historia de esta ley que casi sigue su curso, pero hay un tema en particular que no veo nombrar y que creo es el m&aacute;s importante. Es como si todos se quejaran de un dolor de cabeza pero no se preguntaran por la enfermedad, sino sobre como quit&aacute;rselo.</p>
 <p>Esta es mi (humilde e ingenua) opini&oacute;n al respecto.</p>
 <h2>&iquest;Por qu&eacute; SOPA ten&iacute;a sentido?</h2>

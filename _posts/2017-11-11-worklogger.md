@@ -31,6 +31,8 @@ comments: []
 
 ![](/assets/time.jpg)
 
+Automatic timesheet entry
+
 <p style="text-align: justify;">As you may know, part of the daily responsibilities of the software-workers is to log their time. (And many other professions too, I'm sure.) This implies reporting time with a certain level of detail so that our managers (sometimes, ourselves) can properly bill each customer for the work done.</p>
 <p style="text-align: justify;">The problem with this is that it is a pretty repetitive task, and not only that, each customer will have requirements of their own, like using their own system for time tracking, to separate the work in tickets, to receive a summary by email, etc.</p>
 <p style="text-align: justify;">I created <a href="https://github.com/AlphaGit/worklogger">Worklogger</a> to be a swiss-army-knife solution to these variables.</p>

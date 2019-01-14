@@ -34,6 +34,8 @@ tags:
 - p&iacute;xel
 comments: []
 ---
+Opiniones propias sobre muchos problemas mencionados
+
 <p style="text-align: justify;">Acabo de terminar de leer un art&iacute;culo largo y genial de Smashing Magazine, llamado <a href="http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/">The State of Responsive Web Design</a>. Como el t&iacute;tulo lo indica, habla sobre el estado actual del dise&ntilde;o de webs responsive y sus pros y contras. Mucho mejor a&uacute;n, habla de los distintos problemas a superar y la forma en la que la tecnolog&iacute;a de hoy nos permite hacerlo. Pero no es una introducci&oacute;n al tema, sino que abarca todos esos problemas que a&uacute;n no tienen soluciones definitivas. Totalmente novedoso.</p>
 <p style="text-align: justify;">Sin embargo, como bien dicen al final, esto no es ni el comienzo, y sobre las cosas mencionadas tengo mucho que mencionar. Quer&iacute;a dejar mis comentarios por aqu&iacute;.</p>
 <p style="text-align: justify;"><!--more--></p>

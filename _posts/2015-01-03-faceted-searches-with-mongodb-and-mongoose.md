@@ -39,6 +39,8 @@ comments:
 
 ![](/assets/mongo-faceted-logo-300x290.png)
 
+Generating facet search results
+
 <p style="text-align: justify;">Some&nbsp;people in Latin-America may remember an old <em>Yupi</em> ad where a woman was complaining on how difficult using the internet was. "<em>It's so difficult. So complicated! There must be something better.</em>" (In Spanish, of course.) Cheesy as it sounds,&nbsp;H&auml;ndel Messiah's "Hallelujah"&nbsp;sonorously invaded the screen. Don't believe me? <a href="https://www.youtube.com/watch?v=oI1Tjeh4_D8">See for yourself</a>.</p>
 <p style="text-align: justify;">That's how I felt when I was investigating what's the best approach to achieve faceted searches in MongoDB. But I found something better. Let me show it to you.</p>
 <p><!--more--></p>

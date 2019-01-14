@@ -28,6 +28,9 @@ tags:
 - studies
 comments: []
 ---
+
+Review of a very interesting meetup by Dr McKillop
+
 <p><!-- wp:paragraph --></p>
 <p style="text-align: justify;">I recently participated in a meetup with the promising title "Ethics in AI". Dr. Chris McKillop conducted the meetup, and she&nbsp;did not only has a lot of theoretical background under her arm, but also a great deal of experience with working on the field of Data Science and AI.</p>
 <p><!-- /wp:paragraph --></p>

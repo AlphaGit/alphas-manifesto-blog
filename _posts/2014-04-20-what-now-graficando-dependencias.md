@@ -35,6 +35,8 @@ comments: []
 
 ![](/assets/what-now-dependencies.png)
 
+No se resuelve con un par de líneas
+
 <p style="text-align: justify;">Desde hace un par de semanas estoy trabajando en lograr que el proyecto de <a href="http://what-now.herokuapp.com/">what-now</a> grafique dependencias entre tareas: si &nbsp;una tarea depende de otra, una l&iacute;nea deber&iacute;a conectarlos. Esta tarea b&aacute;sica fue muy simple, pero lo desafiante fue lograr que se graficaran de forma que las l&iacute;neas se cruzaran entre ellas lo menos posible.</p>
 <p style="text-align: justify;">Aqu&iacute; contar&eacute; sobre este logro y sobre lo que aprend&iacute; en el proceso.</p>
 <p><!--more--></p>

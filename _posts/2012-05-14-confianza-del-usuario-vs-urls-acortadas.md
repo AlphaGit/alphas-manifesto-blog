@@ -62,6 +62,8 @@ comments:
     no hay nada que hacer si el sitio en cuesti&oacute;n explota vulnerabilidades
     del browser)."
 ---
+Desmintiendo si las URLs acortadas afectan o no la confianza del usuario
+
 <p style="text-align: justify;">Hoy voy a dejar un caso de una pregunta abierta, nuevamente, originada en los foros de <a href="http://ux.stackexchange.com/questions/20541/do-users-trust-shortened-urls">User Experience</a>. La pregunta es: <em>&iquest;Los usuarios conf&iacute;an en URLs acortadas?</em></p>
 <p style="text-align: justify;">Siempre se supo, y es un concepto fundamenta del SEO, que las URLs deben ser lo suficientemente amigables como para significar algo que sea relevante al contenido de ese recurso. Por otro lado, la teor&iacute;a debajo de REST y la web sem&aacute;ntica nos indican que las URLs (o URIs) deber&iacute;an ser identificadores &uacute;nicos de un recurso en particular, de forma que, de alguna manera, su identificador tendr&iacute;a cierta relaci&oacute;n con su contenido.</p>
 <p style="text-align: justify;">Sin embargo, y a&uacute;n as&iacute;, parece no haber estudios definitivos realizados sobre lo que los usuarios en general opinan. Nosotros hemos experimentado confianza o desconfianza de estas URLs dependiendo de qui&eacute;n vienen, o en d&oacute;nde las encontramos. B&aacute;sicamente, <a href="http://ux.stackexchange.com/a/20550/8702">depender&iacute;a del contexto</a>.</p>

@@ -37,6 +37,8 @@ comments: []
 
 ![](/assets/commonJobs.png)
 
+Proyecto final y producto real
+
 <p style="text-align: justify;">Como varios pueden haberse enterado, hace poco CommonJobs dio su etapa final como proyecto oficial que&nbsp;comprend&iacute;a mi proyecto de tesis final. Voy a contar un poquito al respecto y qu&eacute; fue lo que lo hizo destacar, si es que hubo algo al respecto.</p>
 <p><!--more--></p>
 <h2>&iquest;Fue un proyecto de tesis?</h2>

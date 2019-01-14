@@ -26,6 +26,9 @@ tags:
 - p&aacute;ginas
 comments: []
 ---
+
+De HTML a PDF
+
 <p style="text-align: justify;">Nombre complicado, pero aplicaci&oacute;n muy &uacute;til. Hace algunos d&iacute;as ando trabajando con <a href="http://code.google.com/p/wkhtmltopdf/">wkhtmltopdf</a>, una aplicaci&oacute;n basada en QT y en Webkit que renderiza p&aacute;ginas web y las convierte en PDFs. Lo interesante es la forma en la que se puede automatizar este proceso, generando elementos m&aacute;s all&aacute; del contenido en s&iacute; (como tablas de contenido, encabezados y pies de p&aacute;gina, etc). Mejor a&uacute;n, este paquete contiene wkhtmltoimage.</p>
 <p style="text-align: justify;">Por supuesto, todo esto puede ser parte de una aplicaci&oacute;n mayor que genere PDFs o im&aacute;genes desde otro documento (luego publicar&eacute; algo sobre eso) bas&aacute;ndose en un proceso automatizado. Parece que es muy com&ugrave;n que aplicaciones utilicen esto de fondo para generar screenshots de p&aacute;ginas web o reportes PDF desde un HTML.</p>
 <p style="text-align: justify;"><em>Soy un zorrinito screenshoteado.</em></p>

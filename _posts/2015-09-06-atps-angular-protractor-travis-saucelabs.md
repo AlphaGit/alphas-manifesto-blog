@@ -51,6 +51,8 @@ comments:
 
 ![](/assets/juggling.png)
 
+Quick guide to get these bad boys cooperating
+
 <p style="text-align: justify;">A few days ago I got the combination of Angular + Protractor + TravisCI + SauceLabs working together. There are a few quirks into making this work, but nowhere I found a comprehensive description to jump all the obstacles. Here I'll describe what I did to get there.</p>
 <p><!--more--></p>
 <h2>First of all, the reasons</h2>

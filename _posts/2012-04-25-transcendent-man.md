@@ -30,6 +30,8 @@ tags:
 - gen&eacute;tica
 comments: []
 ---
+Un documental sobre Raymond Kurzweil y su pensamiento
+
 <p style="text-align: justify;">[youtube]SjhB6J23Qjs[/youtube]</p>
 <blockquote><p>This is the story of the destiny of the human-machine civilization.</p>
 <p>A destiny we have come to refer to as the Singularity.</p>

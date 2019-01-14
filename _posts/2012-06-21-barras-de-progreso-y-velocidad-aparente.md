@@ -29,6 +29,8 @@ tags:
 - indicador de progreso
 comments: []
 ---
+La gran diferencia del detalle
+
 <h2>Indicando progreso</h2>
 <p style="text-align: justify;">Hemos visto como a trav&eacute;s de los a&ntilde;os las interfaces de los sistemas operativos y las distintas aplicaciones (tambi&eacute;n las web) han evolucionado y cambiado radicalmente su aspecto visual. Muchos m&aacute;s colores, formas redondeadas, animaciones y feedback que nos indica qu&eacute; est&aacute; pasando a cada momento.</p>
 <p style="text-align: justify;">Uno de los elementos que m&aacute;s cambio ha tenido son los indicadores de progreso. Desde las l&iacute;neas que giraban simulando un progreso, usando los caracteres -, /, | y \ en una consola, hasta el uso de caracteres Unicode con barritas que se iban llenando, hasta las hermosas interfaces de hoy de colores y animaciones.</p>

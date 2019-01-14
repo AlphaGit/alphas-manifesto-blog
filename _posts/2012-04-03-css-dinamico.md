@@ -59,6 +59,8 @@ comments:
 
     En el resto estoy todo de acuerdo, y s&iacute;, me preocupa profundamente la cantidad de tiempo invertido en hacer que las cosas funcionen en distintos navegadores. Tantos millones de d&oacute;lares invertidos en workarounds y no en la soluci&oacute;n en la ra&iacute;z del problema.
 ---
+Post procesamiento vs. preprocesamiento
+
 <p style="text-align: justify;">Para los que conocemos y usamos <a href="https://blog.alphasmanifesto.com/2012/02/10/dotless/">Less o sus variantes</a>, nos alegrar&iacute;amos mucho de saber que CSS pueda agregar capacidades similares. A pesar de que <a href="http://www.css3.info/summary-of-the-two-current-css-constants-proposals/">gran parte de la comunidad est&eacute; en desacuerdo</a>&nbsp;(&iexcl;Gracias, AM!), yo creo que ser&iacute;an &uacute;tiles, por varias razones. (Invito a discutir a qui&eacute;n piense distinto.)</p>
 <ul style="text-align: justify;">
 <li>Por un lado, permitir&aacute;n la inserci&oacute;n f&aacute;cil de quienes no dominen CSS completamente. Est&aacute; claro que significa que se pueden resolver cosas de una forma no tan prolija, pero los lenguajes tratan de facilitarnos las tareas a nosotros, no imponernos reglas que debemos seguir. Cuando existe esa diferenciaci&oacute;n es cuando comienzan a surgir <a href="https://blog.alphasmanifesto.com/2011/09/30/link-del-dia-arquitectura-css/">buenas pr&aacute;cticas</a>.</li>

@@ -26,6 +26,8 @@ comments: []
 
 ![](/assets/posterBohemianRhapsodyCS.png)
 
+using Queen.GreatestHits;
+
 Hey everyone! I just made a poster of <a href="http://www.reddit.com/r/AskReddit/comments/1poo0n/programmers_of_reddit_how_would_you_sum_up_a/cd4j9iq">likely_an_impostor's rendition of Bohemian Rhapsody</a>&nbsp;in C#, since I definitely believe that it would look great hanging off a wall.</p>
 <p style="text-align: justify;">In case you're interested, just <strong><a href="http://www.zazzle.com/bohemianrhapsody_cs_posters-228346427007677040">head to its page in Zazzle</a></strong> and give it a look -- it still has a lot of options you can choose from. It goes out as cheap as $ 10.95.</p>
 <hr />

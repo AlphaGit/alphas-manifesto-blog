@@ -41,6 +41,8 @@ comments:
 
 ![](/assets/arkanoid.jpg)
 
+Cómo hacer un pequeño juego en JavaScript y HTML5 canvas
+
 <p style="text-align: justify;">Haciendo ya mucho tiempo que no trabajaba en JavaScript sin la utilizaci&oacute;n de ning&uacute;n framework, me propuse crear algo simple que a la vez fuera divertido. Pens&eacute; en algunas opciones y la ganadora fue un juego de <a href="http://en.wikipedia.org/wiki/Arkanoid">Arkanoid</a>&nbsp;(que, ahora me entero, es <a href="http://en.wikipedia.org/wiki/Breakout_clones">una de las tantas copias del Breakout</a>, y para mi el nombre original siempre fue Arkanoid, en fin).</p>
 <p style="text-align: justify;">El resultado final lo pueden ver <a href="http://randomjs.alphasmanifesto.com/arkanoid-canvas/arkanoid.html">aqu&iacute;</a> y el c&oacute;digo fuente est&aacute; en mi <a href="https://github.com/AlphaGit/random-javascript">repositorio de GitHub</a>, pero no es tanto el resultado sino el viaje lo que fue interesante, y <strong>quiero describir las cosas que aprend&iacute; en ese camino</strong>.</p>
 <p style="text-align: justify;">Vengan y acomp&aacute;&ntilde;enme en mi viaje.</p>

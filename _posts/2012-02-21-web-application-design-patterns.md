@@ -45,6 +45,8 @@ comments:
 
 ![](/assets/web-application-design-patterns.jpg)
 
+Una librería de referencias de patrones de usabilidad
+
 <p>Bueno, son las 4 AM y no puedo dormir. Acabo de terminar de leer el libro que venia leyendo lentamente desde hace tiempo ya, llamado <em>Web Application Design Patterns</em>, de Pawan Vora.</p>
 <p style="text-align: justify;">El libro en s&iacute; tiene el t&iacute;tulo muy bien puesto, porque realmente de eso se trata. Es una colecci&oacute;n de patrones de dise&ntilde;o orientados a la usabilidad y la interfaz gr&aacute;fica de las aplicaciones web. Para los que ya lo sabemos, recordaremos que los patrones son, como su palabra lo indica patrones. Son caracter&iacute;sticas en com&uacute;n y no soluciones definitivas ni detalladas de como aproximarse a una situaci&oacute;n en particular.</p>
 <p style="text-align: justify;">Hablando de patrones en software, generalmente se los identifica de una forma muy com&uacute;n y muy particular. Cada patr&oacute;n tiene un nombre que lo identifica, un problema particular que resuelve y una descripci&oacute;n de la soluci&oacute;n b&aacute;sica a la que aproxima. La compilaci&oacute;n de patrones que Vora hizo en este caso hace muy buen tributo de ese esquema y lo mejora en varios aspectos.</p>

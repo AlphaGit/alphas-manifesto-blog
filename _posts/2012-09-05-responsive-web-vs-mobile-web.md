@@ -44,6 +44,8 @@ comments:
 
 ![](/assets/pantallas.png)
 
+¿Qué son y cuándo usar cada uno?
+
 <p style="text-align: justify;">Ahora que el mundo web se ha acelerado de forma incre&iacute;ble, CSS3 y HTML5 son m&aacute;s y m&aacute;s poderosos cada d&iacute;a. Una de las caracter&iacute;sticas que trajo CSS3 son <em>media queries</em>, que habilitan un nuevo tipo de sitio llamado <em>responsive web</em>. &iquest;Qu&eacute; es esto y c&oacute;mo nos afecta?</p>
 <p style="text-align: justify;"><!--more--></p>
 <h2>HTML5 y CSS3: Nombres complicados para algo simple</h2>

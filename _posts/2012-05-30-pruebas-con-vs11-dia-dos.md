@@ -81,6 +81,8 @@ comments:
     estoy con el tema pero vamos bien entendiendo el tema cada vez que abanso en le
     tema
 ---
+async y await
+
 <p style="text-align: justify;">Continuando con mi serie de posts e investigaci&oacute;n sobre lo que VS11 ofrece (<a href="https://blog.alphasmanifesto.com/2012/05/11/pruebas-con-vs11-dia-uno/">Parte 1</a>), quisiera tomar una aproximaci&oacute;n separada. Si bien la exploraci&oacute;n es interesante, es poco apropiada cuando uno quiere aprovechar el tiempo.</p>
 <p style="text-align: justify;">Es por eso que comenc&eacute; con las referencias en MSDN sobre <a href="http://msdn.microsoft.com/en-us/library/bb386063(v=vs.110).aspx">qu&eacute; hay de nuevo en VS11</a>, que seguiremos de a partes. Pero a la vez quiero cumplir con mi promesa, por lo cual, si comenzamos sobre qu&eacute; hay de nuevo en el lenguaje C# (lo siento VB, lo siento C++, soy del bando de C#), nos encontramos con la excusa para cumplir lo prometido.</p>
 <h2 style="text-align: justify;">Caracter&iacute;sticas nuevas de C#: await y async</h2>

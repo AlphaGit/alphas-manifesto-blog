@@ -33,6 +33,8 @@ tags:
 - configuraci&oacute;n
 comments: []
 ---
+La búsqueda del sonido perfecto
+
 <p style="text-align: justify;">Siempre fue de mi filosof&iacute;a que si uno pasa mucho tiempo en una determinada actividad, debe hacer toda la inversi&oacute;n posible para que sea muy disfrutable. Es muy parecido a la <a href="http://en.wikipedia.org/wiki/Amdahl's_law">Ley de Amdahl</a>: siempre conviene invertir en mejorar las partes m&aacute;s grandes y, como aconsejan muchos sistemas de productividad, solucionar los problemas m&aacute;s graves primero.</p>
 <p style="text-align: justify;">En mi caso, la cuesti&oacute;n era relativa a la m&uacute;sica. Pr&aacute;cticamente todo el tiempo estoy escuchando m&uacute;sica, as&iacute; sea mientras trabajo, mientras me divierto, mientras leo algo, o simplemente de fondo mientras hago algo m&aacute;s. Tener una buena experiencia mientras escucho m&uacute;sica iba a ser, entonces, para mi un cambio muy grande en la forma en la que puedo apreciarla.</p>
 <p style="text-align: justify;">Para aquellos que no conozcan mis gustos musicales, se trata de estilos de m&uacute;sica en donde realmente se hace un uso continuo de la banda de frecuencias disponibles. Pasando por el heavy metal y el metal sinf&oacute;nico, terminando en el power metal, el electro dark y el dubstep. Este es el tipo de m&uacute;sica (aunque no los &uacute;nicos) en donde ser escuchados con buena y con mala calidad dejan ver dos obras completamente distintas, y como siempre digo "hechas para ser escuchadas a alto volumen".</p>

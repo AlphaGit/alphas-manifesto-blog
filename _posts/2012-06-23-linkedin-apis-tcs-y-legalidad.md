@@ -29,6 +29,8 @@ comments: []
 
 ![](/assets/illegalfry.jpg)
 
+O "shenanigams para que nadie use nuestro sistema"
+
 <p style="text-align: justify;">Por un desarrollo propio me encuentro investigando las APIs de integraci&oacute;n a LinkedIn, espec&iacute;ficamente para buscar informaci&oacute;n de gente, publicar ofertas de trabajo y obtener informaci&oacute;n de las mismas. Por supuesto, me interesan las APIs porque la aplicaci&oacute;n que estoy desarrollando involucra m&aacute;s que solo esas partes, y por tanto, la informaci&oacute;n debe estar correlacionada. Suena razonable, &iquest;verdad?</p>
 <p style="text-align: justify;">El departamento legal de LinkedIn parece opinar distinto.</p>
 <p style="text-align: justify;">El &uacute;ltimo punto de mi registro de clave API son los T&amp;Cs (Terms &amp; Conditions), que especifica claramente qu&eacute; cosas se pueden y no se pueden hacer con la API. Veamos un poco de ellas. Los pueden acceder aqu&iacute;: <a href="http://developer.linkedin.com/documents/linkedin-apis-terms-use">LinkedIn API Terms of Use</a>.</p>

@@ -38,6 +38,8 @@ comments:
 
 ![](/assets/working-effectively-legacy.jpg)
 
+Your weapons against any badly designed code
+
 <p><!-- wp:paragraph --></p>
 <p style="text-align: justify;">I just finished reading&nbsp;<em>Working effectively with legacy code</em>, by Michael Feathers. The title is perfectly descriptive and quite ambiguous at the same time. Let me explain to you why.</p>
 <p><!-- /wp:paragraph --></p>

@@ -31,6 +31,8 @@ tags:
 - est&aacute;ndares
 comments: []
 ---
+Una aproximación de best practices
+
 <p style="text-align: justify;">Acabo de leer el art&iacute;culo de IsoBar <a href="http://na.isobar.com/standards/">Front-end Code Standards &amp; Best Practices</a>. El art&iacute;culo cubre de forma extensiva varias de las tecnolog&iacute;as utilizadas, con las sugerencias que esta empresa utiliza interamente. Cubre varios aspectos del uso de HTML (y algunas nuevas caracter&iacute;sticas de HTML5), CSS (y algunas nuevas caracter&iacute;sticas de CSS3), JavaScript, Performance, e integraci&oacute;n cross-browser.</p>
 <p style="text-align: justify;">Personalmente no me siento de acuerdo con la totalidad de los items mencionados, pero creo que como punto de partida es muy bueno. Tienen una buena cantidad de referencias al por qu&eacute; conviene hacer las cosas de la forma que ah&iacute; est&aacute;n explicadas, y muchas veces las razones son totalmente v&aacute;lidas. Muchas veces tambi&eacute;n se pesan pros y contras de cada aproximaci&oacute;n, lo cual ayuda a tomar una decisi&oacute;n educada del proceso que elijamos seguir.</p>
 <p style="text-align: justify;"><em>Soy un zorrinito front-end.</em></p>

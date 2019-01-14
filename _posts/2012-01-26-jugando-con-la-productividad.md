@@ -29,6 +29,9 @@ tags:
 - gamification
 comments: []
 ---
+
+Conseguí una lapicera dorada +20!
+
 <p style="text-align: justify;">La gamification (...jueguizaci&oacute;n? ugh) es algo muy com&uacute;n y popular en estos d&iacute;as para aplicar a distintas actividades, y alguien en Productivity de StackExchange decidi&oacute; preguntar si <a href="http://productivity.stackexchange.com/questions/2397/do-game-based-methods-exist">existen t&eacute;cnicas de productividad basadas en juegos</a>. Desafortunadamente las respuestas no son muchas y no hay demasiadas opciones, pero las pocas que hay son iluminadoras.</p>
 <p style="text-align: justify;">Uno es el caso de <a href="http://itunes.apple.com/gb/app/epicwin/id372927221?mt=8">EpicWin</a>, una aplicaci&oacute;n de iPhone que en base a las tareas que uno completa va ganando puntos de experiencia y subiendo su nivel, obteniendo items, y equipando as&iacute; a un personaje. Sus contrapartes en el Android Market son <a href="https://market.android.com/details?id=com.philipk.taskxp&amp;hl=en">Task XP</a> y <a href="https://market.android.com/details?id=com.rlrpg.payed">RLRPG</a>.</p>
 <p style="text-align: justify;">Hubo <a href="http://productivity.stackexchange.com/a/2405/1430">alguien</a> que utiliz&oacute; automatizaci&oacute;n sobre su inbox para generar gr&aacute;ficos de productividad. Muy seguramente est&eacute; trabajando bajo la premisa de <a href="https://blog.alphasmanifesto.com/2011/09/13/link-del-dia-100-formas-de-hacer-que-las-cosas-se-hagan/">Inbox Zero</a>, tambi&eacute;n muy &uacute;til para tener la mente y el inbox limpio.</p>

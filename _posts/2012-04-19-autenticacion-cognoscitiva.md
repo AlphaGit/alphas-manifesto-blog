@@ -28,6 +28,8 @@ tags:
 - identificaci&oacute;n
 comments: []
 ---
+I'm sorry Dave, I'm afraid I can't do that.
+
 <p style="text-align: justify;">En <a href="http://www.microsiervos.com/archivo//adios-a-las-contrasenas-la-autenticacion-cognoscitiva-te-identifica-por-tu-forma-de-pensar.html">MicroSiervos publicaron un art&iacute;culo</a>&nbsp;sobre un nuevo m&eacute;todo que est&aacute; siendo investigado en DARPA, llamado Autenticaci&oacute;n Cognoscitiva. Seg&uacute;n lo dicen ellos tambi&eacute;n, el sistema podr&iacute;a identificarnos por "tu forma de pensar".</p>
 <p style="text-align: justify;">Cabe aclarar que en el paper real, al m&eacute;todo se lo denomina <em>Active Authentication</em> y parecer&iacute;a no estar relacionado mucho con las huellas cognoscitivas sino m&aacute;s con otra informaci&oacute;n biom&eacute;trica, pero realmente s&iacute; lo est&aacute;. Varios de los elementos que se utilizar&iacute;an para identificar a una persona, incluso durante el transcurso del uso de una aplicaci&oacute;n, ser&iacute;an cosas como:</p>
 <ul style="text-align: justify;">

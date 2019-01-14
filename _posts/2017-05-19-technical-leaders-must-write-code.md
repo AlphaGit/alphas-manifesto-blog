@@ -52,6 +52,8 @@ comments:
 
 ![](/assets/ForgottenKeyboard.png)
 
+And here's why
+
 <p style="text-align: justify;">While the premise sounds obvious, it is not so much once you get used to all the responsibilities that a Technical Leader has. And most of the time it turns out that writing code is a second priority to them. But here's why it shouldn't be dismissed at all.</p>
 <p style="text-align: justify;"><!--more--></p>
 <h2 style="text-align: justify;">What Technical Leaders do</h2>

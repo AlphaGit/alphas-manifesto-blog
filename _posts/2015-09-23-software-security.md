@@ -69,6 +69,8 @@ comments:
 
 ![](/assets/candado.png)
 
+MOOC by the University of Maryland
+
 <p style="text-align: justify;">Yes, I continue to go on courses. Now I just finished the&nbsp;<a href="https://www.coursera.org/course/softwaresec">Software Security</a> course, from the University of Maryland.</p>
 <p style="text-align: justify;">As usual, let me give you a quick review of what it was&nbsp;about, what you need to get into it&nbsp;and what you can get out of it as well.</p>
 <p style="text-align: justify;"><!--more--></p>

@@ -29,6 +29,8 @@ tags:
 - capture the flag
 comments: []
 ---
+Desafíos de hacking y seguridad
+
 <p style="text-align: justify;">Fue exactamente hace un par de d&iacute;as cuando habl&eacute; de <a href="https://blog.alphasmanifesto.com/2012/04/24/exploit-exercises/">Explot Exercises</a>, pero m&aacute;s de cuatro a&ntilde;os (wow) cuando <a href="https://blog.alphasmanifesto.com/2008/01/16/link-del-dia-project-euler/">habl&eacute; de HackThisSite</a>, pero ahora s&iacute; tengo un listado grande de sitios que permiten hacer pruebas de seguridad y aprender online.&nbsp;Basado en <a href="http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist">esta pregunta en IT Security</a>, este es un buen listado de sitios para practicar seguridad o participar de desaf&iacute;os. Cada uno tiene su propia modalidad, pero les dejo como ejercicio a ustedes elegir la m&aacute;s apropiada:</p>
 <ul style="text-align: justify;">
 <li><a href="http://www.hackthissite.org/">HackThisSite</a></li>

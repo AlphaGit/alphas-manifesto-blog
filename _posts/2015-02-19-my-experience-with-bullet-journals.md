@@ -34,6 +34,8 @@ comments:
 
 ![](/assets/Journal.gif)
 
+Spoiler: not a journal about guns
+
 <p style="text-align: justify;">I have just learned about this technique called Bullet Journalism, which seem to have revolutionized daily planning for lots of people. I've tried it out myself and it has been definitely something to share. Let me tell you more about it.</p>
 <p><!--more--></p>
 <h2>Bullet journals</h2>

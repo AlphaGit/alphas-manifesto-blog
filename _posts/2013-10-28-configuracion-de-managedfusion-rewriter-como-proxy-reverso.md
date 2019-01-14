@@ -27,6 +27,8 @@ tags:
 - proxy
 comments: []
 ---
+Guía rápida para tener un proxy reverso en 5 pasos
+
 <p style="text-align: justify;">En mi post anterior de <a href="https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/">alternativas para superar la limitaci&oacute;n de la Same Origin Policy</a>, expliqu&eacute; brevemente el por qu&eacute; de mi preferencia por los reverse proxy.</p>
 <p style="text-align: justify;">Aqu&iacute; quiero contar un poco m&aacute;s al respecto y contar, con lujo de detalles, c&oacute;mo configurar un proxy reverso gratuito para proyectos .NET.</p>
 <p><!--more--></p>

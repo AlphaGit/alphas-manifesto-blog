@@ -23,6 +23,8 @@ tags:
 - smart alarm
 comments: []
 ---
+Smart alarms
+
 <p style="text-align: justify;">Many of you that know me also know that it has been forever a problem of mine to get to sleep properly. Not to sleep early. Not to wake up early. It's about the quality of sleep. I've tried many things to address this problem, raging from hormones to witchcraft, but something seems to be making a difference: smart alarms.</p>
 <p><!--more--></p>
 <p style="text-align: justify;">So, first of all, I'm not a doctor and you should not take my advice as more than it is: my own experience and my own anecdotal evidence. (Doesn't that make it sound important?) What works for me may not work for you. But if you haven't tried this yet, maybe you should.</p>

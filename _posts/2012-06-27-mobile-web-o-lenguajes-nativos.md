@@ -62,6 +62,8 @@ comments:
   content: S&iacute;p, tambi&eacute;n se lo conoce bastante como Titanium, es una
     de esas soluciones h&iacute;bridas que mencionaba.
 ---
+Sobre cómo elegir la tecnología correcta
+
 <p style="text-align: justify;">Cuando una organizaci&oacute;n, por grande o peque&ntilde;a que sea, quiere comenzar su presencia en el mercado mobile, hay una pregumta que siempre surge y que muchas veces no les resulta f&aacute;cil resolver. &iquest;Qu&eacute; es m&aacute;s conveniente: utilizar tecnolog&iacute;as web y sus capabilidades para llegar a todos los dispositivos, o utilizar el framework propio de los dispositivos para utilizar todo el potencial que ellos ofrecen?</p>
 <p style="text-align: justify;">Est&aacute; claro que una soluci&oacute;n web puede hacer uso de todas las nuevas tecnolog&iacute;as, incluyendo HTML5, CSS3, las nuevas versiones de JavaScript y una variedad de trucos que muchos programadores conocen, pero utilizar el lenguaje nativo de los dispositivos hace que nada sea imposible. Entonces, &iquest;cu&aacute;l es la m&aacute;s apropiada?</p>
 <p style="text-align: justify;">Como siempre, <strong>la respuesta correcta no es absoluta</strong>, sino que varios factores juegan al momento de una desici&oacute;n estrat&eacute;gica. Primero, consideremos los beneficios y problemas de cada elecci&oacute;n, lado a lado.</p>

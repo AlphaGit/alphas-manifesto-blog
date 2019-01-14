@@ -39,6 +39,8 @@ comments:
 
 ![](/assets/codecomplete.jpg)
 
+Aspects of software construction, deconstructed
+
 <p style="text-align: justify;"><a href="http://cc2e.com/">Code Complete</a> is like the reference manual of software development, regardless of the technology, industry or language you're working in. And there are really good reasons for that. Let me tell you what I thought of this book.</p>
 <p><!--more--></p>
 <p style="text-align: justify;">I just finished reading the second edition of Code Complete, and I couldn't be more in agreement with the chosen title. Code Complete is a really complete description of several aspects of code craftsmanship. Furthermore, it has really distilled the seriousness of some aspects and the relativity of some others.</p>

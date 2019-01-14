@@ -35,6 +35,8 @@ comments: []
 
 ![](/assets/20120227-robotthatscreams-1.png)
 
+Text generation with nltk, markovify, Tumblr, docker
+
 <p style="text-align: justify;">(Image used without permission from <a href="http://gunshowcomic.com/513">Gunshow comic: Robot that screams</a>.)</p>
 <p style="text-align: justify;">If the word offends you, below the fold I use it a lot, so you might not want to read this article. However, I think it's the most appropriate term.</p>
 <p><!--more--></p>

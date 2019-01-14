@@ -32,6 +32,8 @@ comments: []
 
 ![](/assets/BeeDrones.jpg)
 
+How machine learning algorithms may take on our work
+
 <p style="text-align: justify;">I recently came across the article <a href="https://distill.pub/2017/aia/">Using Artificial Intelligence to Augment Human Intelligence</a>, by Shan Carter and Michael Nielsen. I'd like to tell you a bit about the ideas that this essay mentions, and a few interpretations of my own about them.</p>
 <p style="text-align: justify;"><!--more--></p>
 <h2 style="text-align: justify;">AI vs. IA</h2>

@@ -28,6 +28,8 @@ tags:
 - webinar
 comments: []
 ---
+Posts being featured in MakingSense's blog
+
 <h2 style="text-align: justify;">Espa&ntilde;ol</h2>
 <p style="text-align: justify;">Noticia r&aacute;pida: algunos de los posts de aqu&iacute; pueden aparecer de tanto en tanto en el <a href="http://blog.makingsense.com/">blog de MakingSense</a>. Para quien no lo sepa, es la empresa en donde trabajo, y donde de hecho ya hay algunos <a href="http://blog.makingsense.com/2010/07/doppler-reports/">posts</a> <a href="http://blog.makingsense.com/2010/09/gmail-priority-inbox/">m&iacute;os</a> y un <a href="http://blog.makingsense.com/2011/08/auto-scaling-in-windows-azure/">webinar</a>. Si est&aacute;n interesados en el negocio de IT desde un punto de vista no tan t&eacute;cnico como este blog, y m&aacute;s orientado a tendencias y management, les recomiendo totalmente que se pasen por all&aacute;.</p>
 <p style="text-align: justify;">Gracias y saludos.</p>

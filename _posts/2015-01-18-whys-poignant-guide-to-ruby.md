@@ -30,6 +30,8 @@ comments: []
 
 ![](/assets/WhysFox.png)
 
+I love chunky bacon
+
 <p style="text-align: justify;">A few of you may already know that I've started learning Ruby. I cannot tell at this moment if its going to be a huge career shift for me or not, but still, here I am. And I started with Why's Poignant Guide to Ruby, a definitely... unusual book.</p>
 <p><!--more--></p>
 <p style="text-align: justify;"><a href="http://mislav.uniqpath.com/poignant-guide/">Why's Poignant Guide to Ruby</a> was one of my first options because it did promise to be unusual, and it was a CC Share Alike freely available option, which I thought was really cool for the community (or in this case, Why) to create. At the point of reading this, I had already peeked at some basic language constructs so I was not a full-fledged beginner, and although the book starts assuming you know nothing about it, it did teach me some facts about the basic structures that I didn't know about.</p>

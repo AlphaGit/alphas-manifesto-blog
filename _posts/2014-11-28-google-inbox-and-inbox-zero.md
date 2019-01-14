@@ -29,6 +29,8 @@ comments: []
 
 ![](/assets/Inbox.png)
 
+I'm so on board, this is why
+
 <p style="text-align: justify;">I recently received a Google Inbox invitation, after requesting it three weeks ago. And after trying it out... boy, I love it.</p>
 <p style="text-align: justify;">Here I'm going to tell you why I love it so much, why it suits perfectly into my inbox management technique, and why I think it'd be useful for other people too. Also, a little bit of what it could have to make it even better.</p>
 <p style="text-align: justify;"><!--more--></p>

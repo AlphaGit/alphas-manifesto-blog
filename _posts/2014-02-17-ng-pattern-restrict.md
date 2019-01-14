@@ -119,6 +119,8 @@ comments:
 
 ![](/assets/ng-pattern-restrict.png)
 
+Limitando la entrada del usuario según una RegEx, AngularJS style
+
 <p style="text-align: justify;">En una situaci&oacute;n en particular, necesit&eacute; limitar los valores que un usuario puede ingresar en un campo HTML, para evitar que pudieran ingresarse valores incorrectos. Si bien esto no es recomendable desde el punto de vista del UX, eso es lo que yo necesitaba (requerimiento). Pens&eacute; en desarrollar un componente gen&eacute;rico que hiciera esto por m&iacute;, y as&iacute; naci&oacute; <em>ng-pattern-restrict</em>, para AngularJS.</p>
 <p style="text-align: justify;">Aqu&iacute; tendr&aacute;n m&aacute;s informaci&oacute;n de c&oacute;mo utilizarlo, c&oacute;mo funciona y en d&oacute;nde obtenerlo.</p>
 <p style="text-align: justify;"><!--more--></p>

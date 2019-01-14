@@ -26,6 +26,8 @@ tags:
 - DRY
 comments: []
 ---
+Don't repeat yourself
+
 <p style="text-align: justify;">En cierto punto en el camino de evoluci&oacute;n de una compa&ntilde;&iacute;a o un desarrollador, se encuentra como hecho el estar siempre re-haciendo las mismas partes, o reutilizando partes comunes que alguna vez ya se usaron para un proyecto anterior. Esto es muy com&uacute;n, y ciertamente no es algo malo. De hecho, es deseable, y en el &aacute;mbito recibe el nombre de&nbsp;<em><a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY principle</a>.</em></p>
 <p style="text-align: justify;"><!--more--></p>
 <p style="text-align: justify;">Est&aacute; claro que muchas caracter&iacute;sticas internas de los sistemas ser&aacute;n comunes a todos ellos. Como tales, podemos mencionar la autenticaci&oacute;n, la generaci&oacute;n de logs, el tratado de errores, el manejo de cadenas, la encriptaci&oacute;n de datos, el tratado de archivos en distintos formatos, importaci&oacute;n y exportaci&oacute;n de objetos, validaci&oacute;n de objetos, etc&eacute;tera. Todas estas funcionalidades son parte de cada sistema que se construye en mayor o menor medida, y aunque pueden variar de uno a otro, sus interiores son realmente similares.</p>

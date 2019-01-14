@@ -63,6 +63,8 @@ comments:
     para un no-programador&#8220;, Advice for a non-developer, Spanish only for now).
     I mentioned that it is important to have [&#8230;]"
 ---
+O "cómo no perderse en este bosque"
+
 <p style="text-align: justify;">Una amiga m&iacute;a me coment&oacute; que quer&iacute;a comenzar a programar, y de alguna forma lo entend&iacute; impl&iacute;citamente como un buen momento para dar consejos de orientaci&oacute;n. No es por sonar arrogante, pero sabemos que la programaci&oacute;n puede ser una tarea desafiante, y me pregunt&eacute; cu&aacute;les ser&iacute;an los mejores consejos para alguien que est&aacute; empezando.</p>
 <p style="text-align: justify;"><!--more--></p>
 <p style="text-align: justify;">Curioso para la situaci&oacute;n: no s&eacute; qu&eacute; tipo de lenguaje va a estar aprendiendo, no s&eacute; en qu&eacute; entorno o tipos de aplicaciones va a estar programando,. Tampoco s&eacute; cu&aacute;les son los est&aacute;ndares de calidad a los que tiene que someterse, ni qu&eacute; proceso seguir&aacute;, ni qu&eacute; tama&ntilde;o tienen los proyectos que quiere perseguir. Por supuesto, los consejos variar&iacute;an mucho si cada una de estas variables cambiara, pero a&uacute;n as&iacute; pens&eacute; que ten&iacute;a consejos para dar, independientemente del contexto.</p>

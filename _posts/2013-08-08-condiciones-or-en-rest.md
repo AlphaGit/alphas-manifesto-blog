@@ -34,6 +34,8 @@ comments: []
 
 ![](/assets/ToRestOrNotToRest.jpg)
 
+Aplicando condiciones complejas a requests HTTP REST
+
 <p style="text-align: justify;">Es muy com&uacute;n que en la especificaci&oacute;n de condiciones a llamadas GET REST, la inclusi&oacute;n de diferentes par&aacute;metros indique una relaci&oacute;n AND entre ambas condiciones.</p>
 <p style="text-align: justify;">Por ejemplo:</p>
 <pre>GET /clients?lastName=Smith&amp;firstName=John</pre>

@@ -54,6 +54,8 @@ comments:
 
     &iexcl;Gracias!
 ---
+Libros obligatorios de lectura sobre UX
+
 <p style="text-align: justify;">Otra de las joyitas rescatadas de los foros de User Experience, es la pregunta sobre <a href="http://ux.stackexchange.com/questions/74/must-read-user-interface-book">libros de lectura obligatoria de user experience y dise&ntilde;o de interfaces</a>. El listado es m&aacute;s que completo y sorprendentemente vasto.</p>
 <p style="text-align: justify;">Este es el listado de libros, seg&uacute;n la cantidad de votos de la respuesta que lo contiene (asumo que podr&iacute;amos decir, m&aacute;s aceptado a menos aceptado):</p>
 <ul style="text-align: justify;">

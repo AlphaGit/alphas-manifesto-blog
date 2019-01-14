@@ -45,6 +45,8 @@ comments:
 
 ![](/assets/ProxyLove.png)
 
+Desarrollando en localhost, same-origin policy & REST APIs
+
 <p style="text-align: justify;">Hasta hace un tiempo estuve peleando con un problema particular, que en realidad es algo com&uacute;n. Desarrollando una aplicaci&oacute;n en su entorno local, se encuentran con que tienen que interactuar con REST APIs de terceros, pero desde JavaScript no pueden llamadas directamente a este dominio porque el browser les impide hacer estas llamadas. &iquest;Qu&eacute; est&aacute; pasando y c&oacute;mo resolverlo?</p>
 <p style="text-align: justify;"><!--more--></p>
 <h2 style="text-align: justify;">Same-Origin Policy</h2>

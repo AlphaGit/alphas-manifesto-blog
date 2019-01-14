@@ -30,6 +30,8 @@ comments: []
 
 ![](/assets/GCalToJira.png)
 
+Having the tedious work done for you
+
 <p style="text-align: justify;">A while ago I explained <a href="https://blog.alphasmanifesto.com/2015/05/19/my-time-tracker-google-calendar/">how I use Google Calendar as my time-tracking system</a>. I did mention, but did not explain, how I made this into an automatic system of timesheets for JIRA, the system some companies I work for use for time tracking. It just involves Google Docs and a little bit of JavaScript.</p>
 <p><!--more--></p>
 <h2>Introduction</h2>

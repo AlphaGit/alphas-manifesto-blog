@@ -38,6 +38,8 @@ comments:
 
 ![](/assets/scopeSoupMin.png)
 
+Tomando la sopa por el mango de la cuchara
+
 <p style="text-align: justify;">Muchos desarrolladores de AngularJS dependen de $scope para la implementaci&oacute;n y testing de la l&oacute;gica de sus controladores. Esto genera problemas de performance y de dise&ntilde;o, pero gracias a una serie de art&iacute;culos y una prueba de concepto, he puesto en pr&aacute;ctica en <a href="http://what-now.heroku.com">what-now</a> lo que podr&iacute;a ser la soluci&oacute;n.</p>
 <p><!--more--></p>
 <h2>Sopa de dollar-scope, hey!</h2>

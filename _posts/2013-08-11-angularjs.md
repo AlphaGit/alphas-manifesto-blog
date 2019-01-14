@@ -32,6 +32,8 @@ comments: []
 
 ![](/assets/angularjs.jpg)
 
+Libro introductorio sobre AngularJS y sus prácticas
+
 <p style="text-align: justify;">Hace ya algunos meses termin&eacute; de leer un libro que me ser&iacute;a &uacute;til para un proyecto en el que estoy involucrado, en el cual usamos <a href="angularjs.org">AngularJS</a>. La librer&iacute;a me encanta, pero me tom&oacute; un tiempo entender su filosof&iacute;a, y ah&iacute; es en donde este libro hace su aparici&oacute;n.</p>
 <p><!--more--></p>
 <p style="text-align: justify;">El libro comienza un poco lento, especialmente para alguien que ya estuvo experimentando con la librer&iacute;a y quiere comprenderla. Para alguien que nunca escuch&oacute; hablar de ella, es una buena introducci&oacute;n. En general el libro cubre varios aspectos de la misma, sin ir nunca demasiado en detalle. Como tal, no es un buen libro de referencia pero s&iacute; un buen libro para principantes.</p>

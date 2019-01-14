@@ -40,6 +40,8 @@ comments:
 
 ![](/assets/calendar.png)
 
+Una aproximación simple a un problema complejo
+
 <p>Muchos conocen mis entradas en donde explico <a href="https://blog.alphasmanifesto.com/2012/01/20/como-uso-trello-para-trabajar/">C&oacute;mo uso Trello para Trabajar</a>, y <a href="https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/">su versi&oacute;n actualizada</a>. A&uacute;n as&iacute;, me siento curioso de explorar otras alternativas al manejo de tareas, y hace poco, alguien explic&oacute; una aproximaci&oacute;n que nunca hab&iacute;a tenido en cuenta: Google Calendar.</p>
 <p style="text-align: justify;">Suena totalmente inapropiado, pero luego de haberlo le&iacute;do, no es algo descabellado. Quer&iacute;a compartirles la idea de esta persona.</p>
 <p style="text-align: justify;"><!--more--></p>

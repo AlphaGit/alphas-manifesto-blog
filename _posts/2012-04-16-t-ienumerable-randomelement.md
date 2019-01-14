@@ -26,6 +26,8 @@ tags:
 - objeto
 comments: []
 ---
+Seleccionar un elemento cualquiera de un conjunto
+
 <p style="text-align: justify;">Otro de mis peque&ntilde;os snippets, este es &uacute;til para unit testing.</p>
 <p style="text-align: justify;">Cuando tienen un repositorio de datos que en realidad es mockup, y alg&uacute;n objeto tiene que estar pre-populado, podr&iacute;an querer que los tests sean independientes de los datos. Y con esto me refiero a ser independiente de los valores que esos objetos tienen. Para esos casos, utilizar un objeto al azar de un conjunto de objetos ser&iacute;a una buena aproximaci&oacute;n. No es tan determinista, pero eso es algo deseable, e incluso m&aacute;s cerca a probar la aplicaci&oacute;n real.</p>
 <p style="text-align: justify;">Para obtener un objeto al azar, este peque&ntilde;o snippet ayuda:</p>

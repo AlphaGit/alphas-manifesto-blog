@@ -34,6 +34,8 @@ tags:
 - inform&aacute;tica
 comments: []
 ---
+Gatos conspiradores, algoritmos, ciencia y juegos HTML5
+
 <p style="text-align: justify;">Hay algunos libros que he le&iacute;do desde mi &uacute;ltima rese&ntilde;a, y al igual que con las pel&iacute;culas, dejar&eacute; de hacer rese&ntilde;as individuales. &iexcl;Celebren, porque habr&aacute; menos spam para ustedes!</p>
 <p style="text-align: justify;">En este caso, los libros de los que voy a hablar son:</p>
 <ul>

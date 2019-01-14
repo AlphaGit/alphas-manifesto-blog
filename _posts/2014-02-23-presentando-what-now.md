@@ -37,6 +37,9 @@ tags:
 - what-now
 comments: []
 ---
+
+A todo-list with a twist
+
 <p style="text-align: justify;">Como excusa para probar d3.js, yeoman, travis, heroku, y con el prop&oacute;sito de hacer algo interesante, me propuse el desarrollo de <em>what-now</em>, un listado de tareas para hacer (t&iacute;pico to-do list) pero con un desaf&iacute;o extra: mostrar las tareas dependientes de otras y mostrar el camino cr&iacute;tico para la resoluci&oacute;n del "proyecto".</p>
 <p style="text-align: justify;">Explicar&eacute; aqu&iacute; mis investigaciones hasta el momento, mi progreso, el plan para m&aacute;s adelante y lo que he encontrado.</p>
 <p style="text-align: justify;"><!--more--></p>

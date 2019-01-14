@@ -31,6 +31,8 @@ comments: []
 
 ![](/assets/AB.jpg)
 
+But causation ⇒ correlation|
+
 <p style="text-align: justify;">In my earlier post I explained how certain type of machine learning models, specifically neural networks, find the correlations between two sets of values. For predictive models, we feed correlated variables to train our models. However, sometimes, we don't know if or how variables correlate, and part of the machine learning intelligence is to actually find that out.</p>
 <p><!--more--></p>
 <h2>Data Mining</h2>

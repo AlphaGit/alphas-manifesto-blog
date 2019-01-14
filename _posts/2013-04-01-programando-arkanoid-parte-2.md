@@ -70,6 +70,8 @@ comments:
 
 ![](/assets/Building2lq.jpg)
 
+El escenario de juego y el jugador en él
+
 <p style="text-align: justify;"><a href="https://blog.alphasmanifesto.com/2013/03/13/programando-arkanoid-parte-1/">En la entrega pasada</a> hablamos sobre c&oacute;mo comenz&oacute; el <a title="Arkanoid" href="http://randomjs.alphasmanifesto.com/arkanoid-canvas/arkanoid.html">juego de Arkanoid</a>, ahora continuaremos ese camino sobre la construcci&oacute;n del escenario de juego.</p>
 <p><!--more--></p>
 <p style="text-align: justify;">En&nbsp;<a title="Programando Arkanoid - Parte 1" href="https://blog.alphasmanifesto.com/2013/03/13/programando-arkanoid-parte-1/">esa instancia</a>&nbsp;cubrimos la estructura general de los archivos, la inicializaci&oacute;n del objeto <span style="font-family: 'courier new', courier;">canvas</span>, los estilos a usar y la inicializaci&oacute;n de las opciones. Dejamos algo pendiente, que era el escenario, en un objeto <span style="font-family: 'courier new', courier;">ArkanoidStage</span>. En ese post no expliqu&eacute; qu&eacute; hac&iacute;a este objeto o como trabajaba. Hoy comenzaremos por ah&iacute;. Lo que describiremos en este post est&aacute; cubierto en el commit <a href="https://github.com/AlphaGit/random-javascript/commit/90e6540100631e1a3ae590c3bde4a21b74f7abd9">90e6...abd9</a>.</p>

@@ -31,6 +31,8 @@ comments: []
 
 ![](/assets/StickFigure.png)
 
+Customer management
+
 <p style="text-align: justify;">One of the forums from the StackExchange family which I usually visit is the Workplace one. It deals with office / team behavior, ethics and professionalism. The questions are incredibly interesting -- most of the time, I'm not entirely sure what I should do in situations like that -- and the answers are amazingly well crafted and thought.</p>
 <p style="text-align: justify;">And there is&nbsp;a particular one which caught my attention lately: <a href="http://workplace.stackexchange.com/q/58509/25611">Manager requesting task which I believe is unnecessary</a>. And I found it interesting because we hear that a lot in the software world: "why is my customer / manager / leader asking for that if it's not really necessary / a priority / important?"</p>
 <p style="text-align: justify;">Well, there are several aspects to consider. Let's go in this world of absurd requirements together.</p>

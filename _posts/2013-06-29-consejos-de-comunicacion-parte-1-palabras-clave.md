@@ -25,6 +25,8 @@ tags:
 - geek
 comments: []
 ---
+Las palabras clave y por qué son clave
+
 <p>Estaba preparando un mega-post de tips y consejos de c&oacute;mo creo que puede mejorarse algo esencial de nuestra vida cotidiana: la comunicaci&oacute;n. El post original se hizo terriblemente largo por lo que decid&iacute; mejor hacer varias entregas. No soy un experto pero creo que estos consejos pueden ser &uacute;tiles de todos modos -- y es una excusa para escuchar el feedback que ustedes tengan. Acepto ideas, sugerencias y cr&iacute;ticas.</p>
 <p>Hoy hablaremos sobre las palabras clave en una conversaci&oacute;n y por qu&eacute; son, justamente, claves.</p>
 <p><!--more--></p>

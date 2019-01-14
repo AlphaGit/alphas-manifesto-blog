@@ -35,6 +35,8 @@ tags:
 - what-now
 comments: []
 ---
+La travesía y el resultado final
+
 <p style="text-align: justify;">Desde hace un tiempo estoy intentando lograr que mi aplicaci&oacute;n what-now se instale autom&aacute;ticamente en Heroku ante cambios realizado en su c&oacute;digo. Este art&iacute;culo cuenta sobre la traves&iacute;a de descubrir por qu&eacute; no me result&oacute; tan simple como uno esperar&iacute;a, y c&oacute;mo termin&oacute; el proceso final en una manera que me result&oacute; aceptable. Creo que es un buen resultado para reutilizar en otros proyectos, y tanto mejor que algunas recomendaciones que he visto por ah&iacute;.</p>
 <p><!--more--></p>
 <h2>Travis - Heroku: La traves&iacute;a</h2>

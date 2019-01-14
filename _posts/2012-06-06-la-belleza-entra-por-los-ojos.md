@@ -30,6 +30,8 @@ tags:
 - MakingSense
 comments: []
 ---
+Una historia real
+
 <p style="text-align: justify;">Una muy bonita an&eacute;cdota que tenemos para contar c&oacute;mo nuestro trabajo en User Experience comienza a dar sus frutos es una historia que a <a href="https://twitter.com/#!/cesardonofrio">C&eacute;sar</a> le gusta contar, espec&iacute;ficamente por la fuerza que esta historia tiene.</p>
 <p style="text-align: justify;">La historia comienza con MakingSense trabajando en una propuesta para un cliente nuevo. Siendo nuevos en nuestras tratativas con esta empresa (una empresa con altos est&aacute;ndares de seguridad), queremos realmente mostrar lo mejor que tenemos. La aplicaci&oacute;n que deb&iacute;amos realizar era desafiante desde el concepto que trataba, porque involucraba mucha seguridad, muchas tecnolog&iacute;as nuevas y muchas caracter&iacute;sticas que ayudan al usuario pero hacen dif&iacute;cil de congeniar con las anteriormente mencionadas. Nuestros arquitectos trabajaron en resolver ese problema pero las propuestas siempre resultaron m&aacute;s concretas cuando se puede ver el resultado final.</p>
 <p style="text-align: justify;">Entonces tambi&eacute;n se invirti&oacute; mucho en la zona de User Experience de esta propuesta. Sabr&aacute;n ustedes que estamos haciendo presi&oacute;n sobre este tema &uacute;ltimamente (y si andan leyendo por aqu&iacute;, seguramente lo habr&aacute;n notado). Creemos que el UX es un factor de valor agregado, creemos que cuando todo lo dem&aacute;s est&aacute; bien hecho, este marca una diferencia incre&iacute;ble.</p>

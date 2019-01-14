@@ -51,6 +51,8 @@ comments:
 
 ![](/assets/Calendar_marked.png)
 
+Las técnicas de John Resig y mis resultados
+
 <p>Hace mes y medio (uf! c&oacute;mo vuela el tiempo), <a href="https://github.com/andresmoschini">Andr&eacute;s Mochini</a>&nbsp;comparti&oacute; un art&iacute;culo con la t&eacute;cnica de productividad del mism&iacute;simo John Resig, la famosa t&eacute;cnica de comenzar un h&aacute;bito para los proyectos personales y no abandonarlo. Promet&iacute; probarla y ver qu&eacute; tal me acomodaba, y aqu&iacute; est&aacute;n los resultados.</p>
 <p><!--more--></p>
 <h2>El problema: poco tiempo, frustraci&oacute;n, ciclo vicioso</h2>

@@ -28,6 +28,8 @@ tags:
 - correcci&oacute;n de errores
 comments: []
 ---
+Imágenes en QR Codes
+
 <p style="text-align: justify;">Russ Cox public&oacute; hace no mucho un art&iacute;culo sobre lo que &eacute;l denomina <a href="http://research.swtch.com/qart">QArt Codes</a>, que son QR Codes con una imagen en ellos.</p>
 <p style="text-align: justify;">&Eacute;l comienza contando sobre una an&eacute;cdota de varias empresas que para marketing generaron QR codes que ten&iacute;an logos o im&aacute;genes en ellos. Sin embargo, estos QR codes eran incorrectos y s&oacute;lo funcionaban porque hac&iacute;an uso de la capacidad de correcci&oacute;n de errores. &Eacute;l se propuso entonces hacer un sistema que pudiera incluir una imagen en un QR code con un formato totalmente correcto. En dicho art&iacute;culo, nos explica c&oacute;mo es el funcionamiento y formato de los QR codes y c&oacute;mo esto se puede utilizar para la inclusi&oacute;n de una imagen.</p>
 <p style="text-align: justify;">El sistema resultado de dicha investigaci&oacute;n se llama <a href="http://research.swtch.com/qr/draw">QR</a> y su c&oacute;digo est&aacute; disponible en <a href="http://code.google.com/p/rsc/source/browse/qr">Google Code</a>.</p>

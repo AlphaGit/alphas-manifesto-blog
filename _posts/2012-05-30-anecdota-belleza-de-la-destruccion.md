@@ -26,6 +26,8 @@ tags:
 - imagen
 comments: []
 ---
+"¿No es hermoso?"
+
 <p style="text-align: justify;">Hoy me levant&eacute; con ganas de contar an&eacute;cdotas, y hace tiempo que ten&iacute;a ganas de escribir sobre esto as&iacute; que el momento se dio oportuno. Disfruten de la historia, seguramente vendr&aacute;n m&aacute;s como esta en el futuro. <em>PM</em>, si est&aacute;s leyendo esto, gracias por la maravillosa an&eacute;cdota y las ense&ntilde;anzas.</p>
 <hr style="width: 100%;" width="100%" />
 <h2 style="text-align: justify;">El profesor de arte</h2>

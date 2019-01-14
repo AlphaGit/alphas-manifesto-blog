@@ -47,6 +47,8 @@ comments:
     producto. (Y realmente concuerdo: son tambi&eacute;n parte de la experiencia del
     usuario.)"
 ---
+Una imagen tiene menos de mil copos de cereal
+
 <p style="text-align: justify;">De parte de <a href="http://design.org/blog/difference-between-ux-and-ui-subtleties-explained-cereal">Design.org</a> me llega una ingeniosa representaci&oacute;n infogr&aacute;fica de Ed Lea, qui&eacute;n plasm&oacute; diferentes conceptos de dise&ntilde;o e interfaz en ejemplos visuales con un plato de cereal.</p>
 <p style="text-align: justify;">El post pueden verlo en <a href="http://design.org/blog/difference-between-ux-and-ui-subtleties-explained-cereal">The Difference Between UX and UI: Subtleties Explained in Cereal</a>.</p>
 <p style="text-align: justify;">Me gustar&iacute;a incluso jugar a extender la analog&iacute;a (y &nbsp;necesito ayuda de ustedes, lectores, para eso). Estas son algunas ideas que se me ocurrieron:</p>

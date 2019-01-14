@@ -38,6 +38,8 @@ comments:
 
 ![](/assets/Docker-heavy.png)
 
+Making efficient final images
+
 <p><!-- wp:paragraph --></p>
 <p>Most blogs and manuals will recommend you the simpler approaches to reducing the image of your docker image. We'll go a little further today but let's reiterate them anyway:</p>
 <p><!-- /wp:paragraph --></p>

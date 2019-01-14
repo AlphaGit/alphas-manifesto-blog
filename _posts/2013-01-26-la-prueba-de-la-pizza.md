@@ -39,6 +39,8 @@ comments:
 
 ![](/assets/Pizza.jpg)
 
+La versión casera de pruebas de carga cognitiva
+
 <p style="text-align: justify;">Hace tiempo atr&aacute;s, en <strong>MakingSense</strong> tuvimos la oportunidad de trabajar en el desarrollo de una aplicaci&oacute;n m&oacute;vil. No s&oacute;lo era para una empresa grande, sino que la aplicaci&oacute;n iba a ser mostrada en vivo por Microsoft en la presentaci&oacute;n <strong>//BUILD 2012</strong> junto a Rackspace. Mi historia tratar&aacute; sobre otra cosa, pero si les interesa, pueden <a href="http://blog.makingsense.com/2012/11/windows-8-app-with-rackspace/">leer m&aacute;s sobre eso en el blog de MakingSense</a>, o asimismo <a href="http://www.rackspace.com/blog/manage-the-rackspace-open-cloud-with-windows-8/">en el blog de Rackspace</a>.</p>
 <p style="text-align: justify;">Particip&eacute; de este proyecto a pesar de muchos factores internos que lo dificultaban, pero me alegra haberlo hecho porque ten&iacute;a caracter&iacute;sticas muy interesantes. Al comienzo de dicho proyecto, obtuvimos los requerimientos y analizamos sistemas de Rackspace para tener m&aacute;s contexto sobre lo que ten&iacute;amos que hacer. En una de esas oportunidades, realizamos una reuni&oacute;n sobre alcance, dise&ntilde;o y experiencia de usuario.</p>
 <p style="text-align: justify;"><!--more--></p>

@@ -325,6 +325,9 @@ comments:
     de Google ver las fechas asociadas a todas las tareas.\r\n\r\nhttp://help.trello.com/article/829-using-trello-with-google-calendar\r\n\r\n&iexcl;Espero
     que te sea &uacute;til!"
 ---
+
+Mi guía novata a la organización
+
 <p style="text-align: justify;">Hace un tiempo ya, y realmente, el d&iacute;a que sali&oacute;, yo ya ten&iacute;a una cuenta de <a href="http://trello.com">Trello</a>. Era simple, era bonito, era r&aacute;pido, pero no ve&iacute;a el gran poder que ten&iacute;a. Es porque, como muchas cosas, hay que saber utilizarlas.</p>
 <p style="text-align: justify;">Hoy es para mi una herramienta fundamental en mi organizaci&oacute;n (personal y laboral) y me ha vuelto m&aacute;s productivo y ha evitado muchos de esos momentos de "<em>&iquest;y ahora qu&eacute;?</em>" o "<em>&iquest;en qu&eacute; estaba?</em>". Voy a compartirles el como para que sepan c&oacute;mo lo hago yo, y espero comentarios de c&oacute;mo lo hacen ustedes. Hasta que arregle los comentarios del blog, pueden responderme a <a href="http://twitter.com/AlphaTwi">@AlphaTwi</a>.</p>
 <h2 style="text-align: justify;">Trello por default</h2>

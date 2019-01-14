@@ -35,6 +35,8 @@ tags:
 - servidor
 comments: []
 ---
+¿Y ahora qué hago?
+
 <p style="text-align: justify;">Uno de los posts que causaron revuelo en las preguntas de Server Fault fue <em><a href="http://serverfault.com/questions/218005/my-servers-been-hacked-emergency">My server's been hacked EMERGENCY</a>&nbsp;(Hackearon mi server, EMERGENCIA)</em>, un post cuya respuesta fue totalmente inesperada para muchos y muy &uacute;til y planeada para situaciones tan sorpresa.</p>
 <p style="text-align: justify;">Me pareci&oacute; tan &uacute;til que adem&aacute;s de s&oacute;lo linkear la pregunta y su respuesta, quise traducir la elongada explicaci&oacute;n que <a href="https://twitter.com/#!/RobertoMoir">Robert Moir</a>, bajo el usuario de <a href="http://serverfault.com/users/7783/dj-pon3">DJ Pon3</a>&nbsp;nos ha brindado. Esta traducci&oacute;n se basa en su respuesta p&uacute;blica, sin permiso expl&iacute;cito.</p>
 <p style="text-align: justify;">&Eacute;l nos explica cu&aacute;les son las medidas a tomar en un caso dr&aacute;stico como este, y muchas formas de reducir el riesgo de esto ocurriendo en el futuro. La explicaci&oacute;n es larga pero muy clara y muy expl&iacute;cita sobre cada aspecto involucrado en la seguridad de un sistema.</p>

@@ -61,6 +61,9 @@ comments:
     habr&eacute; visto 5 minutos, as&iacute; que realmente no cuenta. &iexcl;Saludos,
     y que andes bien!"
 ---
+
+Update de estado desde el año pasado
+
 <p style="text-align: justify;">Uff, hace un tiempo que ya no toco este blog, es hora de volverlo a la vida.&nbsp;Ac&aacute; les va un peque&ntilde;o update con mis &uacute;ltimas aventuras y desventuras.</p>
 <p><!--more--></p>
 <h2>Personal</h2>

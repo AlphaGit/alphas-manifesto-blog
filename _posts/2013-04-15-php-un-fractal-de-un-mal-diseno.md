@@ -524,6 +524,8 @@ comments:
   content: "I have fun with, cause I found just what I was looking for.\r\nYou have
     ended my four day lengthy hunt! God Bless you man. \r\nHave a great day. Bye"
 ---
+O mil y un razones para alejarse de PHP
+
 <p style="text-align: justify;">Durante mucho tiempo utilic&eacute; PHP, y de hecho, lo sigo utilizando. Sin embargo, siempre sent&iacute; como que algunas cosas no encajaban, y aunque varias veces me propuse aprender un paradigma de PHP de forma seria, nunca lo logr&eacute;. Mucho tiempo despu&eacute;s me enter&eacute; del gran odio generalizado a PHP y los problemas que ha tenido y leyendo esos art&iacute;culos me encontr&eacute; el que voy a traducir a continuaci&oacute;n. <a href="http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/">PHP: A fractal of Bad Design</a> es una recopilaci&oacute;n de <a href="http://me.veekun.com/">Eevee</a>, quien muy amablemente accedi&oacute; a que yo lo traduzca. La eleg&iacute; porque es exageradamente detallada y certera.</p>
 <p style="text-align: justify;">Deber&iacute;a aclarar que no estoy de acuerdo con todos los puntos mencionados como negativos o siquiera problemas, pero respeto el art&iacute;culo original del autor sin interrupciones.</p>
 <p style="text-align: justify;">Sin m&aacute;s, los dejo con el art&iacute;culo. Si pueden leer el original, lo recomiendo.</p>

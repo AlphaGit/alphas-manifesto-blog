@@ -32,6 +32,9 @@ tags:
 - empresas
 comments: []
 ---
+
+Cómo los entrepeneurs de hoy usan la innovación continua para crear negocios exitosos
+
 <p style="text-align: justify;"><a href="http://www.amazon.com/The-Lean-Startup-Eric-Ries/dp/0670921602">The Lean Startup</a> es no s&oacute;lo el t&iacute;tulo del nuevo libro de <strong>Eric Ries</strong>, sino adem&aacute;s el nombre del movimiento que &eacute;l inici&oacute; intentando reestructurar la forma en la que se ve al entrepeneurship y a la innovaci&oacute;n dentro del mundo que vivimos. Este movimiento tiene su <a href="http://theleanstartup.com/">sitio principal en el sitio de The Lean Startup</a>.</p>
 
 ![](/assets/theleanstartup.jpg)

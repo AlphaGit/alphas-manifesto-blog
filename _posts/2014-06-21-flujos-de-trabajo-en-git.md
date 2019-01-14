@@ -34,6 +34,8 @@ comments: []
 
 ![](/assets/gitTree.png)
 
+Los más comunes y el historial de cambios que generan
+
 <p style="text-align: justify;">Desde la &uacute;ltima vez que d&iacute; una actualizaci&oacute;n sobre what-now ha pasado un tiempo considerable. Mi intenci&oacute;n original era ser m&aacute;s consistente con estas actualizaciones, a modo de diario de desarrollo, pero varias cosas me detuvieron. Por un lado no quise convertirme en spam o publicidad de un producto que ni siquiera vale la pena, y por otro lado, no siempre tengo algo interesante que contar.</p>
 <p style="text-align: justify;">Ahora s&iacute; lo tengo, de forma que proceder&eacute; a contar qu&eacute; aprend&iacute; en estos &uacute;ltimos meses, comenzando por los flujos de trabajo de git.</p>
 <p><!--more--></p>

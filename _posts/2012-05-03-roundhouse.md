@@ -31,6 +31,8 @@ tags:
 - esquema
 comments: []
 ---
+¡Chuck Norris al rescate!
+
 <p style="text-align: justify;">Hace poco me cruc&eacute; con un proyecto que utilizaba RoundhousE y mi curiosidad me llev&oacute; a ver qu&eacute; era. Me encontr&eacute; con que es un sistema de migraciones de bases de datos muy conocido para .NET, particularmente para SQL Server, pero tambi&eacute;n soporta MySQL, Oracle, PostgreSQL, e incluso SQLite.</p>
 <p style="text-align: justify;">Cabe aclarar que cuando menciono el concepto de <em>migraci&oacute;n</em>, no me refiero a la actividad de mover datos de un esquema a otro, sino al hecho de convertir un esquema a otro (que, en el fondo, no es tan distinto). Este concepto de migraci&oacute;n y versionamiento de bases de datos permite tener controlados los cambios que deben aplicarse al momento de cambiar la versi&oacute;n de una aplicaci&oacute;n, y su capacidad de aplicar o revertir cambios hace que ya no deba recordarse de forma mental en qu&eacute; estado nuestra base y c&oacute;mo llevarla al estado nuevo.</p>
 <p style="text-align: justify;">RoundhousE puede encontrarse en <a href="https://github.com/chucknorris/roundhouse/">su repositorio de GitHub</a>&nbsp;(bajo el usuario chucknorris, &iexcl;ja!), o en su sitio&nbsp;<a href="http://projectroundhouse.org/" rel="nofollow">http://projectroundhouse.org</a>, que ahora lleva a Google Code.</p>

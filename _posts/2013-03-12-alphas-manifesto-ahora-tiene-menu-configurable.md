@@ -31,6 +31,8 @@ comments: []
 
 ![](/assets/configurableMenu.jpg)
 
+Y cómo agregar propiedades a menús
+
 <p style="text-align: justify;">Como parte del proceso de dejar el theme listo para publicar, estuve trabajando en el <a title="Theme Testing Process, de Wordpress Codex" href="http://codex.wordpress.org/Theme_Development#Theme_Testing_Process">Wordpress Theme Testing</a>. El proceso es largo y detallado, y la documentaci&oacute;n tambi&eacute;n, pero yo estoy trackeando mi progreso en <a title="Setup Wordpress Theme Testing" href="https://github.com/AlphaGit/alphasmanifesto/issues/10">este issue en Github</a>. Una de las partes es lograr que los men&uacute;es de navegaci&oacute;n sean configurables, y es algo que se cumpli&oacute; hoy para <strong>Alpha's Manifesto</strong>.</p>
 <p><!--more--></p>
 <h2 style="text-align: justify;">C&oacute;mo funcionaba antes</h2>

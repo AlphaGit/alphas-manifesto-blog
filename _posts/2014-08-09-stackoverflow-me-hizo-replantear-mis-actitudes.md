@@ -24,6 +24,8 @@ tags:
 - moderaci&oacute;n
 comments: []
 ---
+Resolviendo: "quién vigila al vigilante"
+
 <p style="text-align: justify;">Hace unos d&iacute;as me ocurri&oacute; algo genial: fui evaluado y mi evaluaci&oacute;n fue mala.&nbsp;Como producto de eso tuve una peque&ntilde;a epifan&iacute;a. &iquest;C&oacute;mo puede ser?</p>
 <p><!--more--></p>
 <p style="text-align: justify;">Hace poco tiempo <a href="http://stackoverflow.com/users/147507/alpha">mi perfil de StackOverflow</a> super&oacute; los 2000 puntos de reputaci&oacute;n, lo cual me da los permisos necesario para revisar ediciones sugeridas. Es decir, cuando alguien edita una pregunta o una respuesta que no es la propia, el sistema esperar&aacute; a que algunos revisores verifiquen el cambio y lo aprueben. StackOverflow nos sugiere que busquemos aprobar aquellas ediciones que mejoren sustancialmente el contenido de un post, que evitemos ediciones menores, irrelevantes o vandalismo, y que propongamos m&aacute;s mejoras a los cambios ya propuestos. Pueden <a href="http://meta.stackexchange.com/questions/76251/how-do-suggested-edits-work">leer detalles de c&oacute;mo funciona</a>.</p>

@@ -66,6 +66,8 @@ comments:
 
 ![](/assets/Calendar_marked.png)
 
+Boxes and colors, what's left to ask?
+
 <p style="text-align: justify;">Long time ago I wrote about a proposal from a StackExchange user about <a href="https://blog.alphasmanifesto.com/2013/09/16/google-calendar-para-manejo-de-tareas/">how to use Google Calendar for task planning</a> across projects and activities. The idea seemed good, and after months of making it my bread and butter, I think I have perfected it to address most of the problems I had with <a href="https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/">my workflow in Trello</a>. It's &nbsp;not the holy grail of productivity, but it has helped me a lot.</p>
 <p style="text-align: justify;">Let me explain it to you, because if you use Google Apps or GMail, you're most likely to benefit from this.</p>
 <p><!--more--></p>

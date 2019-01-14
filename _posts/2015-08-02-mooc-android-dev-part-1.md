@@ -68,6 +68,8 @@ comments:
 
 ![](/assets/android.png)
 
+That little green trash can
+
 <p style="text-align: justify;">Yes, I continue to go on courses. Now I just finished the <a href="https://www.coursera.org/course/androidpart1">Android Development Part 1</a> (or "Programming Mobile Applications for Android Handheld Systems: Part 1"), dictated by&nbsp;the University of Maryland.</p>
 <p style="text-align: justify;">As usual, let me give you a quick review of what it was&nbsp;about, what you need to get into&nbsp;it&nbsp;and what you can get out of it.</p>
 <p><!--more--></p>

@@ -27,6 +27,8 @@ tags:
 - concepto
 comments: []
 ---
+Referencia de conceptos básicos de diseño
+
 <p style="text-align: justify;"><em>Universal Principles of Design</em> es un libro m&aacute;s que recomendable sobre conceptos de dise&ntilde;o en general: no se limita ni al software ni al dise&ntilde;o de productos f&iacute;sicos. De hecho, ni siquiera se centra tanto en el dise&ntilde;o como en los conceptos que est&aacute;n detr&aacute;s de los buenos dise&ntilde;os, a quienes les da la atenci&oacute;n principal.</p>
 <p style="text-align: justify;"><!--more--></p>
 

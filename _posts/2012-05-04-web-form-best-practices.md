@@ -46,6 +46,8 @@ comments:
     esos links tambi&eacute;n. Me gustaron, adem&aacute;s de &uacute;tiles son claros
     y concisos."
 ---
+Buenas prácticas para formularios web
+
 <p style="text-align: justify;">Otra de las preguntas de los foros de User Experience, bajo el t&iacute;tulo de <a href="http://ux.stackexchange.com/questions/9898/have-i-missed-anything-from-my-list-of-web-form-best-practices">Have I missed anything from my list of web form best practices?</a>, consigui&oacute; una muy buena recopilaci&oacute;n de consejos de buenas pr&aacute;ctica sobre interfaces de formularios y UI / UX. Si van a mirarlo, miren todas las respuestas, ya que la pregunta principal no ha sido actualizada para recopilar completamente todo lo que han sugerido.</p>
 <p style="text-align: justify;">Cabe mencionar que muchas de estas respuestas corresponden a sugerencias e incluso a patrones explicados en el libro <a href="https://blog.alphasmanifesto.com/2012/02/21/web-application-design-patterns/">Web Application Design Patterns, de Pawan Vora</a>, el cual es una buena referencia para buenas pr&aacute;cticas generales sobre la web. Sin duda habr&aacute; mejores referencias, pero es de las que he le&iacute;do hasta el momento. Los invito a compartir libros o referencias recopilatorias de buenas pr&aacute;cticas.</p>
 <p style="text-align: justify;"><em>Soy un zorrinito de buenas pr&aacute;cticas.</em></p>

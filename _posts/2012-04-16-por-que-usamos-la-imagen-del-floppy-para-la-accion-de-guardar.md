@@ -60,6 +60,8 @@ comments:
     como indicas hay quienes no lo conocen y si no tienen el texto de Save o el Ctrl
     +S se veran en figurillas ."
 ---
+Y ¿por qué no la cambiamos?
+
 <p style="text-align: justify;">Un comentario que mucho tiempo hemos visto discutido por ah&iacute; es <a href="http://ux.stackexchange.com/questions/3117/save-icon-is-the-floppy-disk-icon-dead">por qu&eacute; todav&iacute;a usamos la figura del floppy disk para indicar la acci&oacute;n de guardar</a>, cuando hace tiempo que estos discos se dejaron de usar. Peor a&uacute;n, hay gente que ni siquiera sabe qu&eacute; son.</p>
 <p style="text-align: justify;">La primera respuesta de ese link menciona que la imagen del floppy disk es un modismo, no una met&aacute;fora. El modismo (<em><a href="http://knowgramming.com/idiom_and_metaphor_difference.htm">idiom</a></em>) es, para resumir, un simbolismo no directamente asociado con el significado. En alg&uacute;n momento fue un s&iacute;mbolo, asociado a cuando persist&iacute;amos nuestros datos en estos diskettes, pero ahora es algo totalmente fuera de contexto.</p>
 <p style="text-align: justify;">En los foros de Graphic Design tambi&eacute;n se habl&oacute; de este tema y <a href="http://graphicdesign.stackexchange.com/questions/323/new-generation-of-save-icon-that-is-not-a-disk/">se est&aacute;n proponiendo nuevas alternativas</a>. En los foros de UX est&aacute;n de acuerdo con que cambiar los &iacute;conos generar&iacute;a m&aacute;s problemas de los que realmente resolver&iacute;a, pero est&aacute; claro que si la persistencia se inventara hoy, el &iacute;cono ser&iacute;a distinto.</p>

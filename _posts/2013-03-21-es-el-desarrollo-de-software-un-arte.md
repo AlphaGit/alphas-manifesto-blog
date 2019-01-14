@@ -80,6 +80,9 @@ comments:
 
     &iexcl;Saludos!
 ---
+
+¿O acaso no lo es?
+
 <p style="text-align: justify;">Hoy me ven&iacute;a este pensamiento a la mente: &iquest;es el desarrollo de software un arte? S&eacute; que muchos estar&iacute;an de acuerdo en decir que s&iacute;, pero quiero plantear la pregunta con un rigor cient&iacute;fico, algo que la frase que com&uacute;nmente usamos no contiene.</p>
 <p style="text-align: justify;">Por lo general hablamos de una disciplina siendo un arte cuando tiene cierta belleza en s&iacute; (apreciada o inapreciada) y cuando requiere de mucha habilidad para hacerlo bien. Sin embargo, para que algo sea considerado&nbsp;<em>arte</em> realmente, hay otros requisitos. No soy un experto en el tema, pero quer&iacute;a intentar darle una mirada a esta pregunta y ver a d&oacute;nde me lleva.</p>
 <p><!--more--></p>

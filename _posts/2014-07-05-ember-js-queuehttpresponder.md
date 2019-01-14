@@ -30,6 +30,8 @@ tags:
 - automated testing
 comments: []
 ---
+Solucionando incompatibilidad entre httpResponder + Ember 1.4.0+
+
 <p style="text-align: justify;">Hace un tiempo encontr&eacute; una incompatibilidad bastante grande entre los sistemas de Ember.Testing y httpRespond, que imped&iacute;an a muchos&nbsp;programadores testear sus sistemas de forma autom&aacute;tica sin necesidad de un servidor de pruebas. M&aacute;s adelante explicar&eacute; qu&eacute; fue lo que gener&oacute; este problema, por qu&eacute; es un problema grave y el workaround que trabajamos con algunos colegas y algunos miembros del&nbsp;equipo de Ember.</p>
 <p><!--more--></p>
 <h2>&iquest;Qu&eacute; es Ember.Testing?</h2>

@@ -30,6 +30,8 @@ comments: []
 
 ![](/assets/Respuesta.png)
 
+Ser conciso y no-ambiguo
+
 <p style="text-align: justify;">&iquest;Les ha pasado esto alguna vez?</p>
 <blockquote><p><strong>Ustedes:</strong> Estar&aacute; listo el reporte para esta tarde?<br />
 <strong>Alguien m&aacute;s:</strong> Lo que pasa es que estuve trabajando durante todo el d&iacute;a ayer en el otro trabajo del que hablamos y se extendi&oacute; m&aacute;s de lo que esperaba porque los n&uacute;meros no concordaban con el estimado original.</p></blockquote>

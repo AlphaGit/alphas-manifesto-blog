@@ -30,6 +30,8 @@ comments: []
 
 ![](/assets/The_Creation_of_a_Conscious_Machine.jpg)
 
+La destrucción de una buena idea
+
 <p style="text-align: justify;"><em>The Creation of a Conscious Machine - Definition of a Sentient Artifact</em> es un libro publicado por J. E. Tardy que se propone explicar la teor&iacute;a detr&aacute;s del proyecto <a href="http://www.mecasapiens.com/">Meca Sapiens</a>. Este proyecto busca la formalizaci&oacute;n de conceptos como conciencia propia, inteligencia, ser propio y dem&aacute;s similares, con una aproximaci&oacute;n casi matem&aacute;tica, que permitir&aacute; implementar sistemas que cumplan con estas especificaciones. De esta forma, aclara, se lograr&aacute; aquello que hace mucho tiempo se est&aacute; escapando de las manos de las ciencias.</p>
 <p><!--more--></p>
 <p style="text-align: justify;">Tras haber visto varios de los videos que el mismo autor estaba publicando en Youtube, con proposiciones formales sobre la definici&oacute;n de estos conceptos, decid&iacute; que el libro merec&iacute;a una le&iacute;da.</p>

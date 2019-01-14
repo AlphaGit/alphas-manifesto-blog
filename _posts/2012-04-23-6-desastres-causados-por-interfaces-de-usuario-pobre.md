@@ -26,5 +26,7 @@ tags:
 - mal ejemplo
 comments: []
 ---
+Are you sure you want to cancel explosion? [Ok] [Cancel]
+
 <p style="text-align: justify;">Encontr&eacute; hace poco este link y realmente quer&iacute;a compartirlo. El art&iacute;culo, en ingl&eacute;s, se titula <a href="http://www.cracked.com/article_19776_6-disasters-caused-by-poorly-designed-user-interfaces.html">6 Disasters caused by Poorly Designed User Interfaces</a>, y si bien el art&iacute;culo proviene de Cracked.com,&nbsp;&ndash; que bien sabemos no se trata de una fuente period&iacute;stica&nbsp;&ndash; da muy buenos ejemplos de c&oacute;mo una interfaz de usuario mal dise&ntilde;ada realmente tienen consecuencias.</p>
 <p style="text-align: justify;"><em>Soy un zorrinito mal dise&ntilde;ado.</em></p>
