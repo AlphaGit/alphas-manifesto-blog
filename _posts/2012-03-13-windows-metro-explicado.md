@@ -25,6 +25,8 @@ tags:
 - Metro
 comments: []
 ---
+Crítica criteriosa
+
 <blockquote>
 <p style="text-align: justify;">A menos que hayas estado viviendo bajo una roca por los &uacute;ltimos meses, deber&iacute;as saber lo siguiente:</p>
 <ul style="text-align: justify;">
