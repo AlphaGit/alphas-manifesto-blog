@@ -22,7 +22,6 @@ tags:
 - Technology
 - MicroSiervos
 - neurociencia
-comments: []
 ---
 
 Esto no es particularmente nuevo, y de hecho, he escuchado de algunas personas que ya se han adquirido uno de estos productos. Se trata de una versión "simpática"/"neko" de [Emotiv](https://blog.alphasmanifesto.com/2008/03/07/link-del-dia-un-par-de-cosas-de-utilidad/), aunque realmente no sé si las marcas estén relacionadas. Aunque está claro que la tecnología detrás de esto si lo está.

@@ -36,19 +36,6 @@ tags:
 - consola
 - escritos
 - viaje
-comments:
-- id: 8808
-  author: Jorgelina
-  author_email: lady_pop@hotmail.com
-  author_url: ''
-  date: '2012-02-29 09:17:47 +0000'
-  date_gmt: '2012-02-29 14:17:47 +0000'
-  content: "Me encanta ver todo lo que creciste y evolucionaste este año. Me
-    muero por ver una foto con tu nuevo look!!! jejeje te imagino de traje y peinado
-    con gel!\r\nDe verdad y de corazon me encanta que seas FELIZ y que cumplas tus
-    espectativas (yo tambien estaria preocupada si fuera a Stanford! asi que no te
-    hagas problema). Me llena de orgullo saber cuan lejos llegaste y se que este es
-    el comienzo de lo que esta por venir..."
 ---
 
 Se me ocurrió hacer esta especie de recuento en la que resumo el año personal, a modo de balance. Por supuesto, muchas cosas van a quedar afuera de este resumen, tanto por privacidad personal como por respeto a otros. Si creés que deberías estar acá y no estuviste, sacá un número porque van a ser muchos, y no por desmerecerlos.

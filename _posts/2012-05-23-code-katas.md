@@ -25,7 +25,6 @@ tags:
 - teoría
 - práctica
 - code kata
-comments: []
 ---
 El por qué de practicar y ejercicios para hacerlo
 

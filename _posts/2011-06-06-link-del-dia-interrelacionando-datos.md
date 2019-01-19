@@ -25,7 +25,6 @@ tags:
 - algoritmo
 - search
 - interpolación
-comments: []
 ---
 
 Para quienes es sólo una palabra difícil, interpolación significa en el ámbito de funciones matemáticas, calcular valores aproximados de datos que no tenemos realmente. Esto se lleva al punto en donde para interpolar, podemos calcular una fórmula que rige los valores con los que estamos trabajando. Cuando estas funciones realmente predicen los datos con los que estamos trabajando, logramos obtener la "regla" por la que estos valores se guían.

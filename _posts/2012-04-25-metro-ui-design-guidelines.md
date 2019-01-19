@@ -26,7 +26,6 @@ tags:
 - Metro
 - guidelines
 - guías
-comments: []
 ---
 
 Recursos de UX y UI para Metro

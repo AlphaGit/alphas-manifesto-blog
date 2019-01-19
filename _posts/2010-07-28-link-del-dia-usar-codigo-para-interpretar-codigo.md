@@ -19,17 +19,6 @@ categories:
 - Link del día
 - Technology
 tags: []
-comments:
-- id: 7172
-  author: 'Link del día: Generación de código | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/02/03/link-del-dia-generacion-de-codigo/
-  date: '2011-02-03 13:27:01 +0000'
-  date_gmt: '2011-02-03 15:27:01 +0000'
-  content: "[...] Alpha on February 3, 2011  Posted Under: Link del día Hace
-    tiempo atrás publiqué  un link sobre generación automática
-    de código, pero realmente hacía falta una explicación lenta
-    y paso a paso de cómo se hace o cómo se [...]"
 ---
 
 El título no es novedoso de por sí, todos sabemos que los intérpretes o compiladores de código se escriben también con algún tipo de código. A veces, y eso es lo que puede ser nuevo para nosotros, es en el mismo código. Por ejemplo, el famoso compilador de [GCC](http://gcc.gnu.org/) está escrito en C.

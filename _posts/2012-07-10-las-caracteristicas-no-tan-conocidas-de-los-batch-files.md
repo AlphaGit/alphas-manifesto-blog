@@ -26,7 +26,6 @@ tags:
 - batch
 - script
 - DOS
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/batchfile.png)

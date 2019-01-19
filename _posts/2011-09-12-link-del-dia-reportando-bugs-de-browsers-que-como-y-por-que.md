@@ -26,7 +26,6 @@ tags:
 - Firefox
 - navegadores
 - Opera
-comments: []
 ---
 
 [Este artículo de Smashing Magazine](http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/) habla muy en detalle sobre la comunidad de desarrolladores de navegadores (una buena gran mayoría de ellos) y cómo es bienvenido el feedback de los usuarios para mejorar los navegadores mismos.

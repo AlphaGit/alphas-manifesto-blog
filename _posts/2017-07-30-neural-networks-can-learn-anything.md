@@ -27,7 +27,6 @@ tags:
 - architecture
 - function approximator
 - variables
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/SkunkBalls.jpg)

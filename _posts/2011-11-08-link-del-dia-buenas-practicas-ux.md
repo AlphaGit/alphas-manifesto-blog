@@ -21,7 +21,6 @@ tags:
 - experiencia del usuario
 - user experience
 - preguntas
-comments: []
 ---
 
 Encontré tres preguntas particularmente útiles en el foro de [UX de Stack Exchange](http://ux.stackexchange.com), las cuales son:

@@ -22,7 +22,6 @@ tags:
 - StackOverflow
 - evaluación
 - moderación
-comments: []
 ---
 Resolviendo: "quién vigila al vigilante"
 

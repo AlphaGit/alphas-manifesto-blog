@@ -25,15 +25,6 @@ tags:
 - automatización
 - productividad
 - web 2.0
-comments:
-- id: 8876
-  author: on{X} | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/06/07/onx/
-  date: '2012-06-07 10:38:17 +0000'
-  date_gmt: '2012-06-07 15:38:17 +0000'
-  content: "[...] basadas en eventos para teléfonos móbiles. El proyecto
-    se llama on{X} y aquellos que conozcan IfTTT verán una gran [...]"
 ---
 
 [IfTTT.com](http://ifttt.com/) es un servicio que me atrevo a calificar de "maravilloso" en donde nos permiten integrar distintas redes sociales o servicios 2.0 en workflows que nosotros definiremos. Dependiendo del uso que le demos, puede sernos más o menos útiles.

@@ -19,34 +19,6 @@ date_gmt: '2009-09-20 04:21:17 +0000'
 categories:
 - Books
 tags: []
-comments:
-- id: 6793
-  author: 'The Emotion Machine &#8211; Chapter 4: Consciousness | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/10/08/the-emotion-machine-chapter-4-consciousness/
-  date: '2010-10-08 14:54:32 +0000'
-  date_gmt: '2010-10-08 16:54:32 +0000'
-  content: "[...] post was written by Alpha on October 8, 2010  Posted Under: LibrosGoing
-    on with my reading of Minsky&#8217;s book, chapter 4 is titled &#8220;Consciousness&#8221;
-    and it definitely treats about that.The first [...]"
----
-
-Alguna vez [publiqué algo](https://blog.alphasmanifesto.com.ar/2008/08/05/link-del-dia-la-maquina-de-emociones/) de información sobre el libro de Marvin Minsky, _La Máquina de Emociones _(_The Emotion Machine_), pero nunca había tenido la oportunidad de leerlo en profundidad. Finalmente, a través del paso del tiempo, fui avanzando sobre las páginas &ndash; si es que es válida la expresión &ndash; del mismo.
-
-El libro es en extremo interesante, pero desafortunadamente la versión online tiene muchos rasgos que nos hacen notar que se trata de un borrador previo a la publicación, debido a la forma poco explicativa de ciertos conceptos, pero no por eso deja de ser muy entendible, siempre cargadísimo de ejemplos y explicaciones que nos permiten comprender lo explicado.
-
-El primer capítulo, _Emotional States_ (_Estados Emocionales_) plantea principalmente la teoría que se desarrollará durante el resto del libro: las teorías de ciencias cognitivas por lo general fallan porque buscan explicar la mente bajo reglas simples, siendo que posiblemente sea más compleja de lo que estas leyes plantean. Entonces,  ¿por qué no plantearla como una combinación de elementos que se relacionan de forma compleja?
-
-Introduce la idea de los _recursos_, que son (según su teoría) elementos que producen distintas respuestas dentro del comportamiento humano, y cada recurso puede a su vez generar acción en otros recursos. A medida que el tiempo pasa y aprendemos a controlarnos, estos recursos tienen reforzadas o disminuidas las relaciones entre sí, lo que formaría nuestra personalidad. Las emociones fuertes son aquellas que más recursos despiertan, o que generan cascadas de gran intensidad, dejando salir entonces aquellos recursos que más se manifiestan en nosotros de forma más fuerte.
-
-El segundo capítulo, _Attachments and Goals_ (_Afectos y Logros_) habla de esto, de la forma en la que aprendemos a enlazar ciertos comportamientos con ciertas situaciones. Se introduce el concepto de planificación, el cumplimiento de submetas subyugadas a una meta principal, y el concepto de impresor (_imprimer_), como aquél agente externo del cual aceptamos el premio o el reproche para modificar nuestra conducta. Finalmente los contrasta contra los conceptos de modelos o impresores ficcionales que modelan nuestra conducta de otra forma.
-
-El tercer capítulo, _From Pain to Suffering_ (_Del dolor al sufrimiento_) comienza tratando algo de lo que el primer capítulo trató:  ¿Cómo es que una emoción fuerte comienza a despertar muchas sensaciones distintas?  ¿Cómo es que una emoción o sensación fuerte puede hacernos perder completamente la noción de dónde estamos o qué estamos haciendo?  ¿Qué tiene de bueno eso? Aquí también vuelve a hablarse un poco de cómo es que un recurso puede accionar otros y cómo es que la mente puede inducirnos a ciertos estados provechosos para nosotros, aprendiendo de esa misma relación entre recursos (aunque queda pendiente todavía la explicación de cómo la mente tiene auto-conciencia sobre su funcionamiento). Finalmente se hace una contraposición entre las teorías de la conciencia de Freud con la teoría de los recursos activándose.
-
-Hasta aquí ha llegado mi lectura del mismo, pero espero pronto poder continuarla.
-
-_Soy un zorrinito con recursos._
-
 ---
 
 Once ago I [published some information](https://blog.alphasmanifesto.com.ar/2008/08/05/link-del-dia-la-maquina-de-emociones/) about Marvin Minsky's book, _The Emotion Machine_, but I never had the chance to get to read it deeply. Finally, with time flying by, I kept on crawling through along the pages.

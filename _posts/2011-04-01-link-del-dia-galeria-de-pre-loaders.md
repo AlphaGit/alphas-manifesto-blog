@@ -23,7 +23,6 @@ tags:
 - visualización
 - experiencia del usuario
 - user experience
-comments: []
 ---
 
 Para aquellos que preferimos el mundo HTML+JS seguramente pensemos que Flash es un mundo en el que no conviene meternos, aunque Google fácilmente lo desmintió comenzando a indexar sitios en Flash, de forma que las primerísimas razones para no usar Flash se vieron derribadas.

@@ -24,7 +24,6 @@ tags:
 - bookmarklet
 - visual
 - debug
-comments: []
 ---
 
 Bookmarklet de visualización de eventos

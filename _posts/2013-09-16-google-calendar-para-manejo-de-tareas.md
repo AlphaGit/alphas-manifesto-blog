@@ -26,16 +26,6 @@ tags:
 - tareas
 - Stack Exchange
 - Google Calendar
-comments:
-- id: 25396
-  author: 'My time tracker: Google Calendar | Alpha&#039;s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2015/05/19/my-time-tracker-google-calendar/
-  date: '2015-05-19 23:30:48 +0000'
-  date_gmt: '2015-05-20 04:30:48 +0000'
-  content: "[&#8230;] time ago I wrote about a proposal from a StackExchange user
-    about how to use Google Calendar for task planning across projects and activities.
-    The idea seemed good, and after months of making it my bread and [&#8230;]"
 ---
 
 ![]({{ site.baseurl }}/assets/calendar.png)

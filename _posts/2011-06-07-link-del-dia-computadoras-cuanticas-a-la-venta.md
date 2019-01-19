@@ -22,24 +22,6 @@ tags:
 - negocios
 - MicroSiervos
 - computación cuántica
-comments:
-- id: 8113
-  author: Juan Perez
-  author_email: notengo@notengo.com
-  author_url: ''
-  date: '2011-06-07 12:53:00 +0000'
-  date_gmt: '2011-06-07 14:53:00 +0000'
-  content: Se puede instalar el VS 2010 express?
-- id: 8123
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2011-06-09 11:43:31 +0000'
-  date_gmt: '2011-06-09 13:43:31 +0000'
-  content: |-
-    Sería interesante.
-
-    Creo que corren su propio sistema operativo, y que la arquitectura del procesador debe de estar algo alejada del típico modelo de Von Neumann.
 ---
 
 Quería dejar pasar un poco más de tiempo para poder indagar en detalle sobre esto, pero aparentemente no hay demasiada información, o al menos no más allá de lo que los fabricantes disponen para el público.

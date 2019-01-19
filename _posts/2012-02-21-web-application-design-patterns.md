@@ -30,17 +30,6 @@ tags:
 - book
 - patterns
 - software engineering
-comments:
-- id: 8860
-  author: Web Form Best Practices | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/05/04/web-form-best-practices/
-  date: '2012-05-04 07:58:44 +0000'
-  date_gmt: '2012-05-04 12:58:44 +0000'
-  content: "[...] muchas de estas respuestas corresponden a sugerencias e incluso
-    a patrones explicados en el libro Web Application Design Patterns, de Pawan Vora,
-    el cual es una buena referencia para buenas prácticas generales sobre la
-    web. Sin duda habrá [...]"
 ---
 
 ![]({{ site.baseurl }}/assets/web-application-design-patterns.jpg)

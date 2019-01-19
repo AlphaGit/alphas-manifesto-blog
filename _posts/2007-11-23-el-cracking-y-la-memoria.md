@@ -19,23 +19,6 @@ categories:
 - Projects
 - Technology
 tags: []
-comments:
-- id: 1229
-  author: "&curren;áM&szlig;&acirc;r Vi0L&ecirc;T&acirc;&curren;"
-  author_email: ''
-  author_url: ''
-  date: '2007-11-23 21:35:00 +0000'
-  date_gmt: '2007-11-23 21:35:00 +0000'
-  content: Vo' so' Neo de la Matris!<br/><br/>(Nunca podré hacer comentarios
-    más intelectuales en este blog =P)
-- id: 1230
-  author: El Hombre Gris
-  author_email: ''
-  author_url: ''
-  date: '2007-11-29 02:16:00 +0000'
-  date_gmt: '2007-11-29 02:16:00 +0000'
-  content: Esto pinta bug feo de seguridad de PHP. Cuando estes por el msn te pregunto
-    más...
 ---
 
 Hace un par de días encontré un hueco de seguridad muy grande en un foro conocido (no voy a dar direcciones por protección del mismo), y dicha falla permitía acceso directo a su base de datos.

@@ -20,23 +20,6 @@ categories:
 tags:
 - internet
 - web application
-comments:
-- id: 3521
-  author: Gonzalo González Mora
-  author_email: gonzalo@gonzalezmora.com
-  author_url: ''
-  date: '2010-01-22 16:07:08 +0000'
-  date_gmt: '2010-01-22 18:07:08 +0000'
-  content: Genial, estas cosas siempre vienen útiles y cuando las querés
-    buscar no las encontrás, bookmarked! :D Thx ^^
-- id: 3535
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2010-01-24 13:35:06 +0000'
-  date_gmt: '2010-01-24 15:35:06 +0000'
-  content: Por nada, estas cosas son copadas, incluso con alguien al teléfono
-    en dos pasos tenés todo andando. Me encanta esa practicidad.
 ---
 
 Alguna vez comenté de los beneficios de un sistema llamado [Crossloop](https://blog.alphasmanifesto.com.ar/2008/01/04/link-del-dia-crossloop/), que tenía la ventaja de ser un programita que bajamos, instalamos, y en dos clicks ya estamos compartiendo nuestro escritorio. Esto hacía muy fácil la posibilidad de ayudar a alguien o brindar servicio técnico a distancia (y de hecho, es el uso primario que se le está dando y lo están mejorando para avanzar en esa dirección), pero a veces no necesitamos tanto control, sino solo poder mostrar la pantalla en tiempo real a alguien más, y queremos alguna herramienta que solo con un click, ya tengamos funcionando eso.

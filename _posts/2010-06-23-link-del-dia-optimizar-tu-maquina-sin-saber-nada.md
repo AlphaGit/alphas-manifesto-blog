@@ -23,7 +23,6 @@ tags:
 - Windows
 - presentación
 - aplicación de escritorio
-comments: []
 ---
 
 Me gusta cuando las aplicaciones son capaces de encerrar mucha complejidad detrás de algo simple de entender y fácil de usar. Este es uno de esos casos. La finalidad de esta aplicación, llamada [Soluto](http://www.soluto.com/) ("Anti-Frustration Software"), es de permitir monitorear el inicio de las distintas aplicaciones (sólo Windows por ahora), elegir cuáles deben cargar y cuáles no, cuáles deben ser demoradas para un momento posterior y de esa forma mejorar el tiempo de inicio.

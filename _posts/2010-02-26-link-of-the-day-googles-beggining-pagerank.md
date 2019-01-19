@@ -23,7 +23,6 @@ tags:
 - capacitación
 - desarrollo web
 - investigación
-comments: []
 ---
 
 I think that most of you already know the story: [Google](http://www.google.com) started as an academic project, and in that project, they introduced several new ideas that were used to detect the "relevant" pages among a great number of them. That is what we today know as PageRank.

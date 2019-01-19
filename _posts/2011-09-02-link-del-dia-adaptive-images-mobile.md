@@ -24,16 +24,6 @@ tags:
 - librería
 - cookies
 - pantalla
-comments:
-- id: 8679
-  author: 'Link del día: Videos Adaptables | Alpha&#039;s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/09/08/link-del-dia-videos-adaptables/
-  date: '2011-09-08 09:36:40 +0000'
-  date_gmt: '2011-09-08 14:36:40 +0000'
-  content: "[...] la misma forma que hace poco hablamos de Adaptive Images, hoy tenemos
-    una propuesta parecida para videos, llamada FitVids (también de parte
-    de la gente de [...]"
 ---
 
 Nuevamente de la gente de [CSS Tricks](http://css-tricks.com/13982-adaptive-images/) me llega un dato de una librería muy útil. En este caso es [Adaptive Images](http://adaptive-images.com/), es una librería en PHP que nos permite servir imágenes con el tamaño justo dependiendo del tipo de cliente. No sólo se hace la diferenciación del tipo de cliente, sino del tamaño de la pantalla real.

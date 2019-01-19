@@ -25,15 +25,6 @@ tags:
 - StackExchange
 - experiencia de usuario
 - bordes redondeados
-comments:
-- id: 8870
-  author: Lectura obligatoria sobre user experience | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/05/24/lectura-obligatoria-sobre-user-experience/
-  date: '2012-05-24 11:44:40 +0000'
-  date_gmt: '2012-05-24 16:44:40 +0000'
-  content: "[...] Universal Principles of Design, del cual ya habíamos hablado
-    antes. [...]"
 ---
 
 Partiendo desde la base de lo básico

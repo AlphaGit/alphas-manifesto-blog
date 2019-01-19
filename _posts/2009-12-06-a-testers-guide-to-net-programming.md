@@ -28,7 +28,6 @@ tags:
 - VB.NET
 - VS 2008
 - book
-comments: []
 ---
 
 Terminé hace poco de leer el libro _A Tester's Guide to .NET Programming_, de Randal Root y Mary Romero Sweeney, un interesante libro aproximativo a .NET de unas 630 páginas.

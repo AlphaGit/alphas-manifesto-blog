@@ -25,7 +25,6 @@ tags:
 - Steven Wolfram
 - Wolfram
 - biografía
-comments: []
 ---
 Autobiografías analíticas
 

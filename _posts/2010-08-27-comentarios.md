@@ -18,29 +18,6 @@ date_gmt: '2010-08-27 21:51:47 +0000'
 categories:
 - Miscelaneous
 tags: []
-comments:
-- id: 6761
-  author: MaC
-  author_email: mac@moomoo.com.ar
-  author_url: http://www.moomoo.com.ar
-  date: '2010-08-27 21:02:03 +0000'
-  date_gmt: '2010-08-27 23:02:03 +0000'
-  content: probando 123 probando
-- id: 6762
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2010-08-27 21:02:50 +0000'
-  date_gmt: '2010-08-27 23:02:50 +0000'
-  content: "Se ve un poco más bonito que antes, no?\r\nMirá! Espacio
-    entre párrafos! XD"
-- id: 6763
-  author: Alejandro
-  author_email: rastamanxx@hotmail.com
-  author_url: ''
-  date: '2010-08-28 05:09:06 +0000'
-  date_gmt: '2010-08-28 07:09:06 +0000'
-  content: Uhhh, a ver!
 ---
 
 Hola, sí, qué tal?

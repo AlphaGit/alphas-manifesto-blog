@@ -31,7 +31,6 @@ tags:
 - ciclo de vida
 - bugs
 - backward compatibility
-comments: []
 ---
 
 Suelo decir muchas tonterías a modo de chiste, pero de tanto en tanto, alguna de ellas tiene un poco de verdad. Hoy, hablando de un sistema del que estoy encargado (entre otras personas) de mantener, pensé que estaba muy difícil su actualización, [y lo llamé un ](http://twitter.com/AlphaTwi/status/6895562175)_[Sistema Jenga](http://twitter.com/AlphaTwi/status/6895562175)_.  ¿Qué es un _sistema Jenga_? Es un sistema para el cual agregar una pieza hace que peligre toda la estructura de su programación.

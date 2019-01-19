@@ -22,16 +22,6 @@ tags:
 - desarrollo web
 - Internet Explorer
 - CSS3
-comments:
-- id: 7980
-  author: 'Link del día: Herramientas para CSS3 | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/05/18/link-del-dia-herramientas-para-css3/
-  date: '2011-05-18 13:56:42 +0000'
-  date_gmt: '2011-05-18 15:56:42 +0000'
-  content: "[...] utilizar condicionalmente características que pueden estar
-    soportadas o no. (Aunque yo prefiero Selectivizr que emula esos comportamientos.),El
-    otro de ellos es simplemente una página de referencia, que es [...]"
 ---
 
 Todos sabemos que cuando queremos avanzar en las tendencias tecnológicas, muchas veces debemos dejar atrás a una serie de usuarios que no quieren o no pueden actualizar sus plataformas. Para muchos desarrolladores web, Internet Explorer es hoy el problema de dar soporte a todos los posibles usuarios, más específicamente en las versiones antiguas de este navegador. (Según parece, todavía hay gente que utiliza la versión 5.)

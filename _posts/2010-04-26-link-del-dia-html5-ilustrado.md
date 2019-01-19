@@ -27,7 +27,6 @@ tags:
 - creatividad
 - standard
 - CSS3
-comments: []
 ---
 
 Nunca viene mal otro link extra sobre HTML5, sabemos que es algo que ya está empezando a tomar fuerza, y de alguna forma todavía es novedad. Mientras esperamos que se decida qué es lo que va a ocurrir con los códecs de video, podemos ir entrenándonos y aprovechando otras features que gran cantidad de navegadores ya aprovechan.

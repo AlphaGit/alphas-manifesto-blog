@@ -25,7 +25,6 @@ tags:
 - book
 - máquina
 - decepción
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/The_Creation_of_a_Conscious_Machine.jpg)

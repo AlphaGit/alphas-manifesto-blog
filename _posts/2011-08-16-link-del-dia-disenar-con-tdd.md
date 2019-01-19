@@ -22,7 +22,6 @@ tags:
 - desarrollo
 - test-driven design
 - TDD
-comments: []
 ---
 
 Para los que no conocen la sigla, TDD representa el concepto de [Test Driven Development](http://en.wikipedia.org/wiki/Test-driven_development), la metodología de hacer las pruebas de lo que queremos lograr antes del código.

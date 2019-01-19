@@ -26,7 +26,6 @@ tags:
 - management
 - IT
 - webinar
-comments: []
 ---
 Posts being featured in MakingSense's blog
 

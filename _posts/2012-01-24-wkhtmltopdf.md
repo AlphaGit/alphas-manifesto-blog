@@ -24,7 +24,6 @@ tags:
 - Webkit
 - documentos
 - páginas
-comments: []
 ---
 
 De HTML a PDF

@@ -24,7 +24,6 @@ tags:
 - experiencia del usuario
 - user experience
 - mensaje
-comments: []
 ---
 
 Vamos a seguir con otra librería JavaScript, en este caso, [Humane.js](http://wavded.github.com/humane-js/). Esta en particular se trata de un sistema de envío de mensajes al usuario a través de ventanas que recuerdan mucho al lightbox, sin ser tan intrusivas, ni difíciles de utilizar en el código. Estos mensajitos automáticamente se van luego de un tiempo o podemos esperar a que el usuario realice alguna acción (para asegurarnos de que haya efectivamente leído nuestro mensaje).

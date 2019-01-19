@@ -23,7 +23,6 @@ tags:
 - aplicación
 - logging
 - comportamiento
-comments: []
 ---
 
 Orientado a mejorar la experiencia del usuario

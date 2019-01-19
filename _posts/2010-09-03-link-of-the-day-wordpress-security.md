@@ -25,7 +25,6 @@ tags:
 - WordPress
 - exploit
 - spam
-comments: []
 ---
 
 [Brad Williams](http://strangework.com/) made available a great slide presentation at Wordpress WordCamp 2009 in NYC. It is called [WordPress Security](http://www.slideshare.net/williamsba/wordpress-security-updated), and it's really complete explaining about certain spam techniques or hacking tips on Wordpress. Of course, those are things that can be avoided and he tells us how.

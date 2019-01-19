@@ -24,7 +24,6 @@ tags:
 - user experience
 - formulario
 - autoguardado
-comments: []
 ---
 Widget de autoguardado
 

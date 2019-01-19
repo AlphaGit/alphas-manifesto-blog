@@ -25,7 +25,6 @@ tags:
 - experiencia del usuario
 - user experience
 - demo
-comments: []
 ---
 
 Hablando de user experience en algo tan complejo como puede llegar a ser construir un sitio, hay pocos ejemplos que realmente muestran cómo puede hacerse fácil a la vez. Ya alguna vez CD me había mostrado [Unbounce](http://unbounce.com/), una aplicación web que más que construir una página nos da varias herramientas útiles para marketing, como A/B Tests, analíticas y varias otras capacidades.

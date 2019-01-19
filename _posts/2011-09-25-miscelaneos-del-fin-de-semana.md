@@ -23,7 +23,6 @@ tags:
 - seguridad
 - teoría
 - book
-comments: []
 ---
 
 Por un lado, esto es una excusa para probar [IfTTT](http://ifttt.com/). Luego hablaré sobre esto.

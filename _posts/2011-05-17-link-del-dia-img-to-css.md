@@ -22,7 +22,6 @@ tags:
 - CSS
 - Imágenes
 - email
-comments: []
 ---
 
 Del cajón de las utilidades curiosas y técnicas que algún día puede que utilicemos, llega la aplicación web llamada [Img to CSS](http://www.imgtocss.com/), que, como su nombre lo indica, transforma imágenes en CSS.

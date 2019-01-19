@@ -28,7 +28,6 @@ tags:
 - Safari
 - bases de datos
 - HTML5
-comments: []
 ---
 
 Para aquellos que usamos Google Chrome (Safari también aplica), seguro ya sabemos que tenemos una sección llamada Developer Tools en donde podemos trabajar con el código fuente de una página, los estilos CSS y demás. Pero si es que no le hemos prestado mucha atención (yo no lo había hecho), tenemos muchísimas herramientas detalladas para trabajar con los sitios y no estaría bueno desaprovecharlas. Para las últimas features, aclaro, hace falta la versión del Developing Channel de Google Chrome, o el nightly build de Safari. De todos modos, tarde o temprano serán parte de alguna versión estable.

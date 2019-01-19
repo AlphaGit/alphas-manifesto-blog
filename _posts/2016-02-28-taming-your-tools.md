@@ -26,16 +26,6 @@ tags:
 - productivity
 - learning
 - tool
-comments:
-- id: 32584
-  author: How to create a good pull request &#8211; Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: https://blog.alphasmanifesto.com/2016/07/11/how-to-create-a-good-pull-request/
-  date: '2016-07-11 22:33:19 +0000'
-  date_gmt: '2016-07-12 03:33:19 +0000'
-  content: "[&#8230;] covered a little bit of this idea in my previous post, Taming
-    your tools. Every content of the pull request that is not helping to achieve the
-    goal is helping to hide it. [&#8230;]"
 ---
 
 ![]({{ site.baseurl }}/assets/whip.png)

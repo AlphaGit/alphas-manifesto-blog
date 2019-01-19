@@ -24,7 +24,6 @@ tags:
 - Safari
 - Firefox
 - Mac
-comments: []
 ---
 
 [Xyle](http://culturedcode.com/xyle/index.html) es un debugger HTML/CSS para Safari (ya que seguramente todos los que utilicen [Firefox](http://www.getfirefox.com/) estarán muy contentos con [Firebug](http://www.getfirebug.com/)). Cabe destacar que si bien Xyle es solo para entornos Mac, la forma de presentación de la información es bastante distinta, algo novedosa. Personalmente, me parece algo intuitiva a la vez de elegante, con lo cual con mucho gusto lo probaría.

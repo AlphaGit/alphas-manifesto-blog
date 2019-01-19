@@ -26,7 +26,6 @@ tags:
 - QR Code
 - formato
 - corrección de errores
-comments: []
 ---
 Imágenes en QR Codes
 

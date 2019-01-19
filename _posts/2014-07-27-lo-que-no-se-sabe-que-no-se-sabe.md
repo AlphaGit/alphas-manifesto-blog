@@ -29,17 +29,6 @@ tags:
 - Hank Green
 - ignoracia
 - epistemología
-comments:
-- id: 25796
-  author: 'Anecdote: Jaimitos | Alpha&#039;s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2015/10/04/anecdote-jaimitos/
-  date: '2015-10-17 20:38:24 +0000'
-  date_gmt: '2015-10-18 01:38:24 +0000'
-  content: "[&#8230;] important to have knowledge management as something in your
-    life. (If you can read Spanish, you can read that post, or if not, let me know
-    so I&#8217;ll translate it.) But as a sidenote to that very same post, I
-    [&#8230;]"
 ---
 Manejo del conocimiento, parte 2
 

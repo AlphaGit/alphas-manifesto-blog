@@ -23,7 +23,6 @@ tags:
 - significado
 - conversación
 - geek
-comments: []
 ---
 Las palabras clave y por qué son clave
 

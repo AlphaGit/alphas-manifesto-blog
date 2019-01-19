@@ -28,7 +28,6 @@ tags:
 - PHP
 - desarrollo
 - AJAX
-comments: []
 ---
 
 Sabemos que los cuatro componentes mencionados (jQuery, MySQL, AJAX y PHP) deben de ser unos de los más comunes para generar aplicaciones web. Cada uno tiene una gran variedad de tutoriales o aproximaciones, podemos buscar y encontrar manuales, libros, ejemplos en abundancia.

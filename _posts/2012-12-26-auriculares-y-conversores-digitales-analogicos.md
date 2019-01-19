@@ -31,7 +31,6 @@ tags:
 - precio
 - conversor
 - configuración
-comments: []
 ---
 La búsqueda del sonido perfecto
 

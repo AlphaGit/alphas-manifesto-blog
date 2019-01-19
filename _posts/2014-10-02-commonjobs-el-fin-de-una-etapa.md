@@ -32,7 +32,6 @@ tags:
 - RavenDB
 - proceso
 - Scrum
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/commonJobs.png)

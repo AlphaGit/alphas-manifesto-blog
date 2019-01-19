@@ -24,7 +24,6 @@ tags:
 - snippet
 - unit testing
 - objeto
-comments: []
 ---
 Seleccionar un elemento cualquiera de un conjunto
 

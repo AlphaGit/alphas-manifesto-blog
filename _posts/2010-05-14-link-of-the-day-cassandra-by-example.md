@@ -22,7 +22,6 @@ tags:
 - databases
 - educación
 - NoSQL
-comments: []
 ---
 
 In a past link of the day, I have already talked about some distributed [NoSQL systems](https://blog.alphasmanifesto.com.ar/2010/03/02/link-del-dia-nosql/), and the benefits it could bring. I think now it's time to dive a little deeper in one of them, probably one of the most popular of these days, which is [Cassandra](http://cassandra.apache.org/).

@@ -27,7 +27,6 @@ tags:
 - RSS
 - PHP
 - PHP5
-comments: []
 ---
 
 Quizá muchos sepamos que existen varios agregadores de datos para la vida web. Lo que hacen es coleccionar datos de distintos lugares y mostrarlos en uno solo. Muy bueno para poder mantener toda nuestra actividad web concentrada, y poder mostrarnos de alguna forma en ese lugar en particular.

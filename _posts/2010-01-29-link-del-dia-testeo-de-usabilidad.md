@@ -24,17 +24,6 @@ tags:
 - web application
 - desarrollo web
 - usabilidad
-comments:
-- id: 6788
-  author: 'Link del día: Qué recuerdan los usuarios de tu sitio? | Alpha''s
-    Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/10/04/link-del-dia-que-recuerdan-los-usuarios-de-tu-sitio/
-  date: '2010-10-04 11:29:12 +0000'
-  date_gmt: '2010-10-04 13:29:12 +0000'
-  content: "[...] sistemas que nos permiten evaluar qué tan eficiente es nuestro
-    diseño (recuerdan el link de Usabilia?). Hoy tenemos dos más muy
-    similares, basados en la prueba de los cincos segundos.Al usuario que [...]"
 ---
 
 Muchas veces la usabilidad de un sistema es un requerimiento tan primordial como el funcionamiento en sí, y más en un mundo como puede ser el mundo web, en donde tenemos miles de competidores para servicios similares que podemos estar ofreciendo online. Quien publica primero tiene la ventaja, pero quien hace el servicio lo más fácil de usar y de forma más cómoda e intuitiva es quien logra hacer la diferencia.

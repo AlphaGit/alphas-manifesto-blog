@@ -26,7 +26,6 @@ tags:
 - SQL Server
 - troubleshooting
 - Stack Exchange
-comments: []
 ---
 Cuando la respuesta no es obvia
 

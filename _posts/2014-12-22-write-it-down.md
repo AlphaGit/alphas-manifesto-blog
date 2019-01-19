@@ -25,22 +25,6 @@ tags:
 - everyday stuff
 - time management
 - delegating
-comments:
-- id: 24914
-  author: claudia
-  author_email: delaurentisclaudia@gmail.com
-  author_url: ''
-  date: '2014-12-22 11:45:42 +0000'
-  date_gmt: '2014-12-22 17:45:42 +0000'
-  content: I totally agree! Me encantan los zorrinitos estresados!!!!!
-- id: 25169
-  author: My experience with bullet journals | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2015/02/19/my-experience-with-bullet-journals/
-  date: '2015-02-19 17:41:54 +0000'
-  date_gmt: '2015-02-19 23:41:54 +0000'
-  content: "[&#8230;] Writing it down has a releasing effect on you (read more about
-    this on my previous post) [&#8230;]"
 ---
 
 ![]({{ site.baseurl }}/assets/multitasking.png)

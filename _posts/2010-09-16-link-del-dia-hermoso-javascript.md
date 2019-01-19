@@ -21,7 +21,6 @@ tags:
 - JavaScript
 - seguridad
 - ofuscación
-comments: []
 ---
 
 Si ustedes han estado trabajando en análisis de algún sitio, ya sea por cuestiones de seguridad, curiosidad o investigación, muy seguramente habrán encontrado que analizar el JavaScript luego de que se comprime lo mayormente posible es un dolor. Por supuesto, sabemos que sigue siendo JavaScript válido porque se ejecuta, pero lo que nos falta es una forma de poder leerlo de forma simple.

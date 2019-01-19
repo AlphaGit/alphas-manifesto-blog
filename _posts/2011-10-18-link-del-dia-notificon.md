@@ -23,7 +23,6 @@ tags:
 - experiencia del usuario
 - user experience
 - favicon
-comments: []
 ---
 
 La gente de Github no me deja de sorprender, parece que siempre tuvieran algo nuevo. En este caso, me crucé con algo que no es demasiado funcional, pero sí muy interesante para lograr buenas interfaces de usuario.

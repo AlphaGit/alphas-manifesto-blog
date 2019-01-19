@@ -28,7 +28,6 @@ tags:
 - search algorithms
 - font design
 - heuristics
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/BeeDrones.jpg)

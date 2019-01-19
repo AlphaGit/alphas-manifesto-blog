@@ -39,27 +39,6 @@ tags:
 - D3
 - BackboneJS
 - CoffeeScript
-comments:
-- id: 9130
-  author: elsupergomez
-  author_email: elsupergomez@gmail.com
-  author_url: http://blog.elsupergomez.com.ar
-  date: '2014-01-27 06:21:30 +0000'
-  date_gmt: '2014-01-27 11:21:30 +0000'
-  content: "Chabon, tanto tiempo, si no viste Breaking Bad te estas perdiendo una
-    excelente serie.\r\nCreo que es de las mejores que vi en todos los tiempos junto
-    con IT Crowd."
-- id: 9131
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com/
-  date: '2014-01-27 08:03:11 +0000'
-  date_gmt: '2014-01-27 13:03:11 +0000'
-  content: "¡Gracias! Algo que no menciono son series que comencé a ver
-    pero realmente no me atrajeron para nada. Big Bang Theory, It's Always Sunny in
-    Philadelphia, The Office, y alguna otra que olvido ahora. De IT Crowd sólo
-    habré visto 5 minutos, así que realmente no cuenta. ¡Saludos,
-    y que andes bien!"
 ---
 
 Update de estado desde el año pasado

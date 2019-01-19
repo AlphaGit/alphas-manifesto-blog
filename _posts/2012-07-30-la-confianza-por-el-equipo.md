@@ -33,7 +33,6 @@ tags:
 - UAT
 - QA
 - project management
-comments: []
 ---
 El manual de Nick Fury para coordinar equipos
 

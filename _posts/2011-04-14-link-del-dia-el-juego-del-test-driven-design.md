@@ -22,7 +22,6 @@ tags:
 - test-driven design
 - Eclipse
 - ninja
-comments: []
 ---
 
 Recuerdo haber hablado más de una vez sobre [distracciones](https://blog.alphasmanifesto.com/?s=distracciones) y [productividad](https://blog.alphasmanifesto.com/?s=productividad). Varias de esas veces he mencionado que si podemos darle un toque interesante a lo que estamos haciendo, casi a modo de juego o de desafío, la actividad se vuelve mucho más divertida, y por supuesto, nosotros nos volvemos más concentrados hacia ella.

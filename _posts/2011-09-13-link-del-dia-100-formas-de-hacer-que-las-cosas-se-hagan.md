@@ -22,24 +22,6 @@ tags:
 - email
 - artículo
 - consejos
-comments:
-- id: 8787
-  author: Jugando con la productividad | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/01/26/jugando-con-la-productividad/
-  date: '2012-01-26 11:50:13 +0000'
-  date_gmt: '2012-01-26 16:50:13 +0000'
-  content: "[...] inbox para generar gráficos de productividad. Muy seguramente
-    esté trabajando bajo la premisa de Inbox Zero, también muy útil
-    para tener la mente y el inbox [...]"
-- id: 24422
-  author: Google Inbox and Inbox Zero | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2014/11/28/google-inbox-and-inbox-zero/
-  date: '2014-11-28 18:53:14 +0000'
-  date_gmt: '2014-11-28 23:53:14 +0000'
-  content: "[&#8230;] time ago I mentioned Inbox Zero and that I would try applying
-    it to my email management techniques. Once I tried it, I never looked [&#8230;]"
 ---
 
 Me encontré en Del.icio.us este interesante artículo (de agradable estética, dicho sea de paso), titulado [100 ways to get more done](http://regardingwork.com/2011/09/01/100-ways-to-get-more-done/), que es un buen listado de muchos consejos. Aunque no me encuentro de acuerdo con todos ellos, una gran mayoría son realmente útiles e interesantes para investigar.

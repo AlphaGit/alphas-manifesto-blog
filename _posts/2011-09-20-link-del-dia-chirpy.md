@@ -24,7 +24,6 @@ tags:
 - desarrollo
 - Visual Studio
 - plugin
-comments: []
 ---
 
 Ayer hablé un ratito más con JH y siendo que no hay una sola charla que pueda tener con él en donde no aprenda algo, me comentó de su más reciente descubrimiento: [Chirpy](http://chirpy.codeplex.com/).

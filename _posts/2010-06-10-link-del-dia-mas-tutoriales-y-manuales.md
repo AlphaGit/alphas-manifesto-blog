@@ -24,7 +24,6 @@ tags:
 - educación
 - tutorial
 - book
-comments: []
 ---
 
 Anteayer hablábamos de [un sitio con distintos tutoriales](https://blog.alphasmanifesto.com/2010/06/08/link-del-dia-un-poco-de-teoria-del-color/), y muchos de estos estaban orientados al diseño gráfico, fotografía o diseño web. Hoy tenemos un sitio muy similar, llamado [1st Web Designer](http://www.1stwebdesigner.com/), que se orienta más al desarrollo web o incluso a otras cosas no relacionadas. (De hecho, el logo se parece mucho al de Debian Linux, verdad?)

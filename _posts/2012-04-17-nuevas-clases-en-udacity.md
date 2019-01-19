@@ -27,7 +27,6 @@ tags:
 - criptografía
 - clases
 - udacity
-comments: []
 ---
 
 Hace unos días me llegó un email sobre Udacity (del cual [yo ya había hablado](https://blog.alphasmanifesto.com/2012/01/31/udacity/)) avisando que hay nuevas clases disponibles allí.

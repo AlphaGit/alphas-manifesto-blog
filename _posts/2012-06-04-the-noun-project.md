@@ -25,7 +25,6 @@ tags:
 - diseño gráfico
 - galería
 - inspiración
-comments: []
 ---
 Iconos minimalistas para todas las ocasiones
 

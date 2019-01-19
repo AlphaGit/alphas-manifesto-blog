@@ -30,24 +30,6 @@ tags:
 - web development
 - Selenium
 - continuous integration
-comments:
-- id: 43672
-  author: Andres
-  author_email: notengo@notengo.com
-  author_url: ''
-  date: '2017-02-03 08:47:31 +0000'
-  date_gmt: '2017-02-03 14:47:31 +0000'
-  content: 'The link to "StackOverflow: Protractor and Travis, cross-platform scripts
-    (and other horror stories)." is broken'
-- id: 44618
-  author: Alpha
-  author_email: alphagma@gmail.com
-  author_url: http://www.alphasmanifesto.com/
-  date: '2017-02-12 20:21:05 +0000'
-  date_gmt: '2017-02-13 02:21:05 +0000'
-  content: Thanks for letting me know! The question received no activity over 1 year
-    so it was deleted as an abandoned question. I updated the link to point to a gist
-    that has a copy of it.
 ---
 
 ![]({{ site.baseurl }}/assets/juggling.png)

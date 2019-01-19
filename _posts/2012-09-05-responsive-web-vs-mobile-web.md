@@ -31,15 +31,6 @@ tags:
 - móvil
 - responsive
 - media queries
-comments:
-- id: 9027
-  author: Responsive Web Design - Elitist
-  author_email: ''
-  author_url: http://decodecode.net/elitist/2010/12/responsive-web-design/
-  date: '2013-07-07 12:30:25 +0000'
-  date_gmt: '2013-07-07 17:30:25 +0000'
-  content: "[...] Responsive Web vs. Mobile Web | Alpha&#8217;s Manifesto (en
-    Español) [...]"
 ---
 
 ![]({{ site.baseurl }}/assets/pantallas.png)

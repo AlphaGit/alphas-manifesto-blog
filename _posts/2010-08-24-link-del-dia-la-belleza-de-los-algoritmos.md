@@ -23,27 +23,6 @@ tags:
 - ordenamiento
 - procedural
 - algoritmos genéticos
-comments:
-- id: 6768
-  author: 'Link of the day: Procedurally speaking&#8230; | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/09/10/link-of-the-day-procedurally-speaking/
-  date: '2010-09-10 10:51:31 +0000'
-  date_gmt: '2010-09-10 12:51:31 +0000'
-  content: "[...] was written by Alpha on September 10, 2010  Posted Under: Link del
-    día,TecnologíaRemember that link where I spoke about different algorithms?
-    I made a quick reference to Pixel City. If you had the chance to see it, and furthermore,
-    if you [...]"
-- id: 7881
-  author: 'Link del día: Visualizar las estructuras | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/05/03/link-del-dia-visualizar-las-estructuras/
-  date: '2011-05-03 12:48:53 +0000'
-  date_gmt: '2011-05-03 14:48:53 +0000'
-  content: "[...] tenemos la versión web. Denle una mirada, no sólo
-    es interesante, sino entretenido.Recuerdan La Belleza de Los Algoritmos? Creo
-    que este link calificaba totalmente para estar en ese listado.Soy un zorrinito
-    [...]"
 ---
 
 Sí, ya sé que suena demasiado geek, pero cualquiera que pueda abtraerse un poco del algoritmo en sí, de qué haga o cómo lo haga verá que de alguna forma su "orden" logra un algo extra que puede ser realmente hermoso.

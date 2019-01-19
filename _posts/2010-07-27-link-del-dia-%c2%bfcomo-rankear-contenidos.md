@@ -26,7 +26,6 @@ tags:
 - feedback
 - AJAX
 - rating
-comments: []
 ---
 
 Hace un tiempo me puse a investigar sobre cómo utilizar alguna técnica que me permitiera rankear contenidos. Es decir, tener algún feedback de parte de los usuarios para saber qué contenido gustaba más y cuál no tanto. "_Copiémosnos de los grandes_", pensé yo, y busqué algún ranking de estrellas, al mejor estilo Youtube.

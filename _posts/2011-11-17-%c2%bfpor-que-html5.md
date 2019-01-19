@@ -25,27 +25,6 @@ tags:
 - XML
 - buenas prácticas
 - estándares
-comments:
-- id: 8914
-  author: Responsive Web vs. Mobile Web | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/09/05/responsive-web-vs-mobile-web/
-  date: '2012-09-05 21:37:35 +0000'
-  date_gmt: '2012-09-06 02:37:35 +0000'
-  content: "[...] En ese momento, si los desarrolladores web ya se sentían
-    frustrados con la variedad de navegadores, sistemas operativos, versiones y estándares,
-    al escuchar de esto elevaron un grito de ayuda al cielo. La World Wide Web Consortium
-    (W3C) y varios grandes de la industria (Microsoft, Apple, Google y muchos grupos
-    independientes) atendieron el llamado y propusieron nuevos estándares y
-    un camino para resolver este problema. Si les interesa leer más en detalle
-    sobre eso, pueden leer mi entrada sobre porqué conviene utilizar HTML5.
-    [...]"
----
-
-Hace no mucho se me presentó en una conversación, en donde me encararon con la siguiente pregunta: "Si el estándar de HTML5 no está aprobado aún, por qué usarlo?". Me abalancé con una respuesta salvaje del estilo "Por qué no?" (aunque con otras palabras) y no dije mucho más.  ¿Por qué alguien querría **no** usarlo? Pasaron 30 segundos desde mi respuesta y me puse del otro lado, pensando en que me estaban hablando de una nueva versión de Windows y ahí creí comprender el punto de vista. Creo que no aplica a HTML5 pero... por qué habría una diferencia?
-
-Fue entonces en donde me puse a dar una respuesta más elaborada, la cual reproduzco a continuación.
-
 ---
 
 > HTML5 es algo muy nuevo todavía, y eso tiene sus pros y sus contras.

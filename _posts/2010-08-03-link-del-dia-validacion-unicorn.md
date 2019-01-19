@@ -23,7 +23,6 @@ tags:
 - RSS
 - standard
 - W3C
-comments: []
 ---
 
 Hace ya mucho tiempo que los programadores web checkean sus markups con la [herramienta de validación HTML de W3c](http://validator.w3.org/), sus estilos con el [validador CSS de W3c](http://jigsaw.w3.org/css-validator/), sus sitios móbiles con dicho [servicio de W3C](http://validator.w3.org/mobile/) y también el [validador de feeds](http://validator.w3.org/feed/). Gracias a [un tweet de jmma](http://twitter.com/jmma/status/19757726670), me enteré que ahora W3C dispone de un servicio completo para verificar todo esto al mismo tiempo, llamado [Unicorn](http://validator.w3.org/unicorn/).

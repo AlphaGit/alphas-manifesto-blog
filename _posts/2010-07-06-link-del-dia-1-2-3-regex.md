@@ -19,7 +19,6 @@ categories:
 - Link del día
 - Technology
 tags: []
-comments: []
 ---
 
  ¿Recuerdan los posts viejos sobre cómo convertir un texto en una expresión regular acorde ([Text2RE](https://blog.alphasmanifesto.com/2008/05/19/link-del-dia-text2re/)), y sobre cómo visualizar las expresiones regulares ([ReAnimator](https://blog.alphasmanifesto.com/2008/01/23/link-del-dia-visualizing-regular-expressions/))?

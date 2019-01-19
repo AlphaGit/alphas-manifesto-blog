@@ -32,7 +32,6 @@ tags:
 - modular
 - tiempo real
 - reporte
-comments: []
 ---
 
 ## Hello to you all

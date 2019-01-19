@@ -22,7 +22,6 @@ tags:
 - creatividad
 - desarrollo
 - tiempo
-comments: []
 ---
 
 Yo me enteré mucho tiempo atrás de [TopCoder](http://www.topcoder.com/) cuando se hizo famoso casi comenzando (y cuando el diseño del sitio era totalmente distinto), por las competencias entre programadores, y como una especie de entrenamiento para mejorar. Todo el tiempo se están realizando competencias de programación. Antes eran solamente de desarollo, pero ahora se pueden hacer competencias de diseño de arquitecturas, de diseño de programas, de suites de testeo, en fin, de un montón de cosas relacionadas al desarrollo de software.

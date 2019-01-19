@@ -30,14 +30,6 @@ tags:
 - assumptions
 - problems
 - solutions
-comments:
-- id: 27247
-  author: Matias
-  author_email: matiasbeckerle@gmail.com
-  author_url: http://matiasbeckerle.github.io/
-  date: '2016-01-13 08:43:43 +0000'
-  date_gmt: '2016-01-13 14:43:43 +0000'
-  content: Amazing post, thanks. I should read this http://floating-point-gui.de/basic/.
 ---
 
 ![]({{ site.baseurl }}/assets/chemistryskunk.png)

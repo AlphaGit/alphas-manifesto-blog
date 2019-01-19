@@ -23,7 +23,6 @@ tags:
 - MicroSiervos
 - permisos
 - apps
-comments: []
 ---
 ...to clear your app permisions
 

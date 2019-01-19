@@ -26,16 +26,6 @@ tags:
 - software development
 - development
 - code
-comments:
-- id: 28601
-  author: Taming your tools &#8211; Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2016/02/28/taming-your-tools/
-  date: '2016-02-28 16:07:28 +0000'
-  date_gmt: '2016-02-28 22:07:28 +0000'
-  content: "[&#8230;] those that have read Code Complete, this is what Steve
-    McConnel refers to as &#8220;programming into your language, not in it&#8221;.
-    [&#8230;]"
 ---
 
 ![]({{ site.baseurl }}/assets/codecomplete.jpg)

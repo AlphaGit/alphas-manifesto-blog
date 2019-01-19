@@ -23,18 +23,6 @@ tags:
 - Google
 - cloud computing
 - Microsoft
-comments:
-- id: 7877
-  author: 'Link del día: Plataformas de Cloud presentes y por venir | Alpha''s
-    Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/05/02/link-del-dia-plataformas-de-cloud-presentes-y-por-venir/
-  date: '2011-05-02 13:20:28 +0000'
-  date_gmt: '2011-05-02 15:20:28 +0000'
-  content: "[...] (2010).Tampoco se olviden de checkear Cloud Computing Ecosystem,
-    que lo mantienen actualizado desde aquél post en diciembre del 2009.Soy
-    un zorrinito en las nubes.Si te gustó el post, invitame un cafecito.Posts
-    [...]"
 ---
 
 Hace no mucho hablamos un poco sobre la importancia y los beneficios del cloud computing, o la computación en la nube, como muchos quieren traducir el término. Volviendo sobre la idea, es el concepto de tener sistemas distribuidos para los cuales muchas computadoras físicas a lo largo y a lo ancho de internet están colaborando para un fin común. Puede que estas computadoras sean computadoras personales, o puede que sean servidores dispuestos a ese fin en algún lugar fuera de nuestro alcance.

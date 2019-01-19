@@ -18,7 +18,6 @@ date_gmt: '2007-11-19 15:42:00 +0000'
 categories:
 - Projects
 tags: []
-comments: []
 ---
 
 Cambié la técnica de escalado de las fuentes.

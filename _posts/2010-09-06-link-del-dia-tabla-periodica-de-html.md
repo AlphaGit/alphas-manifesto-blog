@@ -22,7 +22,6 @@ tags:
 - HTML
 - HTML5
 - web 2.0
-comments: []
 ---
 
 De parte de [Diego](http://www.google.com/profiles/104362566272343458086) me enteré de esta [Tabla Periódica de elementos HTML](http://ajaxian.com/archives/a-periodic-table-for-html), que pueden ver funcionando [aquí](http://joshduck.com/periodic-table.html), en donde están presentes los 104 elementos que actualmente forman parte del draft de HTML5. Si fuera un simple listado no pasaría de curiosidad, pero no solamente podemos verlo y hacer click en cada elemento para tener una breve descripción y luego un link a la especificación del mismo... sino que podemos además tomar una página cualquiera y ver qué uso de estos elementos se está haciendo en vivo y en directo para esa página.

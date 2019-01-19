@@ -27,7 +27,6 @@ tags:
 - wargames
 - pruebas
 - capture the flag
-comments: []
 ---
 Desafíos de hacking y seguridad
 

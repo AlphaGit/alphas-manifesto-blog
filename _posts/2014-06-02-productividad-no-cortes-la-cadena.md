@@ -25,28 +25,6 @@ tags:
 - código
 - motivación
 - rutina
-comments:
-- id: 14397
-  author: AleTails
-  author_email: AleTails@gmail.com
-  author_url: ''
-  date: '2014-06-03 10:52:04 +0000'
-  date_gmt: '2014-06-03 15:52:04 +0000'
-  content: "¡Mil gracias por compartirnos tu experiencia y tus concluciones!
-    \r\nLa verdad que suena muy copada la técnica y no sólo se puede
-    aplicar a programación, lo caul me atrae más. Ya mismo estoy compartiendo
-    con gente que necesita ponerse las pilas con sus proyectos personales pero no
-    les dedica el teimpo suficiente y pone mil excusas para justificarse (Yo en primer
-    lugar XD)\r\nSaludos\r\nAle"
-- id: 14800
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com/
-  date: '2014-06-07 16:04:09 +0000'
-  date_gmt: '2014-06-07 21:04:09 +0000'
-  content: "¡Gracias a vos! Ojalá resulte útil a esa gente, y
-    sí, definitivamente se puede aplicar a cualquier estilo de emprendimiento
-    personal. ¡Saludos!"
 ---
 
 ![]({{ site.baseurl }}/assets/Calendar_marked.png)

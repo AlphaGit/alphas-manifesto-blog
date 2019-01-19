@@ -18,26 +18,6 @@ date_gmt: '2009-04-25 21:06:11 +0000'
 categories:
 - Projects
 tags: []
-comments: []
----
-<div>
-
-**Español:**
-
-Estos días estuve trabajando en desarrollar un proceso de testing adaptable a empresas que pueden querer tener un ciclo de testing completo (con todo el ciclo de vida del mismo que eso implica) como también tener simplemente un par de días y un par de recursos libres para poder testear. Ante tanta variabilidad, es necesario generar un modelo de testing que sea adaptable y particionable según las necesidades del momento, o según lo planificado con anterioridad.
-
-Para casos planificados, pueden anticiparse testings que comienzan a trabajarse desde los requerimientos del sistema en desarrollo, y pueden incluso seguir el ciclo de vida de desarrollo del software a lo largo del mismo y en paralelo. Este es el famoso [modelo en V](http://en.wikipedia.org/wiki/V_model) del ciclo de vida de testing, pero este es el que presenta una gran deficiencia, que es la misma dependencia entre todas sus etapas. Este modelo se ajusta perfectamente a desarrollos con ciclos de vida de cascada, y si bien es fácilmente adaptable a otros ciclos de vida definidos, qué ocurre cuando nuestras etapas no son del todo claras? O peor aún, qué pasa cuando diferentes etapas se mezclan entre sí?
-
-Por supuesto, esta situación no es deseable, pero al momento de darse, también sería deseable que nuestro modelo de testing no sea un contra más en esta situación, sino que permita ser utilizado también para aportar calidad, que es &ndash; al fin y al cabo &ndash; la finalidad del mismo.
-
-Nuestro acercamiento a dicha tarea fue definir distintos tipos de testing, que variarían según los requisitos que estos tuvieran (documentos en qué basarse, cantidad de recursos necesarios proporcionalmente al tamaño del sistema, tiempo invertido, nivel de capacitación necesaria para los recursos, etc.), y para cada nivel de este tipo de testing, una variante que permitiera evaluar cierto aspecto de un sistema. De esta forma, logramos tener testing que puede ser hasta casi improvisado por los mismos desarrolladores, dejando documentación útil para el futuro del desarrollo del sistema, como a la vez también tenemos testing que puede planificarse desde el comienzo del proyecto y comenzar a trabajarse desde los requerimientos.
-
-Por supuesto, creemos que mientras más haya, mejor, pero esto no es siempre posible, y es una realidad a la que tenemos que mantenernos atentos, porque negarla es condenarnos al fracaso.
-
-Desafortunadamente, no puedo detallar información sobre los tipos de testing que hemos definido (ya que estos son propiedad e información de la empresa), pero los mismos también han sido planeado de un estilo y estructural totalmente formal, de manera que fácilmente puede tercerizarse el trabajo, o realizar testing para terceros de ser necesario o de surgir la oportunidad.
-
-_Soy un zorrinito adaptable._
-
 ---
 
 **English:**

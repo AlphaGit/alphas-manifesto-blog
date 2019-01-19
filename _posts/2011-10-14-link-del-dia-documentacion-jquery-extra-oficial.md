@@ -22,7 +22,6 @@ tags:
 - desarrollo web
 - jQuery
 - documentación
-comments: []
 ---
 
 Me encontré con dos fuentes de documentación extra-oficial de jQuery, con lo cual, por supuesto, pueden estar desactualizados y hasta incorrectos. Pero lo interesante de ellos es que nos ofrecen una navegación un poco distinta que la que la documentación original nos ofrece.

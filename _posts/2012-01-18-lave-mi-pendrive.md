@@ -22,7 +22,6 @@ tags:
 - dispositivos móviles
 - agua
 - pendrive
-comments: []
 ---
 
 Una guía para salvar los electrónicos mojados

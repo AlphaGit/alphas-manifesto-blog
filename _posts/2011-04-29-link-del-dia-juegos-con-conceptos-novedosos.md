@@ -23,17 +23,6 @@ tags:
 - experimento
 - juego
 - moral
-comments:
-- id: 8766
-  author: 'Manifiesto: Cerrando el 2011 | Alpha&#039;s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/12/31/manifiesto-cerrando-el-2011/
-  date: '2011-12-31 18:43:29 +0000'
-  date_gmt: '2011-12-31 23:43:29 +0000'
-  content: "[...] este año disfruté de Portal 2 (como no podía
-    esperarse menos), varios juegos experimentales ([1], [2], [3]). Esperando poder
-    probar luego Deus Ex (Human Revolution) jugué a Deus Ex (el primerito)
-    [...]"
 ---
 
 Hace un tiempo ya charlamos sobre [juegos con desafíos éticos](https://blog.alphasmanifesto.com/2011/01/03/link-del-dia-juegos-elecciones-y-moral/), un tipo de juego cuyo mensaje va realmente más allá de la simple diversión del momento. Y sobre eso, la lista, aunque cortita, se sigue extendiendo y vale la pena darles una revisada.

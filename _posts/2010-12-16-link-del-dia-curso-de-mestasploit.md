@@ -23,7 +23,6 @@ tags:
 - video
 - educación
 - herramientas
-comments: []
 ---
 
 Hace poco hablábamos de determinadas [herramientas de seguridad](https://blog.alphasmanifesto.com/2010/12/07/link-del-dia-herramientas-de-seguridad/) que están disponibles para nosotros a lo largo y lo ancho de la internet. Pero además de eso, debemos saber utilizarlas.

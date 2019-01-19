@@ -28,7 +28,6 @@ tags:
 - fakehr
 - Ember helpers
 - automated testing
-comments: []
 ---
 Solucionando incompatibilidad entre httpResponder + Ember 1.4.0+
 

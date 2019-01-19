@@ -27,7 +27,6 @@ tags:
 - AngularJS
 - data binding
 - templating
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/angularjs.jpg)

@@ -24,7 +24,6 @@ tags:
 - experiencia de usuario
 - Windows 8
 - Metro
-comments: []
 ---
 Crítica criteriosa
 

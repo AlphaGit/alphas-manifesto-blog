@@ -23,7 +23,6 @@ tags:
 - datamining
 - artículo
 - ingeniería social
-comments: []
 ---
 
 Este es mi tercer post hablando sobre un artículo publicado sobre la gente de [OkCupid](http://www.okcupid.com/). ([[1]](https://blog.alphasmanifesto.com/2009/11/05/link-del-dia-estadisticas-de-dating/), [[2]](https://blog.alphasmanifesto.com/2010/02/22/link-del-dia-que-foto-mostrar-para-caer-mejor/)). Para quien no lo sepa, es un sitio de citas (dicen ellos, el más grande que hay), con un blog realmente fantástico y con un valor científico muy importante (o eso considero yo). Ellos hacen análisis basados en la relaciones que su sitio maneja, y personalmente creo que sus estudios pueden bien ser de ayuda para la sociología u otras ciencias.

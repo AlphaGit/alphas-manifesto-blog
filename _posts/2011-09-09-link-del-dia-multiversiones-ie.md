@@ -22,7 +22,6 @@ tags:
 - Internet Explorer
 - Firefox
 - cross-browser
-comments: []
 ---
 
 Alguna vez les conté de Xenocode, una suerte de plugins que ejecutándose virtualizaban distintas versiones de Internet Explorer (aunque me pregunto en dónde dejé ese artículo). Ahora que no está más disponible, entre nuestras opciones disponibles para hacer testing de IE está [Utilu IE Collection](http://utilu.com/IECollection/), un conjunto de versiones standalone de Internet explorer (desde la 2.0!) para poder utilizar en nuestro testing de cross-browsing.

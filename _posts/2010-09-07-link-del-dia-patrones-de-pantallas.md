@@ -22,16 +22,6 @@ tags:
 - design
 - web 2.0
 - interfaz
-comments:
-- id: 6884
-  author: 'Link del día: Para publicar un website | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/11/24/link-del-dia-para-publicar-un-website/
-  date: '2010-11-24 11:23:06 +0000'
-  date_gmt: '2010-11-24 13:23:06 +0000'
-  content: "[...] cosas a tener en cuenta. Por eso, la gente de AddedBytes (de la
-    que ya hablamos antes &#8212; [1], [2]) ha publicado The Ultimate Website Launch
-    Checklist, que pueden ver online o descargar, o [...]"
 ---
 
 En un artículo de [Added Bytes](http://www.addedbytes.com/blog/a-collection-of-screen-patterns/) me encontré linkeado esta colección de patrones de pantallas, llamada [12 Standard Screen Patterns](http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns), del blog de [Designing Web Interfaces](http://designingwebinterfaces.com/). Esta gente se dedica a postear información muy interesante sobre cómo hacer más fácil e intuitiva, a la vez de innovadora, la experiencia usuario-máquina a través de distintas visualizaciones, herramientas, técnicas y aproximaciones.

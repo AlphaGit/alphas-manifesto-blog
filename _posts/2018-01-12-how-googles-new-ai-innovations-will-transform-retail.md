@@ -27,17 +27,6 @@ tags:
 - e-commerce
 - Google I/O
 - Google Lens
-comments: []
----
-
-![]({{ site.baseurl }}/assets/googleimg.jpg)
-
-by Rae Steinbach, in cooperation with Y Media Labs
-
-This is another great guest post, this time from [Rae Steinbach](https://twitter.com/araesininthesun). She  is a graduate of Tufts University with a combined International Relations and Chinese degree. After spending time living and working abroad in China, she returned to NYC to pursue her career and continue curating quality content. Rae is passionate about travel, food, and writing, of course.
-
-Her post talks about the impact that Google's AI vision will have on retail businesses. Thanks Rae; thank you very much!
-
 ---
 
 During 2017&rsquo;s Google I/O, where developers from all around the world explore emerging technologies together, the company announced several new elements for both Google Home and Google Assistant. For instance, Google Assistant, now equipped with AI, will be able to provide [relevant information about your environment by](https://www.theverge.com/2017/5/17/15654432/google-io-2017-keynote-highlights-news-announcements-recap) &ldquo;seeing&rdquo; it through the phone&rsquo;s camera. You could just point the lens at a business you pass on the street, suddenly receiving information about its services, customer reviews, and more.

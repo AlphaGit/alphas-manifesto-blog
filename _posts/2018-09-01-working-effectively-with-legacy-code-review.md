@@ -27,14 +27,6 @@ tags:
 - legacy code
 - maintenance
 - system design
-comments:
-- id: 88579
-  author: simplivllc
-  author_email: simplivllc@gmail.com
-  author_url: https://www.simpliv.com
-  date: '2018-11-23 07:18:36 +0000'
-  date_gmt: '2018-11-23 12:18:36 +0000'
-  content: "Well written and presented stuff.Keep it up.\r\nhttps://www.simpliv.com"
 ---
 
 ![]({{ site.baseurl }}/assets/working-effectively-legacy.jpg)

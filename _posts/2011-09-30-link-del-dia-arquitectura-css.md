@@ -23,19 +23,6 @@ tags:
 - design
 - modular
 - escalabilidad
-comments:
-- id: 8840
-  author: CSS Dinámico | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/04/03/css-dinamico/
-  date: '2012-04-03 08:54:31 +0000'
-  date_gmt: '2012-04-03 13:54:31 +0000'
-  content: "[...] Por un lado, permitirán la inserción fácil
-    de quienes no dominen CSS completamente. Está claro que significa que se
-    pueden resolver cosas de una forma no tan prolija, pero los lenguajes tratan de
-    facilitarnos las tareas a nosotros, no imponernos reglas que debemos seguir. Cuando
-    existe esa diferenciación es cuando comienzan a surgir buenas prácticas.
-    [...]"
 ---
 
 La idea me parece fantástica, pero la forma en la que se desarrolló, no tanto. La idea era, [Scalable and Modular Architecture for CSS](http://smacss.com/book/), una organización del código CSS de una aplicación para que fuera dividido en forma modular. De esta forma, habría determinados estilos base, y otros estilos pertenecientes a módulos que especificarían cosas extra, o modificarían detalles (aunque no deberían) de los estilos base.

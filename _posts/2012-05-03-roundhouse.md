@@ -29,7 +29,6 @@ tags:
 - migración
 - base de datos
 - esquema
-comments: []
 ---
 ¡Chuck Norris al rescate!
 

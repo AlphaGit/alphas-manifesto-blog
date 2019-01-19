@@ -19,7 +19,6 @@ categories:
 - Projects
 - Technology
 tags: []
-comments: []
 ---
 <div>
 

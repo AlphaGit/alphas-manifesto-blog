@@ -24,16 +24,6 @@ tags:
 - HTML
 - performance
 - profiling
-comments:
-- id: 6767
-  author: 'Link del día: Escribir JavaScript, al estilo Google | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/09/08/link-del-dia-escribir-javascript-al-estilo-google/
-  date: '2010-09-08 16:02:36 +0000'
-  date_gmt: '2010-09-08 18:02:36 +0000'
-  content: "[...] was written by Alpha on September 8, 2010  Posted Under: Link del
-    día,TecnologíaDejando de lado a Google Closure, una herramienta
-    de la que hablamos hace tiempo, hay algo que a muchos otros nos interesa al [...]"
 ---
 
 Hace ya algunos días que Google publicó sus [Closure Tools](http://googlecode.blogspot.com/2009/11/introducing-closure-tools.html), una serie de herramientas para trabajar con JavaScript eficiente y lograr mejorar la performance, velocidad y tamaño del código. Entre ellos se encuentran [Closure Compiler](http://code.google.com/closure/compiler/), una suerte de compilador para JavaScript, removiendo código innecesario, mejorando el código existente y minimizando lo que queda. También está la [Closure Library](http://code.google.com/closure/library), una librería JavaScript pero versión Google, y por último, los [Closure Templates](http://code.google.com/closure/templates/), una serie de soluciones "pre-hechas" para elementos reutilizables de HTML y UI.

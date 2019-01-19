@@ -26,7 +26,6 @@ tags:
 - aprendizaje
 - cursos
 - training
-comments: []
 ---
 
 Ya hemos hablado mucho de educación online con las distintas posibilidades que la internet ofrece a través de videos, podcasts y demás multimedia. Sin embargo, por lo general es raro que las instituciones que crean este contenido se vinculen demasiado con los consumidores de dicho contenido.

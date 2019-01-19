@@ -26,7 +26,6 @@ tags:
 - desarollo
 - theme
 - Alpha's Manifesto
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/configurableMenu.jpg)

@@ -23,7 +23,6 @@ tags:
 - social
 - dispositivos móviles
 - aplicación móvil
-comments: []
 ---
 
 Este es uno de esos ejemplos que van guíando a los programas de la forma que tienen que ser. Hace un tiempo ya [César DOnofrio](http://twitter.com/CesarDOnofrio) me estuvo comentando sobre una aplicación llamada [Color](http://www.color.com/). Con un nombre tan simple, es una herramienta para dispositivos móviles que nos permite formar parte de un "enjambre" de gente que participa de un evento.

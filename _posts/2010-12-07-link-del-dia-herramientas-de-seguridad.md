@@ -20,17 +20,6 @@ categories:
 tags:
 - seguridad
 - herramientas
-comments:
-- id: 7044
-  author: 'Link del día: Curso de Mestasploit | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/12/16/link-del-dia-curso-de-mestasploit/
-  date: '2010-12-16 13:43:00 +0000'
-  date_gmt: '2010-12-16 15:43:00 +0000'
-  content: "[...] by Alpha on December 16, 2010  Posted Under: Link del díaHace
-    poco hablábamos de determinadas herramientas de seguridad que están
-    disponibles para nosotros a lo largo y lo ancho de la internet. Pero además
-    de eso, [...]"
 ---
 
 Ayer hablamos un poco del [anonimato en nuestra conexión](https://blog.alphasmanifesto.com/2010/12/06/link-del-dia-anonimato-en-internet-gratuito/) y como podemos lograrlo gratis hoy a través de los servicios de Amazon, pero además podemos utilizar una gran variedad de herramientas de seguridad para asegurarnos que nuestra situación sea protegida, o por qué no, también utilizar estas herramientas para probar a alguien más. (Por supuesto, siempre de forma legal ;) )

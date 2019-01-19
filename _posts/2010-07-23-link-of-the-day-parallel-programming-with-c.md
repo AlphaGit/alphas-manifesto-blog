@@ -25,22 +25,6 @@ tags:
 - concurrencia
 - Visual Studio
 - programming
-comments:
-- id: 6745
-  author: mac
-  author_email: mac@moomoo.com.ar
-  author_url: http://www.moomoo.com.ar
-  date: '2010-07-23 14:15:48 +0000'
-  date_gmt: '2010-07-23 16:15:48 +0000'
-  content: jajaja, y si, si viene de M$ lo primero que uno hace es desconfiar
-- id: 6746
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2010-07-23 14:29:34 +0000'
-  date_gmt: '2010-07-23 16:29:34 +0000'
-  content: Sin embargo, están haciendo un muy buen trabajo y el avance que
-    se ve realmente una muy buena ayuda para la productividad.
 ---
 
 I just found out that the "Start page" for Visual Studio can really provide nice interesting articles and news. It's there where I found a link to an unfinished series of posts called [Parallel Programming](http://blogs.msdn.com/b/csharpfaq/archive/tags/parallel_2d00_programming/). These are part of the [C# Frequently Asked Questions](http://blogs.msdn.com/b/csharpfaq/) blog, one of the very interesting blogs around the MSDN.

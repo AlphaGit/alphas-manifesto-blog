@@ -21,16 +21,6 @@ tags:
 - open source
 - free software
 - freeware
-comments:
-- id: 4411
-  author: 'Blog de Software &raquo; Blog Archive &raquo; Link del día: Software
-    libre y gratuito para todo | Alpha&#39;s Manifesto'
-  author_email: ''
-  author_url: http://www.blogdesoftware.net/link-del-dia-software-libre-y-gratuito-para-todo-alphas-manifesto/
-  date: '2010-03-04 11:27:24 +0000'
-  date_gmt: '2010-03-04 13:27:24 +0000'
-  content: "[...] See the original post here:  Link del día: Software
-    libre y gratuito para todo | Alpha&#39;s Manifesto [...]"
 ---
 
 Si bien ya alguna vez publiqué [un link](https://blog.alphasmanifesto.com.ar/2009/08/21/link-of-the-day-awesome-free-software/) en donde había un listado de software libre ordenado por categorías, estoy seguro que ese listado ni es extensivo, ni es completo, ni cubre las necesidades de todos. El software gratuito y libre abunda y, aunque opino que no existe software de calidad necesaria para reemplazar a todo el software prioritario, no podemos decir que nuestras necesidades no se encuentran cubiertas bajo el paraguas del no-pagar.

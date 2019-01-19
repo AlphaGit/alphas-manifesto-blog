@@ -22,7 +22,6 @@ tags:
 - diseño gráfico
 - UI
 - mobile
-comments: []
 ---
 Comparando funcionalidades desde su pantalla
 

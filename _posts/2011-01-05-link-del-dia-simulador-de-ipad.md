@@ -26,16 +26,6 @@ tags:
 - jQuery
 - CSS3
 - iPad
-comments:
-- id: 7109
-  author: 'Tweets that mention Link del día: Simulador de iPad | Alpha''s Manifesto
-    -- Topsy.com'
-  author_email: ''
-  author_url: http://topsy.com/blog.alphasmanifesto.com/2011/01/05/link-del-dia-simulador-de-ipad/?utm_source=pingback&amp;utm_campaign=L2
-  date: '2011-01-05 16:30:50 +0000'
-  date_gmt: '2011-01-05 18:30:50 +0000'
-  content: "[...] This post was mentioned on Twitter by Jonathan Baldovino and Alpha.
-    Alpha said: Link del día: Simulador de iPad - http://ow.ly/3yC42 [...]"
 ---
 
 Gracias a [@Woork](http://twitter.com/Woork/status/22338930942672896) me enteré de este [Simulador de iPad](http://alexw.me/ipad/) totalmente hecho en CSS y JS. Si lo prueban un poco se darán cuenta que la mayoría de las aplicaciones no están implementadas todavía, pero hay cosas que sí están implementadas y pueden probarse hoy, por supuesto, de la misma forma que funcionaría en un iPad real:

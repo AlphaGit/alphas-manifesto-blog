@@ -19,30 +19,6 @@ categories:
 - Link del día
 - Technology
 tags: []
-comments:
-- id: 1836
-  author: JackSparrow
-  author_email: JackSparrow.88@gmail.com
-  author_url: https://addons.mozilla.org/addon/8687
-  date: '2009-06-18 01:10:36 +0000'
-  date_gmt: '2009-06-18 03:10:36 +0000'
-  content: "Uh! qué buenos links!\r\n\r\nHace unos meses le dije a mi hermano
-    \"estaría bueno que simulen la evolución con algún programa
-    para simular vida\" y \"algo parecido se podría usar, generando un ambiente
-    ficticio, para desarrollar aviones y ver cuál tiene la mejor forma\".\r\nAhora
-    me entero que eso ya existe desde hace 40 años xP\r\n\r\nMuy interesante
-    el tema, tiene pinta de se muy útil.\r\n\r\nMe voy a poner a estudiarlo
-    ;D!"
-- id: 1838
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2009-06-18 09:30:23 +0000'
-  date_gmt: '2009-06-18 11:30:23 +0000'
-  content: |-
-    jajaja, bueno, capaz que ya existía de antes, pero tuviste buenas ideas de todos modos =P
-
-    Saludos!
 ---
 
 Recuerdan que en algún caso publiqué una [introducción a algoritmos genéticos](https://blog.alphasmanifesto.com.ar/2007/11/07/link-del-dia-introduction-to-genetic-algorithms/) (que incluía visualizaciones gráficas y todo)? Bueno, varios luego de ver eso me preguntaron "Y esto para qué sirve?" y aparte de la chorrera de palabras que habré largado, poco convincentes, hoy publico también [15 Real-World Applications of Genetic Algorithms](http://brainz.org/15-real-world-applications-genetic-algorithms/).

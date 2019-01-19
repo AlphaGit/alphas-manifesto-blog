@@ -23,16 +23,6 @@ tags:
 - desarrollo
 - databases
 - gratis
-comments:
-- id: 6916
-  author: 'Tweets that mention Link del día: Bases de datos en las nubes |
-    Alpha''s Manifesto -- Topsy.com'
-  author_email: ''
-  author_url: http://topsy.com/blog.alphasmanifesto.com/2010/12/09/link-del-dia-bases-de-datos-en-las-nubes/?utm_source=pingback&amp;utm_campaign=L2
-  date: '2010-12-09 11:55:37 +0000'
-  date_gmt: '2010-12-09 13:55:37 +0000'
-  content: "[...] This post was mentioned on Twitter by Nancy Medica, Alpha. Alpha
-    said: Link del día: Bases de datos en las nubes - http://ow.ly/3mrQf [...]"
 ---
 
 Está de moda últimamente hablar de la computación en la nube (y no es para menos, ya que realmente propone un cambio interesante en la forma en que se mantiene el software).  Lo más común para esto son servicios en donde podemos alojar nuestros sistemas con más o menos control de la plataforma, pero pocos de ellos se han centrado solamente en los datos.

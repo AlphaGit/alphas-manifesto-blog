@@ -22,15 +22,6 @@ tags:
 - MySQL
 - SQL
 - capa
-comments:
-- id: 8950
-  author: psoriasis
-  author_email: averymcmillian@aol.com
-  author_url: http://mipsoriasisyyo.wordpress.com
-  date: '2013-01-30 05:07:57 +0000'
-  date_gmt: '2013-01-30 10:07:57 +0000'
-  content: "He tenido psoriasis desde hace 2 años y experimentado \r\ncon todo
-    tipo de terapias con limitado exito"
 ---
 
 A aquellos que programamos SQL nos encontramos muchas veces con lo que se encuentra cualquiera que programa cualquier otra cosa: tener que resolver un problema que seguro ya alguien resolvió. Para esto están los fotos, Google, sitios de soporte, StackOverflow, ExpertSexChange (a drede) y tantos otros lugares.

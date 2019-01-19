@@ -26,15 +26,6 @@ tags:
 - efficiency
 - build process
 - ci
-comments:
-- id: 88114
-  author: simplivllc
-  author_email: simplivllc@gmail.com
-  author_url: https://www.simpliv.com
-  date: '2018-11-06 23:40:27 +0000'
-  date_gmt: '2018-11-07 04:40:27 +0000'
-  content: Well written and presented about Docker and the file system.Much informative
-    too..
 ---
 
 ![]({{ site.baseurl }}/assets/Docker-heavy.png)

@@ -22,17 +22,6 @@ tags:
 - seguridad
 - educación
 - concurso
-comments:
-- id: 6759
-  author: 'Link del día: Memorias del Black Hat 2010 | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/08/23/link-del-dia-memorias-del-black-hat-2010/
-  date: '2010-08-23 14:36:54 +0000'
-  date_gmt: '2010-08-23 16:36:54 +0000'
-  content: "[...] Alpha on August 23, 2010  Posted Under: Link del díaYo no
-    tuve ninguna suerte con el concurso de How Strong Is Your Fu #2, y mucho menos
-    todavía he podido asistir al Black Hat de Las Vegas. A pesar de eso, lo
-    bueno es [...]"
 ---
 
 Esta noticia llegó a mí gracias a un tweet de [@offsectraining](http://twitter.com/offsectraining), el usuario de Twitter de [Offensive Security](http://www.offensive-security.com/), que decía: "Quieren ganar un ticket gratuito de BlackHat a las Vegas? Vengan y hackeen por caridad!".

@@ -23,7 +23,6 @@ tags:
 - algoritmo
 - gaming
 - paper
-comments: []
 ---
 
 Si es que han visto demos, publicidades, o han jugado personalmente con el Kinect, probablemente se habrán dado cuenta que tiene mucho trabajo volcado en ese producto, y mucha tecnología novedosa sobre la forma en la que se pueden reconocer los cuerpos, las caras y los movimientos. Simplemente, una forma que resultó ser viable de utilizar el reconocimiento de gestos de una forma muy amplia.

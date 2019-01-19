@@ -24,17 +24,6 @@ tags:
 - desarrollo web
 - PHP
 - librería
-comments:
-- id: 8690
-  author: 'Link del día: Combres, optimización ASP.NET | Alpha&#039;s
-    Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/09/19/link-del-dia-combres-optimizacion-asp-net/
-  date: '2011-09-19 10:49:54 +0000'
-  date_gmt: '2011-09-19 15:49:54 +0000'
-  content: "[...] llamado Combres 2.0, una librería para optimización
-    de sitios ASP.NET. Recuerdan el caso de Minify para PHP o mod_pagespeed para Apache,
-    este es el turno de [...]"
 ---
 
 Tratando de retomar la periodicidad de los links del día, hoy quiero hablar de Minify. [Minify](http://code.google.com/p/minify/) es una librería PHP de código abierto autocontenida que podemos utilizar para minimizar, unificar, cachear y definir nombres propios para recursos que queremos utilizar y mejorar la performance de nuestro sitio.

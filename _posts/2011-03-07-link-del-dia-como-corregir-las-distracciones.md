@@ -21,7 +21,6 @@ tags:
 - productividad
 - psicología
 - work
-comments: []
 ---
 
 Algún tiempo atrás hablamos sobre [la naturaleza de las distracciones](https://blog.alphasmanifesto.com/2010/08/19/link-del-dia-%C2%BFcomo-trabajar-con-distracciones/) y si realmente eran un problema o no. Más allá de eso, sabemos que si no se mantienen controladas, son definitivamente contraproducentes.

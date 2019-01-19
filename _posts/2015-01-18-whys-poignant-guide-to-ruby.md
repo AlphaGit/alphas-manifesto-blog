@@ -26,7 +26,6 @@ tags:
 - weird
 - programming
 - books
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/WhysFox.png)

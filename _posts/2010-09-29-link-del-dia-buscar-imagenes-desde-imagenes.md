@@ -21,17 +21,6 @@ tags:
 - web application
 - Imágenes
 - experimento
-comments:
-- id: 6776
-  author: 'Tweets that mention Link del día: Buscar imágenes desde imágenes
-    | Alpha''s Manifesto -- Topsy.com'
-  author_email: ''
-  author_url: http://topsy.com/blog.alphasmanifesto.com/2010/09/29/link-del-dia-buscar-imagenes-desde-imagenes/?utm_source=pingback&amp;utm_campaign=L2
-  date: '2010-09-29 17:47:33 +0000'
-  date_gmt: '2010-09-29 19:47:33 +0000'
-  content: "[...] This post was mentioned on Twitter by Jonathan Baldovino and Nancy
-    Medica, Alpha. Alpha said: Link del día: Buscar imágenes desde imágenes
-    - http://ow.ly/2LNOZ [...]"
 ---
 
 Alguna vez hablé sobre un sistema que nos permitía buscar imágenes que contuvieran ciertos colores. Pasaron los meses y ya se convirtió en algo común que todos podemos hacer a través de Google Image Search. El buscar imágenes similares también es algo que podemos hacer, también desde Google Image search.

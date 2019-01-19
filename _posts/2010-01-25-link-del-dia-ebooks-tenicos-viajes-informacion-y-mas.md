@@ -22,19 +22,6 @@ tags:
 - links
 - book
 - programming
-comments:
-- id: 3549
-  author: 'Link del día: eBooks ténicos, viajes, información
-    y más | Alpha&#39;s &#8230; &laquo; Blogueando Viajes'
-  author_email: ''
-  author_url: http://www.blogueandoviajes.com/link-del-dia-ebooks-tenicos-viajes-informacion-y-mas-alphas/
-  date: '2010-01-26 11:11:59 +0000'
-  date_gmt: '2010-01-26 13:11:59 +0000'
-  content: "[...] De casualidad me crucé con un link de un sitio llamado Mic-ro.co(s)m
-    (el paréntesis es porque la URL no tiene la s), que es básicamente
-    una colección de.   Read the original post:  Link del día:
-    eBooks ténicos, viajes, información y más | Alpha&#39;s &#8230;
-    [...]"
 ---
 
 De casualidad me crucé con un link de un sitio llamado [Mic-ro.co(s)m](http://mic-ro.com/) (el paréntesis es porque la URL no tiene la s), que es básicamente una colección de links de este lugar, en alemán. Sin embargo, la sección que más famosa se hizo de este sitio prácticamente estático es la sección de [eBooks](http://mic-ro.com/informatik/ebooks.html), que ofrece una buena cantidad de eBooks para bajar y leer (o para leer online) sobre distintas temáticas:

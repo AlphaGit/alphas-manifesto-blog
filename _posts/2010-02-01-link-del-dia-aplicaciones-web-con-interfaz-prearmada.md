@@ -23,7 +23,6 @@ tags:
 - HTML
 - web application
 - desarrollo web
-comments: []
 ---
 
 Aquellos que diseñan o programan aplicaciones web saben que, por un lado, se tienen que acortar a ciertos estándares. La innovación demasiado lejana podría confundir a los usuarios. Por otro lado, saben que es muy refrescante innovar y crear formas de interacción nuevas, y la web les permite muchas variantes.

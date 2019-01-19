@@ -18,7 +18,6 @@ date_gmt: '2007-10-29 04:07:00 +0000'
 categories:
 - Projects
 tags: []
-comments: []
 ---
 
 Ahhhhhhhhhhhh! Esto de las redes neuronales es medio mágico, porque hay cosas que las produce la gracia de la diosa fortuna y otras que son pura intuición y nadie nunca te habría sabido decir si te servía o no (hay un tercer grupo catalogado como "calculable"... pero a nadie le importa, ya hay fórmulas para eso).

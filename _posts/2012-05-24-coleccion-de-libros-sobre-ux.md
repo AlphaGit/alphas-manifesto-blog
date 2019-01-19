@@ -30,29 +30,6 @@ tags:
 - experiencia de usuario
 - book
 - UX
-comments:
-- id: 9122
-  author: wevibe
-  author_email: outleterotico@gmail.com
-  author_url: http://www.outlet-erotico.com/blog-erotico/140-we-vibe4-nuevo-vibrador-parejas.html
-  date: '2013-12-29 19:36:24 +0000'
-  date_gmt: '2013-12-30 00:36:24 +0000'
-  content: "Sería mucho pedir que acotaséis la lista a libros en castellano?\r\nAunque
-    tengo un nivel de inglés aceptable, no sé si para cosas tan técnicas
-    me perderé en algunos aspectos.\r\n\r\nmuchísimas gracias por compartir
-    vuestros conocimientos. \r\nun saludo"
-- id: 9123
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com/
-  date: '2014-01-06 10:37:58 +0000'
-  date_gmt: '2014-01-06 15:37:58 +0000'
-  content: |-
-    ¡Allo! Gracias por tu comentario y disculpas por mi tardanza (he estado de vacaciones).
-
-    No dudo que existan traducciones de muchos de estos libros, pero desafortunadamente no he sabido de ellos. Supongo que una búsqueda rápida en su título solucionaría el misterio. En el futuro, lo tendré en cuenta para la audiencia hispanoparlante y separaré aquellas recomendaciones que puedan leerse en español.
-
-    ¡Gracias!
 ---
 Libros obligatorios de lectura sobre UX
 

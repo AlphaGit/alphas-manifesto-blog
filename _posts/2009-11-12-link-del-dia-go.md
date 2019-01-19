@@ -19,7 +19,6 @@ categories:
 - Link del día
 - Technology
 tags: []
-comments: []
 ---
 
 Gracias a DG quien me pasó [el dato](http://alt1040.com/2009/11/google-propone-su-propio-lenguaje-de-programacion-con-go), resulta que ahora es noticia que [Google quiere liberar un lenguaje llamado Go](http://google-opensource.blogspot.com/2009/11/hey-ho-lets-go.html) (como si otra cosa faltara). Este lenguaje, según dicen, quiere combinar lo mejor de C++, Python, e incluso ideas desde Pascal, Oberon, etc...

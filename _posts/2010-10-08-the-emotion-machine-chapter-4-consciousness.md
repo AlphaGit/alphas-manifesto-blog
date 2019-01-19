@@ -22,16 +22,6 @@ tags:
 - ciencias cognitivas
 - conciencia
 - book
-comments:
-- id: 8727
-  author: The Emotion Machine | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/11/12/the-emotion-machine/
-  date: '2011-11-12 22:19:05 +0000'
-  date_gmt: '2011-11-13 03:19:05 +0000'
-  content: "[...] The Emotion Machine. As I read the different chapters, I had written
-    some reviews about it ([1], [2]), but I decided not to do that anymore as
-    I was missing the point of the book into the details. My [...]"
 ---
 
 Going on with my reading of [Minsky's book](https://blog.alphasmanifesto.com/2009/09/20/the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering/), chapter 4 is titled "Consciousness" and it definitely treats about that.

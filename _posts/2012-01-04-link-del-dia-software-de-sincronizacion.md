@@ -22,7 +22,6 @@ tags:
 - datos
 - sincronización
 - Dropbox
-comments: []
 ---
 
 A esta altura ya todos conocemos Dropbox, y quizá varias otras alternativas similares (como Live Mesh, Sugarsync, etc). En este caso alguien preguntó [qué servicios similares existen que no suban su información a internet](http://superuser.com/questions/372066/alternative-to-dropbox-sugarsync-spideroak-wuala-that-only-sync-to-my-devices), y obtuvo una buena variedad de respuestas. Es útil cuando la privacidad es un problema o la legalidad de la información también lo es (por ejemplo, que cierta información no pueda alojarse fuera de los servidores de una determinada empresa). En casos así, estos otros servicios pueden ser muy útiles.

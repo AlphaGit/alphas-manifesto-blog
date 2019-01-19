@@ -24,7 +24,6 @@ tags:
 - estándares
 - microformato
 - schema
-comments: []
 ---
 
 Repositorio público de esquemas de markup

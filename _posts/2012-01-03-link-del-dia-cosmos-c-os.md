@@ -25,22 +25,6 @@ tags:
 - ejercicio
 - emulador
 - Codeplex
-comments:
-- id: 8772
-  author: Andres
-  author_email: notengo@notengo.com
-  author_url: ''
-  date: '2012-01-03 12:42:13 +0000'
-  date_gmt: '2012-01-03 17:42:13 +0000'
-  content: " ¿Viste este otro http://en.wikipedia.org/wiki/Singularity_(operating_system)?"
-- id: 8773
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2012-01-03 12:53:24 +0000'
-  date_gmt: '2012-01-03 17:53:24 +0000'
-  content: No lo conocía! Muy bueno, gracias. Parece que este es mixto, pero
-    no deja de ser interesante por eso.
 ---
 
 [Cosmos](http://cosmos.codeplex.com/) es un proyecto opensource hosteado en Codeplex, que se trata de un sistema operativo completo construido en C#. Como tal, podemos deducir que no corre realmente de forma nativa en una máquina, sino sobre la plataforma .NET, pero creo que merece su atención como proyecto de extrema complejidad. No he visto el código, pero no dudo que mucho se podrá aprender de eso con solo mirarlo. Aparentemente, también hace utilización de extensas capabilidades de Visual Studio para un buen debugging del mismo, con lo que también es un buen ejercicio para aprender de esta herramienta.

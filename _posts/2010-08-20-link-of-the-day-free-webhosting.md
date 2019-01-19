@@ -20,15 +20,6 @@ categories:
 tags:
 - gratis
 - hosting
-comments:
-- id: 90800
-  author: Adeline
-  author_email: felixngabidj@gmail.com
-  author_url: http://cdsareold.com
-  date: '2019-01-12 14:39:42 +0000'
-  date_gmt: '2019-01-12 19:39:42 +0000'
-  content: "Hi there to all, how is the whole thing, I think \r\nevery one is getting
-    more from this site, and your views are nice \r\nin favor of new users."
 ---
 
 Yeah, yeah, I know that there are plenty of different web hosters that offers great deals for free. But, wouldn't you like to have some kind of search between them, so you can choose the one that goes best according to your preferences?

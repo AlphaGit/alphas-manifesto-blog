@@ -22,7 +22,6 @@ tags:
 - privacidad
 - Google
 - Microsoft
-comments: []
 ---
 
 I know that Google has products for everything, and they're still creating new things, making more and more enemies in different business. Besides that, we have the user's data concern: what about privacy? What about having other options? What happens to our Google data?

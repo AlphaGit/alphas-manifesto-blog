@@ -25,21 +25,6 @@ tags:
 - SQL
 - databases
 - desarollo
-comments:
-- id: 6890
-  author: Ale-Alejandro
-  author_email: los_rastas2000@yahoo.com.ar
-  author_url: ''
-  date: '2010-11-26 11:20:38 +0000'
-  date_gmt: '2010-11-26 13:20:38 +0000'
-  content: Eso es informacion muy util! Te ganaste un fucking cafe!
-- id: 6892
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2010-11-26 14:20:55 +0000'
-  date_gmt: '2010-11-26 16:20:55 +0000'
-  content: Este tipo es un ídolo! Gracias che!
 ---
 
 Gracias a [@smashingmag](http://twitter.com/smashingmag) y a [@breakingdev](http://twitter.com/BreakingDev) me entero de una serie de consejos para programadores sobre bases de datos. Es muy buena esta aproximación, ya que por lo general los programadores se enfocan más del lado de la lógica de una aplicación, quizá en cuanto a la arquitectura o al diseño de un sistema, y no tanto a la forma en la que se almacenan los datos para el mismo. Y cabe destacar, que muchas veces esta puede ser una diferencia enorme en cómo se comporta el sistema.

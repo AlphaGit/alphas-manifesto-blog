@@ -22,16 +22,6 @@ tags:
 - web application
 - experiencia del usuario
 - user experience
-comments:
-- id: 6848
-  author: 'Link of the day: Mouse trace your visitors | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/11/05/link-of-the-day-mouse-trace-your-visitors/
-  date: '2010-11-05 13:30:00 +0000'
-  date_gmt: '2010-11-05 15:30:00 +0000'
-  content: "[...] by Alpha on November 5, 2010  Posted Under: Link del díaWe&#8217;ve
-    already presented some tools ([1], [2], [3]) that allows you to easily have some
-    feedback of what the users do at your site or web [...]"
 ---
 
 Tanto para probar un diseño o como para probar un website o aplicación web, ya hemos hablado de varios sistemas que nos permiten evaluar qué tan eficiente es nuestro diseño (recuerdan el link de [Usabilia](https://blog.alphasmanifesto.com/2010/01/29/link-del-dia-testeo-de-usabilidad/)?). Hoy tenemos dos más muy similares, basados en la prueba de los cincos segundos.

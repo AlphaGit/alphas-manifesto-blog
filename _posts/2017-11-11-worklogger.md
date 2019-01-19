@@ -27,7 +27,6 @@ tags:
 - task automation
 - project
 - worklogger
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/time.jpg)

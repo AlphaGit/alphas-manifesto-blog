@@ -26,7 +26,6 @@ tags:
 - desarrollo web
 - desarrollo
 - presentación
-comments: []
 ---
 
 Hace poquito apareció en mi feed de Youtube una charla de Google Tech Talks llamada [How to Write Clean and Testable Code](http://www.youtube.com/watch?v=XcT4yYu_TTs). Para ser sinceros, el video dura más de una hora así que no lo ví, pero en lugar de eso busqué las diapositivas que se habían usado en él y las encontré aquí: [How to write Clean and Testable Code Slides](https://docs.google.com/present/view?id=0Abz6S2TvsDWSZDQ0OWdjaF8yNzdmYzZ3d2M5cw&amp;hl=en). Las diapositivas no me resultaron demasiado reveladoras tampoco pero sí resaltan algunos conceptos claves que es bueno siempre tener en mente.

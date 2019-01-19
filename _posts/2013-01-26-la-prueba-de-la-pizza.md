@@ -27,14 +27,6 @@ tags:
 - Rackspace
 - pizza
 - claridad
-comments:
-- id: 8949
-  author: La prueba de la pizza | MakingSensers
-  author_email: ''
-  author_url: http://makingsensers.wordpress.com/2013/01/27/la-prueba-de-la-pizza/
-  date: '2013-01-26 21:38:13 +0000'
-  date_gmt: '2013-01-27 02:38:13 +0000'
-  content: "[...] (via Alpha&#8217;s Manifesto) [...]"
 ---
 
 ![]({{ site.baseurl }}/assets/Pizza.jpg)

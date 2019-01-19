@@ -23,22 +23,6 @@ tags:
 - algoritmos genéticos
 - artículo
 - generación de código
-comments:
-- id: 7178
-  author: Ale-Alejandro
-  author_email: rastamanxx@hotmail.com
-  author_url: ''
-  date: '2011-02-04 12:58:00 +0000'
-  date_gmt: '2011-02-04 14:58:00 +0000'
-  content: Yo dawg!
-- id: 7179
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2011-02-04 14:58:42 +0000'
-  date_gmt: '2011-02-04 16:58:42 +0000'
-  content: I heard you like C#, so we put a compiler in your code, so you can code
-    while you code.
 ---
 
 Hace tiempo atrás publiqué  un link sobre [generación automática de código](https://blog.alphasmanifesto.com/2010/07/28/link-del-dia-usar-codigo-para-interpretar-codigo/), pero realmente hacía falta una explicación lenta y paso a paso de cómo se hace o cómo se pueden aprovechar las características que esto nos ofrece.

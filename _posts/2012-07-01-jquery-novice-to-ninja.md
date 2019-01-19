@@ -27,7 +27,6 @@ tags:
 - código
 - book
 - práctica
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/jqueryNoviceToNinja.jpg)

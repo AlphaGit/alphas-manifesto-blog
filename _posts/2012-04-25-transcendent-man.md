@@ -28,7 +28,6 @@ tags:
 - Kurzweil
 - nanotecnología
 - genética
-comments: []
 ---
 Un documental sobre Raymond Kurzweil y su pensamiento
 

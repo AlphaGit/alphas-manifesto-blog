@@ -27,7 +27,6 @@ tags:
 - integración
 - bash
 - theme
-comments: []
 ---
 Open source & automatic deployments
 

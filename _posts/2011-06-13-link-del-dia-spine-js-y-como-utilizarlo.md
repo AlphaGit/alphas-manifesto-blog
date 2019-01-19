@@ -22,7 +22,6 @@ tags:
 - desarrollo web
 - artículo
 - MVC
-comments: []
 ---
 
 [Building JavaScript Web Apps with MVC and Spine.js](http://addyosmani.com/blog/building-apps-spinejs/) es un artículo muy explicativo de cómo debe ser la estructura de una aplicación MVC junto con herramientas de [Spine.js](http://maccman.github.com/spine/) que nos permitirán hacer más sólidas nuestras aplicaciones. Para aquellos que no sepan qué es MVC, aquí tienen una corta y buena explicación, y para los que no sepan cómo se usa Spine.js, también tienen un buen ejemplo.

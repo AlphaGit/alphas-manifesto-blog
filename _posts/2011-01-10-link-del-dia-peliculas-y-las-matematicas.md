@@ -21,26 +21,6 @@ tags:
 - matemática
 - película
 - teorema
-comments:
-- id: 7120
-  author: Fernando Flores
-  author_email: floresf82@gmail.com
-  author_url: ''
-  date: '2011-01-10 12:41:56 +0000'
-  date_gmt: '2011-01-10 14:41:56 +0000'
-  content: "De matemáticas y cine, no he visto mucho, asi que gracias por los
-    enlaces!\r\n\r\nAlgo que se le acerca es el blog de Física en la ciencia
-    ficción \r\nhttp://fisicacf.blogspot.com/ Recomendable!\r\n\r\nY semi-off-topic,
-    aprovecho para mencionar CINERD http://cinerd.blogspot.com/ el cual estoy siguiendo
-    desde hace poco y promete buena información para los que gustan del cine.\r\n\r\nSaludos!"
-- id: 7121
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2011-01-10 13:03:02 +0000'
-  date_gmt: '2011-01-10 15:03:02 +0000'
-  content: Yay, estuve mirando ligeramente los blogs y se ven interesantes, seguramente
-    los comience a seguir. Muchas gracias!
 ---
 
 El otro día anduve curioseando un rato por el sitio de [MathsMovies](http://www.mathsmovies.com/), un sitio web que recopila varios datos sobre películas y la relación que estas tienen con el mundo de las matemáticas. Suena quizá a algo tonto, pero si revisan en la sección de [Salas](http://www.mathsmovies.com/salas/salas.htm), se encontrarán con que realmente hay distintas categorías y están bien pensadas. Por ejemplo, no es para nada igual una película que trata de un personaje muy hábil con las matemáticas (ej: Little Tate), que otra película en donde la trama es completamente guiada por el método matemático (ej: Primer), o que otra en donde los conceptos matemáticos forman una parte fuerte de la trama (ej: la saga de El Cubo).

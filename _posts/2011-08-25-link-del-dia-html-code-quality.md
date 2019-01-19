@@ -24,7 +24,6 @@ tags:
 - código
 - calidad
 - programming
-comments: []
 ---
 
 Sabemos que medir numéricamente la calidad de cierto código no es nada fácil, tratesé del lenguaje que se trate. Siempre hay muchos factores que no afectan en nada a lo funcional, pero que sí afectan a qué tan legible es el código, qué tan mantenible es, y qué tanto puede evolucionar de forma "grácil" sin ser un peso para el futuro de los programadores.

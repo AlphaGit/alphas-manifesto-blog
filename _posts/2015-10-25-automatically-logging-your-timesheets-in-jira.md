@@ -26,7 +26,6 @@ tags:
 - automation
 - Google Sheets
 - ticket
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/GCalToJira.png)

@@ -24,7 +24,6 @@ tags:
 - web 2.0
 - experiencia del usuario
 - user experience
-comments: []
 ---
 
 Alguna vez hablamos de [dos sistemas (Uservoice y Votebox)](https://blog.alphasmanifesto.com/2010/09/13/link-del-dia-feedback-2-0/) que nos permitían obtener información de parte del usuario como ideas o propuestas para continuar con el desarrollo de nuestro sistema y entender sus necesidades. Sin embargo, quizá no sea del todo buena idea utilizar estos mismos para el reporte de problemas o para un feedback algo negativo sobre lo que los usuarios están encontrando. Ese tipo de cosas que _"son como no deberían ser"_.

@@ -25,14 +25,6 @@ tags:
 - samurai
 - eBook
 - programming
-comments:
-- id: 8928
-  author: dante crivelli canales
-  author_email: dante.crivelli.canales@gmail.com
-  author_url: ''
-  date: '2012-10-31 11:46:34 +0000'
-  date_gmt: '2012-10-31 16:46:34 +0000'
-  content: muy bien¡¡¡¡
 ---
 La noble tarea de trabajar, efectivo y eficaz y en paz.
 

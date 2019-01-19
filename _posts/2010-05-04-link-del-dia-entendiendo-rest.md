@@ -25,7 +25,6 @@ tags:
 - web semántica
 - modelo
 - sistema
-comments: []
 ---
 
 Un tiempo atrás tuvimos una lectura que trataba de [una visión simple de la arquitectura REST](https://blog.alphasmanifesto.com.ar/2008/04/17/link-del-dia-como-explicarle-rest-a-la-mujer-de-uno/). Sin embargo, hay mucho más por comprender en esta arquitectura.

@@ -29,27 +29,6 @@ tags:
 - desarrollo móvil
 - CSS3
 - herramientas
-comments:
-- id: 7957
-  author: 'Link del día: Performance HTML5, CSS3 y DOM, Parte 2: Performance
-    HTML5 | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/05/16/link-del-dia-performance-html5-css3-y-dom-parte-2-performance-html5/
-  date: '2011-05-16 12:42:36 +0000'
-  date_gmt: '2011-05-16 14:42:36 +0000'
-  content: "[...] implementaciones de HTML5, CSS3, y, por supuesto, JavaScript. Como
-    ya lo habíamos mencionado en la parte 1 de este artículo, el tutorial
-    de HTML5 Rocks llamado Improving the performance of your HTML5 App trata varios
-    puntos [...]"
-- id: 9120
-  author: html5 developers
-  author_email: PaszkiewiczWyckoff8229@googlemail.com
-  author_url: http://www.html5webdeveloper.cominuitcss-development.html
-  date: '2013-12-11 06:40:28 +0000'
-  date_gmt: '2013-12-11 11:40:28 +0000'
-  content: Quite excellent submit. I recently stumbled upon your site and also needed
-    to express that We've genuinely liked checking your web site threads. Naturally
-    We're following with your feed exactly what wanting you write once more soon!
 ---
 
 Acabo de ver dos videos de Paul Irish, del grupo de Google Chrome. Uno de ellos era [Google Chrome Developer Tools: 12 Tricks to Develop Quicker](http://www.youtube.com/watch?v=nOEw9iiopwI). Aquí básicamente nos da una explicación de los Chrome Developer Tools con algunos trucos que no son tan sabidos. Interesante y útil.

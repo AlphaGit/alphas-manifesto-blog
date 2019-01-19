@@ -25,27 +25,6 @@ tags:
 - design
 - presentación
 - modular
-comments:
-- id: 9000
-  author: Silvia
-  author_email: syele3@yahoo.com
-  author_url: ''
-  date: '2013-05-16 03:27:23 +0000'
-  date_gmt: '2013-05-16 08:27:23 +0000'
-  content: "Hola,\r\n\r\n ¿Te interesaría intercambiar enlaces?  Tenemos
-    muchos blogs con Page Rank 3, 4 y 5 donde podríamos poner tu enlace si
-    pones uno de nuestros enlaces en tu web.\r\n\r\nMuchas Gracias,\r\n\r\nSilvia
-    Lopez"
-- id: 9001
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com/
-  date: '2013-05-16 07:16:02 +0000'
-  date_gmt: '2013-05-16 12:16:02 +0000'
-  content: |-
-    Hola Silvia, muchas gracias por tu propuesta, pero creo que voy a pasar. No creo que intercambiar enlaces sea útil para el mensaje central que mi blog quiere transmitir.
-
-    Aún así, muchas gracias.
 ---
 
 Gracias a JH me llega esta interesantísima presentación sobre un ámbito algo descuidado por lo general del desarrollo web: la parte programática de la interfaz. En esta presentación llamada [Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture), [Nicholas Zakas](http://www.nczonline.net/) nos presenta una arquitectura modular extensible, en donde cada módulo independiente solamente conoce el sandbox en el cual interactúa, aislado de todos los demás módulos, y sin  siquiera conocer cómo es la aplicación web en la que está funcionando.

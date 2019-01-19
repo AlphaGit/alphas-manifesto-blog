@@ -23,17 +23,6 @@ tags:
 - creatividad
 - recursividad
 - programming
-comments:
-- id: 6706
-  author: 'Tweets that mention Link del día: Recursivi(recursivi(recursivi.dad)dad)dad
-    | Alpha''s Manifesto -- Topsy.com'
-  author_email: ''
-  author_url: http://topsy.com/blog.alphasmanifesto.com/2010/07/07/link-del-dia-recursivirecursivirecursivi-daddaddad/?utm_source=pingback&amp;utm_campaign=L2
-  date: '2010-07-07 14:47:56 +0000'
-  date_gmt: '2010-07-07 16:47:56 +0000'
-  content: "[...] This post was mentioned on Twitter by Eduardo N. Fortes ✔, Alpha.
-    Alpha said: Blog post: Link del día: Recursivi(recursivi(recursivi.dad)dad)dad
-    http://bit.ly/ddz5z9 [...]"
 ---
 
 Probablemente conozcamos ya el concepto de recursividad. Si no lo conocen, para entenderlo van a tener que entender el concepto de recursividad. =P

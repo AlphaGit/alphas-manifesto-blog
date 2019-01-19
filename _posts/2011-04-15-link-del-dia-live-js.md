@@ -22,21 +22,6 @@ tags:
 - HTML
 - CSS
 - desarrollo web
-comments:
-- id: 7806
-  author: leandro
-  author_email: boludopeligroso@gmail.com
-  author_url: ''
-  date: '2011-04-18 05:43:07 +0000'
-  date_gmt: '2011-04-18 07:43:07 +0000'
-  content: "Feliz cumple zorrinito cumpleañero!\r\n\r\nun abrazo!"
-- id: 7813
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2011-04-19 12:33:15 +0000'
-  date_gmt: '2011-04-19 14:33:15 +0000'
-  content: Muchas gracias che! Espero que estés bien!
 ---
 
 Para diseñar y trabajar sobre HTML, mientras más atajos tomemos, mejor. Mucho del trabajo es repetitivo, y cuando queremos aplicar estilos, la cantidad de idas y vueltas de una ventana a otra es innumerable, por lo menos, hasta que logramos la perfección del diseño original.

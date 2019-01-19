@@ -22,7 +22,6 @@ tags:
 - jQuery
 - plugin
 - RIA
-comments: []
 ---
 
 Del mundo de jQuery nos vuelve a caer un plugin de buena utilidad, bajo el nombre de [UI Layout Plugin](http://layout.jquery-dev.net/). Este plugin nos permite manejar dinámicamente el layout de nuestra página, permitiendo interacciones complejas o pantallas con mucha información para ser mostradas de forma dinámica.

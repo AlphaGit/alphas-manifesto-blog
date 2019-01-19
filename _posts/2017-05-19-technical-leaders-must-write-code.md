@@ -27,28 +27,6 @@ tags:
 - leadership
 - practice
 - TL
-comments:
-- id: 54867
-  author: Matias
-  author_email: matiasbeckerle@gmail.com
-  author_url: https://matiasbeckerle.github.io
-  date: '2017-05-20 09:21:53 +0000'
-  date_gmt: '2017-05-20 14:21:53 +0000'
-  content: "100% agree. Funny thing I wrote a random thought on \"the leader will
-    be reviewed by the team members\" which has the same meaning as you put here on
-    this post.\r\n\r\nCoding is the most enjoyable part :)"
-- id: 55814
-  author: Alpha
-  author_email: alphagma@gmail.com
-  author_url: http://www.alphasmanifesto.com/
-  date: '2017-05-27 16:31:01 +0000'
-  date_gmt: '2017-05-27 21:31:01 +0000'
-  content: |-
-    (Sorry for the late reply, in my mind I had already replied to this comment.)
-
-    Absolutely! I think you're right on your point too -- we're very aligned. I wanted to point out the organizational benefits of such rules.
-
-    But in all, it may be that I just want to justify that I want more time for coding, right? ;)
 ---
 
 ![]({{ site.baseurl }}/assets/ForgottenKeyboard.png)

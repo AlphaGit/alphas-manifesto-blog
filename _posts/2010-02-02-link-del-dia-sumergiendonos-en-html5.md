@@ -25,17 +25,6 @@ tags:
 - capacitación
 - desarrollo web
 - book
-comments:
-- id: 7060
-  author: 'Link del día: HTML5 más profundo | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/12/21/link-del-dia-html5-mas-profundo/
-  date: '2010-12-21 13:41:33 +0000'
-  date_gmt: '2010-12-21 15:41:33 +0000'
-  content: "[...] by Alpha on December 21, 2010  Posted Under: Link del díaHace
-    un tiempo ya que tuvimos un link de introducción a HTML5, como para saber
-    de qué se trataba, y por supuesto, el tiempo ha pasado y esta nueva tecnología
-    [...]"
 ---
 
 Hace rato ya que vengo hablando de [nuevas tendencias para la web](https://blog.alphasmanifesto.com.ar/2010/01/08/link-del-dia-tecnologias-web/), como [SVG](https://blog.alphasmanifesto.com.ar/2010/01/28/link-del-dia-svg-y-aplicaciones-practicas/), por ejemplo. No fue hasta hace poquito que terminé de leer un libro online introductorio a HTML5, llamado [Dive Into HTML5](http://diveintohtml5.org/). Me tomó poco tiempo leerlo, debo confesar, porque el libro aún no se encuentra terminado. Verán, de hecho, que los links en la tabla de contenidos se encuentran incompletos, e incluso la sección sobre Canvas se encuentra sin terminar.

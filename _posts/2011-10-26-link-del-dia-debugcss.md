@@ -23,15 +23,6 @@ tags:
 - CSS
 - desarrollo web
 - bookmarklet
-comments:
-- id: 8800
-  author: VisualEvent | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/02/24/visualevent/
-  date: '2012-02-24 10:59:27 +0000'
-  date_gmt: '2012-02-24 15:59:27 +0000'
-  content: "[...] parecido a debugCSS que alguna vez envié, VisualEvent es
-    también un bookmarklet que nos permite trabajar con los [...]"
 ---
 
 Como todo elemento del desarrollo web, los CSS también pueden tener errores, y nuestra forma de utilizarlo puede no ser la óptima. Hay muchas herramientas que nos permiten ver cómo podríamos mejorarlo, pero hasta ahora no había visto ninguna que se enfocara directamente en corregir las buenas prácticas (junto con los errores, claro).

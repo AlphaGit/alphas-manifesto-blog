@@ -28,7 +28,6 @@ tags:
 - DeviantArt
 - apoyo
 - cultura 2.0
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/Favorites.jpg)

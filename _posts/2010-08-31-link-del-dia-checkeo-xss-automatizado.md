@@ -23,7 +23,6 @@ tags:
 - XSS
 - LFI
 - RFI
-comments: []
 ---
 
 Una de las tantas herramientas para checkeo de seguridad XSS hoy viene de la mano de los muchachos de [Dragonjar](http://feedproxy.google.com/~r/dragonjar/pKru/~3/1OUiwbGUnZU/x5s-encuentra-fallos-xss-lfi-y-rfi-facilmente.xhtml). Según ellos lo mencionan, esta herramienta llamada [X5S](http://xss.codeplex.com/) no solamente sirve para revisar si un sitio es seguro contra ataques **XSS** (cross site scripting), **LFI** (local file inclusion) y **RFI** (remote file inclusion). Sin duda algo muy interesante para los aficionados a la seguridad web, podrán probar este software como un plugin de [Fiddler](http://www.fiddler2.com/fiddler2/).

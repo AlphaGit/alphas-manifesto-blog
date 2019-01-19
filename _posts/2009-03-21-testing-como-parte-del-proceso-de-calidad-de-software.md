@@ -19,7 +19,6 @@ categories:
 - Life
 - Technology
 tags: []
-comments: []
 ---
 <div>
 

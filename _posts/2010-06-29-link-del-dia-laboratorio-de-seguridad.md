@@ -21,15 +21,6 @@ tags:
 - Google
 - seguridad
 - educación
-comments:
-- id: 8851
-  author: Exploit exercises | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/04/24/exploit-exercises/
-  date: '2012-04-24 11:21:09 +0000'
-  date_gmt: '2012-04-24 16:21:09 +0000'
-  content: "[...] a los laboratorios de seguridad, hace poco me encontré con
-    un sitio llamado Exploit Exercises, un sitio web que dispone de guías [...]"
 ---
 
 [Jarlsberg](http://jarlsberg.appspot.com/) (un tipo de queso) es el nombre de una aplicación hosteada en Google App Spot dedicada al entrenamiento informático. Esta herramienta nos provee de una plataforma libre en donde podemos probar ataques de seguridad y no romper nada. Al mismo tiempo, los tutoriales también nos irán explicando los distintos conceptos y la forma en que deben de ser aplicados en este caso en particular. Es decir, tenemos tanto teoría como práctica.

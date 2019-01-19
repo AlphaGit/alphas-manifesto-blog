@@ -25,7 +25,6 @@ tags:
 - LINQ
 - open source
 - ASCII
-comments: []
 ---
 
 Hace no mucho se hizo popular un script llamado [pdf.js](http://maraksquires.com/pdf.js/), un agregado sobre [node.js](http://nodejs.org/) que permite la generación de archivos PDFs directamente desde el navegador. Más allá de la novedad, parece que este es solo un proyecto de los muchos que tiene [Marak Squires](http://maraksquires.com/), un ingeniero de software que publica cosas muy interesantes, sin mentir (como lo dice él).

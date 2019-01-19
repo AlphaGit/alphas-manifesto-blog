@@ -28,17 +28,6 @@ tags:
 - legibilidad
 - accesibilidad
 - navegabilidad
-comments:
-- id: 8788
-  author: " ¿Qué loggear de los usuarios? | Alpha&#039;s Manifesto"
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/02/17/que-loggear-de-los-usuarios/
-  date: '2012-02-17 11:55:28 +0000'
-  date_gmt: '2012-02-17 16:55:28 +0000'
-  content: "[...] los usuarios interactúan con la aplicación. Si bien
-    algo de eso mencionamos cuando hablamos de 22 herramientas para mejorar la usabilidad,
-    hoy el problema es interno de la aplicación, y se trata de loggear las
-    acciones de los usuarios [...]"
 ---
 
 Compendio de herramientas para mejor usabilidad

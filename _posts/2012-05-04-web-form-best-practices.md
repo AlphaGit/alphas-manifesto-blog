@@ -25,26 +25,6 @@ tags:
 - StackExchange
 - UX
 - web form
-comments:
-- id: 8861
-  author: Lisandro
-  author_email: lisandro@gmail.com
-  author_url: http://www.lisandromartinez.com
-  date: '2012-05-04 08:11:49 +0000'
-  date_gmt: '2012-05-04 13:11:49 +0000'
-  content: "Comparto estos links que fueron utiles para mi y son claros para explicar
-    las razones.\r\n- http://uxmovement.com/forms/why-users-fill-out-forms-faster-with-unified-text-fields/\r\n-
-    http://uxmovement.com/forms/form-label-proximity-right-aligned-is-easier-to-scan/\r\n\r\nEspero
-    que les sean utiles a uds tambien!"
-- id: 8863
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com/
-  date: '2012-05-07 09:03:14 +0000'
-  date_gmt: '2012-05-07 14:03:14 +0000'
-  content: "¡Gracias Lisandro! Ya actualicé el post para que estén
-    esos links también. Me gustaron, además de útiles son claros
-    y concisos."
 ---
 Buenas prácticas para formularios web
 

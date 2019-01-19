@@ -26,14 +26,6 @@ tags:
 - desacoplamiento
 - separación de responsabilidades
 - "$scope"
-comments:
-- id: 9728
-  author: Matias
-  author_email: nexusmdq@yahoo.com.ar
-  author_url: http://matias.beckerle.com.ar
-  date: '2014-04-30 07:46:07 +0000'
-  date_gmt: '2014-04-30 12:46:07 +0000'
-  content: Gracias por compartirlo, muy buen post!
 ---
 
 ![]({{ site.baseurl }}/assets/scopeSoupMin.png)

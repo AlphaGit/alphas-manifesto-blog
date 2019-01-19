@@ -22,7 +22,6 @@ tags:
 - lenguajes
 - StackOverflow
 - características
-comments: []
 ---
 
 Los atributos de .NET son una de esas características del lenguaje que están presentes desde hace un buen tiempo, pero es una de esas características que tardamos en descubrir y utilizar.

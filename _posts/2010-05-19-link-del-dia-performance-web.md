@@ -27,22 +27,6 @@ tags:
 - IIS
 - Yahoo
 - best practices
-comments:
-- id: 6447
-  author: El Hombre Gris
-  author_email: malterisio777@gmail.com
-  author_url: ''
-  date: '2010-05-20 18:26:01 +0000'
-  date_gmt: '2010-05-20 20:26:01 +0000'
-  content: "Agregate estos dos a las optimizaciones de imagenes:\r\n\r\nhttp://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/\r\n\r\nhttp://www.smashingmagazine.com/2009/07/25/png-optimization-guide-more-clever-techniques/"
-- id: 6451
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2010-05-21 18:15:47 +0000'
-  date_gmt: '2010-05-21 20:15:47 +0000'
-  content: Gracias! Sabía que los tenía por ahí pero no los encontraba!
-    Sos un groso.
 ---
 
 A pedido de JF que está luchando con la performance de algunas aplicaciones web, hago un compilado de ciertos links que fui encontrando hace tiempo, y que de seguro serán útiles a más de una persona para mejorar la velocidad con la que funciona una web application. Especialmente ahora que es [tenido en cuenta para su Page Ranking](http://googlewebmastercentral.blogspot.com/2010/04/using-site-speed-in-web-search-ranking.html).

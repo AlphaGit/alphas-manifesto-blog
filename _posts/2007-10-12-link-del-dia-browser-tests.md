@@ -18,23 +18,6 @@ date_gmt: '2007-10-12 13:40:00 +0000'
 categories:
 - Link del día
 tags: []
-comments:
-- id: 1197
-  author: Metallica
-  author_email: ''
-  author_url: ''
-  date: '2007-10-12 16:08:00 +0000'
-  date_gmt: '2007-10-12 16:08:00 +0000'
-  content: Yo tengo una suscripción a BrowserCam y la verdad está MUY
-    bueno :D
-- id: 1198
-  author: Metallica
-  author_email: ''
-  author_url: ''
-  date: '2007-10-12 16:08:00 +0000'
-  date_gmt: '2007-10-12 16:08:00 +0000'
-  content: Yo tengo una suscripción a BrowserCam y la verdad está MUY
-    bueno :D
 ---
 
 Click [aquí](http://www.smashingmagazine.com/2007/10/02/browser-tests-services-and-compatibility-test-suites/).

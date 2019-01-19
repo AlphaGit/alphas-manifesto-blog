@@ -27,15 +27,6 @@ tags:
 - faceted search
 - design patterns
 - filters
-comments:
-- id: 25301
-  author: How TDD pays off | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2015/03/30/how-tdd-pays-off/
-  date: '2015-03-30 22:36:48 +0000'
-  date_gmt: '2015-03-31 03:36:48 +0000'
-  content: "[&#8230;] Do you remember my side-project, mongo-faceted? If not, you
-    can read about it here. [&#8230;]"
 ---
 
 ![]({{ site.baseurl }}/assets/mongo-faceted-logo-300x290.png)

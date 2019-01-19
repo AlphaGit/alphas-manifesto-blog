@@ -28,7 +28,6 @@ tags:
 - anécdota
 - screenshot
 - MakingSense
-comments: []
 ---
 Una historia real
 

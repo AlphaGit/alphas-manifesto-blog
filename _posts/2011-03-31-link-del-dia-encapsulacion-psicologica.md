@@ -25,7 +25,6 @@ tags:
 - software
 - encapsulación
 - confianza
-comments: []
 ---
 
 Este es otro de los links que me fue compartido via Twitter por la gente de [BreakingDev](http://twitter.com/BreakingDev), y el concepto es bastante simple, dejenmé presentarlo:

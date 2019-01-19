@@ -22,22 +22,6 @@ tags:
 - seguridad
 - passwords
 - esteganografía
-comments:
-- id: 6046
-  author: Macarena
-  author_email: MF@FROMDOPPLER.COM
-  author_url: http://www.fromdoppler.com/gpbolde
-  date: '2010-05-04 10:43:15 +0000'
-  date_gmt: '2010-05-04 12:43:15 +0000'
-  content: Como la tarjeta de coordenadas del Santander Rio!
-- id: 6057
-  author: Alpha
-  author_email: alpha@furries.com.ar
-  author_url: http://www.alphasmanifesto.com.ar/
-  date: '2010-05-04 22:36:28 +0000'
-  date_gmt: '2010-05-05 00:36:28 +0000'
-  content: Exactamente! Con la diferencia de que en este caso, solamente es válida
-    una combinación que solo nosotros conocemos.
 ---
 
 últimamente se ha puesto de moda una buena idea que la gente de [PasswordCard](http://passwordcard.org/) ha propuesto. PasswordCard es la idea de tener una tarjeta de colores y símbolos y una combinación de letras mayúsculas, minúsculas y números.

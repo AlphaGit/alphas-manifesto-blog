@@ -24,7 +24,6 @@ tags:
 - vida
 - DOM
 - entrevista
-comments: []
 ---
 
 Hace un tiempo Josh Resig, famoso por ser el creador de [JQuery](http://www.jqueery.com/), anunció en [su cuenta de Twitter](http://twitter.com/#!/jeresig) que estaría brindando una especie de "conferencia de prensa", una rueda de preguntas y respuestas en Reddit, específicamente en [este thread](http://www.reddit.com/r/IAmA/comments/h42ak/i_am_john_resig_creator_of_jquery_ama/).

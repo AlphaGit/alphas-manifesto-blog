@@ -22,26 +22,6 @@ tags:
 - web 2.0
 - experiencia del usuario
 - user experience
-comments:
-- id: 6846
-  author: 'Link del día: Feedback 2.0, volumen 2 | Alpha''s Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2010/11/04/link-del-dia-feedback-2-0-volumen-2/
-  date: '2010-11-04 11:45:36 +0000'
-  date_gmt: '2010-11-04 13:45:36 +0000'
-  content: "[...] post was written by Alpha on November 4, 2010  Posted Under: Link
-    del díaAlguna vez hablamos de dos sistemas (Uservoice y Votebox) que nos
-    permitían obtener información de parte del usuario como ideas o
-    propuestas para continuar [...]"
-- id: 8822
-  author: ASP.NET MVC UserVoice | Alpha&#039;s Manifesto
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2012/03/21/asp-net-mvc-uservoice/
-  date: '2012-03-21 11:09:22 +0000'
-  date_gmt: '2012-03-21 16:09:22 +0000'
-  content: "[...] que alguna vez conté de UserVoice y cómo permite obtener
-    feedback de la comunidad? Bueno, la gente de Microsoft me leyó (?) y el
-    mismo desarrollo de ASP.NET MVC está siendo [...]"
 ---
 
 En el momento en que una aplicación web es publicada, es muy importante que podamos tener algún tipo de feedback o resultados de opinión de los usuarios mismos. No solamente nos brindarían información sobre qué fallas han detectado (lo que, por supuesto, esperamos que sean las menos posibles) sino sobre nuevas ideas y posibles caminos que esta aplicación podría comenzar a transitar. Pero el proceso de toma de esa decisión es algo difícil.

@@ -18,7 +18,6 @@ date_gmt: '2007-11-07 12:36:00 +0000'
 categories:
 - Link del día
 tags: []
-comments: []
 ---
 
 Link [aquí](http://www.rennard.org/alife/english/gavintrgb.html).

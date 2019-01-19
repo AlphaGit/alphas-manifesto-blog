@@ -24,7 +24,6 @@ tags:
 - experiencia del usuario
 - user experience
 - user testing
-comments: []
 ---
 
 We've already presented some tools ([[1]](https://blog.alphasmanifesto.com/2010/10/04/link-del-dia-que-recuerdan-los-usuarios-de-tu-sitio/), [[2]](https://blog.alphasmanifesto.com/2010/01/29/link-del-dia-testeo-de-usabilidad/), [[3]](https://blog.alphasmanifesto.com/2009/10/16/link-del-dia-woopra/)) that allows you to easily have some feedback of what the users do at your site or web application, or how do you need to improve it to make it better for their user experience.

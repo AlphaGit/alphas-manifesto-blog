@@ -23,18 +23,6 @@ tags:
 - GitHub
 - burocracia
 - methodologies
-comments:
-- id: 8758
-  author: 'Link del día: Cómo hacer presentaciones geniales | Alpha&#039;s
-    Manifesto'
-  author_email: ''
-  author_url: http://blog.alphasmanifesto.com/2011/12/19/link-del-dia-como-hacer-presentaciones-geniales/
-  date: '2011-12-19 09:54:08 +0000'
-  date_gmt: '2011-12-19 14:54:08 +0000'
-  content: "[...] mi último link del día mostré una presentación
-    llamada Cómo GitHub usa GitHub para construir GitHub, pero más allá
-    del contenido, lo que realmente me llevó a leer esa presentación
-    era una nota [...]"
 ---
 
 Pensé que esta iba a ser otra presentación de producto como cualquier otra, pero no es el caso. La exposición de Zach Holman de cómo se utiliza GitHub es realmente épica, en cuanto a lo simple de su mensaje y lo profundo de la filosofía de trabajo que tienen.

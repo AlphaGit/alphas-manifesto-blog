@@ -21,7 +21,6 @@ tags:
 - design
 - funcionalidad
 - comentarios
-comments: []
 ---
 
 Empezando un blog más ordenado y limpio
