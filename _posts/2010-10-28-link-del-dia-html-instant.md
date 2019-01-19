@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: HTML Instant'
+title: 'Link del día: HTML Instant'
 author:
   display_name: Alpha
   login: Alpha
@@ -15,7 +15,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2619
 date: '2010-10-28 16:30:56 +0000'
 date_gmt: '2010-10-28 18:30:56 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - JavaScript
 - HTML
@@ -23,6 +23,9 @@ tags:
 - desarrollo web
 comments: []
 ---
-<p style="text-align: justify;">Gracias a la gente de <a href="http://twitter.com/BreakingDev">BreakingDev</a> me enter&eacute; de una aplicaci&oacute;n web llamada <a href="http://www.htmlinstant.com/">HTML Instant</a>, en donde podemos comenzar a maquetear HTML instant&aacute;neo, viendo los resultados ah&iacute; mismo en donde estamos trabajando.</p>
-<p style="text-align: justify;">Lo bueno es que podemos ver los resultados de forma instant&aacute;nea y sin mucho trabajo, podemos codificar al mismo tiempo que vemos nuestros errores para f&aacute;cilmente corregirlos. No hay siquiera por qu&eacute; cambiar de ventana. La aplicaci&oacute;n de una sola p&aacute;gina consta tambi&eacute;n de ciertos snippets pre-armados sobre los cuales podemos trabajar m&aacute;s f&aacute;cilmente.</p>
-<p style="text-align: justify;">Por supuesto, tambi&eacute;n acepta CSS y JavaScript.</p>
+
+Gracias a la gente de <a href="http://twitter.com/BreakingDev">BreakingDev</a> me enteré de una aplicación web llamada <a href="http://www.htmlinstant.com/">HTML Instant</a>, en donde podemos comenzar a maquetear HTML instantáneo, viendo los resultados ahí mismo en donde estamos trabajando.
+
+Lo bueno es que podemos ver los resultados de forma instantánea y sin mucho trabajo, podemos codificar al mismo tiempo que vemos nuestros errores para fácilmente corregirlos. No hay siquiera por qué cambiar de ventana. La aplicación de una sola página consta también de ciertos snippets pre-armados sobre los cuales podemos trabajar más fácilmente.
+
+Por supuesto, también acepta CSS y JavaScript.

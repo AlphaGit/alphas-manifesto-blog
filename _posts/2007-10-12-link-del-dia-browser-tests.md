@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Browser Tests'
+title: 'Link del día: Browser Tests'
 author:
   display_name: Alpha
   login: Alpha
@@ -15,7 +15,7 @@ wordpress_url: http://zorri2.wordpress.com/2007/10/12/link-del-dia-browser-tests
 date: '2007-10-12 13:40:00 +0000'
 date_gmt: '2007-10-12 13:40:00 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags: []
 comments:
 - id: 1197
@@ -23,15 +23,17 @@ comments:
   author_url: ''
   date: '2007-10-12 16:08:00 +0000'
   date_gmt: '2007-10-12 16:08:00 +0000'
-  content: Yo tengo una suscripci&oacute;n a BrowserCam y la verdad est&aacute; MUY
+  content: Yo tengo una suscripción a BrowserCam y la verdad está MUY
     bueno :D
 - id: 1198
   author: Metallica
   author_url: ''
   date: '2007-10-12 16:08:00 +0000'
   date_gmt: '2007-10-12 16:08:00 +0000'
-  content: Yo tengo una suscripci&oacute;n a BrowserCam y la verdad est&aacute; MUY
+  content: Yo tengo una suscripción a BrowserCam y la verdad está MUY
     bueno :D
 ---
-<div style="text-align:justify;">Click <a href="http://www.smashingmagazine.com/2007/10/02/browser-tests-services-and-compatibility-test-suites/">aqu&iacute;</a>.</p>
-<p>Sumamente &uacute;til para todos los que desarrollan en web por ac&aacute;, es un conjunto de herramientas, tanto instalables como online que permiten el testeo de aplicaciones web en m&uacute;ltiples navegadores.</p>
+
+Click <a href="http://www.smashingmagazine.com/2007/10/02/browser-tests-services-and-compatibility-test-suites/">aquí</a>.
+
+Sumamente útil para todos los que desarrollan en web por acá, es un conjunto de herramientas, tanto instalables como online que permiten el testeo de aplicaciones web en múltiples navegadores.
