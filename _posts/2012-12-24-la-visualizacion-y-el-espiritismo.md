@@ -34,7 +34,7 @@ comments: []
 ---
 
 <figure class="align-center">
-  <img src="{% link {{ site.url }}/assets/perceptionsmall.jpg %}" />
+  <img src="{{ site.url }}/assets/perceptionsmall.jpg" />
   <figcaption>("Perception", imagen cortesía de <a title="Katarsium" href="http://katarsium.deviantart.com/art/Perception-326922394" target="_blank">Katarsium</a>)</figcaption>
 </figure> 
 
