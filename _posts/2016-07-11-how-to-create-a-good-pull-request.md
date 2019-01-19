@@ -44,7 +44,7 @@ comments:
 
 This has been a common question and a subject of debate since everyone has their opinions on what _good code_ is and what _bad code_ is. Regardless, the pull request is not about the code itself but about the actions of reviewing, adjusting, discussing and assimilating (merging) code, which may be good or bad in itself.
 
-This will be later followed by a set of notes on <a href="https://blog.alphasmanifesto.com/2016/11/17/how-to-perform-a-good-code-review/">_how to perform a good code review_</a>.
+This will be later followed by a set of notes on [_how to perform a good code review_](https://blog.alphasmanifesto.com/2016/11/17/how-to-perform-a-good-code-review/).
 
 Without further ado, let's start with what is going to be a long article about sending a good pull request.
 
@@ -226,7 +226,7 @@ In my current team, we came up with the following template (just use it as an ex
 
 ### 3.1. Do not include garbage
 
-I covered a little bit of this idea in my previous post, <a href="https://blog.alphasmanifesto.com/2016/02/28/taming-your-tools/">Taming your tools</a>. Every content of the pull request that is not helping to achieve the goal is helping to hide it. This usually goes against the tendency of opportunistic refactoring and adjusting styles.
+I covered a little bit of this idea in my previous post, [Taming your tools](https://blog.alphasmanifesto.com/2016/02/28/taming-your-tools/). Every content of the pull request that is not helping to achieve the goal is helping to hide it. This usually goes against the tendency of opportunistic refactoring and adjusting styles.
 
 I personally prefer to leave them for subsequent PRs, but use your judgment. If your opportunistic refactor is a variable name change that affects only two lines, yeah, go ahead. If completely changes the design of an approach for greater flexibility, you may want to give it a PR of its own.
 

@@ -30,7 +30,7 @@ comments: []
 Guía rápida para tener un proxy reverso en 5 pasos
 
 
-En mi post anterior de <a href="https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/">alternativas para superar la limitación de la Same Origin Policy</a>, expliqué brevemente el por qué de mi preferencia por los reverse proxy.
+En mi post anterior de [alternativas para superar la limitación de la Same Origin Policy](https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/), expliqué brevemente el por qué de mi preferencia por los reverse proxy.
 
 Aquí quiero contar un poco más al respecto y contar, con lujo de detalles, cómo configurar un proxy reverso gratuito para proyectos .NET.
 
@@ -38,7 +38,7 @@ Aquí quiero contar un poco más al respecto y contar, con lujo de detalles, có
 
 ##  ¿Por qué un proxy reverso?
 
-Entre todas las opciones mencionadas en <a href="https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/">el post anterior</a> se destacaba al proxy reverso como una de mis opciones preferidas, por las siguientes razones:
+Entre todas las opciones mencionadas en [el post anterior](https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/) se destacaba al proxy reverso como una de mis opciones preferidas, por las siguientes razones:
 
 1. **Se puede configurar y versionar como parte del proyecto.** Esto significa que personas que se sumen al equipo no tienen más que actualizar el código y ejecutarlo para que la aplicación les funcione. Puede que esto varíe según el proxy elegido, pero si podemos usar componentes que nos permita esto, es definitivamente una ventaja no menor.
 1. **Es totalmente transparente para la aplicación.** Esta ventaja se da sobre supuestos en donde tenemos dos equipos distintos trabajando en una aplicación, o mientras unos están desarrollando el frontend, otros trabajan con el backend y deben exponer una API para que el frontend consuma. Por otro lado, no se debe ensuciar el código de la aplicación con mecanismos innecesarios que eviten las limitaciones del navegador cuando esta complejidad no es necesaria en un ambiente real.
@@ -48,13 +48,13 @@ Aclarados esos puntos, pasemos a la parte central de este artículo.
 
 ## Configurando ManagedFusion.Rewriter
 
-En mi búsqueda por proxies, encontré <a href="https://github.com/managedfusion/managedfusion-rewriter">ManagedFusion.Rewriter</a>, un proyecto open source y gratuito implementado en .NET que con unos pocos pasos nos permitirá configurar un rewriter de URLs y proxy reverso.
+En mi búsqueda por proxies, encontré [ManagedFusion.Rewriter](https://github.com/managedfusion/managedfusion-rewriter), un proyecto open source y gratuito implementado en .NET que con unos pocos pasos nos permitirá configurar un rewriter de URLs y proxy reverso.
 
 Cabe aclarar que ManagedFusion.Rewriter no tiene in desarrollo activo actualmente. Considérenlo dos veces antes de usar este proyecto para ambientes de producción. Para entornos de desarrollo, sin embargo, debería ser aceptable.
 
 ### 1. Bajar el proyecto
 
-Recomiendo usar la última versión disponible <a href="https://github.com/managedfusion/managedfusion-rewriter">en Github</a>. Hay copias en Codeplex y en Nuget, pero parecen estar un par de versiones atrás. Como extra, el último release tiene un bug que impedía ejecutar requests contra URLs que parecieran paths. Pueden leer más de esto aquí: <a href="https://github.com/managedfusion/managedfusion-rewriter/pull/6">Proxy issues for URLs without trailing slash</a>.
+Recomiendo usar la última versión disponible [en Github](https://github.com/managedfusion/managedfusion-rewriter). Hay copias en Codeplex y en Nuget, pero parecen estar un par de versiones atrás. Como extra, el último release tiene un bug que impedía ejecutar requests contra URLs que parecieran paths. Pueden leer más de esto aquí: [Proxy issues for URLs without trailing slash](https://github.com/managedfusion/managedfusion-rewriter/pull/6).
 
 En la página principal del repositorio, utilicen la opción de download zip. También pueden clonar el repositorio con su cliente git favorito, pero eso requiere que conozcan la utilización de git y quiero dejar esta guía en lo básico posible.
 
@@ -105,7 +105,7 @@ Con la segunda línea, puedo probar fácilmente que el proxy se encuentra funcio
 
 Cuando tengamos problemas, siempre podemos descomentar las líneas de `RewriteLog` y `RewriteLogLevel` para encontrar un archivo de log con el nombre indicado y verificar qué problema está ocurriendo.
 
-La documentación sobre las opciones disponibles está en <a href="http://httpd.apache.org/docs/current/rewrite/flags.html">RewriteRule Flags</a>, y los ejemplos que yo incluí tienen el siguiente efecto:
+La documentación sobre las opciones disponibles está en [RewriteRule Flags](http://httpd.apache.org/docs/current/rewrite/flags.html), y los ejemplos que yo incluí tienen el siguiente efecto:
 
 - `QA`: Mantiene la query string.
 - `P`: Ejecuta un proxy reverso contra la URL especificada (esto también funciona como L: terminar la ejecución de reglas para este request).

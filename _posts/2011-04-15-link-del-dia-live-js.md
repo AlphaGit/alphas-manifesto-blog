@@ -41,9 +41,9 @@ comments:
 
 Para diseñar y trabajar sobre HTML, mientras más atajos tomemos, mejor. Mucho del trabajo es repetitivo, y cuando queremos aplicar estilos, la cantidad de idas y vueltas de una ventana a otra es innumerable, por lo menos, hasta que logramos la perfección del diseño original.
 
-Ya alguien tuvo la idea de circunvalar ese problema y surgió <a href="http://livejs.com/">Live.js</a>, _un script más cerca a diseñar en el navegador_, que automáticamente detecta cambios en el HTML, el JavaScript, o el CSS y los aplica a la página actual.
+Ya alguien tuvo la idea de circunvalar ese problema y surgió [Live.js](http://livejs.com/), _un script más cerca a diseñar en el navegador_, que automáticamente detecta cambios en el HTML, el JavaScript, o el CSS y los aplica a la página actual.
 
-El proyecto surgió como una desviación desde <a href="http://code.google.com/p/backfire/">BackFire</a>, un sistema un poco más complejo (cliente-servidor) que nos permitía guardar los cambios en CSS que hacíamos con cualquier navegador inline (como FireBug, WebKit developer toolbar, etc.).
+El proyecto surgió como una desviación desde [BackFire](http://code.google.com/p/backfire/), un sistema un poco más complejo (cliente-servidor) que nos permitía guardar los cambios en CSS que hacíamos con cualquier navegador inline (como FireBug, WebKit developer toolbar, etc.).
 
 El punto es que Live.js automatiza todo eso y nos permite trabajar en los archivos de forma directa y ver los resultados en el navegador de forma transparente. Imaginen utilizarlo en conjunto con dos monitores. La productividad se eleva una muy buena cantidad.
 

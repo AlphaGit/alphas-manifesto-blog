@@ -31,7 +31,7 @@ comments: []
 
 ![]({{ site.baseurl }}/assets/GCalToJira.png)
 
-A while ago I explained <a href="https://blog.alphasmanifesto.com/2015/05/19/my-time-tracker-google-calendar/">how I use Google Calendar as my time-tracking system</a>. I did mention, but did not explain, how I made this into an automatic system of timesheets for JIRA, the system some companies I work for use for time tracking. It just involves Google Docs and a little bit of JavaScript.
+A while ago I explained [how I use Google Calendar as my time-tracking system](https://blog.alphasmanifesto.com/2015/05/19/my-time-tracker-google-calendar/). I did mention, but did not explain, how I made this into an automatic system of timesheets for JIRA, the system some companies I work for use for time tracking. It just involves Google Docs and a little bit of JavaScript.
 
 <!--more-->
 
@@ -92,7 +92,7 @@ This is what you'll enter in each of these cells:
 
 #### <sup>(1)</sup>Disclaimer/note
 
-You may have noted that what we're doing here is entering our JIRA credentials in plain text. While Google can be pretty secure, it is in no way recommended that you store passwords this way. However, we need them for JIRA authentication. Encrypting them beforehand will do no good since we're using Basic authentication, which just encodes them in Base64. JIRA supports basic, session and OAuth authentication. Basic and Session both require us to pass the credentials in plain text, OAuth can be more secure but that would make this small script become an app of its own, but it's definitely the safer option. You can read more about them in <a href="https://developer.atlassian.com/jiradev/jira-apis/jira-rest-apis">JIRA's REST APIs documentation</a>. Also, if you're using HTTP instead of HTTPS in your JIRA domain name, the communication between Google and your company servers will be in plain text and it will expose your password as well.
+You may have noted that what we're doing here is entering our JIRA credentials in plain text. While Google can be pretty secure, it is in no way recommended that you store passwords this way. However, we need them for JIRA authentication. Encrypting them beforehand will do no good since we're using Basic authentication, which just encodes them in Base64. JIRA supports basic, session and OAuth authentication. Basic and Session both require us to pass the credentials in plain text, OAuth can be more secure but that would make this small script become an app of its own, but it's definitely the safer option. You can read more about them in [JIRA's REST APIs documentation](https://developer.atlassian.com/jiradev/jira-apis/jira-rest-apis). Also, if you're using HTTP instead of HTTPS in your JIRA domain name, the communication between Google and your company servers will be in plain text and it will expose your password as well.
 
 ### 3. Code the scripts
 

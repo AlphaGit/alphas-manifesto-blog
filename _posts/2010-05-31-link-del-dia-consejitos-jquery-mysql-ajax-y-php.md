@@ -35,6 +35,6 @@ Sabemos que los cuatro componentes mencionados (jQuery, MySQL, AJAX y PHP) deben
 
 Sin embargo, hay algo que resulta muy atractivo, que es lograr buenas aproximaciones, y con "buenas" me refiero a atractivas, usables y novedosas. Ya varios lo han logrado, como es el caso de Facebook, Twitter, Digg y tantos otros servicios con conceptos como el scroll infinito, la manipulación inline del contenido, interfaces avanzadas, etc. Muchos ejemplos pueden servirnos para hacer nuestra propia versión, y como ya alguien me dijo "fijate cómo lo hizo alguien que ya lo haya hecho".
 
-Para eso el artículo de hoy nos viene muy bien, es <a href="http://www.9lessons.info/2008/08/jquery-ajax-and-php-projects-9lessons.html">jQuery, Ajax, PHP and MySQL projects</a>, de <a href="http://www.9lessons.info">9Lessons</a>, un compilado de muchos artículos de sus blogs que muestran ejemplos de cosas comunes que querremos lograr, y que, por supuesto, podemos adecuar a nuestras necesidades particulares. Una suerte de cheatsheet pero algo extenso y complejo.
+Para eso el artículo de hoy nos viene muy bien, es [jQuery, Ajax, PHP and MySQL projects](http://www.9lessons.info/2008/08/jquery-ajax-and-php-projects-9lessons.html), de [9Lessons](http://www.9lessons.info), un compilado de muchos artículos de sus blogs que muestran ejemplos de cosas comunes que querremos lograr, y que, por supuesto, podemos adecuar a nuestras necesidades particulares. Una suerte de cheatsheet pero algo extenso y complejo.
 
 _Soy un zorrinito web._

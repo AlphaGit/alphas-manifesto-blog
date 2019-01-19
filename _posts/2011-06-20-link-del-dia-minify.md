@@ -37,7 +37,7 @@ comments:
     este es el turno de [...]"
 ---
 
-Tratando de retomar la periodicidad de los links del día, hoy quiero hablar de Minify. <a href="http://code.google.com/p/minify/">Minify</a> es una librería PHP de código abierto autocontenida que podemos utilizar para minimizar, unificar, cachear y definir nombres propios para recursos que queremos utilizar y mejorar la performance de nuestro sitio.
+Tratando de retomar la periodicidad de los links del día, hoy quiero hablar de Minify. [Minify](http://code.google.com/p/minify/) es una librería PHP de código abierto autocontenida que podemos utilizar para minimizar, unificar, cachear y definir nombres propios para recursos que queremos utilizar y mejorar la performance de nuestro sitio.
 
 La librería no sólo soporta el trabajo con CSS, JS y HTML, minimizándolo completamente, sino que además puede ser utilizado para minimizar recursos bajo un solo nombre, y mejor aún, también es extensible para que podamos servir cualquier tipo de contenido de cualquier otra fuente. De hecho, lo probé cacheando y sirviendo recursos desde un sitio propio cuando los recursos en realidad son leídos de un lugar ajeno. Las ventajas de eso son el poder servir todo el JavaScript/CSS junto incluso aunque no nos pertenezcan, y ahorramos pedidos, y evitamos que el cliente deba acceder a múltiples dominios.
 

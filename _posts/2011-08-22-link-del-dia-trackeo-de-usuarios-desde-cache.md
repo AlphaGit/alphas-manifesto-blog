@@ -24,9 +24,9 @@ tags:
 comments: []
 ---
 
-Gracias a una característica propia de los browsers en cuanto a la forma que cachean elementos (algo que está funcionando desde hace un buen tiempo ya), resulta que es posible que explotando esa funcionalidad se pueda hacer trackeo de usuarios de la misma forma que podríamos hacerlo con cookies u otros elementos persistentes (recuerdan <a href="https://blog.alphasmanifesto.com/2010/10/21/link-del-dia-evercookie/">EverCookie</a>?).
+Gracias a una característica propia de los browsers en cuanto a la forma que cachean elementos (algo que está funcionando desde hace un buen tiempo ya), resulta que es posible que explotando esa funcionalidad se pueda hacer trackeo de usuarios de la misma forma que podríamos hacerlo con cookies u otros elementos persistentes (recuerdan [EverCookie](https://blog.alphasmanifesto.com/2010/10/21/link-del-dia-evercookie/)?).
 
-Y resulta que las técnicas no son simples de salvar para que esto no ocurra. Como el autor lo menciona en su artículo, <a href="https://grepular.com/Preventing_Web_Tracking_via_the_Browser_Cache">Preventing Web Tracking via de Browser Cache</a>, "_esto no es algo con un arreglo simple_".
+Y resulta que las técnicas no son simples de salvar para que esto no ocurra. Como el autor lo menciona en su artículo, [Preventing Web Tracking via de Browser Cache](https://grepular.com/Preventing_Web_Tracking_via_the_Browser_Cache), "_esto no es algo con un arreglo simple_".
 
 él nos explica también cómo se puede lograr este tracking con varios métodos, sin nada que alerte al usuario de estar siendo trackeado.
 

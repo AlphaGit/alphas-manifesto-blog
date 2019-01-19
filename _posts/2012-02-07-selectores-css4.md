@@ -30,10 +30,10 @@ comments: []
 No está el 3, vamos por el 4!
 
 
-Síp, los selectores CSS4 ya hicieron su apareción en uno de los primeros drafts de la <a href="http://www.w3.org/TR/selectors4/">W3c en septiembre del 2011</a>. Sin embargo, les falta un buen camino para que siquiera vayan a implementarse en cualquier navegador, por lo que no están listos para ser usados, ni siquiera para ser probados.
+Síp, los selectores CSS4 ya hicieron su apareción en uno de los primeros drafts de la [W3c en septiembre del 2011](http://www.w3.org/TR/selectors4/). Sin embargo, les falta un buen camino para que siquiera vayan a implementarse en cualquier navegador, por lo que no están listos para ser usados, ni siquiera para ser probados.
 
-Hay muchos pseudo-selectores y unos cuantos selectores en sí, y si prefieren una versión resumida, pueden visitar el artículo de <a href="http://www.red-team-design.com/meet-the-css4-selectors">Meet the CSS4 selectors</a>, pero en el fondo les recomiendo leer el draft de la W3C y hacerse agua la boca con lo fácil que va a ser aplicar estilos.
+Hay muchos pseudo-selectores y unos cuantos selectores en sí, y si prefieren una versión resumida, pueden visitar el artículo de [Meet the CSS4 selectors](http://www.red-team-design.com/meet-the-css4-selectors), pero en el fondo les recomiendo leer el draft de la W3C y hacerse agua la boca con lo fácil que va a ser aplicar estilos.
 
-(vía los <a href="http://www.variablenotfound.com/2011/12/enlaces-interesantes-65.html">Enlaces interesantes número 65 de VariableNotFound</a>)
+(vía los [Enlaces interesantes número 65 de VariableNotFound](http://www.variablenotfound.com/2011/12/enlaces-interesantes-65.html))
 
 _Soy un zorrinito estilizado._

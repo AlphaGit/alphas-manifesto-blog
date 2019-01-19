@@ -36,7 +36,7 @@ comments: []
 El fenómeno 2.0 del soporte y el gusto personal
 
 
-<a href="http://trollkhatt.deviantart.com/journal/Question-Why-do-you-fav-370017816">Una amiga mía preguntó en DeviantArt</a>:  ¿por qué favean?  ¿Qué hacen con sus favoritos?
+[Una amiga mía preguntó en DeviantArt](http://trollkhatt.deviantart.com/journal/Question-Why-do-you-fav-370017816):  ¿por qué favean?  ¿Qué hacen con sus favoritos?
 
 La pregunta me parece un poco más profunda de lo que aparenta ser en una primera leída. Los favoritos y la forma en la que se usan pueden ser un fenómeno de internet en sí mismo y la cultura 2.0. Quisiera hablar un poco de eso.
 

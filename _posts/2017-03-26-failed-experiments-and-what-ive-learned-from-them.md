@@ -45,7 +45,7 @@ In a preparation for a post that I'm going to write, I've prepared some code exa
 
 ## Test your crap
 
-If I wasn't convincing enough with my <a href="https://blog.alphasmanifesto.com/2015/03/30/how-tdd-pays-off/">How TDD pays off</a> post, here's another reason to test your stuff: you may make the smallest of mistakes and just not realize it until it's too late. Why didn't I test myself, being such a huge proponent? Well, I was going to do a quick-and-dirty work, maybe just 5-10 lines of code, that turned into 100 or 200 for debugging purposes. And I didn't want to spend any time on tests that wouldn't even see the light of day.
+If I wasn't convincing enough with my [How TDD pays off](https://blog.alphasmanifesto.com/2015/03/30/how-tdd-pays-off/) post, here's another reason to test your stuff: you may make the smallest of mistakes and just not realize it until it's too late. Why didn't I test myself, being such a huge proponent? Well, I was going to do a quick-and-dirty work, maybe just 5-10 lines of code, that turned into 100 or 200 for debugging purposes. And I didn't want to spend any time on tests that wouldn't even see the light of day.
 
 And here I am, one week later, wishing I did because I wouldn't have wasted a week troubleshooting a very minor indexing operation.
 
@@ -55,7 +55,7 @@ And here I am, one week later, wishing I did because I wouldn't have wasted a we
 
 Unless there's a need for it, avoid difficult, complicated or weird data structures. **If they don't feel right, they're probably not right.** In this case, I was using an array of arrays, which is not really strange, but why did I really need that? An array of arrays is pretty much a bunch of values thrown together in a bag, isn't it meant to have any data structure?
 
-Yes. I should have created objects, which are awfully easy to do. Maybe `values.map(v => { x: v[0], y: v[1] })` would have done it for me. I got lazy because I was using Google Charts and it requires you to <a href="https://developers.google.com/chart/interactive/docs/basic_preparing_data">pass the data to it in an array of arrays</a>, so I thought I might as well treat everything with the same data structure. It felt like a good idea at the time, and I can still see value in that decision, but in hindsight, it wasn't that beneficial.
+Yes. I should have created objects, which are awfully easy to do. Maybe `values.map(v => { x: v[0], y: v[1] })` would have done it for me. I got lazy because I was using Google Charts and it requires you to [pass the data to it in an array of arrays](https://developers.google.com/chart/interactive/docs/basic_preparing_data), so I thought I might as well treat everything with the same data structure. It felt like a good idea at the time, and I can still see value in that decision, but in hindsight, it wasn't that beneficial.
 
 You see, when you make a design choice for communicating data through your system, you may be leaking implementation details in the structure of that data. My data were an ordered pair of `(x, y)` values, so an array of arrays may have felt right, but it feels very weird to get a `y` value by using an index `1`.
 

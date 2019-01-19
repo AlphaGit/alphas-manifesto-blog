@@ -328,9 +328,9 @@ comments:
 
 Mi guía novata a la organización
 
-Hace un tiempo ya, y realmente, el día que salió, yo ya tenía una cuenta de <a href="http://trello.com">Trello</a>. Era simple, era bonito, era rápido, pero no veía el gran poder que tenía. Es porque, como muchas cosas, hay que saber utilizarlas.
+Hace un tiempo ya, y realmente, el día que salió, yo ya tenía una cuenta de [Trello](http://trello.com). Era simple, era bonito, era rápido, pero no veía el gran poder que tenía. Es porque, como muchas cosas, hay que saber utilizarlas.
 
-Hoy es para mi una herramienta fundamental en mi organización (personal y laboral) y me ha vuelto más productivo y ha evitado muchos de esos momentos de "_ ¿y ahora qué?_" o "_ ¿en qué estaba?_". Voy a compartirles el como para que sepan cómo lo hago yo, y espero comentarios de cómo lo hacen ustedes. Hasta que arregle los comentarios del blog, pueden responderme a <a href="http://twitter.com/AlphaTwi">@AlphaTwi</a>.
+Hoy es para mi una herramienta fundamental en mi organización (personal y laboral) y me ha vuelto más productivo y ha evitado muchos de esos momentos de "_ ¿y ahora qué?_" o "_ ¿en qué estaba?_". Voy a compartirles el como para que sepan cómo lo hago yo, y espero comentarios de cómo lo hacen ustedes. Hasta que arregle los comentarios del blog, pueden responderme a [@AlphaTwi](http://twitter.com/AlphaTwi).
 
 ## Trello por default
 
@@ -372,7 +372,7 @@ Este es un ejemplo con mi día de hoy (exitosamente cerrando la semana):
 
 ![My Work Today in Trello]({{ site.baseurl }}/assets/MyWork.png)
 
-Probablemente lean mis ítems y no entiendan en qué estoy trabajando, porque los títulos no son muy explicativos. Ese es otro beneficio: no tienen que serlo. Sólo tienen que decir lo suficiente como para que yo recuerde de qué se trataba todo. Si necesito más detalles uso los comentarios o las descripciones de las tarjetas (que, dicho sea de paso, soporta <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>). Si necesito varios puntos intermedios agrego una checklist (como el primer item en la imagen), y es todo a gusto.
+Probablemente lean mis ítems y no entiendan en qué estoy trabajando, porque los títulos no son muy explicativos. Ese es otro beneficio: no tienen que serlo. Sólo tienen que decir lo suficiente como para que yo recuerde de qué se trataba todo. Si necesito más detalles uso los comentarios o las descripciones de las tarjetas (que, dicho sea de paso, soporta [Markdown](http://en.wikipedia.org/wiki/Markdown)). Si necesito varios puntos intermedios agrego una checklist (como el primer item en la imagen), y es todo a gusto.
 
 Espero que esto haya sido útil para quién lo lea. Si tienen sugerencias, estoy encantado de oírlas, sería muy útil para mi también aprender de alguien que sepa organizarse mejor.
 

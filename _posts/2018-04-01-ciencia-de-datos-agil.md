@@ -32,7 +32,7 @@ comments: []
 
 (Post only in Spanish since I'm reviewing Spanish content. It's a Udemy course talking about Data Science in an agile framework.)
 
-Hace unos días terminé de participar del curso <a href="https://www.udemy.com/ciencia-de-datos-agil/learn/v4/">Ciencia de datos ágil</a>, por Ernesto Mislej, co-fundador de 7puentes. Al comienzo me recomendaron el curso porque cubría un hueco que no estaba muy bien explicado en las fuentes online: cómo llevar adelante un proyecto de Data Science, fuera del típico proceso waterfall que siempre se describe. Además, Ernesto es una fuente de buena reputación, por lo que el curso me interesó.
+Hace unos días terminé de participar del curso [Ciencia de datos ágil](https://www.udemy.com/ciencia-de-datos-agil/learn/v4/), por Ernesto Mislej, co-fundador de 7puentes. Al comienzo me recomendaron el curso porque cubría un hueco que no estaba muy bien explicado en las fuentes online: cómo llevar adelante un proyecto de Data Science, fuera del típico proceso waterfall que siempre se describe. Además, Ernesto es una fuente de buena reputación, por lo que el curso me interesó.
 
 <!--more-->
 
@@ -42,4 +42,4 @@ Estos ejemplos son realmente esclarecedores: permiten ver cómo se llevaría ade
 
 En definitiva, es una buena inversión de 2 horas y 15 dólares. (¡Muy accesible!) Definitivamente lo recomendaría.
 
-Si les interesa, pueden visitarlo en <a href="https://www.udemy.com/ciencia-de-datos-agil/learn/v4/">Udemy: Ciencia de datos ágil</a>.
+Si les interesa, pueden visitarlo en [Udemy: Ciencia de datos ágil](https://www.udemy.com/ciencia-de-datos-agil/learn/v4/).

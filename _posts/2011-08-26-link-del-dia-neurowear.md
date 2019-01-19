@@ -25,10 +25,10 @@ tags:
 comments: []
 ---
 
-Esto no es particularmente nuevo, y de hecho, he escuchado de algunas personas que ya se han adquirido uno de estos productos. Se trata de una versión "simpática"/"neko" de <a href="https://blog.alphasmanifesto.com/2008/03/07/link-del-dia-un-par-de-cosas-de-utilidad/">Emotiv</a>, aunque realmente no sé si las marcas estén relacionadas. Aunque está claro que la tecnología detrás de esto si lo está.
+Esto no es particularmente nuevo, y de hecho, he escuchado de algunas personas que ya se han adquirido uno de estos productos. Se trata de una versión "simpática"/"neko" de [Emotiv](https://blog.alphasmanifesto.com/2008/03/07/link-del-dia-un-par-de-cosas-de-utilidad/), aunque realmente no sé si las marcas estén relacionadas. Aunque está claro que la tecnología detrás de esto si lo está.
 
-El producto en sí se llama <a href="http://neurowear.net/">Necomimi Neurowear</a> (gracias <a href="http://wtf.microsiervos.com/frikismo/necomimi-orejas-gato-reaccionan-emociones.html">MicroSiervos</a>), y se trata de una cinta que ajustada a nuestra cabeza, detecta nuestros cambios emocionales y mueve unas orejitas de gato acorde a ellas. Realmente lo creamos o no útil, no podemos negar que la tecnología está alcanzando límites de ciencia ficción.
+El producto en sí se llama [Necomimi Neurowear](http://neurowear.net/) (gracias [MicroSiervos](http://wtf.microsiervos.com/frikismo/necomimi-orejas-gato-reaccionan-emociones.html)), y se trata de una cinta que ajustada a nuestra cabeza, detecta nuestros cambios emocionales y mueve unas orejitas de gato acorde a ellas. Realmente lo creamos o no útil, no podemos negar que la tecnología está alcanzando límites de ciencia ficción.
 
-Ni hablar de una noticia que me ha llegado ayer por Twitter llamada "<a href="http://www.tendencias21.net/La-frontera-entre-neurociencia-y-neurotecnologia-ha-sido-superada_a7252.html">La frontera entre neurociencia y neurotecnología ha sido superada</a>" (gracias <a href="http://twitter.com/#!/floresf/status/106541578084036608">Fernando</a>!), que claramente muestra que los avances son cada vez mayores.
+Ni hablar de una noticia que me ha llegado ayer por Twitter llamada "[La frontera entre neurociencia y neurotecnología ha sido superada](http://www.tendencias21.net/La-frontera-entre-neurociencia-y-neurotecnologia-ha-sido-superada_a7252.html)" (gracias [Fernando](http://twitter.com/#!/floresf/status/106541578084036608)!), que claramente muestra que los avances son cada vez mayores.
 
 _Soy un neurozorrinito._

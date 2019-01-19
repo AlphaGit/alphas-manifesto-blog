@@ -34,12 +34,12 @@ comments:
     feedback of what the users do at your site or web [...]"
 ---
 
-Tanto para probar un diseño o como para probar un website o aplicación web, ya hemos hablado de varios sistemas que nos permiten evaluar qué tan eficiente es nuestro diseño (recuerdan el link de <a href="https://blog.alphasmanifesto.com/2010/01/29/link-del-dia-testeo-de-usabilidad/">Usabilia</a>?). Hoy tenemos dos más muy similares, basados en la prueba de los cincos segundos.
+Tanto para probar un diseño o como para probar un website o aplicación web, ya hemos hablado de varios sistemas que nos permiten evaluar qué tan eficiente es nuestro diseño (recuerdan el link de [Usabilia](https://blog.alphasmanifesto.com/2010/01/29/link-del-dia-testeo-de-usabilidad/)?). Hoy tenemos dos más muy similares, basados en la prueba de los cincos segundos.
 
 Al usuario que va a efectuar la prueba, se le muestra un screenshot de nuestro website o nuestro diseño, y luego de eso él tiene que escribir las 5 primeras cosas que recuerde haber visto. Por supuesto, nos permitirá identificar fácilmente así qué elementos son los que realmente llaman la atención del visitante al primer momento. Y sabemos que si ganamos la atención en ese primer momento, hemos tenido éxito.
 
-Por un lado tenemos a <a href="http://fivesecondtest.com/">FiveSecondTest</a>, en sus versiones paga y gratuita. Esta aplicación es de la gente de <a href="http://www.usabilityhub.com/">UsabilityHub</a>, que ya tienen una serie de productos para la medición de la usabilidad de aplicaciones web, incluyendo también a <a href="http://navflow.com/">NavFlow</a> y a <a href="http://theclicktest.com/">ClickTest</a>.
+Por un lado tenemos a [FiveSecondTest](http://fivesecondtest.com/), en sus versiones paga y gratuita. Esta aplicación es de la gente de [UsabilityHub](http://www.usabilityhub.com/), que ya tienen una serie de productos para la medición de la usabilidad de aplicaciones web, incluyendo también a [NavFlow](http://navflow.com/) y a [ClickTest](http://theclicktest.com/).
 
-Por otro lado está <a href="http://www.clueapp.com/">Clue</a>, un servicio gratuito muy similar, en donde solo podremos probar aplicaciones web.
+Por otro lado está [Clue](http://www.clueapp.com/), un servicio gratuito muy similar, en donde solo podremos probar aplicaciones web.
 
 _Soy un zorrinito probado._

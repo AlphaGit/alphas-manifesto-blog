@@ -49,7 +49,7 @@ Singletons are a design pattern. A particular one which is pretty common because
 
 > the singleton pattern is a design pattern that restricts the instantiation of a class to one object (...) Implementation of a singleton pattern must satisfy the single instance and global access principles. &ndash;
 >
-> <a href="https://en.wikipedia.org/wiki/Singleton_pattern">Singleton Pattern</a>, Wikipedia
+> [Singleton Pattern](https://en.wikipedia.org/wiki/Singleton_pattern), Wikipedia
 
 So, pretty much as it sounds. A singleton is the pattern where a single object of a particular class is instantiated. The design should force that on you, so you can have at most one single instance of the class.
 

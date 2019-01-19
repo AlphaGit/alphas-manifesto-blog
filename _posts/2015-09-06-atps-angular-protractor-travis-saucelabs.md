@@ -58,7 +58,7 @@ A few days ago I got the combination of Angular + Protractor + TravisCI + SauceL
 
 ## First of all, the reasons
 
-As you may remember, I have a project which is an Angular directive called <a href="https://github.com/AlphaGit/ng-pattern-restrict/">ng-pattern-restrict</a>, and while unit test did cover a lot of what I wanted the directive to cover, this directive is special in which it actually tries to modify what the user experience is like, going deep into browser API and input value control. As such, unit tests did cover that my logic was correct, but it did not cover what browsers actually would do. This is why I wanted to change to an automation framework, to actually measure what a final user would see and make sure that it matches exactly what I wanted.
+As you may remember, I have a project which is an Angular directive called [ng-pattern-restrict](https://github.com/AlphaGit/ng-pattern-restrict/), and while unit test did cover a lot of what I wanted the directive to cover, this directive is special in which it actually tries to modify what the user experience is like, going deep into browser API and input value control. As such, unit tests did cover that my logic was correct, but it did not cover what browsers actually would do. This is why I wanted to change to an automation framework, to actually measure what a final user would see and make sure that it matches exactly what I wanted.
 
 ## Tools required
 
@@ -72,7 +72,7 @@ For this recipe, you're going to need the following tools:
 
 ### A note about grunt
 
-I actually wanted to make this work without grunt at all, for a few reasons. First, I could get more control over the details of what was being ran. Second, I would be able to limit the amount of dependencies required for my project and the simplicity for another developer to grasp it. While I love the idea, it proved to be a lot more complicated that I originally envisioned, but I cannot understand (yet) what the exact reason is for that. If you're interested in the details of my journey and my numerous failures, check my question in StackOverflow: <a href="https://gist.github.com/AlphaGit/d4564d5103c1a2b452c99d4bd5940d21">Protractor and Travis, cross-platform scripts (and other horror stories)</a>.
+I actually wanted to make this work without grunt at all, for a few reasons. First, I could get more control over the details of what was being ran. Second, I would be able to limit the amount of dependencies required for my project and the simplicity for another developer to grasp it. While I love the idea, it proved to be a lot more complicated that I originally envisioned, but I cannot understand (yet) what the exact reason is for that. If you're interested in the details of my journey and my numerous failures, check my question in StackOverflow: [Protractor and Travis, cross-platform scripts (and other horror stories)](https://gist.github.com/AlphaGit/d4564d5103c1a2b452c99d4bd5940d21).
 
 ## Getting Protractor to run locally
 

@@ -68,7 +68,7 @@ Going over this again: **a linear combination will only be able to approximate l
 
 ### Polynomial approximators
 
-Well, we could extend our linear combinations to polynomic combinations. So a quadratic function can be approximated by a polynomial of grade 2 (i.e. _a.x<sup>2</sup> + bx + c_). We can do the same for polynomials of grade 3, and 4, etc. In fact, we can keep doing this indefinitely, and <a href="https://en.wikipedia.org/wiki/Taylor_series">Taylor series approximations</a> is the mathematical demonstration that we can approximate any function with this.
+Well, we could extend our linear combinations to polynomic combinations. So a quadratic function can be approximated by a polynomial of grade 2 (i.e. _a.x<sup>2</sup> + bx + c_). We can do the same for polynomials of grade 3, and 4, etc. In fact, we can keep doing this indefinitely, and [Taylor series approximations](https://en.wikipedia.org/wiki/Taylor_series) is the mathematical demonstration that we can approximate any function with this.
 
 But it may get tricky... we might end up with a really complex expression for a very simple function. For example, here's a polynomial expression of grade 2 with 2 variables:
 
@@ -80,7 +80,7 @@ All letters except x and y are coefficients, the weights that we would need to a
 
 Mathematically speaking, what we need to do for our function approximation to be able to learn any function is to introduce a _non-linearity_. Polynomials are a way, but not the only way. Non-linearities will break the monotony of the linear approach we have taken so far. They will allow the vector space that we can reach to be the full space of functions possibly defined with these variables. This means that no matter what strange function we're trying to approximate, we'll be able to adjust our weights in a way that we can have a good prediction for outputs.
 
-These non-linearities, in neural networks are called _activation functions_. There are a bunch of <a href="https://en.wikipedia.org/wiki/Activation_function">activation functions</a>, but one of the most popular today can be even done in our head: Leaky ReLU (stands for Leaky Rectified Linear Unit -- a story for another day). It goes like this: if the variable is lower than zero, we multiply it with a small value (like 0.1). If the variable is higher than zero, we leave it as it is.
+These non-linearities, in neural networks are called _activation functions_. There are a bunch of [activation functions](https://en.wikipedia.org/wiki/Activation_function), but one of the most popular today can be even done in our head: Leaky ReLU (stands for Leaky Rectified Linear Unit -- a story for another day). It goes like this: if the variable is lower than zero, we multiply it with a small value (like 0.1). If the variable is higher than zero, we leave it as it is.
 
 ![]({{ site.baseurl }}/assets/lrelu.png)
 

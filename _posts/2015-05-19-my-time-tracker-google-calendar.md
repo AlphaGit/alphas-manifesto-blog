@@ -67,7 +67,7 @@ comments:
 
 ![]({{ site.baseurl }}/assets/Calendar_marked.png)
 
-Long time ago I wrote about a proposal from a StackExchange user about <a href="https://blog.alphasmanifesto.com/2013/09/16/google-calendar-para-manejo-de-tareas/">how to use Google Calendar for task planning</a> across projects and activities. The idea seemed good, and after months of making it my bread and butter, I think I have perfected it to address most of the problems I had with <a href="https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/">my workflow in Trello</a>. It's  not the holy grail of productivity, but it has helped me a lot.
+Long time ago I wrote about a proposal from a StackExchange user about [how to use Google Calendar for task planning](https://blog.alphasmanifesto.com/2013/09/16/google-calendar-para-manejo-de-tareas/) across projects and activities. The idea seemed good, and after months of making it my bread and butter, I think I have perfected it to address most of the problems I had with [my workflow in Trello](https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/). It's  not the holy grail of productivity, but it has helped me a lot.
 
 Let me explain it to you, because if you use Google Apps or GMail, you're most likely to benefit from this.
 
@@ -79,7 +79,7 @@ All you need to do is to start using your calendar for tasks. That's it. Pick a 
 
 Why a calendar for task planning?
 
-<a href="https://blog.alphasmanifesto.com/2013/09/16/google-calendar-para-manejo-de-tareas/">The initial approach</a> had its reasons:
+[The initial approach](https://blog.alphasmanifesto.com/2013/09/16/google-calendar-para-manejo-de-tareas/) had its reasons:
 
 - You can plan ahead
 - You can see when you're paying too much attention to a particular project / activity type
@@ -118,15 +118,15 @@ Example: if you name your calendars "Client - Project A" and "Client - Project B
 
 There are a few rough edges that I've not been able to figure out completely yet:
 
-**It's difficult to plan ahead.** You can't just plan a whole week ahead and then hope that nothing changes. Also, changing a bazillion meetings is a pain. You pretty much have to roll it out as it goes. You probably want to use a separate tool for tracking your pending to-dos. My option of choice so far is Trello. You can <a href="https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/">read here how I use it</a>.
+**It's difficult to plan ahead.** You can't just plan a whole week ahead and then hope that nothing changes. Also, changing a bazillion meetings is a pain. You pretty much have to roll it out as it goes. You probably want to use a separate tool for tracking your pending to-dos. My option of choice so far is Trello. You can [read here how I use it](https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/).
 
 **You can't add much relevant information into it.** Aside from the title and a brief description, you're pretty much out of luck. There's a Google Cal Labs plugin that allows for attachments, but that's as good as it gets.
 
-**The UI is kind of clunky.** Yeah, it's a shame, because I know that Google can do amazing stuff like Inbox, you can <a href="https://blog.alphasmanifesto.com/2014/11/28/google-inbox-and-inbox-zero/">read here why I liked it</a>. But I feel Google Calendar didn't get enough love. You can try <a href="https://calendar.sunrise.am/">Sunrise</a> if that does it for you, or basically any application that uses Google Calendar on the background.
+**The UI is kind of clunky.** Yeah, it's a shame, because I know that Google can do amazing stuff like Inbox, you can [read here why I liked it](https://blog.alphasmanifesto.com/2014/11/28/google-inbox-and-inbox-zero/). But I feel Google Calendar didn't get enough love. You can try [Sunrise](https://calendar.sunrise.am/) if that does it for you, or basically any application that uses Google Calendar on the background.
 
-**It sometimes messes up timezones.** I don't blame them, <a href="https://blog.alphasmanifesto.com/2012/03/14/bugs-con-el-manejo-de-fechas/">timezones are hard</a>. But it can get you into trouble to not get the right time.
+**It sometimes messes up timezones.** I don't blame them, [timezones are hard](https://blog.alphasmanifesto.com/2012/03/14/bugs-con-el-manejo-de-fechas/). But it can get you into trouble to not get the right time.
 
-**No way of archiving calendars.** As I keep participating for projects, they keep adding up. Google doesn't seem to impose any kind of limitation here (<a href="https://support.google.com/a/answer/2905486?hl=en">although there are</a>), but I wish there was some kind of "archiving".
+**No way of archiving calendars.** As I keep participating for projects, they keep adding up. Google doesn't seem to impose any kind of limitation here ([although there are](https://support.google.com/a/answer/2905486?hl=en)), but I wish there was some kind of "archiving".
 
 ## Conclusion
 

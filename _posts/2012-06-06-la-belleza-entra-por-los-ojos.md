@@ -33,7 +33,7 @@ comments: []
 Una historia real
 
 
-Una muy bonita anécdota que tenemos para contar cómo nuestro trabajo en User Experience comienza a dar sus frutos es una historia que a <a href="https://twitter.com/#!/cesardonofrio">César</a> le gusta contar, específicamente por la fuerza que esta historia tiene.
+Una muy bonita anécdota que tenemos para contar cómo nuestro trabajo en User Experience comienza a dar sus frutos es una historia que a [César](https://twitter.com/#!/cesardonofrio) le gusta contar, específicamente por la fuerza que esta historia tiene.
 
 La historia comienza con MakingSense trabajando en una propuesta para un cliente nuevo. Siendo nuevos en nuestras tratativas con esta empresa (una empresa con altos estándares de seguridad), queremos realmente mostrar lo mejor que tenemos. La aplicación que debíamos realizar era desafiante desde el concepto que trataba, porque involucraba mucha seguridad, muchas tecnologías nuevas y muchas características que ayudan al usuario pero hacen difícil de congeniar con las anteriormente mencionadas. Nuestros arquitectos trabajaron en resolver ese problema pero las propuestas siempre resultaron más concretas cuando se puede ver el resultado final.
 

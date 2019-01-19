@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-La gente de <a href="http://www.bnj.com/">Babcock y Jenkins</a> escribió un artículo sobre una actividad que ellos denominan "Coybow coding", que como lo pueden imaginar, tiene que ver con la codificación temeraria. En este caso, se trata sobre la programación o remediación de defectos directa en servidores de producción. Su artículo se titula <a href="http://www.bnj.com/cowboy-coding-pink-sombrero/">Cowboy Coding and the Pink Sombrero</a>.
+La gente de [Babcock y Jenkins](http://www.bnj.com/) escribió un artículo sobre una actividad que ellos denominan "Coybow coding", que como lo pueden imaginar, tiene que ver con la codificación temeraria. En este caso, se trata sobre la programación o remediación de defectos directa en servidores de producción. Su artículo se titula [Cowboy Coding and the Pink Sombrero](http://www.bnj.com/cowboy-coding-pink-sombrero/).
 
 La metodología de ellos es realmente hacer llamar la atención a alguien cuando se están haciendo cambios en producción. Es muy común que ciertas empresas muestren un mensaje cuando se accede a un servidor de producción, o que muchas acciones estén restringidas, o que se necesite usar passwords a cada rato. En defnitiva, es la importancia de recordarle al programador / administrador de sistemas que se encuentra trabajando en un sistema que está en vivo.
 

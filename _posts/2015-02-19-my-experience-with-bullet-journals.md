@@ -41,7 +41,7 @@ I have just learned about this technique called Bullet Journalism, which seem to
 
 ## Bullet journals
 
-The principles of Bullet Journals, created and <a href="http://www.bulletjournal.com/">explained by Ryder Carroll</a>, are pretty simple:
+The principles of Bullet Journals, created and [explained by Ryder Carroll](http://www.bulletjournal.com/), are pretty simple:
 
 - You plan your month as best as you can
 - You plan your day as best as you can
@@ -53,7 +53,7 @@ He then proceeds to explain which is the most appropriate way to signal tasks, a
 
 Most of this is done in a physical journal, for a couple of reasons:
 
-- **Writing it down has a releasing effect** on you (<a href="https://blog.alphasmanifesto.com/2014/12/22/write-it-down/">read more about this on my previous post</a>)
+- **Writing it down has a releasing effect** on you ([read more about this on my previous post](https://blog.alphasmanifesto.com/2014/12/22/write-it-down/))
 - The effort of writing it down physically **allows you to get rid of the really trivial stuff**
 - **Drawing, writing, doodling and such** are totally valid, and usually easier with pen and paper
 - Seeing the physical progress of a journal filling up **is very rewarding** :)
@@ -79,9 +79,9 @@ I have found the bullet journals really satisfying and useful. It's more than a 
 
 I actually keep some kind of journal for each day, with the main tasks that I think are important to achieve. Then I keep notes about things that are relevant to me (like, did I get an allergic reaction to anything? Did I rest well? Did I find something I want to research about later?). I also have a grocery list there somewhere, a list of software problems I need to solve with my home computer, a list of blog posts, etc.
 
-As I had explained before, <a href="https://blog.alphasmanifesto.com/2014/12/22/write-it-down/">writing it down really helps</a>, so this was a success factor into making bullet journals really help me out. It also helped me kickstart the process of each morning planning my day ahead and decide what's going to be the important things for the day.
+As I had explained before, [writing it down really helps](https://blog.alphasmanifesto.com/2014/12/22/write-it-down/), so this was a success factor into making bullet journals really help me out. It also helped me kickstart the process of each morning planning my day ahead and decide what's going to be the important things for the day.
 
-It has not replaced my other task-keeping methods, for which I had also made adjustments and improvements. I'll need to document those later on, but <a href="https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/">the latest update</a> is still pretty much valid.
+It has not replaced my other task-keeping methods, for which I had also made adjustments and improvements. I'll need to document those later on, but [the latest update](https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/) is still pretty much valid.
 
 All in all, **it has been a positive and relaxing experience, but I'm still refining my process as I go on**, finding out stuff, coming up with ideas and adjusting. Learn, apply, rinse and repeat.
 

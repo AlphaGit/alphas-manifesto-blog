@@ -50,9 +50,9 @@ comments:
 Una imagen tiene menos de mil copos de cereal
 
 
-De parte de <a href="http://design.org/blog/difference-between-ux-and-ui-subtleties-explained-cereal">Design.org</a> me llega una ingeniosa representación infográfica de Ed Lea, quién plasmó diferentes conceptos de diseño e interfaz en ejemplos visuales con un plato de cereal.
+De parte de [Design.org](http://design.org/blog/difference-between-ux-and-ui-subtleties-explained-cereal) me llega una ingeniosa representación infográfica de Ed Lea, quién plasmó diferentes conceptos de diseño e interfaz en ejemplos visuales con un plato de cereal.
 
-El post pueden verlo en <a href="http://design.org/blog/difference-between-ux-and-ui-subtleties-explained-cereal">The Difference Between UX and UI: Subtleties Explained in Cereal</a>.
+El post pueden verlo en [The Difference Between UX and UI: Subtleties Explained in Cereal](http://design.org/blog/difference-between-ux-and-ui-subtleties-explained-cereal).
 
 Me gustaría incluso jugar a extender la analogía (y  necesito ayuda de ustedes, lectores, para eso). Estas son algunas ideas que se me ocurrieron:
 

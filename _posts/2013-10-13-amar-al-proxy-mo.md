@@ -54,7 +54,7 @@ Hasta hace un tiempo estuve peleando con un problema particular, que en realidad
 
 ## Same-Origin Policy
 
-La <a href="http://en.wikipedia.org/wiki/Same-origin_policy">_Same-Origin Policy_</a> (o "_Política del Mismo Origen_") es una restricción de seguridad que casi todos los navegadores modernos imponen, para que scripts siendo ejecutados en el dominio A no pueda acceder a información expuesta en el dominio B. Esto no es para proteger los datos del dominio B, sino para proteger la integridad del dominio A, que ahora puede estar insertando código JavaScript directamente desde un dominio que está fuera de su control.
+La [_Same-Origin Policy_](http://en.wikipedia.org/wiki/Same-origin_policy) (o "_Política del Mismo Origen_") es una restricción de seguridad que casi todos los navegadores modernos imponen, para que scripts siendo ejecutados en el dominio A no pueda acceder a información expuesta en el dominio B. Esto no es para proteger los datos del dominio B, sino para proteger la integridad del dominio A, que ahora puede estar insertando código JavaScript directamente desde un dominio que está fuera de su control.
 
 Esto puede ser un problema particularmente en el escenario que he descripto: mientras nos encontramos desarrollando una aplicación web, trabajamos en él y lo ejecutamos en un servidor local, que seguramente será servido como `http://localhost`/. Este sitio utiliza llamadas AJAX (seguramente a través de `XMLHttpRequest`) que intenta comunicarse con `http://www.example.com/api/executeSomething`, y el navegador cancela la ejecución de ese request exactamente por la seguridad de la llamada.
 
@@ -62,7 +62,7 @@ El problema que se nos plantea es entonces:  ¿cómo podemos asegurar un entorno
 
 ## Soluciones
 
-<a href="http://stackoverflow.com/questions/3076414/ways-to-circumvent-the-same-origin-policy">Esta pregunta en StackOverflow</a> resume muchas de las opciones, pero quiero cubrirlas y hablar un poco más sobre cada una de ellas.
+[Esta pregunta en StackOverflow](http://stackoverflow.com/questions/3076414/ways-to-circumvent-the-same-origin-policy) resume muchas de las opciones, pero quiero cubrirlas y hablar un poco más sobre cada una de ellas.
 
 Veámoslas por partes.
 
@@ -81,7 +81,7 @@ Específicamente, el navegador indicará cuál es el origen del pedido, el servi
 Sin embargo, en mi opinión, esto tiene un par de problemas:
 
 1. Debe ser implementado por el servidor, lo que quiere decir que cada dueño de APIs puede elegir de qué forma se puede trabajar con ellas y quiénes tienen permitidos el acceso. No resuelve nuestro problema hoy y ahora, pero se acerca.
-1. Debe ser implementado por el cliente, y aparentemente <a href="http://caniuse.com/cors">ya es soportado por una gran variedad de navegadores</a>.
+1. Debe ser implementado por el cliente, y aparentemente [ya es soportado por una gran variedad de navegadores](http://caniuse.com/cors).
 1. El browser implementa la seguridad y NO el servidor, ya que el servidor sólo se puede guiar en base a la información provista desde la cabecera Origin. El mayor problema con esto es que no es muy difícil de hackear, lo que significa que sólo necesitamos un pequeño editor HTTP como para poder hackear nuestro camino e impersonar a cualquier aplicación.
 
 ### Método window.postMessage
@@ -103,13 +103,13 @@ Esto además tiene los mismos problemas de seguridad que se mencionaron para pos
 
 Finalmente, de todas las opciones, JSONP es la que realmente se siente como un hack más que cualquier otra: fue una buena solución para muchos casos, pero no está pensada para aplicaciones complejas o requerimientos variantes.
 
-Para casos en donde el servidor no implemente JSONP, se han inventado proxies que convierten pedidos a formato JSONP, como <a href="http://anyorigin.com/">AnyOrigin</a> o <a href="http://whateverorigin.org/">WhateverOrigin</a>.
+Para casos en donde el servidor no implemente JSONP, se han inventado proxies que convierten pedidos a formato JSONP, como [AnyOrigin](http://anyorigin.com/) o [WhateverOrigin](http://whateverorigin.org/).
 
 Y, hablando de proxies...
 
 ### Método Reverse Proxy
 
-Un reverse proxy sería, en nuestro propio servidor, montar un mecanismo que interactúe con el servicio de API y devuelva la respuesta como si fuera del nuestro (`http://localhost/`). Esta tarea puede ser no-trivial, dependiendo de la tecnología, para implementar correctamente el protocolo HTTP como proxy, pero existen alternativas que hacen esto muy simple. Una de ellas es, para servidores Apache, <a href="http://httpd.apache.org/docs/2.2/mod/mod_proxy.html">mod_proxy</a>, y para servidores .NET, <a href="https://github.com/managedfusion/managedfusion-rewriter">ManagedFusion.Rewriter</a>, y ciertamente no son las únicas dos alternativas.
+Un reverse proxy sería, en nuestro propio servidor, montar un mecanismo que interactúe con el servicio de API y devuelva la respuesta como si fuera del nuestro (`http://localhost/`). Esta tarea puede ser no-trivial, dependiendo de la tecnología, para implementar correctamente el protocolo HTTP como proxy, pero existen alternativas que hacen esto muy simple. Una de ellas es, para servidores Apache, [mod_proxy](http://httpd.apache.org/docs/2.2/mod/mod_proxy.html), y para servidores .NET, [ManagedFusion.Rewriter](https://github.com/managedfusion/managedfusion-rewriter), y ciertamente no son las únicas dos alternativas.
 
 Esta es mi solución favorita, porque soporta cualquier tipo de petición, es transparente para el cliente, es fácilmente configurable (una línea de configuración en el cliente para saber a dónde llamar, dos líneas de configuración para configurar el proxy), y no necesitamos permitir ejecución arbitraria de código, o las complicaciones de prohibirla.
 

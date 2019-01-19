@@ -21,7 +21,7 @@ tags: []
 comments: []
 ---
 
-Link <a href="http://aurelio.net/css-sandbox/">aquí</a>.
+Link [aquí](http://aurelio.net/css-sandbox/).
 
 Esto seguro le sirva a alguno.
 

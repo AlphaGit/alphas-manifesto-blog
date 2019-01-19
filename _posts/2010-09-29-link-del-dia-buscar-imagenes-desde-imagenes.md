@@ -40,10 +40,10 @@ Pero cuando tenemos una imagen, cómo la utilizamos sin palabras para buscar en 
 
 Entonces es cuando queremos hacer image reverse search, es decir, buscar desde imágenes, o buscar imágenes similares.
 
-La web de <a href="http://www.gazopa.com/">GazoPa</a> (gracias <a href="http://www.twitter.com/baldosin">@baldosin</a>) nos permite hacer esto, subiendo una imagen, linkeando una desde otra web, dibujando, usando la cámara web, o introduciendo palabras clave que creemos están relacionadas.
+La web de [GazoPa](http://www.gazopa.com/) (gracias [@baldosin](http://www.twitter.com/baldosin)) nos permite hacer esto, subiendo una imagen, linkeando una desde otra web, dibujando, usando la cámara web, o introduciendo palabras clave que creemos están relacionadas.
 
-Eso de dibujar es muy similar al software <a href="http://www.imgseek.net/">imgSeek</a> para Linux (también gracias a <a href="http://www.twitter.com/baldosin">@baldosin</a>), que nos permite utilizar esta funcionalidad de una forma más personal.
+Eso de dibujar es muy similar al software [imgSeek](http://www.imgseek.net/) para Linux (también gracias a [@baldosin](http://www.twitter.com/baldosin)), que nos permite utilizar esta funcionalidad de una forma más personal.
 
-Finalmente, mi preferido es <a href="http://www.tineye.com/">TinEye</a>, que a mi parecer me ha dado mejores resultados y parece que está creciendo.
+Finalmente, mi preferido es [TinEye](http://www.tineye.com/), que a mi parecer me ha dado mejores resultados y parece que está creciendo.
 
 _Soy un zorrinito rastreador._

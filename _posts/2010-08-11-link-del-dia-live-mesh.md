@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 
-Hace tiempo que vengo vigilando la página de <a href="https://www.mesh.com/">Live Mesh Beta</a>, un servicio de Microsoft que competiría contra <a href="http://www.me.com">MobileMe</a>, el servicio análogo de Apple. Según parece, algo ha pasado a lo largo de la beta privada (que estuve esperando a que se hiciera pública) ya que parece que Live Mesh nunca saldrá de beta, sino que será directamente reemplazado por el servicio de <a href="http://sync.live.com/">Live Sync</a>.
+Hace tiempo que vengo vigilando la página de [Live Mesh Beta](https://www.mesh.com/), un servicio de Microsoft que competiría contra [MobileMe](http://www.me.com), el servicio análogo de Apple. Según parece, algo ha pasado a lo largo de la beta privada (que estuve esperando a que se hiciera pública) ya que parece que Live Mesh nunca saldrá de beta, sino que será directamente reemplazado por el servicio de [Live Sync](http://sync.live.com/).
 
 En el fondo, esto no es nuevo. Es una tecnología que Microsoft adquirió en el 2005, llamada FolderShare, y que luego pasó a formar parte del paquete de Windows Live. El servicio es similar al de Mobile Me, Dropbox y otros servicios similares, que nos permiten sincronizar archivos a través de la nube. Además, hay servicios similares, como el mismo Live Mesh que, según parece, también estuvo funcionando hace un tiempo y que también alguna relación tiene con Windows Sky Drive. Estos servicios ya están disponibles para todos los que tengamos una cuenta de MSN Passport. De no tenerla, simplemente podemos crearnos una gratuitamente y comenzar a disfrutarlos.
 

@@ -21,7 +21,7 @@ tags: []
 comments: []
 ---
 
-El site al que puede acceder <a href="http://browsershots.org/">aquí</a>, es relativamente conocido.
+El site al que puede acceder [aquí](http://browsershots.org/), es relativamente conocido.
 
 Lo que hace básicamente es visitar un mismo site con distintos navegadores y distintas opciones (ej: Javascript, Java, Flash activado/desactivado, etc), que permite a un desarrollador web ver qué tan bien o qué tan mal están saliendo sus diseños para otros navegadores aparte de los que dispone él.
 

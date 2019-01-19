@@ -36,7 +36,7 @@ As you may know, part of the daily responsibilities of the software-workers is t
 
 The problem with this is that it is a pretty repetitive task, and not only that, each customer will have requirements of their own, like using their own system for time tracking, to separate the work in tickets, to receive a summary by email, etc.
 
-I created <a href="https://github.com/AlphaGit/worklogger">Worklogger</a> to be a swiss-army-knife solution to these variables.
+I created [Worklogger](https://github.com/AlphaGit/worklogger) to be a swiss-army-knife solution to these variables.
 
 <!--more-->
 
@@ -44,7 +44,7 @@ I created <a href="https://github.com/AlphaGit/worklogger">Worklogger</a> to be 
 
 I've always been a fan of automating these menial tasks -- I don't want them to distract me from my daily activities. And furthermore, at some point, I was logging the same work four times because our different customers wanted different systems. It became a task that would take, in average, about 2 hours a week. A lot can be done in 2 hours, but there I was, filling in timesheets.
 
-I decided to create <a href="https://github.com/AlphaGit/worklogger">Worklogger</a> in a configurable fashion, so that not only it was useful to me, but to others who might be in a similar situation. You can check <a href="https://github.com/AlphaGit/worklogger/blob/master/docs/configuration.md">a draft of the configuration in here</a>.
+I decided to create [Worklogger](https://github.com/AlphaGit/worklogger) in a configurable fashion, so that not only it was useful to me, but to others who might be in a similar situation. You can check [a draft of the configuration in here](https://github.com/AlphaGit/worklogger/blob/master/docs/configuration.md).
 
 ## How it works
 
@@ -77,7 +77,7 @@ If you could read this, you've already been introduced to several concepts that 
 
 ### Inputs
 
-Inputs are where the worklogs originate from. After all, you need to start somewhere, right? It might be a JIRA worklog, a timetracker output file, or a manual input. I currently use <a href="https://blog.alphasmanifesto.com/2015/05/19/my-time-tracker-google-calendar/">Google Calendar as my timetracker</a>, and that is supported too.
+Inputs are where the worklogs originate from. After all, you need to start somewhere, right? It might be a JIRA worklog, a timetracker output file, or a manual input. I currently use [Google Calendar as my timetracker](https://blog.alphasmanifesto.com/2015/05/19/my-time-tracker-google-calendar/), and that is supported too.
 
 Currently supported:
 
@@ -108,7 +108,7 @@ Currently supported:
 
 - **TextFile:** sends details for the worklogs to a text file.
     - **SummaryTextFileFormatter:** generates a summary of the worklogs, and can group them by several levels and generate totals
-- **HarvestApp:** sends worklogs as time entries in <a href="https://harvestapp.com/">HarvestApp.com</a>
+- **HarvestApp:** sends worklogs as time entries in [HarvestApp.com](https://harvestapp.com/)
 - **JiraWorklog:** sends worklogs as ... well, worklogs (they use the same name too) in JIRA. Notice this is slightly different as what the JIRA Tempo plugin uses.
 - **Logger:** will output the contents to the logger, in whatever way it is configured (useful for debugging and an output of the execution)
 
@@ -134,6 +134,6 @@ This will:
 
 Since I've got the basics of what I personally needed, I do not plan on working heavily on it anymore. However, pressure from the community or might change that (I love to help). Also, I designed it in a way so that it can be adapted to new scenarios, so I plan on continuing usage for it and modifying it as I need it.
 
-Most of my ideas that didn't make it into my very-basic version are in the <a href="https://github.com/AlphaGit/worklogger/issues">issues listing for the project</a>. Of course, contributions are heartwarmingly welcome. I did mark which issues could be easier for newcomers (<a href="https://github.com/AlphaGit/worklogger/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">good-first-issue</a> and <a href="https://github.com/AlphaGit/worklogger/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22">help-wanted</a> tags), and I have also marked which items should be more important for an official 1.0 release (<a href="https://github.com/AlphaGit/worklogger/milestone/1">v1.0</a> milestone).
+Most of my ideas that didn't make it into my very-basic version are in the [issues listing for the project](https://github.com/AlphaGit/worklogger/issues). Of course, contributions are heartwarmingly welcome. I did mark which issues could be easier for newcomers ([good-first-issue](https://github.com/AlphaGit/worklogger/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) and [help-wanted](https://github.com/AlphaGit/worklogger/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) tags), and I have also marked which items should be more important for an official 1.0 release ([v1.0](https://github.com/AlphaGit/worklogger/milestone/1) milestone).
 
 Feel free to look around and leave questions, ideas, suggestions or complaints.

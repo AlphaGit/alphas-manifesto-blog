@@ -29,7 +29,7 @@ comments: []
 
 by Colin Cieloha from Skilled.co
 
-This is a guest post submitted by Colin Cieloha, who is an American author and content marketer at <a href="https://skilled.co/">Skilled.co</a>. He writes about everything that will draw his attention with a focus on the mobile and e-commerce space. When he is not writing he is spending his time traveling the globe and snowboarding. You can follow him on his Twitter at <a href="https://twitter.com/ColinCieloha">@ColinCieloha</a> or on <a href="https://www.linkedin.com/in/colin-cieloha-7a01ab55">Linkedin</a>.
+This is a guest post submitted by Colin Cieloha, who is an American author and content marketer at [Skilled.co](https://skilled.co/). He writes about everything that will draw his attention with a focus on the mobile and e-commerce space. When he is not writing he is spending his time traveling the globe and snowboarding. You can follow him on his Twitter at [@ColinCieloha](https://twitter.com/ColinCieloha) or on [Linkedin](https://www.linkedin.com/in/colin-cieloha-7a01ab55).
 
 His post focuses on performance tips regarding the use of HTML Canvas, and general best practices. Thanks Colin for this content!
 
@@ -57,4 +57,4 @@ Through all of this testing and improvement, you&rsquo;ll want a tool to **verif
 
 **A final best practice that you should be doing in your code anyways is indenting it**. Not only is it helpful to yourself when you&rsquo;re going through your code later on and editing or debugging it, but it is the polite thing to do in case anyone else is going to have to examine that code in the near future.
 
-To help beginners through to experts, the team at <a href="https://skilled.co/">Skilled.co</a> have created an <a href="https://skilled.co/html-canvas/">HTML Canvas cheat sheet</a> so that you don't have to remember all of the different API methods, to help you get the most out of the canvas element.
+To help beginners through to experts, the team at [Skilled.co](https://skilled.co/) have created an [HTML Canvas cheat sheet](https://skilled.co/html-canvas/) so that you don't have to remember all of the different API methods, to help you get the most out of the canvas element.

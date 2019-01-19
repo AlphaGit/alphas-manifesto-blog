@@ -30,16 +30,16 @@ tags:
 comments: []
 ---
 
-Hace unos días me llegó un email sobre Udacity (del cual <a href="https://blog.alphasmanifesto.com/2012/01/31/udacity/">yo ya había hablado</a>) avisando que hay nuevas clases disponibles allí.
+Hace unos días me llegó un email sobre Udacity (del cual [yo ya había hablado](https://blog.alphasmanifesto.com/2012/01/31/udacity/)) avisando que hay nuevas clases disponibles allí.
 
 Ahora el listado es:
 
-- <a href="http://www.udacity.com/overview/Course/cs101/CourseRev/apr2012">CS101</a>: Construyendo un motor de búsqueda
-- <a href="http://www.udacity.com/overview/Course/cs212/CourseRev/apr2012">CS212</a>: Diseño de programas de computadora
-- <a href="http://www.udacity.com/overview/Course/cs253/CourseRev/apr2012">CS253</a>: Ingeniería de aplicaciones web
-- <a href="http://www.udacity.com/overview/Course/cs262/CourseRev/apr2012">CS262</a>: Lenguajes de programación
-- <a href="http://www.udacity.com/overview/Course/cs373/CourseRev/apr2012">CS373</a>: Programando un automóvil robótico
-- <a href="http://www.udacity.com/overview/Course/cs387/CourseRev/apr2012">CS387</a>: Criptografía aplicada
+- [CS101](http://www.udacity.com/overview/Course/cs101/CourseRev/apr2012): Construyendo un motor de búsqueda
+- [CS212](http://www.udacity.com/overview/Course/cs212/CourseRev/apr2012): Diseño de programas de computadora
+- [CS253](http://www.udacity.com/overview/Course/cs253/CourseRev/apr2012): Ingeniería de aplicaciones web
+- [CS262](http://www.udacity.com/overview/Course/cs262/CourseRev/apr2012): Lenguajes de programación
+- [CS373](http://www.udacity.com/overview/Course/cs373/CourseRev/apr2012): Programando un automóvil robótico
+- [CS387](http://www.udacity.com/overview/Course/cs387/CourseRev/apr2012): Criptografía aplicada
 
 En fin, si a alguno le interesa, voy a estar por ahí.
 

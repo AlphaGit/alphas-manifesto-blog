@@ -41,7 +41,7 @@ comments:
 Tomando la sopa por el mango de la cuchara
 
 
-Muchos desarrolladores de AngularJS dependen de $scope para la implementación y testing de la lógica de sus controladores. Esto genera problemas de performance y de diseño, pero gracias a una serie de artículos y una prueba de concepto, he puesto en práctica en <a href="http://what-now.heroku.com">what-now</a> lo que podría ser la solución.
+Muchos desarrolladores de AngularJS dependen de $scope para la implementación y testing de la lógica de sus controladores. Esto genera problemas de performance y de diseño, pero gracias a una serie de artículos y una prueba de concepto, he puesto en práctica en [what-now](http://what-now.heroku.com) lo que podría ser la solución.
 
 <!--more-->
 
@@ -49,13 +49,13 @@ Muchos desarrolladores de AngularJS dependen de $scope para la implementación y
 
 _♪ what a very good soup ♫_
 
-Hace algunas semanas mi colega <a href="http://mravinale.wordpress.com/">Mariano Ravinale</a> me compartió un muy buen artículo sobre AngularJS que planteaba la existencia de "$scope soup". Esta _sopa de $scope_ era básicamente una consecuencia de la forma en la que los tutoriales y documentación de AngularJS están afrontados, pero no la forma correcta en la que se puede construir el sistema.
+Hace algunas semanas mi colega [Mariano Ravinale](http://mravinale.wordpress.com/) me compartió un muy buen artículo sobre AngularJS que planteaba la existencia de "$scope soup". Esta _sopa de $scope_ era básicamente una consecuencia de la forma en la que los tutoriales y documentación de AngularJS están afrontados, pero no la forma correcta en la que se puede construir el sistema.
 
 Cuando empezamos a trabajar en AngularJS, aprendemos sobre la variable $scope, la forma en la que se puede usar para compartir datos entre un controller y un template. A la vez, también se puede inyectar esta misma dependencia en los tests, y compartiendo ese estado entre los tests y el código real es fácil para nosotros verificar el estado interno y unit-testear los métodos que implementamos.
 
 Esto lleva, sin embargo, a que muchos programadores hagan uso y abuso de este servicio de `$scope`, creando, por un lado, una cantidad de dependencias terriblemente compleja entre variables de la misma, y por otro lado, un problema de performance para su aplicación en Angular (ya que todo lo que depende del `$scope` será verificado en la fase de digest).
 
-El artículo original, <a href="http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html">5 guidelines for avoiding scope soup in Angular</a>, la primerísima sugerencia que se da es de separar los métodos que son parte de los controllers de los métodos y propiedades que están expuestos en $scope. Es poca la explicación que se da al respecto, pero creo que vale la pena extenderla aquí.
+El artículo original, [5 guidelines for avoiding scope soup in Angular](http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html), la primerísima sugerencia que se da es de separar los métodos que son parte de los controllers de los métodos y propiedades que están expuestos en $scope. Es poca la explicación que se da al respecto, pero creo que vale la pena extenderla aquí.
 
 ## Controladores como clases auto-contenidas
 
@@ -89,6 +89,6 @@ El área contractual es la que interactúa con otros servicios, incluyendo $scop
 
 Porque un ejemplo de cuatro líneas no iba a alcanzar.
 
-Puse esto en práctica y lo refiné hasta que pude llegar a estas conclusiones y realmente quedé satisfecho con el resultado. En what-now reescribí la forma en la que trabajaba el <a href="https://github.com/AlphaGit/what-now/blob/768abafb44c1a525e16a034f22b2b851c796f5a3/app/scripts/controllers/main.js">main controller</a>, y la forma en la que trabajaban <a href="https://github.com/AlphaGit/what-now/blob/768abafb44c1a525e16a034f22b2b851c796f5a3/test/spec/controllers/main.js">los tests de ese main controller</a>, acorde a las prácticas descriptas aquí.
+Puse esto en práctica y lo refiné hasta que pude llegar a estas conclusiones y realmente quedé satisfecho con el resultado. En what-now reescribí la forma en la que trabajaba el [main controller](https://github.com/AlphaGit/what-now/blob/768abafb44c1a525e16a034f22b2b851c796f5a3/app/scripts/controllers/main.js), y la forma en la que trabajaban [los tests de ese main controller](https://github.com/AlphaGit/what-now/blob/768abafb44c1a525e16a034f22b2b851c796f5a3/test/spec/controllers/main.js), acorde a las prácticas descriptas aquí.
 
 Quisiera escuchar feedback y opiniones de cómo puede mejorarse, o si creen que esta aproximación es equivocada y por qué.

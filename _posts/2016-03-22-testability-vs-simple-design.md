@@ -111,7 +111,7 @@ But if you need to test, then should you go for the third option? How's that sim
 
 The point of a design is to allow code to play together and create the results that we want them too. The initial coupling that we had in example 1 was nice for a simple implementation. But if you try to test it, we come down this path of discussion.
 
-But **tests are still part of your codebase**, and you need to account for them in your design. This becomes increasingly important when you actually need your tests to perform changes, to fix bugs, or to verify how something works. Really, <a href="https://blog.alphasmanifesto.com/2015/03/30/how-tdd-pays-off/">it pays off</a>.
+But **tests are still part of your codebase**, and you need to account for them in your design. This becomes increasingly important when you actually need your tests to perform changes, to fix bugs, or to verify how something works. Really, [it pays off](https://blog.alphasmanifesto.com/2015/03/30/how-tdd-pays-off/).
 
 ## An approach: Microsoft Fakes Assemblies
 

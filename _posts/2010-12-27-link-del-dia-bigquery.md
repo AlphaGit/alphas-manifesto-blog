@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-Gracias a <a href="http://twitter.com/Woork/status/12499624166162432">un tweet de Woork</a> me enteré de un proyecto que actualmente forma parte de <a href="https://code.google.com/labs/">Google Labs</a> llamado <a href="https://code.google.com/apis/bigquery/">BigQuery</a>.
+Gracias a [un tweet de Woork](http://twitter.com/Woork/status/12499624166162432) me enteré de un proyecto que actualmente forma parte de [Google Labs](https://code.google.com/labs/) llamado [BigQuery](https://code.google.com/apis/bigquery/).
 
 BigQuery es la posibilidad que nos ofrece Google de utilizar su capacidad de tratamiento de grandes cantidades de información de una manera similar a cómo haríamos con tablas SQL. El problema en este caso es que no se trata realmente de una base de datos relacional, con lo que tenemos que tener cierto tratamiento especial con los datos. La entrada y la salida del mismo por ahora será a través de texto (CSV para importar datos, JSON para obtenerlos), y el lenguaje utilizado es muy similar a SQL, con algunas pequeñas modificaciones y limitaciones.
 

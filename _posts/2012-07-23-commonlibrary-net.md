@@ -29,13 +29,13 @@ comments: []
 Don't repeat yourself
 
 
-En cierto punto en el camino de evolución de una compañía o un desarrollador, se encuentra como hecho el estar siempre re-haciendo las mismas partes, o reutilizando partes comunes que alguna vez ya se usaron para un proyecto anterior. Esto es muy común, y ciertamente no es algo malo. De hecho, es deseable, y en el ámbito recibe el nombre de _<a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY principle</a>._
+En cierto punto en el camino de evolución de una compañía o un desarrollador, se encuentra como hecho el estar siempre re-haciendo las mismas partes, o reutilizando partes comunes que alguna vez ya se usaron para un proyecto anterior. Esto es muy común, y ciertamente no es algo malo. De hecho, es deseable, y en el ámbito recibe el nombre de _[DRY principle](http://en.wikipedia.org/wiki/Don't_repeat_yourself)._
 
 <!--more-->
 
 Está claro que muchas características internas de los sistemas serán comunes a todos ellos. Como tales, podemos mencionar la autenticación, la generación de logs, el tratado de errores, el manejo de cadenas, la encriptación de datos, el tratado de archivos en distintos formatos, importación y exportación de objetos, validación de objetos, etcétera. Todas estas funcionalidades son parte de cada sistema que se construye en mayor o menor medida, y aunque pueden variar de uno a otro, sus interiores son realmente similares.
 
-<a href="http://commonlibrarynet.codeplex.com/">CommonLibrary.NET</a> es un proyecto con una serie de clases encargadas de muchos de estos problemas. Es un proyecto relativamente activo, con lo cual esperamos ver más adiciones y mejoras en un futuro no muy lejano. Copiando de su página principal de Codeplex, este es el conjunto de características para el que lo podemos aprovechar:
+[CommonLibrary.NET](http://commonlibrarynet.codeplex.com/) es un proyecto con una serie de clases encargadas de muchos de estos problemas. Es un proyecto relativamente activo, con lo cual esperamos ver más adiciones y mejoras en un futuro no muy lejano. Copiando de su página principal de Codeplex, este es el conjunto de características para el que lo podemos aprovechar:
 
 ![]({{ site.baseurl }}/assets/commonParts.png)
 
@@ -84,7 +84,7 @@ Está claro que muchas características internas de los sistemas serán comunes 
 - Helpers web
 - Helpers XML
 
-La <a href="http://commonlibrarynet.codeplex.com/wikipage?title=Examples">página de ejemplos</a> tiene una buena cantidad de demostraciones que nos permitirá hacernos una mejor idea de cada característica, pero no hay nada como probarlo en código propio.
+La [página de ejemplos](http://commonlibrarynet.codeplex.com/wikipage?title=Examples) tiene una buena cantidad de demostraciones que nos permitirá hacernos una mejor idea de cada característica, pero no hay nada como probarlo en código propio.
 
 Sabemos que para muchas de estas características ya hay otros frameworks, quizá más grandes y seguramente también gratis y open source. En muchos casos, se ha elegido una reimplementación de ellos en esta librería para evitar grandes dependencias si es que solo necesitamos una pequeña funcionalidad. Asumiendo que la situación es esa, es una decisión muy sabia y acertada.
 

@@ -27,6 +27,6 @@ Le implementé a Thot un escalado y centrado de las imágenes en el entorno a se
 
 La magia, la magia.
 
-Download de Thot <a href="http://alphagma.googlepages.com/">aquí</a>.
+Download de Thot [aquí](http://alphagma.googlepages.com/).
 
 _Soy un zorrinito mágico._

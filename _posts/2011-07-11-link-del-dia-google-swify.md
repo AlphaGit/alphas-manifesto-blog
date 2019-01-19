@@ -25,10 +25,10 @@ tags:
 comments: []
 ---
 
-De la gama de productos Google que todavía están en beta y en laboratorios (una buena cantidad), ahora tenemos a <a href="http://swiffy.googlelabs.com/">Google Swify</a>, cuya funcionalidad es tomar archivos de Flash para convertirlos a HTML5.
+De la gama de productos Google que todavía están en beta y en laboratorios (una buena cantidad), ahora tenemos a [Google Swify](http://swiffy.googlelabs.com/), cuya funcionalidad es tomar archivos de Flash para convertirlos a HTML5.
 
 No lo he probado, pero supongo que hará un uso excesivo de los elementos de Canvas y animación via JavaScript. Tampoco he sabido cuál sea la performance general de los resultados. Pero, sí podemos saber, que gracias a esta conversión, podremos fácilmente estar disponibles en cualquier tipo de plataforma.
 
-Via <a href="http://i.microsiervos.com/ordenadores/google-swiffy.html">i.MicroSiervos</a>.
+Via [i.MicroSiervos](http://i.microsiervos.com/ordenadores/google-swiffy.html).
 
 _Soy un zorrinito HTML5._

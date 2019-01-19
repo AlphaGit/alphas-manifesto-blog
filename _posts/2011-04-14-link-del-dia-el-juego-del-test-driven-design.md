@@ -25,9 +25,9 @@ tags:
 comments: []
 ---
 
-Recuerdo haber hablado más de una vez sobre <a href="https://blog.alphasmanifesto.com/?s=distracciones">distracciones</a> y <a href="https://blog.alphasmanifesto.com/?s=productividad">productividad</a>. Varias de esas veces he mencionado que si podemos darle un toque interesante a lo que estamos haciendo, casi a modo de juego o de desafío, la actividad se vuelve mucho más divertida, y por supuesto, nosotros nos volvemos más concentrados hacia ella.
+Recuerdo haber hablado más de una vez sobre [distracciones](https://blog.alphasmanifesto.com/?s=distracciones) y [productividad](https://blog.alphasmanifesto.com/?s=productividad). Varias de esas veces he mencionado que si podemos darle un toque interesante a lo que estamos haciendo, casi a modo de juego o de desafío, la actividad se vuelve mucho más divertida, y por supuesto, nosotros nos volvemos más concentrados hacia ella.
 
-Un muy buen ejemplo de este caso es <a href="http://www.happyprog.com/tdgotchi/">TDGotchi</a>, autodefinido como _una mascota virtual que nos permite mejorar nuestra práctica de Test Driven Design_ (TDD).
+Un muy buen ejemplo de este caso es [TDGotchi](http://www.happyprog.com/tdgotchi/), autodefinido como _una mascota virtual que nos permite mejorar nuestra práctica de Test Driven Design_ (TDD).
 
 Se trata de una mascotita, una especie de ninja pixelado que tendremos en nuestro entorno de Eclipse, y que mientras vamos avanzando con ciertas reglas en el proceso de TDD (rojo a verde, verde a verde con refactor, verde a rojo con cambios?) este gana puntos y va evolucionando.
 

@@ -57,7 +57,7 @@ Quisiera escuchar opiniones al respecto, pero continuemos.
 
 Esta aproximación nos permite, dependiendo solamente en el orden en que se presentan los parámetros, generar árboles de condiciones muy ricos en contenido. Cabe destacar que la aproximación es algo compleja, pero tiene la belleza de expresarse correctamente en la URL, sin necesidad de otra estructura que simplemente la asociación parámetro-valor que el protocolo HTTP propone.
 
-Sin embargo, si hablamos de estándares y verificamos el <a href="http://tools.ietf.org/html/rfc3986">RFC 3986</a>, estamos parándonos sobre una línea gris. El estándar sobre URLs no dice demasiado sobre la semántica del _query string_, pero menciona que está destinado a _información no-jerárquica_, aunque el documento se encuentra en ese punto discutiendo la sintaxis y la naturaleza de su formato, más que su contenido aceptable.
+Sin embargo, si hablamos de estándares y verificamos el [RFC 3986](http://tools.ietf.org/html/rfc3986), estamos parándonos sobre una línea gris. El estándar sobre URLs no dice demasiado sobre la semántica del _query string_, pero menciona que está destinado a _información no-jerárquica_, aunque el documento se encuentra en ese punto discutiendo la sintaxis y la naturaleza de su formato, más que su contenido aceptable.
 
 ### Operadores como parámetros
 
@@ -91,7 +91,7 @@ Nuestra nueva consulta entonces se puede traducir a:
 
 ### Notación polaca inversa: evitando operadores de precedencia
 
-Muchos no están familiarizados con la <a href="http://es.wikipedia.org/wiki/Notaci%C3%B3n_polaca_inversa">Notación Polaca Inversa</a> (también llamada notación posfija), pero aplicada correctamente puede ser una herramienta muy poderosa. En nuestro caso, es particularmente útil porque asumiendo una sintaxis correcta y el orden de los parámetros podemos evitar usar operadores de precedencia. Y esto es algo que quisiéramos hacer, porque ya tenemos necesidad de aplicar esos dos supuestos por la forma en la que estamos recibiendo nuestra sintaxis.
+Muchos no están familiarizados con la [Notación Polaca Inversa](http://es.wikipedia.org/wiki/Notaci%C3%B3n_polaca_inversa) (también llamada notación posfija), pero aplicada correctamente puede ser una herramienta muy poderosa. En nuestro caso, es particularmente útil porque asumiendo una sintaxis correcta y el orden de los parámetros podemos evitar usar operadores de precedencia. Y esto es algo que quisiéramos hacer, porque ya tenemos necesidad de aplicar esos dos supuestos por la forma en la que estamos recibiendo nuestra sintaxis.
 
 La notación posfijo se trata de cambiar el orden de los operandos y los operadores para que el procesamiento se haga de izquierda a derecha, de forma que la precedencia está indicada por el orden y por los resultados intermedios, independientemente de los símbolos que vengan a continuación. Otra de las ventajas que esto significa es que se simplifica enormemente la implementación de parseo e incluso puede ejecutarse _on the fly_.
 
@@ -164,7 +164,7 @@ Volvamos a plantear nuestro ejemplo:
 (lastName = Smith OR firstName = John) AND age > 25
 ```
 
-Para expresarlo como jerarquía, supongamos que cada elemento de nuestro árbol de operaciones que respondería a la siguiente estructura (si saben leer gramáticas o <a href="http://en.wikipedia.org/wiki/Augmented_Backus%E2%80%93Naur_Form">ABNF</a>, esto les va a ser fácil):
+Para expresarlo como jerarquía, supongamos que cada elemento de nuestro árbol de operaciones que respondería a la siguiente estructura (si saben leer gramáticas o [ABNF](http://en.wikipedia.org/wiki/Augmented_Backus%E2%80%93Naur_Form), esto les va a ser fácil):
 
 ```
 S → operation

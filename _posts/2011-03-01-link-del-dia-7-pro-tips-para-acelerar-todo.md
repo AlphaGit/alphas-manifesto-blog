@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 
-En <a href="http://i.microsiervos.com/ordenadores/7-formas-automatizar-trabajo-ordenador.html">i.MicroSiervos</a> publicaron un artículo muy interesante llamado <a href="http://thinkwasabi.com/2011/02/7-formas-de-automatizar-el-trabajo-con-tu-ordenador/">7 formas de automatizar el trabajo con tu ordenador</a>, y todos sabemos que quizá la parte más lenta de  lo que hacemos en la computadora somos nosotros y nuestras tareas repetitivas.
+En [i.MicroSiervos](http://i.microsiervos.com/ordenadores/7-formas-automatizar-trabajo-ordenador.html) publicaron un artículo muy interesante llamado [7 formas de automatizar el trabajo con tu ordenador](http://thinkwasabi.com/2011/02/7-formas-de-automatizar-el-trabajo-con-tu-ordenador/), y todos sabemos que quizá la parte más lenta de  lo que hacemos en la computadora somos nosotros y nuestras tareas repetitivas.
 
 Teniendo la posibilidad entonces de ganar tiempo para las cosas en las que realmente tenemos que concentrarnos, este artículo es muy interesante para poder centralizar tareas que comunmente hacemos y podemos delegar a un software sin la necesidad de saber programar.
 

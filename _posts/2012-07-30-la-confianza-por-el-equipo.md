@@ -38,7 +38,7 @@ comments: []
 El manual de Nick Fury para coordinar equipos
 
 
-Cuando escribí <a href="https://blog.alphasmanifesto.com/2012/06/24/avengers/">mi review de la película Avengers</a> mencioné lo siguiente:
+Cuando escribí [mi review de la película Avengers](https://blog.alphasmanifesto.com/2012/06/24/avengers/) mencioné lo siguiente:
 
 > Nick Fury es el coordinador de ese movimiento [Avengers defendiendo al mundo], y con su actitud de _badass_ se encarga de dejar claro qué es lo que estamos enfrentando y qué es lo que él está dispuesto a hacer.
 > 

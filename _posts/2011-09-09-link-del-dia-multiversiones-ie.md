@@ -25,9 +25,9 @@ tags:
 comments: []
 ---
 
-Alguna vez les conté de Xenocode, una suerte de plugins que ejecutándose virtualizaban distintas versiones de Internet Explorer (aunque me pregunto en dónde dejé ese artículo). Ahora que no está más disponible, entre nuestras opciones disponibles para hacer testing de IE está <a href="http://utilu.com/IECollection/">Utilu IE Collection</a>, un conjunto de versiones standalone de Internet explorer (desde la 2.0!) para poder utilizar en nuestro testing de cross-browsing.
+Alguna vez les conté de Xenocode, una suerte de plugins que ejecutándose virtualizaban distintas versiones de Internet Explorer (aunque me pregunto en dónde dejé ese artículo). Ahora que no está más disponible, entre nuestras opciones disponibles para hacer testing de IE está [Utilu IE Collection](http://utilu.com/IECollection/), un conjunto de versiones standalone de Internet explorer (desde la 2.0!) para poder utilizar en nuestro testing de cross-browsing.
 
-No sólo eso, la gente de Utilu también ha trabajado para ofrecer lo mismo en el mundo de Firefox, coherentemente llamado <a href="http://utilu.com/UtiluMFC/">Utilu Mozilla Firefox Collection</a>.
+No sólo eso, la gente de Utilu también ha trabajado para ofrecer lo mismo en el mundo de Firefox, coherentemente llamado [Utilu Mozilla Firefox Collection](http://utilu.com/UtiluMFC/).
 
 Al ser todas standalone se pueden correr en paralelo y comparar. Todo sin dejar la comodidad de tu localhost.
 

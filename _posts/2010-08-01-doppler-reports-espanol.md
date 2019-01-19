@@ -37,23 +37,23 @@ comments: []
 
 ## Hola a todos
 
-Me enorgullece poder anunciar que desde hace un tiempo he tenido la oportunidad de trabajar junto con el equipo Doppler para un nuevo proyecto, algo que desde entonces se estaba formando llamado <a href="http://www.fromdoppler.com/Website/source/English/feat_reports.aspx">Doppler Reports</a> (link). Este proyecto finalmente vio la luz y está activo públicamente desde el 27 de Julio. Permítanme contarles un poco más sobre eso.
+Me enorgullece poder anunciar que desde hace un tiempo he tenido la oportunidad de trabajar junto con el equipo Doppler para un nuevo proyecto, algo que desde entonces se estaba formando llamado [Doppler Reports](http://www.fromdoppler.com/Website/source/English/feat_reports.aspx) (link). Este proyecto finalmente vio la luz y está activo públicamente desde el 27 de Julio. Permítanme contarles un poco más sobre eso.
 
 **Momento...  ¿qué es Doppler?**
 
 ![Doppler]({{ site.baseurl }}/assets/Doppler.png){ :align-left}
 
-Para aquellos que no lo conocen, <a href="http://www.fromdoppler.com">Doppler</a> es una herramienta de **email-marketing**. Es realmente compleja, pero explicándola en un vistazo rápido, es posible usarla para crear contenido de email online (basado en plantillas o editandolo manualmente), y enviarlo masivamente a una o más listas pre-cargadas. Sim embargo, hay mucho más para lo que puede utilizarse, y una de las grandes posibilidades que nos ofrece está en la capacidad de analizar la reacción del cliente a nuestras campañas de emails. Cuando uno tiene diez, quizá veinte, cincuenta o cien contactos, esto es algo que se puede hacer fácilmente con un listado de ellos. Uno verifica sus contactos, analiza quién abrió los emails enviados, quién hizo click en cuál link, y esa es toda la información que uno necesita.
+Para aquellos que no lo conocen, [Doppler](http://www.fromdoppler.com) es una herramienta de **email-marketing**. Es realmente compleja, pero explicándola en un vistazo rápido, es posible usarla para crear contenido de email online (basado en plantillas o editandolo manualmente), y enviarlo masivamente a una o más listas pre-cargadas. Sim embargo, hay mucho más para lo que puede utilizarse, y una de las grandes posibilidades que nos ofrece está en la capacidad de analizar la reacción del cliente a nuestras campañas de emails. Cuando uno tiene diez, quizá veinte, cincuenta o cien contactos, esto es algo que se puede hacer fácilmente con un listado de ellos. Uno verifica sus contactos, analiza quién abrió los emails enviados, quién hizo click en cuál link, y esa es toda la información que uno necesita.
 
 ##  ¿Reportes?
 
-Las cosas cambiaron mucho desde <a href="http://blog.fromdoppler.com/feliz-cumpleanos-doppler">esa mañana del 2005</a>.  ¿Qué pasa cuando tienes mil contactos?  ¿Y un millón? No, no estoy exagerando. Eso es parte de nuestro trabajo *diario*: mantener una herramienta que envía millones de emails.  ¿Cómo obtenemos los resultados y los mostramos al usuario? La respuesta obvia es: Reportes.
+Las cosas cambiaron mucho desde [esa mañana del 2005](http://blog.fromdoppler.com/feliz-cumpleanos-doppler).  ¿Qué pasa cuando tienes mil contactos?  ¿Y un millón? No, no estoy exagerando. Eso es parte de nuestro trabajo *diario*: mantener una herramienta que envía millones de emails.  ¿Cómo obtenemos los resultados y los mostramos al usuario? La respuesta obvia es: Reportes.
 
 Los reportes  te darán toda la información resumida que necesitas sin tener que revisar cada uno de los contactos (porque, por supuesto, el sistema lo hace por tí). A medida que la tecnología evoluciona y que el comportamiento del cliente evoluciona a medida que el marketing evoluciona, nuestras herramientas deben evolucionar también.
 
 Aquí es donde el Equipo de Doppler vio la necesidad de una aplicación de reportes totalmente nueva, para poder satisfacer muchos pedidos que nuestros clientes tenían para la versión anterior de la misma. Pero esta herramienta debía estar pensada para **millones** de emails, **miles** de usuarios, información en **tiempo real** y al mismo tiempo, reportes **informativos** y **elegantes**.
 
-Y entramos en la escena. Tuve la oportunidad de trabajar junto con <a href="http://ar.linkedin.com/in/juanfazzini">Juan Fazzini</a> para diseñar una arquitectura que escalaría a medida que Doppler siguiera creciendo con todas las futuras características que obtendrá. Entonces, en una tarde de viernes, un pizarrón en blanco, una notebook como grabadora para todo lo que decíamos (ya saben, la documentación es importante), comenzamos a idear y pensar sobre cómo Doppler Reports trabajaría.
+Y entramos en la escena. Tuve la oportunidad de trabajar junto con [Juan Fazzini](http://ar.linkedin.com/in/juanfazzini) para diseñar una arquitectura que escalaría a medida que Doppler siguiera creciendo con todas las futuras características que obtendrá. Entonces, en una tarde de viernes, un pizarrón en blanco, una notebook como grabadora para todo lo que decíamos (ya saben, la documentación es importante), comenzamos a idear y pensar sobre cómo Doppler Reports trabajaría.
 
 **¿Cómo está diseñada la arquitectura?**
 
@@ -118,10 +118,10 @@ Esto tiene importantes consecuencias. Para el lado que el usuario logra ver, est
 
 ## Eso es increíble, ¿puedo usarlo?
 
-Por supuesto. Estas nuevas características ya están disponibles para todos los usuarios que tengan una cuenta de Doppler. Si no tienes una, puedes crearte una de forma gratuita y probar el producto por tí mismo: <a href="http://www.fromdoppler.com/">http://www.FromDoppler.com/</a>.
+Por supuesto. Estas nuevas características ya están disponibles para todos los usuarios que tengan una cuenta de Doppler. Si no tienes una, puedes crearte una de forma gratuita y probar el producto por tí mismo: [http://www.FromDoppler.com/](http://www.fromdoppler.com/).
 
 ## Antes de que se vayan...
 
-...Quería decir que considero un logro personal haber podido formar parte de todo esto. Intentamos lograr algo radical y hoy tenemos un producto radical. Creo que el <a href="http://www.fromdoppler.com/Website/source/English/company.aspx">Equipo Doppler</a> está muy orgulloso de lo que han logrado. Yo ciertamente lo estoy.
+...Quería decir que considero un logro personal haber podido formar parte de todo esto. Intentamos lograr algo radical y hoy tenemos un producto radical. Creo que el [Equipo Doppler](http://www.fromdoppler.com/Website/source/English/company.aspx) está muy orgulloso de lo que han logrado. Yo ciertamente lo estoy.
 
-Ah, y este post ha llegado hasta el blog de <a href="http://getcs.com/en/2010/07/doppler-reports/">GetCS</a>. Visitenló, puede que les interese.
+Ah, y este post ha llegado hasta el blog de [GetCS](http://getcs.com/en/2010/07/doppler-reports/). Visitenló, puede que les interese.

@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 
-Continuando con mi lectura del <a href="https://blog.alphasmanifesto.com/2009/09/20/the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering/">libro de Minsky</a>, el capítulo 4 se titula "Conciencia", y definitivamente trata sobre eso.
+Continuando con mi lectura del [libro de Minsky](https://blog.alphasmanifesto.com/2009/09/20/the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering/), el capítulo 4 se titula "Conciencia", y definitivamente trata sobre eso.
 
 La primera sección del capítulo intenta definir lo que la conciencia _es_, por supuesto, fallando por el hecho de que "conciencia" no es más que una palabra describiendo algo que somos capaces de percibir. Al igual que nuestra mente, no puede ser lo suficientemente simple como para ser definidia por solo una palabra (o solo un proceso), de modo que Minsky deduce que la conciencia es de hecho la interacción de diferentes recursos mentales. él propone la idea de que nuestras mentes tienen un _detector de conciencia_ que se activa cuando ciertos recursos están involucrados o activados. En esta idea podemos explicar comportamientos complejos inconscientes a la vez de comportamientos simples conscientes (y por supuesto, los opuestos también.)
 

@@ -26,14 +26,14 @@ Este link del día, debo confesar, va acompañando un remordimiento propio y en 
 
 Hoy, ocho años (ocho años!) después, todavía hay mucha gente que utiliza Internet Explorer 6. Esto es un problema para muchos programadores y diseñadores, ya que este navegador desactualizado no se comporta de la misma forma con las páginas que los nuevos. Tratar de hacer un sitio, página o aplicación web que se vea correctamente en todos los navegadores ya de por sí es difícil, pero teniendo un lastre como este se vuelve casi imposible.
 
-Es por eso que existe un proyecto de software libre llamado <a href="http://code.google.com/p/ie6-upgrade-warning/">IE6 Upgrade Warning</a>, que es un script que podemos agregar a nuestros sitios que de forma muy diplomática le hace saber al usuario que su navegador se encuentra desactualizado, y le brinda opciones de otros navegadores o de versiones más nuevas del mismo navegador para descargar e instalar.
+Es por eso que existe un proyecto de software libre llamado [IE6 Upgrade Warning](http://code.google.com/p/ie6-upgrade-warning/), que es un script que podemos agregar a nuestros sitios que de forma muy diplomática le hace saber al usuario que su navegador se encuentra desactualizado, y le brinda opciones de otros navegadores o de versiones más nuevas del mismo navegador para descargar e instalar.
 
 ...yo creo que voy a comenzar a usarlo.
 
 _Soy un zorrinito actualizado._
 
-[EDIT] <a href="http://pampaofmadness.wordpress.com/">GC</a> me pasó este dato:
+[EDIT] [GC](http://pampaofmadness.wordpress.com/) me pasó este dato:
 
-> Hay un plugin de Wordpress que hace lo mismo: <a href="http://wordpress.org/extend/plugins/ie-warning/">http://wordpress.org/extend/plugins/ie-warning/</a>
+> Hay un plugin de Wordpress que hace lo mismo: [http://wordpress.org/extend/plugins/ie-warning/](http://wordpress.org/extend/plugins/ie-warning/)
 > 
 > Aunque te da la posibilidad de ser diplomático y de ser un forro (directamente no cargar la pagina si detecta IE6)

@@ -42,8 +42,8 @@ comments:
     it to my email management techniques. Once I tried it, I never looked [&#8230;]"
 ---
 
-Me encontré en Del.icio.us este interesante artículo (de agradable estética, dicho sea de paso), titulado <a href="http://regardingwork.com/2011/09/01/100-ways-to-get-more-done/">100 ways to get more done</a>, que es un buen listado de muchos consejos. Aunque no me encuentro de acuerdo con todos ellos, una gran mayoría son realmente útiles e interesantes para investigar.
+Me encontré en Del.icio.us este interesante artículo (de agradable estética, dicho sea de paso), titulado [100 ways to get more done](http://regardingwork.com/2011/09/01/100-ways-to-get-more-done/), que es un buen listado de muchos consejos. Aunque no me encuentro de acuerdo con todos ellos, una gran mayoría son realmente útiles e interesantes para investigar.
 
-Leer estos me volvió a llevar al método de <a href="http://inboxzero.com/">Inbox Zero</a> de Merlin Mann, una técnica muy interesante de concentrarse para hacer lo que uno tiene que hacer cuando el email se convierte en una distracción constante. Creo que los consejos no aplican realmente a todo tipo de situación pero tiene un par de técnicas interesantes. Yo estoy comenzando a aplicarlo, con algunas variantes para que sea menos drástico al principio, pero todavía no puedo hablar de los resultados... aunque de comienzo sí puedo decir que ver el inbox vacío genera una satisfacción muy particular.
+Leer estos me volvió a llevar al método de [Inbox Zero](http://inboxzero.com/) de Merlin Mann, una técnica muy interesante de concentrarse para hacer lo que uno tiene que hacer cuando el email se convierte en una distracción constante. Creo que los consejos no aplican realmente a todo tipo de situación pero tiene un par de técnicas interesantes. Yo estoy comenzando a aplicarlo, con algunas variantes para que sea menos drástico al principio, pero todavía no puedo hablar de los resultados... aunque de comienzo sí puedo decir que ver el inbox vacío genera una satisfacción muy particular.
 
 _Soy un zorrinito productivo._

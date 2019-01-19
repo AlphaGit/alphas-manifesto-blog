@@ -27,8 +27,8 @@ comments: []
 
 Los trabajadores de la informática tienen muy asimilados estos conceptos: pilas, colas, árboles, el camino más corto, ordenamiento, algoritmo, grafo, etc. Todos estos conceptos los hemos ido aprendiendo de una forma u otra, pero al momento de aplicarlos es cuando realmente se prueba nuestro aprendizaje. Personalmente creo que ningún aprendizaje está completo sin una buena visualización de la materia, y es aquí en donde, para las estructuras de datos, hay que inventar algo.
 
-Seguramente lo mismo pensó David Galles, quién desarrolló  un software en Java que nos permite visualizar el funcionamiento de estas estructuras. <a href="http://www.cs.usfca.edu/~galles/visualization/java/download.html">Data Structure Visualizations</a> es el nombre que le otorgó, pero la historia no se queda ahí, sino que HTML5 hizo su entrada y ahora también tenemos la <a href="http://www.cs.usfca.edu/~galles/visualization/Algorithms.html">versión web</a>. Denle una mirada, no sólo es interesante, sino entretenido.
+Seguramente lo mismo pensó David Galles, quién desarrolló  un software en Java que nos permite visualizar el funcionamiento de estas estructuras. [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/java/download.html) es el nombre que le otorgó, pero la historia no se queda ahí, sino que HTML5 hizo su entrada y ahora también tenemos la [versión web](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html). Denle una mirada, no sólo es interesante, sino entretenido.
 
-Recuerdan <a href="https://blog.alphasmanifesto.com/2010/08/24/link-del-dia-la-belleza-de-los-algoritmos/">La Belleza de Los Algoritmos</a>? Creo que este link calificaba totalmente para estar en ese listado.
+Recuerdan [La Belleza de Los Algoritmos](https://blog.alphasmanifesto.com/2010/08/24/link-del-dia-la-belleza-de-los-algoritmos/)? Creo que este link calificaba totalmente para estar en ese listado.
 
 _Soy un zorrinito estructurado._

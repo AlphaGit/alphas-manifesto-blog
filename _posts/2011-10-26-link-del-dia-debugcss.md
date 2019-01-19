@@ -36,7 +36,7 @@ comments:
 
 Como todo elemento del desarrollo web, los CSS también pueden tener errores, y nuestra forma de utilizarlo puede no ser la óptima. Hay muchas herramientas que nos permiten ver cómo podríamos mejorarlo, pero hasta ahora no había visto ninguna que se enfocara directamente en corregir las buenas prácticas (junto con los errores, claro).
 
-Entonces me crucé on <a href="http://yahoo.github.com/debugCSS/">debugCSS</a>, un proyecto en forma de bookmarklet que nos da feedback sobre la página que estamos viendo. Al ser un bookmarklet, no toma más que un click y una arrastrada para instalarlo, y lo podemos usar tanto en páginas web como locales. Estuve probando varias páginas y de verdad que aunque no tenga errores graves, siempre estará dando sugerencias de como hacer el CSS y el HTML, más acorde, y no mancharlo con JavaScript inline.
+Entonces me crucé on [debugCSS](http://yahoo.github.com/debugCSS/), un proyecto en forma de bookmarklet que nos da feedback sobre la página que estamos viendo. Al ser un bookmarklet, no toma más que un click y una arrastrada para instalarlo, y lo podemos usar tanto en páginas web como locales. Estuve probando varias páginas y de verdad que aunque no tenga errores graves, siempre estará dando sugerencias de como hacer el CSS y el HTML, más acorde, y no mancharlo con JavaScript inline.
 
 En fin, otra de las herramientas útiles al momento de hacer desarrollo web.
 

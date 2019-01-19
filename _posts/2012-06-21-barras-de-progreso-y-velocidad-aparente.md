@@ -37,12 +37,12 @@ Hemos visto como a través de los años las interfaces de los sistemas operativo
 
 Uno de los elementos que más cambio ha tenido son los indicadores de progreso. Desde las líneas que giraban simulando un progreso, usando los caracteres -, /, | y \ en una consola, hasta el uso de caracteres Unicode con barritas que se iban llenando, hasta las hermosas interfaces de hoy de colores y animaciones.
 
-Cabe aclarar que los indicadores de progreso vienen en dos sabores. Uno de ellos es el indicador de progreso indeterminado, el cual indica que hay un progreso ocurriendo de fondo en nuestra aplicación, pero sin indicar qué tan cerca estamos de terminar esa operación. Muchos de estos hemos visto en Youtube y distintas páginas que hacen uso de ajax. <a href="http://commons.wikimedia.org/wiki/Category:Throbbers">Wikimedia tiene una linda galería de estos</a>, pero para ejemplo, aquí tienen uno:
+Cabe aclarar que los indicadores de progreso vienen en dos sabores. Uno de ellos es el indicador de progreso indeterminado, el cual indica que hay un progreso ocurriendo de fondo en nuestra aplicación, pero sin indicar qué tan cerca estamos de terminar esa operación. Muchos de estos hemos visto en Youtube y distintas páginas que hacen uso de ajax. [Wikimedia tiene una linda galería de estos](http://commons.wikimedia.org/wiki/Category:Throbbers), pero para ejemplo, aquí tienen uno:
 
 ![]({{ site.baseurl }}/assets/loader.gif)
 
 
-El otro tipo de indicador es la barra de progreso propiamente dicha. Esta barra es el concepto básico que indica un límite en donde el trabajo ha sido terminado y nuestra posición respecto de completar esa tarea. <a href="https://www.google.com/search?q=progress+bar&amp;sugexp=chrome,mod%3D11&amp;um=1&amp;ie=UTF-8&amp;hl=en&amp;tbm=isch&amp;source=og&amp;sa=N&amp;tab=wi&amp;authuser=0&amp;ei=KRDjT7fBCOuu2AWmlazqCw&amp;biw=1920&amp;bih=979&amp;sei=LBDjT62ZJIO42wWm8NTcCw">Una búsqueda en Google Images</a> devuelve muchas, muchas imágenes para saber de qué estamos hablando, y mejor aún, <a href="http://prettyloaded.com/">PrettyLoaded</a> es un sitio (Flash) con una galería continua de pre-loaders que reutilizan este concepto con distintas formas.
+El otro tipo de indicador es la barra de progreso propiamente dicha. Esta barra es el concepto básico que indica un límite en donde el trabajo ha sido terminado y nuestra posición respecto de completar esa tarea. [Una búsqueda en Google Images](https://www.google.com/search?q=progress+bar&amp;sugexp=chrome,mod%3D11&amp;um=1&amp;ie=UTF-8&amp;hl=en&amp;tbm=isch&amp;source=og&amp;sa=N&amp;tab=wi&amp;authuser=0&amp;ei=KRDjT7fBCOuu2AWmlazqCw&amp;biw=1920&amp;bih=979&amp;sei=LBDjT62ZJIO42wWm8NTcCw) devuelve muchas, muchas imágenes para saber de qué estamos hablando, y mejor aún, [PrettyLoaded](http://prettyloaded.com/) es un sitio (Flash) con una galería continua de pre-loaders que reutilizan este concepto con distintas formas.
 
 ![]({{ site.baseurl }}/assets/progressbar.gif)
 
@@ -50,7 +50,7 @@ El otro tipo de indicador es la barra de progreso propiamente dicha. Esta barra 
 
 Ahora, asumiendo que una tarea siempre tarda el mismo tiempo, el indicador de progreso puede hacer una diferencia en la velocidad aparente que como usuarios percibimos, y podría ser bien la diferencia entre cancelar una descarga que signifique una compra o esperar unos pocos segundos más. Esta velocidad percibida es también llamada velocidad aparente, y si bien está relacionada a la velocidad real, hay otros factores que pueden hacerla aparentemente mayor o menor.
 
-La velocidad aparente se encuentra afectada por muchos factores, como bien publicó Anthony, de UXMovement, en el artículo llamado <a href="http://uxmovement.com/buttons/how-to-make-progress-bars-feel-faster-to-users/">How to Make Progress Bars Feel Faster to Users</a>. A diferencia de muchos artículos que se encuentran en la internet, este está respaldado por estudios de la gente de Carnegie Mellon University, de los Laboratorios de Investigación de AT&amp;T, y de la Universidad de New York. (Los links están al final del mismo.)
+La velocidad aparente se encuentra afectada por muchos factores, como bien publicó Anthony, de UXMovement, en el artículo llamado [How to Make Progress Bars Feel Faster to Users](http://uxmovement.com/buttons/how-to-make-progress-bars-feel-faster-to-users/). A diferencia de muchos artículos que se encuentran en la internet, este está respaldado por estudios de la gente de Carnegie Mellon University, de los Laboratorios de Investigación de AT&amp;T, y de la Universidad de New York. (Los links están al final del mismo.)
 
 Las características que mencionan aquí son las siguientes:
 
@@ -80,7 +80,7 @@ La pausa final, que ocurre muy comunmente si se está haciendo un procesamiento 
 
 Los estudios originales son:
 
-- <a href="http://www.chrisharrison.net/projects/progressbars2/ProgressBarsHarrison.pdf">Faster Progress Bars: Manipulating Perceived Duration with Visual Augmentations</a>
-- <a href="http://www.scribd.com/lmjabreu/d/2226848-Rethinking-The-Progress-Bar">Rethinking the Progress Bar</a>
+- [Faster Progress Bars: Manipulating Perceived Duration with Visual Augmentations](http://www.chrisharrison.net/projects/progressbars2/ProgressBarsHarrison.pdf)
+- [Rethinking the Progress Bar](http://www.scribd.com/lmjabreu/d/2226848-Rethinking-The-Progress-Bar)
 
 _Soy un zorrinito con progreso._

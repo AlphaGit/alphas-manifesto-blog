@@ -42,13 +42,13 @@ comments:
 La versión casera de pruebas de carga cognitiva
 
 
-Hace tiempo atrás, en **MakingSense** tuvimos la oportunidad de trabajar en el desarrollo de una aplicación móvil. No sólo era para una empresa grande, sino que la aplicación iba a ser mostrada en vivo por Microsoft en la presentación **//BUILD 2012** junto a Rackspace. Mi historia tratará sobre otra cosa, pero si les interesa, pueden <a href="http://blog.makingsense.com/2012/11/windows-8-app-with-rackspace/">leer más sobre eso en el blog de MakingSense</a>, o asimismo <a href="http://www.rackspace.com/blog/manage-the-rackspace-open-cloud-with-windows-8/">en el blog de Rackspace</a>.
+Hace tiempo atrás, en **MakingSense** tuvimos la oportunidad de trabajar en el desarrollo de una aplicación móvil. No sólo era para una empresa grande, sino que la aplicación iba a ser mostrada en vivo por Microsoft en la presentación **//BUILD 2012** junto a Rackspace. Mi historia tratará sobre otra cosa, pero si les interesa, pueden [leer más sobre eso en el blog de MakingSense](http://blog.makingsense.com/2012/11/windows-8-app-with-rackspace/), o asimismo [en el blog de Rackspace](http://www.rackspace.com/blog/manage-the-rackspace-open-cloud-with-windows-8/).
 
 Participé de este proyecto a pesar de muchos factores internos que lo dificultaban, pero me alegra haberlo hecho porque tenía características muy interesantes. Al comienzo de dicho proyecto, obtuvimos los requerimientos y analizamos sistemas de Rackspace para tener más contexto sobre lo que teníamos que hacer. En una de esas oportunidades, realizamos una reunión sobre alcance, diseño y experiencia de usuario.
 
 <!--more-->
 
-<a href="https://twitter.com/CesarDOnofrio">César D'Onofrio</a> fue parte de esa reunión, y nos compartió su opinión sobre la usabilidad deseada de una forma muy clara.
+[César D'Onofrio](https://twitter.com/CesarDOnofrio) fue parte de esa reunión, y nos compartió su opinión sobre la usabilidad deseada de una forma muy clara.
 
 > Deben imaginar que el usuario es un tipo que está en su casa mirando televisión, tiene una pizza en una mano y una tableta en la otra, usando la aplicación. Si para él no es fácil usar una mano y rápidamente ver lo que tiene que hacer, fallamos.
 

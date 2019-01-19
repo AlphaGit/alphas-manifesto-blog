@@ -34,7 +34,7 @@ comments:
     I was missing the point of the book into the details. My [...]"
 ---
 
-Going on with my reading of <a href="https://blog.alphasmanifesto.com/2009/09/20/the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering/">Minsky's book</a>, chapter 4 is titled "Consciousness" and it definitely treats about that.
+Going on with my reading of [Minsky's book](https://blog.alphasmanifesto.com/2009/09/20/the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering/), chapter 4 is titled "Consciousness" and it definitely treats about that.
 
 The first section of the chapter tries to define what consciousness _is_, of course, failing as in fact "conscience" is nothing but a word that describes something that we are able to percieve. As our mind, it can't be so simple as to define with just one word (or just one process) so Minsky states that consciousness may be in fact the interaction of different mind resources. He proposes the idea that our minds have a _consciousness detector_ that is activated when certain resources are activated. In that idea we can explain for unconcious complex behavior and conscious simple behavior. (Of course, also the oposite.)
 

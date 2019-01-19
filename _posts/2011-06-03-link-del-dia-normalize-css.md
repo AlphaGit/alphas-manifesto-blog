@@ -26,7 +26,7 @@ tags:
 comments: []
 ---
 
-A pesar de lo que parece, <a href="http://necolas.github.com/normalize.css/">Normalize CSS</a> no es lo mismo que reset CSS. El reset común vuelve todos los valores que los navegadores por defecto tienen distinto a 0, para que cualquier cambio que hagamos tenga el valor que nosotros asignemos.
+A pesar de lo que parece, [Normalize CSS](http://necolas.github.com/normalize.css/) no es lo mismo que reset CSS. El reset común vuelve todos los valores que los navegadores por defecto tienen distinto a 0, para que cualquier cambio que hagamos tenga el valor que nosotros asignemos.
 
 Sin embargo, hay quienes realmente defienden la diferencia de estilos que cada navegador utiliza por defecto, para dar una experiencia del usuario distinta (y todavía me falta crear un post sobre el tema para exponerlo en detalle). Para ellos, Normalize CSS tiene mucho más sentido, porque no se fuerzan las propiedades a tener determinados valores, sino que sólo se normaliza todo a un estado consistente, desde el cual cada navegador utiliza sus valores por defecto.
 

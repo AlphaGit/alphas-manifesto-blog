@@ -25,4 +25,4 @@ tags:
 comments: []
 ---
 
-I just wrote a guest post at Making Sense's blog: <a href="https://blog.makingsense.com/2018/02/a-novices-introduction-to-data-science/">A Novice's Introduction to Data Science</a>. Hopefully the first in a series, but for the moment, feel free to check that one out to find out what Data Science is and why you all the hype about it lately.
+I just wrote a guest post at Making Sense's blog: [A Novice's Introduction to Data Science](https://blog.makingsense.com/2018/02/a-novices-introduction-to-data-science/). Hopefully the first in a series, but for the moment, feel free to check that one out to find out what Data Science is and why you all the hype about it lately.

@@ -37,23 +37,23 @@ comments: []
 
 ## Hello to you all
 
-I'm really glad to announce that since some time ago, I had the opportunity to work along with the Doppler team for a new project, something that since that time was evolving, called <a href="http://www.fromdoppler.com/Website/source/English/feat_reports.aspx">Doppler Reports</a>. This project finally became active and working publicly on July 27<sup>th</sup>. Let me tell you a little more about it.
+I'm really glad to announce that since some time ago, I had the opportunity to work along with the Doppler team for a new project, something that since that time was evolving, called [Doppler Reports](http://www.fromdoppler.com/Website/source/English/feat_reports.aspx). This project finally became active and working publicly on July 27<sup>th</sup>. Let me tell you a little more about it.
 
 ## What is Doppler anyway?
 
 ![Doppler]({{ site.baseurl }}/assets/Doppler.png){ :align-left}
 
-For those that are not aware of it, <a href="http://www.fromdoppler.com">Doppler</a> is a online **email-marketing tool**. It's really complex, but explaining it just at a glance, you can use it to create email content online (template-based or editing it yourself online), and sending it massively to one or many of your pre-entered mailing lists. However, there is much more to it, and one of the big powers enclosed in such a tool is the ability to analyze the customer's reaction to your mail campaigns. When you have ten, maybe twenty, fifty, or even a hundred customers, this is something you could easily do with lists. You check for your contacts, you see who opened the email you sent, you see who click on which link, and that's all the information you need to go on.
+For those that are not aware of it, [Doppler](http://www.fromdoppler.com) is a online **email-marketing tool**. It's really complex, but explaining it just at a glance, you can use it to create email content online (template-based or editing it yourself online), and sending it massively to one or many of your pre-entered mailing lists. However, there is much more to it, and one of the big powers enclosed in such a tool is the ability to analyze the customer's reaction to your mail campaigns. When you have ten, maybe twenty, fifty, or even a hundred customers, this is something you could easily do with lists. You check for your contacts, you see who opened the email you sent, you see who click on which link, and that's all the information you need to go on.
 
 ## Reports?
 
-Things have changed a lot in the business since <a href="http://blog.fromdoppler.com/feliz-cumpleanos-doppler">that morning in 2005</a>. What happens when you've got a thousand contacts. A million? No, I'm not exagerating. That's part of our _everyday_ work, maintaining a tool that daily sends _millions_ of emails. How do we get results and present them to the users? The obvious answer is: reports.
+Things have changed a lot in the business since [that morning in 2005](http://blog.fromdoppler.com/feliz-cumpleanos-doppler). What happens when you've got a thousand contacts. A million? No, I'm not exagerating. That's part of our _everyday_ work, maintaining a tool that daily sends _millions_ of emails. How do we get results and present them to the users? The obvious answer is: reports.
 
 Summarizing reports will give you the information youneed without having to scan for each of your contacts (because, of course, the system does it for you). And as technologies evolve, and as customer behavior evolves, and as marketing evolves, our tools needs to evolve too.
 
 That's where the Doppler Team saw the necessity of creating a new brand report application, in order to fulfill a lot of requests that our customers had from the previous version of our reporting tool. But this one would have to be thought for **millions** of emails, **thousands** of users, **real time** information and at the same time **elegant** and **data-rich** reports.
 
-Then we entered the scene. I had the chance to work closely along with <a href="http://ar.linkedin.com/in/juanfazzini">Juan Fazzini</a> to design an architecture that would scale as Doppler would get bigger with all future features that it will get. So, in a Friday afternoon, a big white board, a notebook as recorder to keep track of everything we said (you know, documentation is important), we started brainstorming and dreaming about what Doppler reports would work like.
+Then we entered the scene. I had the chance to work closely along with [Juan Fazzini](http://ar.linkedin.com/in/juanfazzini) to design an architecture that would scale as Doppler would get bigger with all future features that it will get. So, in a Friday afternoon, a big white board, a notebook as recorder to keep track of everything we said (you know, documentation is important), we started brainstorming and dreaming about what Doppler reports would work like.
 
 ## How is the architecture designed?
 
@@ -126,4 +126,4 @@ Of course, this new features are available to all users that have a Doppler acco
 
 ...I just want to say that I consider a personal achievement having been part of all of this.  We tried to do something radical, and we have a radical product today. I think that all of the <a href="http://www.fromdoppler.com/Website/source/English/company.aspx" target="_blank">Doppler Team</a> is very proud of what they have today, and I sure am too.
 
-Oh, and this post has made its way into the <a href="http://getcs.com/en/2010/07/doppler-reports/">GetCS blog</a>. Make sure to check it out.
+Oh, and this post has made its way into the [GetCS blog](http://getcs.com/en/2010/07/doppler-reports/). Make sure to check it out.

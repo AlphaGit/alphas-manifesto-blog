@@ -47,7 +47,7 @@ Un test, por ejemplo, podría verse así:
 
 <script src="https://gist.github.com/AlphaGit/2da8aeea06222df6bd93.js"></script>
 
-Más información sobre los helpers en <a href="http://emberjs.com/guides/testing/test-helpers/">la documentación de Ember</a>.
+Más información sobre los helpers en [la documentación de Ember](http://emberjs.com/guides/testing/test-helpers/).
 
 ## Helpers síncronos vs. helpers asíncronos
 
@@ -62,7 +62,7 @@ Como tales, los helpers de un test pueden funcionar una de dos maneras:
 
 En este punto mis más ávidos lectores se habrán preguntado si esto es correcto, porque el run-loop de Ember se encuentra deshabilitado durante los tests.  ¿Cómo es esto posible entonces?
 
-Ember.Testing posee su propio "run loop", que verifica lo siguiente antes de seguir ejecutando los tests luego de que cada helper haga su magia. Esto es también parte del helper de `wait()` que otros helpers llaman internamente: (<a href="https://github.com/emberjs/ember.js/blob/071b4bb6aad44100dc74ef8e1c79562e57038e7d/packages/ember-testing/lib/helpers.js#L145">referencia en el código fuente</a>)
+Ember.Testing posee su propio "run loop", que verifica lo siguiente antes de seguir ejecutando los tests luego de que cada helper haga su magia. Esto es también parte del helper de `wait()` que otros helpers llaman internamente: ([referencia en el código fuente](https://github.com/emberjs/ember.js/blob/071b4bb6aad44100dc74ef8e1c79562e57038e7d/packages/ember-testing/lib/helpers.js#L145))
 
 1. Verifica que no haya transiciones activas (pendientes de terminar)
 1. Verifica que no haya llamadas AJAX que falten ser resueltas
@@ -74,15 +74,15 @@ Si cualquiera de estas condiciones no se cumple, Ember.Testing simplemente esper
 
 ## httpRespond
 
-<a href="https://github.com/trek/ember-testing-httpRespond">ember-testing-httpRespond</a> es un paquete npm que nos permite reemplazar un servidor de respuestas AJAX por respuestas pre-definidas en JSON, de forma que no necesitemos implementar lógica de servidor para cada test. Esto es muy bueno, porque simplifica parte de lo que estamos testeando, permitiéndonos ajustar las respuestas que el servidor daría ante alguna situación particular, y verificando que nuestra aplicación de Ember se comporta de la forma que debería hacerlo en ese caso.
+[ember-testing-httpRespond](https://github.com/trek/ember-testing-httpRespond) es un paquete npm que nos permite reemplazar un servidor de respuestas AJAX por respuestas pre-definidas en JSON, de forma que no necesitemos implementar lógica de servidor para cada test. Esto es muy bueno, porque simplifica parte de lo que estamos testeando, permitiéndonos ajustar las respuestas que el servidor daría ante alguna situación particular, y verificando que nuestra aplicación de Ember se comporta de la forma que debería hacerlo en ese caso.
 
 Además de ser más rápido que un servidor real, permite amoldar los datos resueltos según cada test particular. Esto es muy poderoso para el testing, y sin la necesidad de un backend, se puede tener más control sobre lo que cada test hace.
 
 ## El problema
 
-Cuando Ember 1.4.0 fue publicado, uno de los arreglos que se encontraban en su código era solucionar un problema interno que impedía a la aplicación señalar que una transición estaba incompleta, haciendo que el helper de `wait()` no esperara todo lo que realmente debía esperar en una transición de rutas (<a href="https://github.com/emberjs/ember.js/pull/4347">ember.js PR #4347</a>). Esto significaba que desde Ember 1.4.0, aquellos helpers o tests que ejecutaran `wait()` internamente debían esperar a que una transición (navegación) a una determinada ruta terminara antes de poder seguir ejecutando (<a href="https://github.com/trek/ember-testing-httpRespond/issues/10">ember-testing-httpRespond, issue 10</a>).
+Cuando Ember 1.4.0 fue publicado, uno de los arreglos que se encontraban en su código era solucionar un problema interno que impedía a la aplicación señalar que una transición estaba incompleta, haciendo que el helper de `wait()` no esperara todo lo que realmente debía esperar en una transición de rutas ([ember.js PR #4347](https://github.com/emberjs/ember.js/pull/4347)). Esto significaba que desde Ember 1.4.0, aquellos helpers o tests que ejecutaran `wait()` internamente debían esperar a que una transición (navegación) a una determinada ruta terminara antes de poder seguir ejecutando ([ember-testing-httpRespond, issue 10](https://github.com/trek/ember-testing-httpRespond/issues/10)).
 
-Dado que httpRespond utilizaba tests asincrónicos para registrar sus respuestas, estas nunca llegaban a registrarse si la transición misma las estaba esperando (porque la llamada AJAX nunca se habría resuelto). Como una solución a ese problema, httpRespond introdujo un nuevo helper llamado `visitAndRespond()` que pretendía solventar el problema (<a href="https://github.com/trek/ember-testing-httpRespond/pull/13">ember-testing-httpRespond PR #13</a>). Esta no era la mejor solución por una cantidad de razones:
+Dado que httpRespond utilizaba tests asincrónicos para registrar sus respuestas, estas nunca llegaban a registrarse si la transición misma las estaba esperando (porque la llamada AJAX nunca se habría resuelto). Como una solución a ese problema, httpRespond introdujo un nuevo helper llamado `visitAndRespond()` que pretendía solventar el problema ([ember-testing-httpRespond PR #13](https://github.com/trek/ember-testing-httpRespond/pull/13)). Esta no era la mejor solución por una cantidad de razones:
 
 - Ya no se podía confiar que evaluaciones síncronas del tests estaban ocurriendo en la mitad de una transición (de hecho, sólo se podrían hacer verificaciones al final de una transición)
 - No permite responder a una transición que requiere múltiples respuestas AJAX para ser resueltas

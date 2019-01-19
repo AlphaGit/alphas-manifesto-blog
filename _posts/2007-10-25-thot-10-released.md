@@ -21,7 +21,7 @@ tags: []
 comments: []
 ---
 
-Para bajar, aquí: <a href="http://alphagma.googlepages.com/home">http://alphagma.googlepages.com/</a>
+Para bajar, aquí: [http://alphagma.googlepages.com/](http://alphagma.googlepages.com/home)
 
 Este programa es la fuente de datos para un sistema de redes neuronales a diseñar próximamente, para un trabajo académico sobre OCR.
 

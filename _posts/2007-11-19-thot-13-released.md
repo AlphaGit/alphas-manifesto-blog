@@ -29,6 +29,6 @@ Esto tiene una gran ventaja, que es la generación de conjuntos de datos mucho m
 
 Sin embargo, con ello viene una gran desventaja, que es el tiempo extra de procesamiento (y claro! lo proceso todo a mano), pero por suerte arreglé el bug de la barra de progreso y algunos detalles más de la aplicación y el deploy.
 
-Download de Thot, <a href="http://alphagma.googlepages.com">aquí</a>.
+Download de Thot, [aquí](http://alphagma.googlepages.com).
 
 _Soy un zorrinito cambiante._

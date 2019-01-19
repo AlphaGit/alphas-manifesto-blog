@@ -30,6 +30,6 @@ comments: []
 Bookmarklet de visualización de eventos
 
 
-Muy parecido a <a href="https://blog.alphasmanifesto.com/2011/10/26/link-del-dia-debugcss/">debugCSS</a> que alguna vez envié, <a href="https://github.com/DataTables/VisualEvent">VisualEvent</a> es también un bookmarklet que nos permite trabajar con los interiores de alguna página. En este caso, nos mostrará visualmente cuáles son los eventos asignados a los distintos elementos e incluso muchas veces el código. Muy útil para debuggear y detectar problemas de interacción con código que tenemos que corregir. Además, también para considerar cuánto JavaScript estamos usando en una página (puede que sea mucho, no?)
+Muy parecido a [debugCSS](https://blog.alphasmanifesto.com/2011/10/26/link-del-dia-debugcss/) que alguna vez envié, [VisualEvent](https://github.com/DataTables/VisualEvent) es también un bookmarklet que nos permite trabajar con los interiores de alguna página. En este caso, nos mostrará visualmente cuáles son los eventos asignados a los distintos elementos e incluso muchas veces el código. Muy útil para debuggear y detectar problemas de interacción con código que tenemos que corregir. Además, también para considerar cuánto JavaScript estamos usando en una página (puede que sea mucho, no?)
 
 _Soy un zorrinito JavaScript._

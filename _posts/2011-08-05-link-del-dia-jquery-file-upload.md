@@ -31,8 +31,8 @@ Me crucé con este plugin hace tiempo y lo quería probar pero no he tenido la o
 
 También: posibilidad de cancelar el upload, preview de imágenes, formulario estándar si no hay JavaScript habilitado, extensible, y por supuesto, open source.
 
-<a href="http://aquantum-demo.appspot.com/file-upload">jQuery File Upload</a> parece ser una de esas joyitas que nos dan un problema muy común ya solucionado.
+[jQuery File Upload](http://aquantum-demo.appspot.com/file-upload) parece ser una de esas joyitas que nos dan un problema muy común ya solucionado.
 
-Via <a href="http://www.creativosonline.org/blog/jquery-file-upload-un-plugin-interesante.html">Creativos Online</a>, y alguien que lo compartió en Google Reader (perdón, pero ya no sé quién fue!).
+Via [Creativos Online](http://www.creativosonline.org/blog/jquery-file-upload-un-plugin-interesante.html), y alguien que lo compartió en Google Reader (perdón, pero ya no sé quién fue!).
 
 _Soy un zorrinito con soluciones._

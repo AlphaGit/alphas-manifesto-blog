@@ -28,11 +28,11 @@ tags:
 comments: []
 ---
 
-Gracias a un interesante post que me compartió el kangrejo, estuve leyendo un poco sobre las diferentes licencias de software que están por ahí. El artículo en cuestión es de <a href="http://onsoftware.softonic.com/">OnSoftware</a>, y el artículo se llama <a href="http://onsoftware.softonic.com/el-software-libre-y-las-licencias-de-uso">El Software libre y las licencias de uso</a>.
+Gracias a un interesante post que me compartió el kangrejo, estuve leyendo un poco sobre las diferentes licencias de software que están por ahí. El artículo en cuestión es de [OnSoftware](http://onsoftware.softonic.com/), y el artículo se llama [El Software libre y las licencias de uso](http://onsoftware.softonic.com/el-software-libre-y-las-licencias-de-uso).
 
 Me resultó realmente muy curioso (y de hecho, no lo sabía) que una licencia de software libre no significa que seamos libre de utilizarla para cualquier proyecto. Por ejemplo, la licencia GPL nos obliga a liberar todo código en donde está utilizada esta licencia con esa misma licencia, con lo cual, si no fuera porque jQuery tiene también la licencia MIT, todo lo que hiciéramos con esta librería tendría que estar publicado como open source.
 
-Wikipedia tiene un buen artículo sobre <a href="http://en.wikipedia.org/wiki/Comparison_of_free_software_licenses">Comparison of free software licenses</a>, que nos explica con cuáles licencias podríamos utilizar software en nuestros proyectos.
+Wikipedia tiene un buen artículo sobre [Comparison of free software licenses](http://en.wikipedia.org/wiki/Comparison_of_free_software_licenses), que nos explica con cuáles licencias podríamos utilizar software en nuestros proyectos.
 
 Recuerden que _free software_ no es lo mismo que _open source_.
 

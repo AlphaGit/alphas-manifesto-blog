@@ -166,7 +166,7 @@ comments:
 Cambios a mi flujo de trabajo para más productividad
 
 
-En un post de enero del año pasado, titulado <a href="https://blog.alphasmanifesto.com/2012/01/20/como-uso-trello-para-trabajar/">Cómo uso Trello para trabajar</a>, expliqué de qué forma organizo mi trabajo para saber qué tengo pendiente y qué hice para poder reportar a mis superiores. En el transcurso del año pasado y de este año, mucho ha ocurrido y mis obligaciones me han llevado a mejorar un poco ese flujo de trabajo.
+En un post de enero del año pasado, titulado [Cómo uso Trello para trabajar](https://blog.alphasmanifesto.com/2012/01/20/como-uso-trello-para-trabajar/), expliqué de qué forma organizo mi trabajo para saber qué tengo pendiente y qué hice para poder reportar a mis superiores. En el transcurso del año pasado y de este año, mucho ha ocurrido y mis obligaciones me han llevado a mejorar un poco ese flujo de trabajo.
 
 Aquí les presento, mi nueva estrategia de uso de Trello.
 
@@ -184,7 +184,7 @@ Por último, también es útil la posibilidad de filtrar tarjetas por etiqueta: 
 
 ## Tracking de tiempo en el título
 
-Parte de mi dificultad para lograr reportar el trabajo, es realmente cuánto tiempo me tomó una tarea. Desafortunadamente Trello no tiene una funcionalidad de time tracking, y según dicen oficialmente, <a href="https://trello.com/c/9tX8CRNm/1054-time-tracking">no tienen pensado hacerlo un feature central</a>. He buscado plugins pero no he encontrado nada, y he pensado en implementar uno propio pero prefiero primero tener algo funcionando antes de dedicar tiempo a eso.
+Parte de mi dificultad para lograr reportar el trabajo, es realmente cuánto tiempo me tomó una tarea. Desafortunadamente Trello no tiene una funcionalidad de time tracking, y según dicen oficialmente, [no tienen pensado hacerlo un feature central](https://trello.com/c/9tX8CRNm/1054-time-tracking). He buscado plugins pero no he encontrado nada, y he pensado en implementar uno propio pero prefiero primero tener algo funcionando antes de dedicar tiempo a eso.
 
 Mi time-tracking actual funciona de la siguiente forma: cuando comienzo algo, va a la lista de "Doing right now". Cuando termino la tarea, la quito de ahí pero antes de hacerlo, me fijo cuánto tiempo estuvo allí.  ¿Cómo hacerlo sin tener que recordar la hora? Trello recuerda la hora por nosotros: nos muestra exactamente en qué horario la movimos a la lista de Doing Right Now. Sólo es importante recordar fijarse porque si ocurre muy rápido, es posible que no se grabe ese tiempo. Si el horario mostrado no es exacto, sólo tenemos que poner nuestro puntero sobre él para obtener tiempos exactos. ("one hour ago" puede en realidad significar hasta 3 o 4 horas de distancia.)
 

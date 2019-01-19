@@ -41,10 +41,10 @@ Muchas veces la usabilidad de un sistema es un requerimiento tan primordial como
 
 El problema es, cómo probar este tipo de cosas? Muchas veces se usan equipos de testing que no tengan conocimiento alguno de la herramienta; muchas veces también se utiliza gente que no está relacionada con el proyecto para nada, o incluso se terceriza este tipo de testeo. Otro problema es que, dado que estos testeos de usabilidad se basan en tratar de ver qué cosas son fáciles y cuáles no, cuáles son intuitivas y cuáles no... cómo obtener resultados homogéneos para cada persona que lo haya probado? Y un tercer problema es: cómo ver fácilmente los resultados en nuestra aplicación?
 
-<a href="http://usabilla.com/">Usabilla</a> es una aplicación web que quiere encargarse de esto. Tras registrarnos (con sus planes gratuitos o pagos), podemos crear pruebas de usabilidad contra sitios / aplicaciones web, imágenes o diseños. Las pruebas las generaremos en forma de consignas que le pediremos al usuario que realice sobre ese algo que queremos testear. Por ejemplo: "En dónde haría click para registrarse?" o "Qué elementos le llaman la atención de esta página?"
+[Usabilla](http://usabilla.com/) es una aplicación web que quiere encargarse de esto. Tras registrarnos (con sus planes gratuitos o pagos), podemos crear pruebas de usabilidad contra sitios / aplicaciones web, imágenes o diseños. Las pruebas las generaremos en forma de consignas que le pediremos al usuario que realice sobre ese algo que queremos testear. Por ejemplo: "En dónde haría click para registrarse?" o "Qué elementos le llaman la atención de esta página?"
 
 Tras probar con muchos usuarios, podemos visualizar nuestros resultados de forma gráfica, o en la misma página.
 
-Recuerden que como competidor de este servicio alguna vez hablamos de <a href="https://blog.alphasmanifesto.com.ar/2009/05/13/link-del-dia-loop11/">Loop11</a>, que parecía tener la ventaja de permitir la navegación a través de las pruebas, y de esa forma evaluar la navegabilidad de un sitio. No sé si Usabilla lo permita, aunque por lo que ví en las demos parecería que no.
+Recuerden que como competidor de este servicio alguna vez hablamos de [Loop11](https://blog.alphasmanifesto.com.ar/2009/05/13/link-del-dia-loop11/), que parecía tener la ventaja de permitir la navegación a través de las pruebas, y de esa forma evaluar la navegabilidad de un sitio. No sé si Usabilla lo permita, aunque por lo que ví en las demos parecería que no.
 
 _Soy un zorrinito usable._

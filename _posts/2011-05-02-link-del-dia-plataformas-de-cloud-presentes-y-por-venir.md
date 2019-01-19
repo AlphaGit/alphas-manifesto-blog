@@ -24,12 +24,12 @@ tags:
 comments: []
 ---
 
-Este link de hoy no es tan sustancial como el resto de los que estamos acostumbrados, pero no por eso deja de ser útil. En este caso, es un listado que productos <a href="http://en.wikipedia.org/wiki/Platform_as_a_service">Platform as a Service (PaaS)</a>. No todos son pagos, y algunos pagos tienen free trials, si a alguno le interesa probar alguna aproximación de computación distribuída, esta es su oportunidad.
+Este link de hoy no es tan sustancial como el resto de los que estamos acostumbrados, pero no por eso deja de ser útil. En este caso, es un listado que productos [Platform as a Service (PaaS)](http://en.wikipedia.org/wiki/Platform_as_a_service). No todos son pagos, y algunos pagos tienen free trials, si a alguno le interesa probar alguna aproximación de computación distribuída, esta es su oportunidad.
 
-El listado está aquí: <a href="http://blog.huchunhao.com/current-and-upcoming-cloud-platforms">List of Current and Upcoming Cloud Platforms</a>. Dicho sea de paso, me encanta el diseño de ese blog. Minimalista en serio.
+El listado está aquí: [List of Current and Upcoming Cloud Platforms](http://blog.huchunhao.com/current-and-upcoming-cloud-platforms). Dicho sea de paso, me encanta el diseño de ese blog. Minimalista en serio.
 
-El listado de la categoría <a href="http://en.wikipedia.org/wiki/Category:Cloud_platforms">Cloud Platforms</a> de Wikipedia provee algunos nombres más. Y por si no les alcanza todavía, acá tienen el <a href="http://www.cloudtweaks.com/2010/02/list-of-cloud-platforms-providers-and-enablers-2010/">List of Cloud Platfrms</a> de CloudTweaks (2010).
+El listado de la categoría [Cloud Platforms](http://en.wikipedia.org/wiki/Category:Cloud_platforms) de Wikipedia provee algunos nombres más. Y por si no les alcanza todavía, acá tienen el [List of Cloud Platfrms](http://www.cloudtweaks.com/2010/02/list-of-cloud-platforms-providers-and-enablers-2010/) de CloudTweaks (2010).
 
-Tampoco se olviden de checkear <a href="http://appirio.force.com/cloudecosystem/CloudEcosystemMap">Cloud Computing Ecosystem</a>, que lo mantienen actualizado desde <a href="https://blog.alphasmanifesto.com/2009/12/21/link-del-dia-cloud-computing-ecosystem/">aquél post en diciembre del 2009</a>.
+Tampoco se olviden de checkear [Cloud Computing Ecosystem](http://appirio.force.com/cloudecosystem/CloudEcosystemMap), que lo mantienen actualizado desde [aquél post en diciembre del 2009](https://blog.alphasmanifesto.com/2009/12/21/link-del-dia-cloud-computing-ecosystem/).
 
 _Soy un zorrinito en las nubes._

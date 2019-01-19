@@ -36,7 +36,7 @@ comments:
     de la gente de [...]"
 ---
 
-Nuevamente de la gente de <a href="http://css-tricks.com/13982-adaptive-images/">CSS Tricks</a> me llega un dato de una librería muy útil. En este caso es <a href="http://adaptive-images.com/">Adaptive Images</a>, es una librería en PHP que nos permite servir imágenes con el tamaño justo dependiendo del tipo de cliente. No sólo se hace la diferenciación del tipo de cliente, sino del tamaño de la pantalla real.
+Nuevamente de la gente de [CSS Tricks](http://css-tricks.com/13982-adaptive-images/) me llega un dato de una librería muy útil. En este caso es [Adaptive Images](http://adaptive-images.com/), es una librería en PHP que nos permite servir imágenes con el tamaño justo dependiendo del tipo de cliente. No sólo se hace la diferenciación del tipo de cliente, sino del tamaño de la pantalla real.
 
 Cómo es que funciona? Básicamente al momento de cargar la página un javascript se ejecuta antes de que ejecute el cuerpo. Este javascript carga una cookie en nuestro navegador con esa información de tamaño de pantalla, y cuando nuestro navegador procede a buscar las imágenes, ese cookie viaja también y el servidor puede devolver una imagen del tamaño justo.
 

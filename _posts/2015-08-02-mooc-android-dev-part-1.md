@@ -69,7 +69,7 @@ comments:
 
 ![]({{ site.baseurl }}/assets/android.png)
 
-Yes, I continue to go on courses. Now I just finished the <a href="https://www.coursera.org/course/androidpart1">Android Development Part 1</a> (or "Programming Mobile Applications for Android Handheld Systems: Part 1"), dictated by the University of Maryland.
+Yes, I continue to go on courses. Now I just finished the [Android Development Part 1](https://www.coursera.org/course/androidpart1) (or "Programming Mobile Applications for Android Handheld Systems: Part 1"), dictated by the University of Maryland.
 
 As usual, let me give you a quick review of what it was about, what you need to get into it and what you can get out of it.
 
@@ -97,4 +97,4 @@ The course was amazingly well explained from top to bottom, with examples for ev
 
 If you're really curious about what Android development is or how it works, this course is definitely for you.
 
-If you're interested in it, you can <a href="https://www.coursera.org/course/androidpart1">visit the Android Development Part 1 course</a>.
+If you're interested in it, you can [visit the Android Development Part 1 course](https://www.coursera.org/course/androidpart1).

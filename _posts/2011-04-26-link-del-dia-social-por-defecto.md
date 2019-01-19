@@ -26,7 +26,7 @@ tags:
 comments: []
 ---
 
-Este es uno de esos ejemplos que van guíando a los programas de la forma que tienen que ser. Hace un tiempo ya <a href="http://twitter.com/CesarDOnofrio">César DOnofrio</a> me estuvo comentando sobre una aplicación llamada <a href="http://www.color.com/">Color</a>. Con un nombre tan simple, es una herramienta para dispositivos móviles que nos permite formar parte de un "enjambre" de gente que participa de un evento.
+Este es uno de esos ejemplos que van guíando a los programas de la forma que tienen que ser. Hace un tiempo ya [César DOnofrio](http://twitter.com/CesarDOnofrio) me estuvo comentando sobre una aplicación llamada [Color](http://www.color.com/). Con un nombre tan simple, es una herramienta para dispositivos móviles que nos permite formar parte de un "enjambre" de gente que participa de un evento.
 
 Basándose en la localización y el tiempo actual en donde el multimedia es capturado (fotos, videos, etc.), se puede considerar que varias fotos de distintas personas son en realidad pertenecientes a un mismo eventos. Así es como Color nos permite compartir lo que hemos visto con la gente que estuvo en ese evento y con otros. Lo curioso es que entonces todos los detalles que nos perdimos del evento fueron entonces capturados por otros presentes y están disponibles para nosotros también.
 

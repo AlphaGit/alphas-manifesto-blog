@@ -87,7 +87,7 @@ Por el comando que ejecuta y deja en el archivo de log, parecería ser un servic
 
 Lo primero que voy a probar es hacer algo parecido a mis tareas diarias.
 
-Mi primer sorpresa es la elección de colores que tuvieron con el entorno. En general, todo grisáceo y de colores muy uniformes. Es fácil ver el texto pero no lo es tanto como el contraste que proponía el blanco sobre azul de la versión anterior. Es difícil distinguir las ventanas sobre el fondo, especialmente si no tienen contenido. Cada tanto los mensajes de diálogo pierden ese estilo y vuelven al estilo normal que tienen las ventanas de Windows, dejando ese feo sabor <a href="http://adobegripes.tumblr.com/">del cual todos se quejan de la suite Adobe</a>, en donde el programa realmente desentona con el entorno en el que está corriendo.
+Mi primer sorpresa es la elección de colores que tuvieron con el entorno. En general, todo grisáceo y de colores muy uniformes. Es fácil ver el texto pero no lo es tanto como el contraste que proponía el blanco sobre azul de la versión anterior. Es difícil distinguir las ventanas sobre el fondo, especialmente si no tienen contenido. Cada tanto los mensajes de diálogo pierden ese estilo y vuelven al estilo normal que tienen las ventanas de Windows, dejando ese feo sabor [del cual todos se quejan de la suite Adobe](http://adobegripes.tumblr.com/), en donde el programa realmente desentona con el entorno en el que está corriendo.
 
 Recordemos nuevamente que está pensado también para Windows 8, con lo que mi apreciación podría ser equivocada, pero no lo he probado aún. Esa es otra historia y probablemente otra serie de posts.
 
@@ -117,7 +117,7 @@ Parece que otra característica que tampoco nos dejará muy contentos es algo qu
 
 Desafortunadamente alguien ha decidido que agregar coloreado al texto que tipeamos ahí fue más importante, y terminamos con una versión algo buggeada de texto formateado (como pueden ver en la imagen anterior, ambas decepciones juntas). No es realmente nada tan terrible como algo que no funcione, pero muchos queremos poder efectuar un _.Where()_ para no tener que pasar por más de 200 elementos en un enumerable.
 
-En otra de mis pruebas descubrí que existe algo llamado <a href="http://msdn.microsoft.com/en-us/library/hh418499(v=vs.110).aspx">Parallel Watch</a>, que básicamente es una ventana de watch que nos permite ver valores de una misma variable a lo largo de distintos threads. Supongo que esto puede volverse confuso ya que distintas intancias de una misma variable son en realidad distintas variables e instancias no-thread safe son en realidad la misma variable. Eso o yo me estoy perdiendo algo del concepto de trabajar en paralelo. (Si algún lector tiene algo que aportar, es bienvenido.)
+En otra de mis pruebas descubrí que existe algo llamado [Parallel Watch](http://msdn.microsoft.com/en-us/library/hh418499(v=vs.110).aspx), que básicamente es una ventana de watch que nos permite ver valores de una misma variable a lo largo de distintos threads. Supongo que esto puede volverse confuso ya que distintas intancias de una misma variable son en realidad distintas variables e instancias no-thread safe son en realidad la misma variable. Eso o yo me estoy perdiendo algo del concepto de trabajar en paralelo. (Si algún lector tiene algo que aportar, es bienvenido.)
 
 Dispuse la siguiente prueba para verificar su funcionalidad, y como sorpresa extra, encontré que puedo editar el código mientras está ejecutando, algo que anteriormente sólo ocurría en determinados casos. Me trajo un poco de satisfacción (aunque no tanto como me habría dado poder usar lamdbas en el quick watch.)
 
@@ -128,6 +128,6 @@ Desafortunadamente mi prueba no resultó muy exitosa, ya que al elegir una venta
 ![]({{ site.baseurl }}/assets/vs11parallelwatch.png)
 
 
-Creo que de todos momentos puedo estar en el camino equivocado, ya que en la ventana de Parallel Tasks nada aparecía. Seguramente tenga algo que ver con la nueva característica de <a href="http://msdn.microsoft.com/en-us/library/hh191443(v=vs.110).aspx">async tasks de .NET 4.5</a>.
+Creo que de todos momentos puedo estar en el camino equivocado, ya que en la ventana de Parallel Tasks nada aparecía. Seguramente tenga algo que ver con la nueva característica de [async tasks de .NET 4.5](http://msdn.microsoft.com/en-us/library/hh191443(v=vs.110).aspx).
 
 Es un muy buen punto de partida para retomar mi investigación, ya que mi tiempo se acabó por hoy.

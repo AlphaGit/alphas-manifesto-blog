@@ -28,13 +28,13 @@ tags:
 comments: []
 ---
 
-Este es otro de los links que me fue compartido via Twitter por la gente de <a href="http://twitter.com/BreakingDev">BreakingDev</a>, y el concepto es bastante simple, dejenmé presentarlo:
+Este es otro de los links que me fue compartido via Twitter por la gente de [BreakingDev](http://twitter.com/BreakingDev), y el concepto es bastante simple, dejenmé presentarlo:
 
 Se dice que una pieza de software está _encapsulada_ cuando no conocemos su funcionamiento interno y sus aspectos externos nos proporcionan todo lo que necesitamos para hacerla funcionar. No nos importa cómo, nos importa el qué hace. El cómo es responsabilidad de ese software, no nuestra.
 
 Este concepto es muy utilizado en el paradigma de programación orientado a objetos, en donde cada objeto encierra la responsabilidad de su propio comportamiento.
 
-Sin embargo, en el artículo llamado <a href="http://www.johndcook.com/blog/2011/03/02/psychological-encapsulation/">Psychological Encapsulation</a> se ve este tema de una mirada distinta:  ¿Qué ocurre cuando no confiamos en la forma en la que una pieza de software realiza sus tareas?  ¿Qué ocurre cuando tenemos un problema y el no conocer ese comportamiento interno nos impide solucionarlo?
+Sin embargo, en el artículo llamado [Psychological Encapsulation](http://www.johndcook.com/blog/2011/03/02/psychological-encapsulation/) se ve este tema de una mirada distinta:  ¿Qué ocurre cuando no confiamos en la forma en la que una pieza de software realiza sus tareas?  ¿Qué ocurre cuando tenemos un problema y el no conocer ese comportamiento interno nos impide solucionarlo?
 
 Esto es lo que ellos denominan _encapsulación psicológica_, y supongo que otros simplemente lo pueden llamar fiabilidad de un determinado software, o, siendo más específicos aún, el gusto y confianza que cada persona en particular le tiene a un software en particular.
 

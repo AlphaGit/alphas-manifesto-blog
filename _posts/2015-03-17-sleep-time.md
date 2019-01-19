@@ -35,7 +35,7 @@ I've known for a while that we sleep in cycles. And it's usually better to wake 
 
 And this is not a secret, it has been known for a while, and it's the exact reason why the snooze button in alarm clocks where invented: if you get awakened by the alarm in the middle of a cycle, you can snooze your alarm for 10 minutes so that you then wake up in the correct one. However, people ended up using it as a procrastination method where they'll just snooze it if they want to sleep more, which actually has more chances of defeating the original purpose completely.
 
-And now I've tried a smart alarm. However, it is not one of the _true_ smart alarms. The ones that works correctly should be strapped onto me with electric sensors to monitor my brain activity, should be calibrated to my particular brain and then it'd say "yup, now is the correct time to wake up". But I didn't want to go that far, so I got one of the free ones available in the Apple store. I got the Azumio's <a href="http://www.azumio.com/s/sleeptime/index.html">Sleep Time</a>, and it did make a difference in my life.
+And now I've tried a smart alarm. However, it is not one of the _true_ smart alarms. The ones that works correctly should be strapped onto me with electric sensors to monitor my brain activity, should be calibrated to my particular brain and then it'd say "yup, now is the correct time to wake up". But I didn't want to go that far, so I got one of the free ones available in the Apple store. I got the Azumio's [Sleep Time](http://www.azumio.com/s/sleeptime/index.html), and it did make a difference in my life.
 
 ![]({{ site.baseurl }}/assets/sleeptimemetrics.png)
 

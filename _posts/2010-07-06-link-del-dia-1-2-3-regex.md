@@ -22,12 +22,12 @@ tags: []
 comments: []
 ---
 
- ¿Recuerdan los posts viejos sobre cómo convertir un texto en una expresión regular acorde (<a href="https://blog.alphasmanifesto.com/2008/05/19/link-del-dia-text2re/">Text2RE</a>), y sobre cómo visualizar las expresiones regulares (<a href="https://blog.alphasmanifesto.com/2008/01/23/link-del-dia-visualizing-regular-expressions/">ReAnimator</a>)?
+ ¿Recuerdan los posts viejos sobre cómo convertir un texto en una expresión regular acorde ([Text2RE](https://blog.alphasmanifesto.com/2008/05/19/link-del-dia-text2re/)), y sobre cómo visualizar las expresiones regulares ([ReAnimator](https://blog.alphasmanifesto.com/2008/01/23/link-del-dia-visualizing-regular-expressions/))?
 
 Bueno, si esas les gustaron o les fueron útiles, vamos a dar dos nuevas utilidades para trabajar con expresiones regulares.
 
-La primera de ellas es <a href="http://regexlib.com/">Regular Expression Library</a> (o RegexLib). Como su nombre lo indica, es básicamente una librería de distintas expresiones regulares para distintos usos. Podemos buscar también por categoría o palabra clave, y tras eso, elegir del listado aquellas que tienen una mejor puntuación, o la que mejor se adecúe a nuestras necesidades. Por supuesto también podemos contribuir con las nuestras, y al mismo tiempo probarlas en el mismo sitio.
+La primera de ellas es [Regular Expression Library](http://regexlib.com/) (o RegexLib). Como su nombre lo indica, es básicamente una librería de distintas expresiones regulares para distintos usos. Podemos buscar también por categoría o palabra clave, y tras eso, elegir del listado aquellas que tienen una mejor puntuación, o la que mejor se adecúe a nuestras necesidades. Por supuesto también podemos contribuir con las nuestras, y al mismo tiempo probarlas en el mismo sitio.
 
-La segunda herramienta es <a href="http://gskinner.com/RegExr/">RegExr</a>, de <a href="http://gskinner.com">GSkinner</a> (gracias <a href="http://www.seinkraft.info/">Seinkraft</a>!), una herramienta basada en Flash que nos permitirá experimentar con expresiones regulares, basándonos en nuestro propio texto, o en expresiones de ejemplo pre-armadas que podemos seleccionar para utilizar. Podemos luego guardar las que hayamos construido para su posterior uso, y también ver las que otra gente ha construido.
+La segunda herramienta es [RegExr](http://gskinner.com/RegExr/), de [GSkinner](http://gskinner.com) (gracias [Seinkraft](http://www.seinkraft.info/)!), una herramienta basada en Flash que nos permitirá experimentar con expresiones regulares, basándonos en nuestro propio texto, o en expresiones de ejemplo pre-armadas que podemos seleccionar para utilizar. Podemos luego guardar las que hayamos construido para su posterior uso, y también ver las que otra gente ha construido.
 
 _Soy un zorrinito regular._

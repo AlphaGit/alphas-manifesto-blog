@@ -26,7 +26,7 @@ Esta es una investigación, a modo de trabajo práctico que me pidieron para la 
 
 Recién hoy que el trabajo fue presentado puedo mostrarlo públicamente. El código es sólo para MatLab 2007. Lo lamento gente, es eso o nada.
 
-Pueden revisar el código o la documentación (a la vez de las diapositivas para las explicaciones que dí de esto) en <a href="http://alphagma.googlepages.com/">http://alphagma.googlepages.com/</a>.
+Pueden revisar el código o la documentación (a la vez de las diapositivas para las explicaciones que dí de esto) en [http://alphagma.googlepages.com/](http://alphagma.googlepages.com/).
 
 Dicho sea de paso, ya se vienen varias mejoras. Pero no digo nada al respecto para que no me apuren. Hoy por hoy es 56% de error y punto.
 

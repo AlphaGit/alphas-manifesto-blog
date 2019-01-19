@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-Hace poquito encontré esta serie de notas que conformaron un artículo sobre <a href="http://www.mnot.net/blog/2011/05/18/http_benchmark_rules">HTTP Load Testing</a>. El artículo trata distintos puntos relativos a cómo se ve afectada la calidad del testing, a la vez de distintas técnicas para tener (o para evitar) de forma que los resultados del testing sean lo suficientemente confiables como para significar algo.
+Hace poquito encontré esta serie de notas que conformaron un artículo sobre [HTTP Load Testing](http://www.mnot.net/blog/2011/05/18/http_benchmark_rules). El artículo trata distintos puntos relativos a cómo se ve afectada la calidad del testing, a la vez de distintas técnicas para tener (o para evitar) de forma que los resultados del testing sean lo suficientemente confiables como para significar algo.
 
 Por otro lado, siempre están esos consejos de la experiencia que podemos leer ahí también, y que si bien no tienen mucho sentido en un principio, tras haber hecho caso podemos ver la razón real de por qué se nos aconsejaba eso.
 

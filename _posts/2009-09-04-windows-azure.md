@@ -21,7 +21,7 @@ tags: []
 comments: []
 ---
 
-Varios de mis últimos proyectos han tenido que ver con <a href="http://www.microsoft.com/azure/windowsazure.mspx">Windows Azure</a>, la versión Microsoft de cloud computing. Azure se divide en algunas secciones básicas, que al comienzo pueden ser difíciles de entender pero luego se hacen bastante naturales.
+Varios de mis últimos proyectos han tenido que ver con [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx), la versión Microsoft de cloud computing. Azure se divide en algunas secciones básicas, que al comienzo pueden ser difíciles de entender pero luego se hacen bastante naturales.
 
 Por un lado tenemos los servicios de almacenamiento de datos en Azure, storage services, que pueden dividirse en blobs (datos de tipo blog, divididos en blobs y blogs containers), queues (colas, un tipo de dato cualquiera que se encole en forma FIFO para su consumo por otro lado) y tables. El caso de table suele ser el más útil para el programador común, ya que permite mantener todo el esquema de datos para una aplicación completa en él. Desgraciadamente, el nombre de "table" (tabla) es algo confuso, ya que no existen tales cosas como tablas o menos aún, entidades relacionales. En realidad se trata de un conjunto de elementos estilo _property bags_, en donde cada entidad se identifica por algún campo que designemos como RowKey y se pueden ordenar (indizar) según algún campo o combinación de campos que indiquemos como PartitionKey. Hay que estar atentos al momento de diseñar la estructura de nuestra aplicación y tener en cuenta esto, ya que de otra forma podría caerse en fallas de performance por tener necesidad de tratamiento relacional entre datos.
 

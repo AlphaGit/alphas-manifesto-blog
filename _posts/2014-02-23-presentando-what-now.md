@@ -59,8 +59,8 @@ Hoy es muy básico lo que está disponible:
   - Las tareas pueden ser dependientes de otras
   - Se graficarán a las tareas como puntos, con "niveles" según si tengan dependencias con las demás
 - **No-funcional:**
-  - Se puede ver el código en GitHub (<a href="https://github.com/AlphaGit/what-now">https://github.com/AlphaGit/what-now</a>)
-  - Se puede ver el estado del build con integración continua en Travis (<a href="https://travis-ci.org/AlphaGit/what-now">https://travis-ci.org/AlphaGit/what-now</a>)
+  - Se puede ver el código en GitHub ([https://github.com/AlphaGit/what-now](https://github.com/AlphaGit/what-now))
+  - Se puede ver el estado del build con integración continua en Travis ([https://travis-ci.org/AlphaGit/what-now](https://travis-ci.org/AlphaGit/what-now))
 - Las dependencias están integradas a npm y bower, con lo que se pueden resolver de forma simple.
 
 ### ¿Por qué hablaría de esto si está tan crudo?
@@ -69,18 +69,18 @@ Quiero exprimentar hacerme responsable del progreso reportándolo públicamente.
 
 ### El futuro del proyecto (roadmap)
 
-Mis intenciones sobre lo que este sistema debe poder hacer están registrados en el seguimiento de issues de GitHub (<a href="https://github.com/AlphaGit/what-now/issues?state=open">https://github.com/AlphaGit/what-now/issues?state=open</a>). Si tienen ideas y quieren que las considere, adelante, propónganlas. Mientras más detalle puedan proveer, mejor, y por supuesto, acepto pull requests. Más adelante documentaré en el proyecto cuáles son los pasos para obtener una copia funcional, y también qué cosas deben tener en cuenta para poder participar y proveerme código.
+Mis intenciones sobre lo que este sistema debe poder hacer están registrados en el seguimiento de issues de GitHub ([https://github.com/AlphaGit/what-now/issues?state=open](https://github.com/AlphaGit/what-now/issues?state=open)). Si tienen ideas y quieren que las considere, adelante, propónganlas. Mientras más detalle puedan proveer, mejor, y por supuesto, acepto pull requests. Más adelante documentaré en el proyecto cuáles son los pasos para obtener una copia funcional, y también qué cosas deben tener en cuenta para poder participar y proveerme código.
 
 Funcionalmente, el proyecto tiene las siguientes intenciones:
 
-- [<a href="https://github.com/AlphaGit/what-now/issues/1">#1</a>] Poder editar las tareas
-- [<a href="https://github.com/AlphaGit/what-now/issues/2">#2</a>] Resltar una tarea particular en la tabla de tareas cuando esta sea señalada en el gráfico de dependencias
-- [<a href="https://github.com/AlphaGit/what-now/issues/3">#3</a>] Resaltar una tarea particular en el gráfico de dependencias cuando esta sea señalada en el listado de tareas
-- [<a href="https://github.com/AlphaGit/what-now/issues/4">#4</a>] Mostrar el gráfico de dependencias (d'oh)
-- [<a href="https://github.com/AlphaGit/what-now/issues/5">#5</a>] Identificar y mostrar de forma particular el camino crítico para la ejecución de las tareas
-- [<a href="https://github.com/AlphaGit/what-now/issues/7">#7</a>] Tener un auto-deployment automático a un sitio público de heroku
-- [<a href="https://github.com/AlphaGit/what-now/issues/8">#8</a>] Tener estilos bonitos (diseñadores gráficos y maquetadores, ¡acepto voluntarios!)
-- [<a href="https://github.com/AlphaGit/what-now/issues/10">#10</a>] Guardar sus contenidos en localstorage del navegador
+- [[#1](https://github.com/AlphaGit/what-now/issues/1)] Poder editar las tareas
+- [[#2](https://github.com/AlphaGit/what-now/issues/2)] Resltar una tarea particular en la tabla de tareas cuando esta sea señalada en el gráfico de dependencias
+- [[#3](https://github.com/AlphaGit/what-now/issues/3)] Resaltar una tarea particular en el gráfico de dependencias cuando esta sea señalada en el listado de tareas
+- [[#4](https://github.com/AlphaGit/what-now/issues/4)] Mostrar el gráfico de dependencias (d'oh)
+- [[#5](https://github.com/AlphaGit/what-now/issues/5)] Identificar y mostrar de forma particular el camino crítico para la ejecución de las tareas
+- [[#7](https://github.com/AlphaGit/what-now/issues/7)] Tener un auto-deployment automático a un sitio público de heroku
+- [[#8](https://github.com/AlphaGit/what-now/issues/8)] Tener estilos bonitos (diseñadores gráficos y maquetadores, ¡acepto voluntarios!)
+- [[#10](https://github.com/AlphaGit/what-now/issues/10)] Guardar sus contenidos en localstorage del navegador
 
 Espero pronto poder estar publicando el progreso actual y algún detalle sobre la implementación interna de estas características.
 
@@ -100,7 +100,7 @@ La configuración de karma test-runner, jshint y grunt son apropiadas para un co
 
 ### d3
 
-Mi conocimiento de d3 es todavía muy limitado, pero siguiendo <a href="http://www.ng-newsletter.com/posts/d3-on-angular.html">las guías publicadas en ng-newsletter</a> logré hacer una integración de esta librería al mundo de Angular. El problema con esto es que ninguna solución es realmente limpia. Verán: d3 requiere de un elemento global para ser utilizado sobre el DOM directamente, cuando la filosofía de Angular es hacer esto modular y tener ciertos sub-módulos particulares que se encarguen de esto, en un rango del DOM particular, abstrayendo esa lógica de la lógica de la aplicación. Estos sub-módulos son los que se llaman directivas, y son utilizados en alguna porción de la aplicación cuando la manipulación del DOM es necesaria -- pero para cualquier otro caso, es alentado a que el programador no haga esto.
+Mi conocimiento de d3 es todavía muy limitado, pero siguiendo [las guías publicadas en ng-newsletter](http://www.ng-newsletter.com/posts/d3-on-angular.html) logré hacer una integración de esta librería al mundo de Angular. El problema con esto es que ninguna solución es realmente limpia. Verán: d3 requiere de un elemento global para ser utilizado sobre el DOM directamente, cuando la filosofía de Angular es hacer esto modular y tener ciertos sub-módulos particulares que se encarguen de esto, en un rango del DOM particular, abstrayendo esa lógica de la lógica de la aplicación. Estos sub-módulos son los que se llaman directivas, y son utilizados en alguna porción de la aplicación cuando la manipulación del DOM es necesaria -- pero para cualquier otro caso, es alentado a que el programador no haga esto.
 
 D3, por el otro lado, es TODO sobre la modificación y generación de elementos de DOM. Como esto requiere el uso de variables globales del navegador, podemos imaginar que va a ser difícil "contenerlo" en AngularJS sin que rompamos la estructura que las aplicaciones de Angular requieren. Pero como sabrán, esto no es algo propio de D3, sino cualquier otra librería que requiera interacciones globales (jQuery, por ejemplo).
 
@@ -110,7 +110,7 @@ En el futuro hablaré más sobre lo que d3 propone y cómo lo hace, pero por lo 
 
 ### Travis-CI
 
-Ya había utilizado Travis en un proyecto anterior, en <a href="https://blog.alphasmanifesto.com/2014/02/17/ng-pattern-restrict/">ng-pattern-restrict</a>, pero gracias a la ayuda de Yeoman, esta vez fue mucho más fácil lograr la integración y tenerlo andando. Desafortunadamente no fue automático, y tuve que hacer un par de ajustes para lograr que los tests pudieran correr, nuevamente relacionados con Ruby y SASS.
+Ya había utilizado Travis en un proyecto anterior, en [ng-pattern-restrict](https://blog.alphasmanifesto.com/2014/02/17/ng-pattern-restrict/), pero gracias a la ayuda de Yeoman, esta vez fue mucho más fácil lograr la integración y tenerlo andando. Desafortunadamente no fue automático, y tuve que hacer un par de ajustes para lograr que los tests pudieran correr, nuevamente relacionados con Ruby y SASS.
 
 En el futuro, usaré Travis para el auto-deployment en heroku, lo que será ir un paso más allá de lo que he hecho con él en el pasado. Veremos cómo resulta eso.
 

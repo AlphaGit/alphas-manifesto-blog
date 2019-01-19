@@ -73,11 +73,11 @@ comments:
 El escenario de juego y el jugador en él
 
 
-<a href="https://blog.alphasmanifesto.com/2013/03/13/programando-arkanoid-parte-1/">En la entrega pasada</a> hablamos sobre cómo comenzó el <a title="Arkanoid" href="http://randomjs.alphasmanifesto.com/arkanoid-canvas/arkanoid.html">juego de Arkanoid</a>, ahora continuaremos ese camino sobre la construcción del escenario de juego.
+[En la entrega pasada](https://blog.alphasmanifesto.com/2013/03/13/programando-arkanoid-parte-1/) hablamos sobre cómo comenzó el <a title="Arkanoid" href="http://randomjs.alphasmanifesto.com/arkanoid-canvas/arkanoid.html">juego de Arkanoid</a>, ahora continuaremos ese camino sobre la construcción del escenario de juego.
 
 <!--more-->
 
-En <a title="Programando Arkanoid - Parte 1" href="https://blog.alphasmanifesto.com/2013/03/13/programando-arkanoid-parte-1/">esa instancia</a> cubrimos la estructura general de los archivos, la inicialización del objeto `canvas`, los estilos a usar y la inicialización de las opciones. Dejamos algo pendiente, que era el escenario, en un objeto `ArkanoidStage`. En ese post no expliqué qué hacía este objeto o como trabajaba. Hoy comenzaremos por ahí. Lo que describiremos en este post está cubierto en el commit <a href="https://github.com/AlphaGit/random-javascript/commit/90e6540100631e1a3ae590c3bde4a21b74f7abd9">90e6...abd9</a>.
+En <a title="Programando Arkanoid - Parte 1" href="https://blog.alphasmanifesto.com/2013/03/13/programando-arkanoid-parte-1/">esa instancia</a> cubrimos la estructura general de los archivos, la inicialización del objeto `canvas`, los estilos a usar y la inicialización de las opciones. Dejamos algo pendiente, que era el escenario, en un objeto `ArkanoidStage`. En ese post no expliqué qué hacía este objeto o como trabajaba. Hoy comenzaremos por ahí. Lo que describiremos en este post está cubierto en el commit [90e6...abd9](https://github.com/AlphaGit/random-javascript/commit/90e6540100631e1a3ae590c3bde4a21b74f7abd9).
 
 <script src="https://gist.github.com/AlphaGit/5158029.js"></script>
 
@@ -137,7 +137,7 @@ Vamos a un poco de código.
 
 Lo primero a determinar es qué necesitará cualquier objeto que se pueda dibujar en pantalla. Está claro que necesitará el contexto 2D del canvas para dibujarse, y finalmente un color a ser usado para dibujarse. Esto tiene sentido si asumimos que cualquier entidad tendrá un único color, el cual es nuestro caso. Si no fuera así, cada tipo de entidad debería decidir cuántos colores recibe entre sus parámetros.
 
-Lo primero de lo primero es validar que tenemos lo necesario. No me preocupa tanto el color, pero sí el contexto. Verificamos entonces, que el `drawingContext` exista. En JavaScript existe algo llamado _falsy values_, objetos y elementos que a pesar de no valer estrictamente `false`, aún así evalúan como `false` ante una expresión condicional. Estos son: `false` (obviamente), `0` (el número cero), `""` (la cadena vacía), `null` (objeto nulo), `undefined` (objeto no definido) y `NaN` (números no numéricos -- por contradictorio que suene). Para más detalles sobre valores _truthy_ y _falsy_, les recomiendo leer <a href="http://www.sitepoint.com/javascript-truthy-falsy/">Truthy and Falsy: When All is Not Equal in JavaScript</a>.
+Lo primero de lo primero es validar que tenemos lo necesario. No me preocupa tanto el color, pero sí el contexto. Verificamos entonces, que el `drawingContext` exista. En JavaScript existe algo llamado _falsy values_, objetos y elementos que a pesar de no valer estrictamente `false`, aún así evalúan como `false` ante una expresión condicional. Estos son: `false` (obviamente), `0` (el número cero), `""` (la cadena vacía), `null` (objeto nulo), `undefined` (objeto no definido) y `NaN` (números no numéricos -- por contradictorio que suene). Para más detalles sobre valores _truthy_ y _falsy_, les recomiendo leer [Truthy and Falsy: When All is Not Equal in JavaScript](http://www.sitepoint.com/javascript-truthy-falsy/).
 
 Como en nuestra situación, cualquiera de esas es totalmente inválida para un contexto, podemos verificar con un simple negador. Por supuesto, que de ser más estricto podríamos verificar por el contexto siendo una instancia de las clases que los navegadores exponen como contextos, pero en mi opinión ya es mucha paranoia. Si este objeto no tiene los métodos que necesitamos, no tardaremos mucho en saberlo.
 
@@ -155,7 +155,7 @@ Lo primero es crear nuestra nueva clase, y hacerla heredar de la clase base. Hay
 
 Para poder tener esta herencia, debemos, por supuesto, declarar la función, y agregar la clase base a su prototipo, lo que le dará al principio toda esa funcionalidad. Sin embargo, esto debe ocurrir _antes_ de la implementación de la función. Si esto les resulta raro, tengan en cuenta que declaración e implementación son dos momentos distintos aunque se escriban en el mismo lugar. En el caso de JavaScript, el hecho de declarar la función la hace disponible tanto para el código posterior como el anterior, y eso es lo que nos permite utilizar su prototipo antes de darle cuerpo. Si bien el cuerpo será ejecutado después, me agrada la idea de mantener la información de herencia a la cabeza de la función.
 
-El prototipo base debe tener una instancia de la clase base --  ¿pero cómo creamos una instancia si no tenemos los parámetros necesarios? La forma más simple es hacer `new DrawableEntityBase()` sin pasar parámetros, lo que aún generaría la instancia. Esto, sin embargo, no nos sirve a nosotros porque tenemos validaciones que pueden arrojar errores. Para esto entonces podemos utilizar <span style="font-family: 'courier new', courier;"><a href="https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Object/create">Object.create()</a></span>, disponible desde JavaScript 1.8.5.
+El prototipo base debe tener una instancia de la clase base --  ¿pero cómo creamos una instancia si no tenemos los parámetros necesarios? La forma más simple es hacer `new DrawableEntityBase()` sin pasar parámetros, lo que aún generaría la instancia. Esto, sin embargo, no nos sirve a nosotros porque tenemos validaciones que pueden arrojar errores. Para esto entonces podemos utilizar <span style="font-family: 'courier new', courier;">[Object.create()](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Object/create)</span>, disponible desde JavaScript 1.8.5.
 
 Por último, asignamos la función base al constructor de nuestro nuevo prototipo y comenzamos con el cuerpo de la función.
 
@@ -169,7 +169,7 @@ Lo primero es la declaración, con los argumentos que necesitaremos para constru
 - el ancho del bloque a dibujar -- `width`</li>
 </ul>
 
-Lo segundo a hacer, pero primero en el cuerpo de la función, es llamar al constructor base, para que las variables internas necesarias sean inicializadas, y cualquier lógica de inicialización también sea ejecutada. Eso lo haremos utilizando el método `call`, que nos permite pasar como primer argumento el contexto de la función. Esto significa que la función se ejecutará como si se estuviera ejecutando en este mismo objeto. Para más información sobre `call`, pueden ver su documentación y algunos usos interesantes: <a href="https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Function/call">MDN: `Function.prototype.call`</a>.
+Lo segundo a hacer, pero primero en el cuerpo de la función, es llamar al constructor base, para que las variables internas necesarias sean inicializadas, y cualquier lógica de inicialización también sea ejecutada. Eso lo haremos utilizando el método `call`, que nos permite pasar como primer argumento el contexto de la función. Esto significa que la función se ejecutará como si se estuviera ejecutando en este mismo objeto. Para más información sobre `call`, pueden ver su documentación y algunos usos interesantes: [MDN: `Function.prototype.call`](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Function/call).
 
 Lo tercero a hacer es guardarnos los valores que necesitemos, y paso posterior, es darle una implementación a la función draw. Para esto sólo tenemos que utilizar el contexto y setear el color con el que se va a dibujar (`fillStyle`, que también tiene otras opciones), y pedirle dibujar un rectángulo utilizando `fillRect`, y pasando coordenadas y tamaños. Noten que la referencia a `color` que uso no está prefijada con `self.` como las demás. Esto es un error, y es importante si tenemos una clase compleja: la referencia a `color` sin prefijar se refiere al argumento pasado en la instanciación de ese objeto, que será único y no cambiará a menos que lo alteremos a mano. Sin embargo, si nuestra clase posee varios niveles de herencia, mixins o múltiples padres, sería posible que la referencia guardada en `self.color` cambiara, mientras que la que fue pasada por argumento no. Nostros perderíamos ese cambio por no utilizar la referencia correcta. Lo recomendable para mí es siempre utilizar las referencias almacenadas; no por alguna razón técnica, sino sólo por consistencia y organización.
 
@@ -207,7 +207,7 @@ Teniendo toda esta base, plantear el dibujado de un círculo para representar la
 
 <script src="https://gist.github.com/AlphaGit/5289147.js"></script>
 
-Para este caso, invocaremos a `ellipse()`, <a href="http://docs.webplatform.org/wiki/apis/canvas/CanvasRenderingContext2D/ellipse">quién recibe los siguientes parámetros</a>:
+Para este caso, invocaremos a `ellipse()`, [quién recibe los siguientes parámetros](http://docs.webplatform.org/wiki/apis/canvas/CanvasRenderingContext2D/ellipse):
 
 - el punto X del centro del círculo
 - el punto Y del centro del círculo

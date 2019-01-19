@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 
-Gracias a la gente de <a href="http://twitter.com/BreakingDev">BreakingDev</a> me enteré de una aplicación web llamada <a href="http://www.htmlinstant.com/">HTML Instant</a>, en donde podemos comenzar a maquetear HTML instantáneo, viendo los resultados ahí mismo en donde estamos trabajando.
+Gracias a la gente de [BreakingDev](http://twitter.com/BreakingDev) me enteré de una aplicación web llamada [HTML Instant](http://www.htmlinstant.com/), en donde podemos comenzar a maquetear HTML instantáneo, viendo los resultados ahí mismo en donde estamos trabajando.
 
 Lo bueno es que podemos ver los resultados de forma instantánea y sin mucho trabajo, podemos codificar al mismo tiempo que vemos nuestros errores para fácilmente corregirlos. No hay siquiera por qué cambiar de ventana. La aplicación de una sola página consta también de ciertos snippets pre-armados sobre los cuales podemos trabajar más fácilmente.
 

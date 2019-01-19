@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 
-Desde <a href="http://css-tricks.com/">CSS Tricks</a> (muy buen sitio de referencia, por cierto) me llegó un artículo llamado <a href="http://css-tricks.com/13423-semantic-class-names/">What Makes for a Semantic Class Name?</a> Este tema parece algo tonto desde su concepción básica: "cómo nombrar clases de CSS". En un principio, realmente no importa cómo se llamen, si el estilo está bien, se verá bien y será como nosotros queremos.
+Desde [CSS Tricks](http://css-tricks.com/) (muy buen sitio de referencia, por cierto) me llegó un artículo llamado [What Makes for a Semantic Class Name?](http://css-tricks.com/13423-semantic-class-names/) Este tema parece algo tonto desde su concepción básica: "cómo nombrar clases de CSS". En un principio, realmente no importa cómo se llamen, si el estilo está bien, se verá bien y será como nosotros queremos.
 
 La situación se pone realmente interesante cuando estamos planeando nuestro sitio para el cambio, y entonces una clase como "hd24ba" no tiene mucho sentido (menos aún si la generó algún software nefasto de web development). Ahí es donde &ndash; la buena práctica dice &ndash; lo conveniente es trabajar con nombres de clases semánticos, que representen el real hecho de por qué son clases. Una clase de _qué_ están representando, un tipo de _qué objeto_ están estilizando.
 

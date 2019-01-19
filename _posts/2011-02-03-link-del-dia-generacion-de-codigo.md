@@ -41,10 +41,10 @@ comments:
     while you code.
 ---
 
-Hace tiempo atrás publiqué  un link sobre <a href="https://blog.alphasmanifesto.com/2010/07/28/link-del-dia-usar-codigo-para-interpretar-codigo/">generación automática de código</a>, pero realmente hacía falta una explicación lenta y paso a paso de cómo se hace o cómo se pueden aprovechar las características que esto nos ofrece.
+Hace tiempo atrás publiqué  un link sobre [generación automática de código](https://blog.alphasmanifesto.com/2010/07/28/link-del-dia-usar-codigo-para-interpretar-codigo/), pero realmente hacía falta una explicación lenta y paso a paso de cómo se hace o cómo se pueden aprovechar las características que esto nos ofrece.
 
-Un artículo muy bueno desde <a href="http://www.switchonthecode.com/">SwitchOnTheCode</a> trata este mismo tema: <a href="http://www.switchonthecode.com/tutorials/csharp-code-generation">C# Code Generation</a>.
+Un artículo muy bueno desde [SwitchOnTheCode](http://www.switchonthecode.com/) trata este mismo tema: [C# Code Generation](http://www.switchonthecode.com/tutorials/csharp-code-generation).
 
-Piensen que combinando esto con <a href="https://blog.alphasmanifesto.com/2010/09/10/link-of-the-day-procedurally-speaking/">programación procedural</a> o algoritmos genéticos (<a href="https://blog.alphasmanifesto.com/2009/06/17/link-del-dia-genetic-algorithms/">[1]</a>, <a href="https://blog.alphasmanifesto.com/2007/11/07/link-del-dia-introduction-to-genetic-algorithms/">[2])</a> puede tener resultados muy interesantes.
+Piensen que combinando esto con [programación procedural](https://blog.alphasmanifesto.com/2010/09/10/link-of-the-day-procedurally-speaking/) o algoritmos genéticos ([[1]](https://blog.alphasmanifesto.com/2009/06/17/link-del-dia-genetic-algorithms/), [[2])](https://blog.alphasmanifesto.com/2007/11/07/link-del-dia-introduction-to-genetic-algorithms/) puede tener resultados muy interesantes.
 
 _Soy un zorrinito autogenerado._

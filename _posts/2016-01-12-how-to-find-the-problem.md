@@ -42,7 +42,7 @@ comments:
 
 ![]({{ site.baseurl }}/assets/chemistryskunk.png)
 
-User minusSeven from the StackExchange community asked a seemingly uninteresting question that happens to be really deep and meaningful: <a href="http://productivity.stackexchange.com/questions/4827">How do you learn programming when you're stuck and without access to the internet?</a> All the answers there are really good and useful, but I think there's an underlying theme worth discussing: how a methodical approach should be.
+User minusSeven from the StackExchange community asked a seemingly uninteresting question that happens to be really deep and meaningful: [How do you learn programming when you're stuck and without access to the internet?](http://productivity.stackexchange.com/questions/4827) All the answers there are really good and useful, but I think there's an underlying theme worth discussing: how a methodical approach should be.
 
 <!--more-->
 
@@ -58,7 +58,7 @@ And asking yourself what's wrong is the best thing you can do.
 
 You've done something which is, to the best of your knowledge perfect. But it is not. Where are you wrong?
 
-A while ago I made a post about knowledge management ("<a href="https://blog.alphasmanifesto.com/2013/06/22/consejos-para-un-no-programador/">Consejos para un no-programador</a>", _Advice for a non-developer_, Spanish only for now). I mentioned that it is important to have and recognize levels of beliefs on your assumptions. Let's follow on an actual example:
+A while ago I made a post about knowledge management ("[Consejos para un no-programador](https://blog.alphasmanifesto.com/2013/06/22/consejos-para-un-no-programador/)", _Advice for a non-developer_, Spanish only for now). I mentioned that it is important to have and recognize levels of beliefs on your assumptions. Let's follow on an actual example:
 
 <script src="https://gist.github.com/AlphaGit/5b7ca1d64d482ce7a472.js"></script>
 

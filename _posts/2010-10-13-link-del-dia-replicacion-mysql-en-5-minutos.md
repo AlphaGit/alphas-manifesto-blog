@@ -41,10 +41,10 @@ comments:
     hiciste fue el comentario número 1000. Yayyy!"
 ---
 
-Gracias al <a href="http://twitter.com/BreakingDev">Twitter de @BreakingDev</a> me topé con un artículo muy interesante llamado <a href="http://www.clusterdb.com/mysql-cluster/get-mysql-replication-up-and-running-in-5-minutes/">Get MySQL Replication up and running in 5 minutes</a>. Creo que es realmente útil para novatos como yo en estos asuntos, ya que recuerdo mis pobres intentos de trabajar con replicación MySQL y pasar horas y horas intentando hacerlo trabajar, basándome en unas instrucciones mágicas que alguien que lo comprendía me pasó y yo solo las seguía ciegamente.
+Gracias al [Twitter de @BreakingDev](http://twitter.com/BreakingDev) me topé con un artículo muy interesante llamado [Get MySQL Replication up and running in 5 minutes](http://www.clusterdb.com/mysql-cluster/get-mysql-replication-up-and-running-in-5-minutes/). Creo que es realmente útil para novatos como yo en estos asuntos, ya que recuerdo mis pobres intentos de trabajar con replicación MySQL y pasar horas y horas intentando hacerlo trabajar, basándome en unas instrucciones mágicas que alguien que lo comprendía me pasó y yo solo las seguía ciegamente.
 
 Por suerte el artículo es lo suficientemente explícito como para darnos a entender qué es lo que estamos haciendo, y lo suficientemente breve como para no hacernos perder tiempo e ir directo al grano.
 
-Por supuesto, siempre podemos ir al <a href="http://dev.mysql.com/doc/refman/5.0/en/index.html">manual oficial</a> y checkear el capítulo <a href="http://dev.mysql.com/doc/refman/5.0/en/replication.html">Replication</a>, en donde la primera parte está titulada <a href="http://dev.mysql.com/doc/refman/5.0/en/replication-howto.html">How To Set Up Replication</a>. Este es el que contiene toda la información que podamos necesitar sobre opciones extras o customizaciones que quisiéramos hacer.
+Por supuesto, siempre podemos ir al [manual oficial](http://dev.mysql.com/doc/refman/5.0/en/index.html) y checkear el capítulo [Replication](http://dev.mysql.com/doc/refman/5.0/en/replication.html), en donde la primera parte está titulada [How To Set Up Replication](http://dev.mysql.com/doc/refman/5.0/en/replication-howto.html). Este es el que contiene toda la información que podamos necesitar sobre opciones extras o customizaciones que quisiéramos hacer.
 
 _Soy un zorrinito replicado._

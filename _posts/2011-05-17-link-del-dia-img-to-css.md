@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 
-Del cajón de las utilidades curiosas y técnicas que algún día puede que utilicemos, llega la aplicación web llamada <a href="http://www.imgtocss.com/">Img to CSS</a>, que, como su nombre lo indica, transforma imágenes en CSS.
+Del cajón de las utilidades curiosas y técnicas que algún día puede que utilicemos, llega la aplicación web llamada [Img to CSS](http://www.imgtocss.com/), que, como su nombre lo indica, transforma imágenes en CSS.
 
 En el fondo no es taaaaaaaan verdad, porque termina generando tablas con celdas de un píxel (o más, si se trata del mismo color) que con CSS inline genera los colores para la imagen. Esto puede ser interesante para enviar en mails, y que los destinatarios puedan ver imágenes sin necesidad de aceptar la bajada de imágenes. Sin embargo, no se puede utilizar en todas las formas que usamos las imágenes comunes.
 

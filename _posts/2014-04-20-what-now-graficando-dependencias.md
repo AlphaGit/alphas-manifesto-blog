@@ -38,7 +38,7 @@ comments: []
 No se resuelve con un par de líneas
 
 
-Desde hace un par de semanas estoy trabajando en lograr que el proyecto de <a href="http://what-now.herokuapp.com/">what-now</a> grafique dependencias entre tareas: si  una tarea depende de otra, una línea debería conectarlos. Esta tarea básica fue muy simple, pero lo desafiante fue lograr que se graficaran de forma que las líneas se cruzaran entre ellas lo menos posible.
+Desde hace un par de semanas estoy trabajando en lograr que el proyecto de [what-now](http://what-now.herokuapp.com/) grafique dependencias entre tareas: si  una tarea depende de otra, una línea debería conectarlos. Esta tarea básica fue muy simple, pero lo desafiante fue lograr que se graficaran de forma que las líneas se cruzaran entre ellas lo menos posible.
 
 Aquí contaré sobre este logro y sobre lo que aprendí en el proceso.
 
@@ -54,15 +54,15 @@ Graficar las dependencias entre las tareas probó ser algo realmente simple. Se 
 
 Tras graficar las dependencias, me di cuenta que era muy simple que dos tareas tuvieran cruces o que la forma del grafo estuviera lejos de ser óptima. Ya sabía que quería organizar las tareas en "capas", en donde cada capa sólo incluye tareas que dependen de las capas anteriores, de forma que las dependencias solo fluyan hacia atrás (o hacia adelante, dependiendo de cómo lo miren).
 
-Este proceso es simple, pero la ubicación de los nodos es una misma capa no lo es tanto. Pensé un poco al respecto y no encontré ninguna respuesta obvia, por lo que pensé que era un buen momento para investigar sobre <a href="http://stackoverflow.com/q/10802443/147507">algoritmos de layout</a>. Estos son algoritmos que me permitirían determinar la posición apropiada de los nodos para minimizar la cantidad de cruces y la forma general del grafo.
+Este proceso es simple, pero la ubicación de los nodos es una misma capa no lo es tanto. Pensé un poco al respecto y no encontré ninguna respuesta obvia, por lo que pensé que era un buen momento para investigar sobre [algoritmos de layout](http://stackoverflow.com/q/10802443/147507). Estos son algoritmos que me permitirían determinar la posición apropiada de los nodos para minimizar la cantidad de cruces y la forma general del grafo.
 
 ### Distintas soluciones para distintos tipos de grafos
 
 Claro, según cada caso particular, existen muchos algoritmos particulares para distintos tipos de grafos. Y tiene sentido: querremos ordenar los nodos de forma distinta según tengamos un grafo con bucles, un grafo acíclico, un árbol binario o tantas otras opciones. No existen algoritmos ni óptimos ni genéricos por la amplia variedad de posibles situaciones. Y más aún, los criterios de legibilidad para cada uno de estos varía ampliamente, con lo que para lo que un algoritmo hace bien, el otro arrojaría resultados desagradables a la vista.
 
-Hay un algoritmo particular basado en "fuerzas" (<a href="http://en.wikipedia.org/wiki/Force-based_algorithms_%28graph_drawing%29">Fruchterman&ndash;Reingold</a>), que de hecho es muy ingenioso en su lógica. Si imaginamos que cada nodo repele a los otros nodos y simulamos esas fuerzas de repulsión, pero a la vez simulamos límites elásticos según los vértices que los unen, muchas veces el gráfico se "acomoda solo" tras una serie de iteraciones. Más interesante aún, esta es una característica ya incluída en d3: <a href="https://github.com/mbostock/d3/wiki/Force-Layout">Force Layouts</a>.
+Hay un algoritmo particular basado en "fuerzas" ([Fruchterman&ndash;Reingold](http://en.wikipedia.org/wiki/Force-based_algorithms_%28graph_drawing%29)), que de hecho es muy ingenioso en su lógica. Si imaginamos que cada nodo repele a los otros nodos y simulamos esas fuerzas de repulsión, pero a la vez simulamos límites elásticos según los vértices que los unen, muchas veces el gráfico se "acomoda solo" tras una serie de iteraciones. Más interesante aún, esta es una característica ya incluída en d3: [Force Layouts](https://github.com/mbostock/d3/wiki/Force-Layout).
 
-Intenté un par de aproximaciones pero me dí cuenta que esta solución no aplicaba a mi caso: yo necesitaba reordenar mis grafos sin romper la estructura de capas. Sin embargo, hay algoritmos propios para el <a href="http://en.wikipedia.org/wiki/Layered_graph_drawing">dibujado de grafos en capas</a>, y para quien esté interesado, hay un muy buen capítulo disponible online sobre <a href="http://cs.brown.edu/~rt/gdhandbook/chapters/hierarchical.pdf">Hierarchical Drawing Algorithms</a> (PDF). Es un poco técnico y algo pesado en su lectura, porque cubre muchas posibilidades y comparaciones de algoritmos para cada uno de los pasos.
+Intenté un par de aproximaciones pero me dí cuenta que esta solución no aplicaba a mi caso: yo necesitaba reordenar mis grafos sin romper la estructura de capas. Sin embargo, hay algoritmos propios para el [dibujado de grafos en capas](http://en.wikipedia.org/wiki/Layered_graph_drawing), y para quien esté interesado, hay un muy buen capítulo disponible online sobre [Hierarchical Drawing Algorithms](http://cs.brown.edu/~rt/gdhandbook/chapters/hierarchical.pdf) (PDF). Es un poco técnico y algo pesado en su lectura, porque cubre muchas posibilidades y comparaciones de algoritmos para cada uno de los pasos.
 
 ### El algoritmo de Sugiyama
 
@@ -72,10 +72,10 @@ https://www.youtube.com/watch?v=n3tG0AKwiRE
 
 El autor de este video (Lejf Diecks) tiene una serie de posts en donde explica el algoritmo. Ellos se pueden ver aquí:
 
-- <a href="http://www.niftytools.de/2012/10/sugiyama-algorithm-part-1-2/">Sugiyama algorithm &ndash; Part 1</a>
-- <a href="http://www.niftytools.de/2012/10/sugiyama-algorithm-part-2/">Sugiyama algorithm &ndash; Part 2</a>
-- <a href="http://www.niftytools.de/2012/10/sugiyama-algorithm-part-3/">Sugiyama algorithm &ndash; Part 3</a>
-- <a href="http://www.niftytools.de/2012/11/sugiyama-algorithm/">Sugiyama algorithm &ndash; Part 4</a>
+- [Sugiyama algorithm &ndash; Part 1](http://www.niftytools.de/2012/10/sugiyama-algorithm-part-1-2/)
+- [Sugiyama algorithm &ndash; Part 2](http://www.niftytools.de/2012/10/sugiyama-algorithm-part-2/)
+- [Sugiyama algorithm &ndash; Part 3](http://www.niftytools.de/2012/10/sugiyama-algorithm-part-3/)
+- [Sugiyama algorithm &ndash; Part 4](http://www.niftytools.de/2012/11/sugiyama-algorithm/)
 
 La explicación básicamente expone los siguientes pasos:
 
@@ -208,7 +208,7 @@ No sólo eso hace que sea ineficiente, también es difícil de seguir y me forz�
 
 Muy curiosamente, no noté mucho de esto hasta el momento en que escribí este artículo y al momento de explicarlo me di cuenta que las soluciones eran exageradamente complicadas o innecesariamente ineficientes. Probablemente no lo vean, pero hubo varios cambios que hice sólo al momento de explicar esto porque la versión anterior era peor aún.
 
-Quizá tenga que comprarme un <a href="http://en.wikipedia.org/wiki/Rubber_duck_debugging">patito de goma</a>.
+Quizá tenga que comprarme un [patito de goma](http://en.wikipedia.org/wiki/Rubber_duck_debugging).
 
 ### La pasión por el producto mismo
 
@@ -216,4 +216,4 @@ Cuando comencé este proyecto, tenía en mente sólo hacer lo más básico posib
 
 ## Conclusión
 
-En este punto what-now tiene estas nuevas funcionalidades presentes en su versión online: <a href="http://what-now.heroku.com">http://what-now.heroku.com</a>. La investigación de cómo lograr esto fue muy interesante y me llevó a encontrar varios conceptos que desconocía totalmente. Aún así, no quiero ahondar en ellos aún, sino que quiero continuar con este proyecto para que sea usable y para luego continuar con otros.
+En este punto what-now tiene estas nuevas funcionalidades presentes en su versión online: [http://what-now.heroku.com](http://what-now.heroku.com). La investigación de cómo lograr esto fue muy interesante y me llevó a encontrar varios conceptos que desconocía totalmente. Aún así, no quiero ahondar en ellos aún, sino que quiero continuar con este proyecto para que sea usable y para luego continuar con otros.

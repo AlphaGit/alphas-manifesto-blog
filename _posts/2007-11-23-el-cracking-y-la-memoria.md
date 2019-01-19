@@ -75,7 +75,7 @@ Mi próximo paso fue enviar un mail a los administradores del foro para avisar d
 
 Por entretención y entrenamiento (uno nunca sabe), me quedé con los hashes md5 de las tablas de usuarios (ni me los pidan, no los voy a repartir), como para analizar la fuerza de los passwords. Paso previo, me correspondía crackearlos, bajo algún método de criptoanálisis.
 
-Hace algunos días que estoy creando <a href="http://en.wikipedia.org/wiki/Rainbow_tables">Rainbow Tables</a> para crackear los passwords, y a la vez aprendo sobre esto, el desempeño de mi máquina y cosas similares.<br /><span style="font-style:italic;font-size:130%;"><br />SE ME MUERE LA MAQUINAAA!!!</span>
+Hace algunos días que estoy creando [Rainbow Tables](http://en.wikipedia.org/wiki/Rainbow_tables) para crackear los passwords, y a la vez aprendo sobre esto, el desempeño de mi máquina y cosas similares.<br /><span style="font-style:italic;font-size:130%;"><br />SE ME MUERE LA MAQUINAAA!!!</span>
 
 Como se puede apreciar, esto no es para cualquiera... no por uno, sino por la salud de la máquina. Ni hablar de que poseo actualmente 40 archivos de 2 GBs cada uno lleno de hahes md5, que se graban, se leen, se ordenan, se indexan, se buscan, etc, etc, etc... por ahora no he tenido suerte con nada, pero eso es una buena señal de que estoy fallando en algo...
 

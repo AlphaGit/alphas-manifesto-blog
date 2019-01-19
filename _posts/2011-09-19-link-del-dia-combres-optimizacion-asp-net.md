@@ -26,7 +26,7 @@ tags:
 comments: []
 ---
 
-Justo ayer, rondando la medianoche, JH me envió por email un link a este proyecto llamado <a href="http://www.codeproject.com/KB/aspnet/combres2.aspx">Combres 2.0</a>, una librería para optimización de sitios ASP.NET. Recuerdan el caso de <a href="https://blog.alphasmanifesto.com/2011/06/20/link-del-dia-minify/">Minify</a> para PHP o <a href="https://blog.alphasmanifesto.com/2010/11/08/link-del-dia-optimizacion-web-vs-desarrollo-prolijo/">mod_pagespeed</a> para Apache, este es el turno de ASP.NET.
+Justo ayer, rondando la medianoche, JH me envió por email un link a este proyecto llamado [Combres 2.0](http://www.codeproject.com/KB/aspnet/combres2.aspx), una librería para optimización de sitios ASP.NET. Recuerdan el caso de [Minify](https://blog.alphasmanifesto.com/2011/06/20/link-del-dia-minify/) para PHP o [mod_pagespeed](https://blog.alphasmanifesto.com/2010/11/08/link-del-dia-optimizacion-web-vs-desarrollo-prolijo/) para Apache, este es el turno de ASP.NET.
 
 Esta librería nos permite incluir recursos haciendo uso de ella, de forma que al momento de generar los links también se hacen referentes a una dirección que esta librería manejará, y se encarga del cacheo, compresión y minimizado de los documentos. La reducción de HTTP requests es, por lejos, una de las ganancias más útiles y menos costosas de lograr que nos ofrece.
 

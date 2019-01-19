@@ -31,7 +31,7 @@ Hace unos días me ocurrió algo genial: fui evaluado y mi evaluación fue mala.
 
 <!--more-->
 
-Hace poco tiempo <a href="http://stackoverflow.com/users/147507/alpha">mi perfil de StackOverflow</a> superó los 2000 puntos de reputación, lo cual me da los permisos necesario para revisar ediciones sugeridas. Es decir, cuando alguien edita una pregunta o una respuesta que no es la propia, el sistema esperará a que algunos revisores verifiquen el cambio y lo aprueben. StackOverflow nos sugiere que busquemos aprobar aquellas ediciones que mejoren sustancialmente el contenido de un post, que evitemos ediciones menores, irrelevantes o vandalismo, y que propongamos más mejoras a los cambios ya propuestos. Pueden <a href="http://meta.stackexchange.com/questions/76251/how-do-suggested-edits-work">leer detalles de cómo funciona</a>.
+Hace poco tiempo [mi perfil de StackOverflow](http://stackoverflow.com/users/147507/alpha) superó los 2000 puntos de reputación, lo cual me da los permisos necesario para revisar ediciones sugeridas. Es decir, cuando alguien edita una pregunta o una respuesta que no es la propia, el sistema esperará a que algunos revisores verifiquen el cambio y lo aprueben. StackOverflow nos sugiere que busquemos aprobar aquellas ediciones que mejoren sustancialmente el contenido de un post, que evitemos ediciones menores, irrelevantes o vandalismo, y que propongamos más mejoras a los cambios ya propuestos. Pueden [leer detalles de cómo funciona](http://meta.stackexchange.com/questions/76251/how-do-suggested-edits-work).
 
 ![]({{ site.baseurl }}/assets/suggestedEdit.png)
 

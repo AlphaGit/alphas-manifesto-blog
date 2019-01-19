@@ -27,8 +27,8 @@ tags:
 comments: []
 ---
 
-<a href="http://culturedcode.com/xyle/index.html">Xyle</a> es un debugger HTML/CSS para Safari (ya que seguramente todos los que utilicen <a href="http://www.getfirefox.com/">Firefox</a> estarán muy contentos con <a href="http://www.getfirebug.com/">Firebug</a>). Cabe destacar que si bien Xyle es solo para entornos Mac, la forma de presentación de la información es bastante distinta, algo novedosa. Personalmente, me parece algo intuitiva a la vez de elegante, con lo cual con mucho gusto lo probaría.
+[Xyle](http://culturedcode.com/xyle/index.html) es un debugger HTML/CSS para Safari (ya que seguramente todos los que utilicen [Firefox](http://www.getfirefox.com/) estarán muy contentos con [Firebug](http://www.getfirebug.com/)). Cabe destacar que si bien Xyle es solo para entornos Mac, la forma de presentación de la información es bastante distinta, algo novedosa. Personalmente, me parece algo intuitiva a la vez de elegante, con lo cual con mucho gusto lo probaría.
 
-Para leer un review al respecto (y una pequeña comparación con Firebug), pueden leer un artículo de <a href="http://designshack.co.uk/">DesignShack</a> sobre <a href="http://designshack.co.uk/articles/css/html-and-css-debugging-tools">HTML &amp; CSS Debugging Tools</a>, o un <a href="http://carsonified.com/blog/carsonified/reviews/xyle-scope/">review de Xyle Scope</a> en el <a href="http://carsonified.com/blog/">blog de Carsonified</a>.
+Para leer un review al respecto (y una pequeña comparación con Firebug), pueden leer un artículo de [DesignShack](http://designshack.co.uk/) sobre [HTML &amp; CSS Debugging Tools](http://designshack.co.uk/articles/css/html-and-css-debugging-tools), o un [review de Xyle Scope](http://carsonified.com/blog/carsonified/reviews/xyle-scope/) en el [blog de Carsonified](http://carsonified.com/blog/).
 
 _Soy un zorrinito debugger._

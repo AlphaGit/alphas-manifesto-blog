@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-Ayer hablé un ratito más con JH y siendo que no hay una sola charla que pueda tener con él en donde no aprenda algo, me comentó de su más reciente descubrimiento: <a href="http://chirpy.codeplex.com/">Chirpy</a>.
+Ayer hablé un ratito más con JH y siendo que no hay una sola charla que pueda tener con él en donde no aprenda algo, me comentó de su más reciente descubrimiento: [Chirpy](http://chirpy.codeplex.com/).
 
 Chirpy es un proyecto open source de un plugin para Visual Studio que nos permite trabajar con archivos js, css, .less y T4 de forma casi nativa. Además, nos genera minimizaciones, hojas de estilo y transformaciones a medida que vamos guardando los archivos, casi "real time" a como estamos trabajando. Básicamente, nos permite extender la cantidad de herramientas que disponemos en tiempo de diseño.
 

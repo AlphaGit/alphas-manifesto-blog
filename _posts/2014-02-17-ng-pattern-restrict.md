@@ -144,10 +144,10 @@ _ng-pattern-restrict_ es un módulo y directiva de AngularJS que se puede utiliz
 
 ## Dónde obtenerlo y cómo utilizarlo
 
-- Sitio oficial: <a href="http://alphagit.github.io/ng-pattern-restrict/">http://alphagit.github.io/ng-pattern-restrict/</a>
-- Releases: <a href="https://github.com/AlphaGit/ng-pattern-restrict/releases">https://github.com/AlphaGit/ng-pattern-restrict/releases</a>
-- Código fuente: <a href="https://github.com/AlphaGit/ng-pattern-restrict">https://github.com/AlphaGit/ng-pattern-restrict</a>
-- Reporte de bugs: <a href="https://github.com/AlphaGit/ng-pattern-restrict/issues">https://github.com/AlphaGit/ng-pattern-restrict/issues</a>
+- Sitio oficial: [http://alphagit.github.io/ng-pattern-restrict/](http://alphagit.github.io/ng-pattern-restrict/)
+- Releases: [https://github.com/AlphaGit/ng-pattern-restrict/releases](https://github.com/AlphaGit/ng-pattern-restrict/releases)
+- Código fuente: [https://github.com/AlphaGit/ng-pattern-restrict](https://github.com/AlphaGit/ng-pattern-restrict)
+- Reporte de bugs: [https://github.com/AlphaGit/ng-pattern-restrict/issues](https://github.com/AlphaGit/ng-pattern-restrict/issues)
 
 ### Para utilizarlo:
 
@@ -171,7 +171,7 @@ ng-pattern-restrict es una directiva de AngularJS que a cada cambio del input en
 
 ### El caso de `input type=number`
 
-Existe un caso particular con los elementos `input type=number`, ya que cuando se ingresa un valor no numérico (por ejemplo, "A"), el navegador permitirá que esto ocurra y no permitirá al código acceder al valor ingresado por el usuario. No se trata de un bug, sino que <a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#number-state-(type=number)">esto es comportamiento estándar de HTML5</a>. Esto significa que ng-pattern-restrict no tiene forma de identificar si el valor ingresado. En este caso, el valor simplemente se asume como incorrecto y se procede de la forma descripta anteriormente. Si este no es el comportamiento que ustedes esperarían, consideren cambiar input type=number por otro tipo que permita tipos no-numéricos.
+Existe un caso particular con los elementos `input type=number`, ya que cuando se ingresa un valor no numérico (por ejemplo, "A"), el navegador permitirá que esto ocurra y no permitirá al código acceder al valor ingresado por el usuario. No se trata de un bug, sino que [esto es comportamiento estándar de HTML5](http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#number-state-(type=number)). Esto significa que ng-pattern-restrict no tiene forma de identificar si el valor ingresado. En este caso, el valor simplemente se asume como incorrecto y se procede de la forma descripta anteriormente. Si este no es el comportamiento que ustedes esperarían, consideren cambiar input type=number por otro tipo que permita tipos no-numéricos.
 
 ## Disclaimer: Porque no es tan buena idea
 

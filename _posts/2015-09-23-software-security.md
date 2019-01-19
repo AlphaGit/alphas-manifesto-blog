@@ -70,7 +70,7 @@ comments:
 
 ![]({{ site.baseurl }}/assets/candado.png)
 
-Yes, I continue to go on courses. Now I just finished the <a href="https://www.coursera.org/course/softwaresec">Software Security</a> course, from the University of Maryland.
+Yes, I continue to go on courses. Now I just finished the [Software Security](https://www.coursera.org/course/softwaresec) course, from the University of Maryland.
 
 As usual, let me give you a quick review of what it was about, what you need to get into it and what you can get out of it as well.
 
@@ -86,4 +86,4 @@ Finally, the course introduced security as part of the software engineering proc
 
 My only complain so far is that it took longer than expected to receive the certificates (I just received them, but the course actually finished on August). However, this has no impact in the quality of the course itself and I still recommend it fully.
 
-If you're interested in it, you can <a href="https://www.coursera.org/course/softwaresec">visit the Software Security course</a>, which happens to be part of a much larger <a href="https://www.coursera.org/specialization/cybersecurity/7">Cybersecurity specialization</a>.
+If you're interested in it, you can [visit the Software Security course](https://www.coursera.org/course/softwaresec), which happens to be part of a much larger [Cybersecurity specialization](https://www.coursera.org/specialization/cybersecurity/7).

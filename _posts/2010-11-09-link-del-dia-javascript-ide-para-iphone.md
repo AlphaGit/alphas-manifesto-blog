@@ -26,7 +26,7 @@ tags:
 comments: []
 ---
 
-De parte de un pequeño artículo de <a href="http://webdesktoplife.com/post/1358032790/a-javascript-ide-for-the-iphone">web.desktop.life</a> me enteré de un pequeño proyecto llamado <a href="http://files.stefanlh.de/public/jscoder/">jscoder</a>, el cual es un pequeño IDE (no tan pequeño si lo vemos desde el iPhone) en donde podemos codificar JavaScript y ejecutarlo allí mismo. Por si fuera poco, también disponemos de la función de autocompletar código, por ahora solo palabras clave, pero en el futuro también habrán snippets de código para utilizar.
+De parte de un pequeño artículo de [web.desktop.life](http://webdesktoplife.com/post/1358032790/a-javascript-ide-for-the-iphone) me enteré de un pequeño proyecto llamado [jscoder](http://files.stefanlh.de/public/jscoder/), el cual es un pequeño IDE (no tan pequeño si lo vemos desde el iPhone) en donde podemos codificar JavaScript y ejecutarlo allí mismo. Por si fuera poco, también disponemos de la función de autocompletar código, por ahora solo palabras clave, pero en el futuro también habrán snippets de código para utilizar.
 
 De ocurrir errores en la ejecución del código, el teléfono nos devolverá un mensajito de error explicando qué ocurrió, y por supuesto, el código está adaptado para que este "ambiente" funcione en este dispositivo, teniendo en cuenta la orientación, el click con los dedos ("tap") y tantas otras cosas que, claro, podemos utilizar para aprender.
 

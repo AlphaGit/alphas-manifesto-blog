@@ -38,13 +38,13 @@ comments: []
 ¿Y ahora qué hago?
 
 
-Uno de los posts que causaron revuelo en las preguntas de Server Fault fue _<a href="http://serverfault.com/questions/218005/my-servers-been-hacked-emergency">My server's been hacked EMERGENCY</a> (Hackearon mi server, EMERGENCIA)_, un post cuya respuesta fue totalmente inesperada para muchos y muy útil y planeada para situaciones tan sorpresa.
+Uno de los posts que causaron revuelo en las preguntas de Server Fault fue _[My server's been hacked EMERGENCY](http://serverfault.com/questions/218005/my-servers-been-hacked-emergency) (Hackearon mi server, EMERGENCIA)_, un post cuya respuesta fue totalmente inesperada para muchos y muy útil y planeada para situaciones tan sorpresa.
 
-Me pareció tan útil que además de sólo linkear la pregunta y su respuesta, quise traducir la elongada explicación que <a href="https://twitter.com/#!/RobertoMoir">Robert Moir</a>, bajo el usuario de <a href="http://serverfault.com/users/7783/dj-pon3">DJ Pon3</a> nos ha brindado. Esta traducción se basa en su respuesta pública, sin permiso explícito.
+Me pareció tan útil que además de sólo linkear la pregunta y su respuesta, quise traducir la elongada explicación que [Robert Moir](https://twitter.com/#!/RobertoMoir), bajo el usuario de [DJ Pon3](http://serverfault.com/users/7783/dj-pon3) nos ha brindado. Esta traducción se basa en su respuesta pública, sin permiso explícito.
 
 él nos explica cuáles son las medidas a tomar en un caso drástico como este, y muchas formas de reducir el riesgo de esto ocurriendo en el futuro. La explicación es larga pero muy clara y muy explícita sobre cada aspecto involucrado en la seguridad de un sistema.
 
-A continuación, <a href="http://serverfault.com/a/218011/90562">su respuesta</a>:
+A continuación, [su respuesta](http://serverfault.com/a/218011/90562):
 
 ---
 

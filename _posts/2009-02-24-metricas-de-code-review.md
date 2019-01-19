@@ -35,7 +35,7 @@ Si bien no está decidido y apenas he comenzado con esa idea, estoy seguro que h
 - **Recursos:** cuántos recursos utiliza innecesariamente o aprovecha eficientemente el sistema
 - **Performance:** de qué forma se realizan ciertas acciones que podrían mejorarse desde el punto de vista de la velocidad y la respuesta al usuario
 
-Si bien no tengo mucha idea aún de la forma de evaluarlo, se me estaba ocurriendo basarme en sistemas de scoring estandarizados, como pueden ser el <a href="http://ccwapss.blogspot.com/">CCWAPSS</a> para seguridad de aplicaciones web, en donde cada criterio a ser tenido en cuenta debe cumplir una serie de requisitos y es evaluado según una serie de preguntas simples que son fáciles de responder para el evaluador.
+Si bien no tengo mucha idea aún de la forma de evaluarlo, se me estaba ocurriendo basarme en sistemas de scoring estandarizados, como pueden ser el [CCWAPSS](http://ccwapss.blogspot.com/) para seguridad de aplicaciones web, en donde cada criterio a ser tenido en cuenta debe cumplir una serie de requisitos y es evaluado según una serie de preguntas simples que son fáciles de responder para el evaluador.
 
 Incluso fantaseaba con llegar a un punto tal en donde esto pudiera automatizarse. Sé que muchas de las cuestiones serán altamente imposible de programar (o al menos, altamente difíciles de llevar a código), pero cuestiones como la forma en que se respeta la arquitectura, la estandarización y el code-coverage son fácilmente codificables para cualquier sistema que con algún u otro medio pueda reconocer el código y tracear dependencias y relaciones.
 

@@ -38,7 +38,7 @@ comments: []
 
 Text generation with nltk, markovify, Tumblr, docker
 
-(Image used without permission from <a href="http://gunshowcomic.com/513">Gunshow comic: Robot that screams</a>.)
+(Image used without permission from [Gunshow comic: Robot that screams](http://gunshowcomic.com/513).)
 
 If the word offends you, below the fold I use it a lot, so you might not want to read this article. However, I think it's the most appropriate term.
 
@@ -65,7 +65,7 @@ With that, my entire toolset would look like this:
 
 - **Docker**-ified application
 - Runs (**Python** app)
-- Reads text from Tumblr using the <a href="https://www.tumblr.com/docs/en/api/v2">**Tumblr API**</a>
+- Reads text from Tumblr using the [**Tumblr API**](https://www.tumblr.com/docs/en/api/v2)
 - Stores it in some kind of storage: a **text file**
 
 With this, I have completed the first part of my challenge. As for the second part:
@@ -73,13 +73,13 @@ With this, I have completed the first part of my challenge. As for the second pa
 - **Docker**-ified application
 - Runs (**Python** app)
 - Reads text from storage (the **text file**)
-- Creates a markov chain model (**<a href="https://github.com/jsvine/markovify">markovify</a>**)
+- Creates a markov chain model (**[markovify](https://github.com/jsvine/markovify)**)
 - Generates a new text
 - Posts it in Tumblr using the **Tumblr API**
 
 ## Coding
 
-Now, the main tool I used (markovify) is extensible enough that allowed me to play with different approaches to word splitting and positioning, so I actually mixed it up with some of the Gunterberg texts and the word classification functions from <a href="https://www.nltk.org/">**NLTK**</a>. Doing so was incredibly simple:
+Now, the main tool I used (markovify) is extensible enough that allowed me to play with different approaches to word splitting and positioning, so I actually mixed it up with some of the Gunterberg texts and the word classification functions from [**NLTK**](https://www.nltk.org/). Doing so was incredibly simple:
 
 <script src="https://gist.github.com/AlphaGit/6f42eeccc3ee56ca39f3f73f74fde8fb.js"></script>
 
@@ -107,7 +107,7 @@ However, the quality of the posts where a lot lower than I initially imagined. S
 - Along that lines, I ensured to keep line ends and spacing between words -- otherwise, I ended up with a lot more words together than it was comfortable to read. A few of them are ok, it creates the sense of urgency when the post was "written" (which is perfect for the genre of fine shitposting).
 - I made sure to follow the right blogs and tags that provide this kind of posting. Following a tag like `#long post` felt like a good idea at the beginning, but quickly spiraled into a lot of fanfiction that was great for text generation, but a lot more narrative than I wanted to achieve.
 - I setup cron jobs for my docker instances so that they run every once in a while. The objective is to not abuse the Tumblr API while at the same time being able to grab some fresh content every once in a while, that will make the text generation vary.
-- The posts became very inconsistent very quickly, so I loaded the Gutenberg corpora and gave it half the weight in probabilities that the shitposting would get. This can be done through the great <a href="https://github.com/jsvine/markovify#combining-models">combination model feature from markovify</a>, and it would also be a nice idea to apply to other blogs/tags with the same pattern.
+- The posts became very inconsistent very quickly, so I loaded the Gutenberg corpora and gave it half the weight in probabilities that the shitposting would get. This can be done through the great [combination model feature from markovify](https://github.com/jsvine/markovify#combining-models), and it would also be a nice idea to apply to other blogs/tags with the same pattern.
 
 Finally, I did setup a docker image that encapsulated all of this and initialized it with the right contents. While I really wanted to use a python-alpine distribution, some of the libraries were having issues with it and I did not investigate that further.
 
@@ -119,14 +119,14 @@ After all of this, I already had a bot that generated a lot of nonsense. Instead
 
 I had, indeed, created my own screaming robot. Why? Hm.
 
-You can visit it here: <a href="https://screaming-bot.tumblr.com/">screaming-bot</a>. Don't expect much.
+You can visit it here: [screaming-bot](https://screaming-bot.tumblr.com/). Don't expect much.
 
-You cans see the full source code at its <a href="https://github.com/AlphaGit/screaming-bot">repository in github</a>.
+You cans see the full source code at its [repository in github](https://github.com/AlphaGit/screaming-bot).
 
 ## Thanks
 
 - I want to thank Jeremy Singer-Vine for the wonderful implementation he did of a Markov chain for text generation
-- I also want to thank Jesse Lee, because they created <a href="https://github.com/veggiedefender/miraculousladybot">Miraculous Lady Bot</a>, a bot that also based itself on markovify and tumblr posts, saving me the awkwardness of figuring out how the API needs to be parsed. Take a look at their approach for a clever idea on database storage.
+- I also want to thank Jesse Lee, because they created [Miraculous Lady Bot](https://github.com/veggiedefender/miraculousladybot), a bot that also based itself on markovify and tumblr posts, saving me the awkwardness of figuring out how the API needs to be parsed. Take a look at their approach for a clever idea on database storage.
 
 ## Examples
 

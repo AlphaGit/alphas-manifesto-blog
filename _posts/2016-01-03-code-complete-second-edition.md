@@ -40,7 +40,7 @@ comments:
 
 ![]({{ site.baseurl }}/assets/codecomplete.jpg)
 
-<a href="http://cc2e.com/">Code Complete</a> is like the reference manual of software development, regardless of the technology, industry or language you're working in. And there are really good reasons for that. Let me tell you what I thought of this book.
+[Code Complete](http://cc2e.com/) is like the reference manual of software development, regardless of the technology, industry or language you're working in. And there are really good reasons for that. Let me tell you what I thought of this book.
 
 <!--more-->
 

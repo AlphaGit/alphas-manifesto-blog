@@ -35,7 +35,7 @@ comments: []
 Manos a la obra desde lo más básico
 
 
-Acabo de terminar de leer el libro <a href="http://www.sitepoint.com/books/jquery1/">jQuery Novice to Ninja</a>, de la editorial SitePoint y de los autores Earle Castledine y Craig Sharkie. Debo decir que el libro ha sido una buena elección de lectura.
+Acabo de terminar de leer el libro [jQuery Novice to Ninja](http://www.sitepoint.com/books/jquery1/), de la editorial SitePoint y de los autores Earle Castledine y Craig Sharkie. Debo decir que el libro ha sido una buena elección de lectura.
 
 Para empezar, el libro asume que el lector tiene pocos conocimientos de jQuery y de JavaScript en general, lo que hace que cualquiera, con niveles de conocimientos básicos de programación web, pueda hacer utilización de él. A pesar de eso, el libro no es lento en la forma en la que va presentando conceptos, y para aquella gente que no está divertida con la teoría y quiere poner manos a la obra: el libro está completamente planteado desde un punto de vista práctico y manos a la obra. De hecho, el libro viene con código fuente gratuito que podemos descargar para que se convierta en los ejercicios que el mismo libro propone, dándonos en los capítulos las soluciones y las explicaciones, y permitiéndonos replicar para asegurar nuestro conocimiento.
 

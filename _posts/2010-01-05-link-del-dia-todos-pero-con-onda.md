@@ -77,6 +77,6 @@ Creo que ya éramos varios los que estábamos en busca de alguna aplicación al 
 
 Finalmente encontré algo que se acerca muchísimo a eso que buscábamos y, creo yo, que lo voy a estar usando para poder actualizar el listado de cosas pendientes. La idea es básicamente no olvidarse de las cosas que uno debe hacer, no importa exactamente (o no importa tanto) cuándo se tengan que hacer, sólo cuáles son y cuáles ya están hechas.
 
-Les dejo que visiten entonces a <a href="http://teuxdeux.com/">Teux Deux</a>, una aplicación web encargada de eso. (via <a href="http://noquedanblogs.com/tecnologia/teuxdeux/">NQB</a>, via <a href="http://www.swiss-miss.com/2009/12/teuxdeux.html">swissmiss</a>). Será el nombre una forma rara de decir "To Do"?
+Les dejo que visiten entonces a [Teux Deux](http://teuxdeux.com/), una aplicación web encargada de eso. (via [NQB](http://noquedanblogs.com/tecnologia/teuxdeux/), via [swissmiss](http://www.swiss-miss.com/2009/12/teuxdeux.html)). Será el nombre una forma rara de decir "To Do"?
 
 _Soy un zorrinito atareado._

@@ -33,7 +33,7 @@ comments: []
 
 ![]({{ site.baseurl }}/assets/BeeDrones.jpg)
 
-I recently came across the article <a href="https://distill.pub/2017/aia/">Using Artificial Intelligence to Augment Human Intelligence</a>, by Shan Carter and Michael Nielsen. I'd like to tell you a bit about the ideas that this essay mentions, and a few interpretations of my own about them.
+I recently came across the article [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/), by Shan Carter and Michael Nielsen. I'd like to tell you a bit about the ideas that this essay mentions, and a few interpretations of my own about them.
 
 <!--more-->
 
@@ -87,7 +87,7 @@ The second option is for machines to be creative themselves. This is purely hypo
 
 What if we allowed our algorithms to deviate from the pre-provided assumptions that we fed it, and it still found proper solutions to the problems we posed. They do still have error functions on which they could be measured. Would that count as creative thinking? While the answer is not pretty clear, let me show you an example on how this might work.
 
-If you haven't played before with <a href="https://affinelayer.com/pixsrv/">pix2pix</a> you can give it a try now. It's an image generator that takes images (sketches) as input and provides more complex images (full-color) as output.
+If you haven't played before with [pix2pix](https://affinelayer.com/pixsrv/) you can give it a try now. It's an image generator that takes images (sketches) as input and provides more complex images (full-color) as output.
 
 ![]({{ site.baseurl }}/assets/traditionalcat.png)
 
@@ -99,7 +99,7 @@ In this example, you can clearly see that the algorithm learnt to relate a cat-s
 
 Is this just an algorithm-failure, or creative work? Debatable. What about fauvism and dadaism? What about rock and roll or electronic music? You get the idea.
 
-In this example, the "defiance" on the assumptions was provided by a human, but it would not be very difficult, hypothetically, to allow algorithms to deviate from these constraints and to explore more of the _latent space_, as the article explains it. While we're still in the realm of speculation, it is not entirely fantasy. There have been cases of <a href="https://www.wired.com/2009/04/robotscientist/">automated agents making discoveries</a>, or <a href="https://books.google.ca/books?id=nUJdAAAAQBAJ&amp;lpg=PT97&amp;ots=2lG1GTehSG&amp;dq=Nathan%20Rochester%20returned%20to%20IBM%20after%20the%20Dartmouth%20workshop%20excited%20about%20discussions%20he%20had%20had%20with%20Marvin%20Minsky%20about%20Minsky%E2%80%99s%20ideas%20for%20a%20possible%20computer%20program%20for%20proving%20theorems%20in%20geometry&amp;pg=PT97#v=onepage&amp;q&amp;f=false">finding simpler (creative?) solutions to already known problems</a>.
+In this example, the "defiance" on the assumptions was provided by a human, but it would not be very difficult, hypothetically, to allow algorithms to deviate from these constraints and to explore more of the _latent space_, as the article explains it. While we're still in the realm of speculation, it is not entirely fantasy. There have been cases of [automated agents making discoveries](https://www.wired.com/2009/04/robotscientist/), or [finding simpler (creative?) solutions to already known problems](https://books.google.ca/books?id=nUJdAAAAQBAJ&amp;lpg=PT97&amp;ots=2lG1GTehSG&amp;dq=Nathan%20Rochester%20returned%20to%20IBM%20after%20the%20Dartmouth%20workshop%20excited%20about%20discussions%20he%20had%20had%20with%20Marvin%20Minsky%20about%20Minsky%E2%80%99s%20ideas%20for%20a%20possible%20computer%20program%20for%20proving%20theorems%20in%20geometry&amp;pg=PT97#v=onepage&amp;q&amp;f=false).
 
 The article concludes that the aid to creative of work is one of the features that will revolutionize humanity. Quoting:
 

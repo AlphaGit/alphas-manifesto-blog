@@ -35,13 +35,13 @@ comments: []
 Libro introductorio sobre AngularJS y sus prácticas
 
 
-Hace ya algunos meses terminé de leer un libro que me sería útil para un proyecto en el que estoy involucrado, en el cual usamos <a href="angularjs.org">AngularJS</a>. La librería me encanta, pero me tomó un tiempo entender su filosofía, y ahí es en donde este libro hace su aparición.
+Hace ya algunos meses terminé de leer un libro que me sería útil para un proyecto en el que estoy involucrado, en el cual usamos [AngularJS](angularjs.org). La librería me encanta, pero me tomó un tiempo entender su filosofía, y ahí es en donde este libro hace su aparición.
 
 <!--more-->
 
 El libro comienza un poco lento, especialmente para alguien que ya estuvo experimentando con la librería y quiere comprenderla. Para alguien que nunca escuchó hablar de ella, es una buena introducción. En general el libro cubre varios aspectos de la misma, sin ir nunca demasiado en detalle. Como tal, no es un buen libro de referencia pero sí un buen libro para principantes.
 
-Lo más interesante del libro es que hace mucho énfasis en varias de las buenas prácticas y metodologías, algo que ciertamente no me canso de pensar: debería ser más hecho por todos los libros. Me agrada mucho que este sea uno de esos. Hace un intensivo énfasis en <a href="http://en.wikipedia.org/wiki/Test-driven_development">TDD</a> y por qué el testing es algo importante para el desarrollo, sin dejar al menos un ejemplo de cada característica que da la librería y cómo esta puede testearse.
+Lo más interesante del libro es que hace mucho énfasis en varias de las buenas prácticas y metodologías, algo que ciertamente no me canso de pensar: debería ser más hecho por todos los libros. Me agrada mucho que este sea uno de esos. Hace un intensivo énfasis en [TDD](http://en.wikipedia.org/wiki/Test-driven_development) y por qué el testing es algo importante para el desarrollo, sin dejar al menos un ejemplo de cada característica que da la librería y cómo esta puede testearse.
 
 El libro, sin embargo, no hace mención alguna a ninguna metodología de diseño, y creo que eso está bien. Parecería abogar por diseños emergentes en base al testing, pero no hace mención al respecto. Es interesante saber también que AngularJS no apunta a ninguna filosofía en particular y podemos hacer tanta chanchada como hermoso y elegante diseño querramos. Pero volvamos al libro.
 

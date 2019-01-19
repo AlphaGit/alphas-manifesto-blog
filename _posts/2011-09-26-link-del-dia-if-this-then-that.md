@@ -36,9 +36,9 @@ comments:
     se llama on{X} y aquellos que conozcan IfTTT verán una gran [...]"
 ---
 
-<a href="http://ifttt.com/">IfTTT.com</a> es un servicio que me atrevo a calificar de "maravilloso" en donde nos permiten integrar distintas redes sociales o servicios 2.0 en workflows que nosotros definiremos. Dependiendo del uso que le demos, puede sernos más o menos útiles.
+[IfTTT.com](http://ifttt.com/) es un servicio que me atrevo a calificar de "maravilloso" en donde nos permiten integrar distintas redes sociales o servicios 2.0 en workflows que nosotros definiremos. Dependiendo del uso que le demos, puede sernos más o menos útiles.
 
-Aunque su página de <a href="http://ifttt.com/wtf">WTF</a> lo explica, les daré un ejemplo de lo que se puede hacer para que lo vean de una forma simple, con unas reglas que uso yo:
+Aunque su página de [WTF](http://ifttt.com/wtf) lo explica, les daré un ejemplo de lo que se puede hacer para que lo vean de una forma simple, con unas reglas que uso yo:
 
 - Cuando alguien me taggea en una foto en Facebook, que me envíe una copia de esa foto a mi email
 - Cuando favoriteo un tweet, que me agregue ese tweet a Instapaper (yo uso los favoritos de Twitter para cosas que quiero leer después)

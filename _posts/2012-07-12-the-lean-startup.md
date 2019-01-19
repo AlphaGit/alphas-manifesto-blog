@@ -36,12 +36,12 @@ comments: []
 Cómo los entrepeneurs de hoy usan la innovación continua para crear negocios exitosos
 
 
-<a href="http://www.amazon.com/The-Lean-Startup-Eric-Ries/dp/0670921602">The Lean Startup</a> es no sólo el título del nuevo libro de **Eric Ries**, sino además el nombre del movimiento que él inició intentando reestructurar la forma en la que se ve al entrepeneurship y a la innovación dentro del mundo que vivimos. Este movimiento tiene su <a href="http://theleanstartup.com/">sitio principal en el sitio de The Lean Startup</a>.
+[The Lean Startup](http://www.amazon.com/The-Lean-Startup-Eric-Ries/dp/0670921602) es no sólo el título del nuevo libro de **Eric Ries**, sino además el nombre del movimiento que él inició intentando reestructurar la forma en la que se ve al entrepeneurship y a la innovación dentro del mundo que vivimos. Este movimiento tiene su [sitio principal en el sitio de The Lean Startup](http://theleanstartup.com/).
 
 ![]({{ site.baseurl }}/assets/theleanstartup.jpg)
 
 
-Quizá más conocido por ser uno de los co-fundadores de **IMVU**, <a href="http://en.wikipedia.org/wiki/Eric_Ries">Eric Ries</a>, quien es activo en su blog <a href="http://www.startuplessonslearned.com/">Lessons Learned</a> y en <a href="https://twitter.com/ericries/">su cuenta de twitter</a>, intenta con este libro desmitificar al proceso de las startups y a toda la especulación que rodea al mundo de los entrepeneurs, y exponer procesos y maneras en la que se puede tratar con la gran incertidumbre en una startup.
+Quizá más conocido por ser uno de los co-fundadores de **IMVU**, [Eric Ries](http://en.wikipedia.org/wiki/Eric_Ries), quien es activo en su blog [Lessons Learned](http://www.startuplessonslearned.com/) y en [su cuenta de twitter](https://twitter.com/ericries/), intenta con este libro desmitificar al proceso de las startups y a toda la especulación que rodea al mundo de los entrepeneurs, y exponer procesos y maneras en la que se puede tratar con la gran incertidumbre en una startup.
 
 Eric cuenta en su libro que las startups pueden existir en varios entornos distintos, incluso en grandes organizaciones, pero todas tienen algo en común: intentan **innovar en entornos con gran incertidumbre**. En base a eso, y en base a las historias que se han escuchado de éxitos, él nos cuenta cómo evitar ser uno de los tantos fracasos (esos de los que nunca se cuentan anécdotas) e introduce herramientas para trabajar y disminuir esa incertidumbre, utilizando toda la rigurosidad del método científico en cuanto a resultados, procesos y producto.
 

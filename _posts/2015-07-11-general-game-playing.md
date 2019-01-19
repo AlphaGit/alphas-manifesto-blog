@@ -32,7 +32,7 @@ comments: []
 
 ![]({{ site.baseurl }}/assets/mechaskunky.png)
 
-I've recently taken and finished the course on <a href="https://www.coursera.org/course/ggp">General Game Playing</a>, by Stanford University. Let me tell you what it was about and what the experience was like.
+I've recently taken and finished the course on [General Game Playing](https://www.coursera.org/course/ggp), by Stanford University. Let me tell you what it was about and what the experience was like.
 
 <!--more-->
 

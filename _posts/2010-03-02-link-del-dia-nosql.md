@@ -30,12 +30,12 @@ tags:
 comments: []
 ---
 
-Gracias a DG quien me compartió <a href="http://bitelia.com/2010/03/twitter-cambia-paradigma-mysql-nosql">este artículo</a> en Google Reader, me enteré que Twitter va a estar migrando sus servidores de datos desde un modelo relacional (que en este caso se trata de MySQL) a un modelo no relacional, en este caso, un family-value non-relational database management system (digan eso cinco veces, bien rápido).
+Gracias a DG quien me compartió [este artículo](http://bitelia.com/2010/03/twitter-cambia-paradigma-mysql-nosql) en Google Reader, me enteré que Twitter va a estar migrando sus servidores de datos desde un modelo relacional (que en este caso se trata de MySQL) a un modelo no relacional, en este caso, un family-value non-relational database management system (digan eso cinco veces, bien rápido).
 
-Básicamente de lo que se trata es que ya los datos no se encuentran "atados" por relaciones, o disgregados según los datos relacionados que poseen (lo cual se conoce como leyes de la normalización). Dejemos de <a href="https://blog.alphasmanifesto.com.ar/2007/09/12/seamos-relacionales/">ser relacionales</a> por un momento y pensemos las grandes ventajas que esto nos puede traer. Más allá de lo raro que se nos puede hacer, la escalabilidad que esto permite es impresionante.
+Básicamente de lo que se trata es que ya los datos no se encuentran "atados" por relaciones, o disgregados según los datos relacionados que poseen (lo cual se conoce como leyes de la normalización). Dejemos de [ser relacionales](https://blog.alphasmanifesto.com.ar/2007/09/12/seamos-relacionales/) por un momento y pensemos las grandes ventajas que esto nos puede traer. Más allá de lo raro que se nos puede hacer, la escalabilidad que esto permite es impresionante.
 
-Para que tengan una idea, este sistema en particular, llamado <a href="http://wiki.apache.org/cassandra/">Cassandra</a>, comenzó a desarrollarlo Facebook, lo compró Google y lo hizo Open Source. Está pensando especialmente para sistemas con muchísima información y para escalar y replicarse fácilmente, agregando, quitando, o moviendo nodos que formen parte de todo el sistema de almacenamiento.
+Para que tengan una idea, este sistema en particular, llamado [Cassandra](http://wiki.apache.org/cassandra/), comenzó a desarrollarlo Facebook, lo compró Google y lo hizo Open Source. Está pensando especialmente para sistemas con muchísima información y para escalar y replicarse fácilmente, agregando, quitando, o moviendo nodos que formen parte de todo el sistema de almacenamiento.
 
-Muchos de los sistemas bajo esta denominación de NoSQL cumplen con estas premisas, los invito a visitar el <a href="http://en.wikipedia.org/wiki/NoSQL">artículo de Wikipedia sobre NoSQL</a> y ver lo que se dice de varios de estos.
+Muchos de los sistemas bajo esta denominación de NoSQL cumplen con estas premisas, los invito a visitar el [artículo de Wikipedia sobre NoSQL](http://en.wikipedia.org/wiki/NoSQL) y ver lo que se dice de varios de estos.
 
 _Soy un zorrinito no-relacional._

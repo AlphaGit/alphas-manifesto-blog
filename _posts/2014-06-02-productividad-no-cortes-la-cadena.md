@@ -54,13 +54,13 @@ comments:
 Las técnicas de John Resig y mis resultados
 
 
-Hace mes y medio (uf! cómo vuela el tiempo), <a href="https://github.com/andresmoschini">Andrés Mochini</a> compartió un artículo con la técnica de productividad del mismísimo John Resig, la famosa técnica de comenzar un hábito para los proyectos personales y no abandonarlo. Prometí probarla y ver qué tal me acomodaba, y aquí están los resultados.
+Hace mes y medio (uf! cómo vuela el tiempo), [Andrés Mochini](https://github.com/andresmoschini) compartió un artículo con la técnica de productividad del mismísimo John Resig, la famosa técnica de comenzar un hábito para los proyectos personales y no abandonarlo. Prometí probarla y ver qué tal me acomodaba, y aquí están los resultados.
 
 <!--more-->
 
 ## El problema: poco tiempo, frustración, ciclo vicioso
 
-En su artículo original llamado <a href="http://ejohn.org/blog/write-code-every-day/">Write Code Every Day</a>,  John Resig contaba de un problema algo común: dedicamos tiempo libre a nuestros proyectos personales, pero nos frustramos por no verlos avanzar a una velocidad aceptable. A la vez, nuestro tiempo libre es el mismo que utilizamos para descansar de proyectos y obligaciones, con lo cual el problema se hace doblemente notable. Y para peor, están las actividades obligatorias de las que no podemos escaparnos y dependen de la rutina de cada uno: compras, tiempo de familia, mantenimiento de la casa, salidas con amigos, higiene, comida, ejercicio, etc.
+En su artículo original llamado [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/),  John Resig contaba de un problema algo común: dedicamos tiempo libre a nuestros proyectos personales, pero nos frustramos por no verlos avanzar a una velocidad aceptable. A la vez, nuestro tiempo libre es el mismo que utilizamos para descansar de proyectos y obligaciones, con lo cual el problema se hace doblemente notable. Y para peor, están las actividades obligatorias de las que no podemos escaparnos y dependen de la rutina de cada uno: compras, tiempo de familia, mantenimiento de la casa, salidas con amigos, higiene, comida, ejercicio, etc.
 
  ¿Cómo podremos nunca hacer algo en un día que sólo tiene 24 horas?
 
@@ -68,7 +68,7 @@ En su artículo original llamado <a href="http://ejohn.org/blog/write-code-every
 
 Nota al margen: en el capítulo S4E09 de American Dad, Stan tiene el mismo problema y adquiere de la CIA unas píldoras que le permiten evitar dormir completamente y aún así seguir funcional. él dedica sus noches a jugar juegos o hacer modelos de papel. Francine eventualmente también toma las pastillas y se vuelve una científica respetada en menos de una semana.
 
-Aparentemente <a href="http://abcnews.go.com/GMA/DrJohnson/story?id=128275">hay versiones experimentales de esta píldora en el mundo real</a>.
+Aparentemente [hay versiones experimentales de esta píldora en el mundo real](http://abcnews.go.com/GMA/DrJohnson/story?id=128275).
 
 ¿No sería absolutamente genial poder dejar de dormir y usar ocho horas más al día en cosas productivas? Ah... _*suspira soñando despierto*_. Bueno, sigamos con lo nuestro.
 
@@ -80,9 +80,9 @@ La propuesta del señor Resig es hacer algo cada día. En su caso particular, es
 
 ### La técnica de Jerry Seinfield
 
-Muy curiosamente, esta técnica se parece a <a href="http://lifehacker.com/281626/jerry-seinfelds-productivity-secret">una que Jerry Seinfield había revelado hace un tiempo</a>: "no cortes la cadena". Esta técnica se basa en hacer algo cada día y documentarlo en algún lado visible, como una marca en un calendario. Esta consistencia es un motivador más que nos deja contabilizar nuestro propio progreso de forma visual, y eso nos lleva a querer continuarla, haciéndonos productivos.
+Muy curiosamente, esta técnica se parece a [una que Jerry Seinfield había revelado hace un tiempo](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret): "no cortes la cadena". Esta técnica se basa en hacer algo cada día y documentarlo en algún lado visible, como una marca en un calendario. Esta consistencia es un motivador más que nos deja contabilizar nuestro propio progreso de forma visual, y eso nos lleva a querer continuarla, haciéndonos productivos.
 
-Hay una aplicación móvil llamada <a href="https://lift.do/">Lift</a> que nos permite hacer eso mismo, y es sólo una de una gran constelación de aplicaciones para el mismo propósito.
+Hay una aplicación móvil llamada [Lift](https://lift.do/) que nos permite hacer eso mismo, y es sólo una de una gran constelación de aplicaciones para el mismo propósito.
 
 ## Mis hallazgos
 
@@ -90,7 +90,7 @@ Hay una aplicación móvil llamada <a href="https://lift.do/">Lift</a> que nos p
 
 Me propuse probar esta técnica desde ese día, y aún hoy continúo. Sin embargo, encontré muchos "peros" que forman parte de algo así.
 
-Mi intento fue realizar algo parecido con <a href="https://blog.alphasmanifesto.com/tag/what-now/">what-now</a>, el proyecto secundario que estoy realizando a modo de experimento, y mis reglas eran un poco más relajadas:
+Mi intento fue realizar algo parecido con [what-now](https://blog.alphasmanifesto.com/tag/what-now/), el proyecto secundario que estoy realizando a modo de experimento, y mis reglas eran un poco más relajadas:
 
 1. Cada día tenía que hacer algo útil por el proyecto. En este caso, features, refactors, diseño y documentación (incluyendo blogging) calificaba, siempre y cuando hubiera una salida visible.
 1. No importaba si el resultado estaba en GitHub o no, simplemente tenía que estar terminado. Tampoco importaba si era open-source o no.

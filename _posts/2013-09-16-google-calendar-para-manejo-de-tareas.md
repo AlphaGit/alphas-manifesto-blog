@@ -43,13 +43,13 @@ comments:
 Una aproximación simple a un problema complejo
 
 
-Muchos conocen mis entradas en donde explico <a href="https://blog.alphasmanifesto.com/2012/01/20/como-uso-trello-para-trabajar/">Cómo uso Trello para Trabajar</a>, y <a href="https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/">su versión actualizada</a>. Aún así, me siento curioso de explorar otras alternativas al manejo de tareas, y hace poco, alguien explicó una aproximación que nunca había tenido en cuenta: Google Calendar.
+Muchos conocen mis entradas en donde explico [Cómo uso Trello para Trabajar](https://blog.alphasmanifesto.com/2012/01/20/como-uso-trello-para-trabajar/), y [su versión actualizada](https://blog.alphasmanifesto.com/2013/08/08/como-uso-trello-para-trabajar-actualizado/). Aún así, me siento curioso de explorar otras alternativas al manejo de tareas, y hace poco, alguien explicó una aproximación que nunca había tenido en cuenta: Google Calendar.
 
 Suena totalmente inapropiado, pero luego de haberlo leído, no es algo descabellado. Quería compartirles la idea de esta persona.
 
 <!--more-->
 
-La persona en cuestión es el usuario <a href="http://productivity.stackexchange.com/users/2961/dwwilson66">dwilson66</a>, usuario algo popular del foro de Personal Productivity de <a href="http://productivity.stackexchange.com/">Stack Exchange</a>. En respuesta a la pregunta de una forma mínima y efectiva de priorizar tareas entre distintos proyectos, <a href="http://productivity.stackexchange.com/a/8105/1430">esta fue su respuesta</a>:
+La persona en cuestión es el usuario [dwilson66](http://productivity.stackexchange.com/users/2961/dwwilson66), usuario algo popular del foro de Personal Productivity de [Stack Exchange](http://productivity.stackexchange.com/). En respuesta a la pregunta de una forma mínima y efectiva de priorizar tareas entre distintos proyectos, [esta fue su respuesta](http://productivity.stackexchange.com/a/8105/1430):
 
 > Luego de intentar un desastre de varios "sistemas" de administración de tiempo, finalmente descubrí algo que me funciona bastante bien. Uso Google Calendar... pero en lugar de tareas, uso citas para mí mismo. Estás codificadas por color como amarillo para trabajo, gris para mandados y cosas de la casa, verde para proyectos personales o "tiempo personal", y rojo para una cita real, agendada. La descripción de la reunión/tarea incluye A, B, C o D para "obligatorio/debería/sería bueno/delegar"; siempre escribo AAA, BBB, CCC para que sea una cadena de texto que se pueda buscar. Se ve mejor también. Puedo también incluir links y materiales de referencia para mí mismo si los necesito, para que cuando esté en el mercado, tengo la lista de compras en el mandado de "compras".
 > 

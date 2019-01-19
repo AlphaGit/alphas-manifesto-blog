@@ -43,7 +43,7 @@ comments:
     se ve realmente una muy buena ayuda para la productividad.
 ---
 
-I just found out that the "Start page" for Visual Studio can really provide nice interesting articles and news. It's there where I found a link to an unfinished series of posts called <a href="http://blogs.msdn.com/b/csharpfaq/archive/tags/parallel_2d00_programming/">Parallel Programming</a>. These are part of the <a href="http://blogs.msdn.com/b/csharpfaq/">C# Frequently Asked Questions</a> blog, one of the very interesting blogs around the MSDN.
+I just found out that the "Start page" for Visual Studio can really provide nice interesting articles and news. It's there where I found a link to an unfinished series of posts called [Parallel Programming](http://blogs.msdn.com/b/csharpfaq/archive/tags/parallel_2d00_programming/). These are part of the [C# Frequently Asked Questions](http://blogs.msdn.com/b/csharpfaq/) blog, one of the very interesting blogs around the MSDN.
 
 These specific posts I mentioned are some techniques that we can take advantage of in C# (of course, VB also applies) to easily develop multi-thread applications without struggling with the bared thread objects. Of course, being based in .NET Framework 4, we have a lot of new features we can take advantage of.
 

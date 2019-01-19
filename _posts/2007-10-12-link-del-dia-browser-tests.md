@@ -37,7 +37,7 @@ comments:
     bueno :D
 ---
 
-Click <a href="http://www.smashingmagazine.com/2007/10/02/browser-tests-services-and-compatibility-test-suites/">aquí</a>.
+Click [aquí](http://www.smashingmagazine.com/2007/10/02/browser-tests-services-and-compatibility-test-suites/).
 
 Sumamente útil para todos los que desarrollan en web por acá, es un conjunto de herramientas, tanto instalables como online que permiten el testeo de aplicaciones web en múltiples navegadores.
 

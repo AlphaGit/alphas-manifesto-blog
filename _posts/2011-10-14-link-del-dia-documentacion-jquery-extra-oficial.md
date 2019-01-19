@@ -27,8 +27,8 @@ comments: []
 
 Me encontré con dos fuentes de documentación extra-oficial de jQuery, con lo cual, por supuesto, pueden estar desactualizados y hasta incorrectos. Pero lo interesante de ellos es que nos ofrecen una navegación un poco distinta que la que la documentación original nos ofrece.
 
-Es el caso, por ejemplo, de <a href="http://visualjquery.com/">Visual jQuery</a> (actualmente en 1.2.6), que nos permite navegar la documentación de forma jerárquica, sin perder el nivel de dónde estábamos. Además, encontré que es muy orientado a ejemplos, con lo que es fácil llegar al punto de lo que hace cada cosa y cómo se utiliza.
+Es el caso, por ejemplo, de [Visual jQuery](http://visualjquery.com/) (actualmente en 1.2.6), que nos permite navegar la documentación de forma jerárquica, sin perder el nivel de dónde estábamos. Además, encontré que es muy orientado a ejemplos, con lo que es fácil llegar al punto de lo que hace cada cosa y cómo se utiliza.
 
-<a href="http://jqapi.com/">jQAPI</a> es un caso parecido, y parecería que la navegación es aún más fácil en este caso, incluyendo búsqueda HTML5 y todo. Me pareció que este tiene explicaciones más detalladas y ejemplos más completos.
+[jQAPI](http://jqapi.com/) es un caso parecido, y parecería que la navegación es aún más fácil en este caso, incluyendo búsqueda HTML5 y todo. Me pareció que este tiene explicaciones más detalladas y ejemplos más completos.
 
 _Soy un zorrinito javascript._

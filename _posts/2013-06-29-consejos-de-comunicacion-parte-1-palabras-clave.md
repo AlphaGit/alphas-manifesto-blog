@@ -62,6 +62,6 @@ Por lo general los insultos son de este tipo de palabras, pero dependiendo del c
 
 ## Referencias
 
-- Leo Widrich (Lifehacker), <a href="http://lifehacker.com/5993267/the-psychology-of-language-why-are-some-words-more-persuasive-than-others">The Psychology of Language: Why Are some Words More Persuasive Than Others?</a>
-- Melanie Pinola (Lifehacker), <a href="http://lifehacker.com/5864105/avoid-these-phrases-in-conversation-at-work-job-interviews-and-social-situations">Avoid These Phrases in Conversation at Work, Job Interviews and Social Situations</a>
+- Leo Widrich (Lifehacker), [The Psychology of Language: Why Are some Words More Persuasive Than Others?](http://lifehacker.com/5993267/the-psychology-of-language-why-are-some-words-more-persuasive-than-others)
+- Melanie Pinola (Lifehacker), [Avoid These Phrases in Conversation at Work, Job Interviews and Social Situations](http://lifehacker.com/5864105/avoid-these-phrases-in-conversation-at-work-job-interviews-and-social-situations)
 - Dale Carnegie, _How to Win Friends and Influence People_ (1936)

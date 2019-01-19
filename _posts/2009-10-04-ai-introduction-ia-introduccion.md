@@ -33,7 +33,7 @@ On other hand, I'm still suprised (even when I already knew) that there are so m
 
 Another interesting point is to know that in the 70's investigators had already generated algorithms that solved intelligence tests (for instance, the ANALOGY program by Evans, for which I though I would have found easily an online version, but I haven't). This is another great improvement in the demonstration that artificial intelligence really exists.  ¿What do we have today, almost in 2010?
 
-Over there in the chapter I read that in an article, Marvin Minsky, along with other investigators had demonstrated that a two-input <a href="http://en.wikipedia.org/wiki/Perceptron">perceptron</a> couldn't had the chance of defining when its two inputs where different. This, despise being a detailed fact, imposes a big limit on this whole area, and knowing the existence of those theoric limits is the other part that'll let us know the real potential of all this, with its boundaries included. I hope I can read that demonstration soon.
+Over there in the chapter I read that in an article, Marvin Minsky, along with other investigators had demonstrated that a two-input [perceptron](http://en.wikipedia.org/wiki/Perceptron) couldn't had the chance of defining when its two inputs where different. This, despise being a detailed fact, imposes a big limit on this whole area, and knowing the existence of those theoric limits is the other part that'll let us know the real potential of all this, with its boundaries included. I hope I can read that demonstration soon.
 
 With this, my notes on the first chapter of this book finishes, hoping I'll be able to get on with it on the further ones soon.
 
@@ -51,7 +51,7 @@ Por otro lado, me sigue sorprendiendo (incluso a pesar de ya haberlo sabido) que
 
 Otro punto interesante es el saber que ya en la década de los 70's, los investigadores habían logrado generar algoritmos que resolvían tests de inteligencia (por ejemplo, el programa ANALOGY de Evans, del cual creí que sería fácil ver una versión actual online, pero no ha sido así). Este es otro gran avance en la demostración de que existe la "inteligencia" artificial.  ¿Qué cosas tendremos hoy, casi en el 2010?
 
-Por ahí leí también que en un artículo, Marvin Minsky, junto con otros investigadores habían demostrado que un <a href="http://es.wikipedia.org/wiki/Perceptr%C3%B3n">perceptrón</a> de dos entradas nunca tendría la posibilidad de definir si sus dos entradas eran distintas. Esto, más allá de ser un dato detallista, impone un límite a todo ese área, y conocer la existencia de esos límites teóricos es la otra parte que permitirá conocer el verdadero potencial, con sus limitaciones incluidas de varias áreas de la inteligencia artificial. Espero leer detalles de esa demostración en algún futuro.
+Por ahí leí también que en un artículo, Marvin Minsky, junto con otros investigadores habían demostrado que un [perceptrón](http://es.wikipedia.org/wiki/Perceptr%C3%B3n) de dos entradas nunca tendría la posibilidad de definir si sus dos entradas eran distintas. Esto, más allá de ser un dato detallista, impone un límite a todo ese área, y conocer la existencia de esos límites teóricos es la otra parte que permitirá conocer el verdadero potencial, con sus limitaciones incluidas de varias áreas de la inteligencia artificial. Espero leer detalles de esa demostración en algún futuro.
 
 Con esto finalizan mis notas sobre el primer capítulo de este libro, esperando poder avanzar más sobre los siguientes.
 

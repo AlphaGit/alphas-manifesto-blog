@@ -32,32 +32,32 @@ comments: []
 Desafíos de hacking y seguridad
 
 
-Fue exactamente hace un par de días cuando hablé de <a href="https://blog.alphasmanifesto.com/2012/04/24/exploit-exercises/">Explot Exercises</a>, pero más de cuatro años (wow) cuando <a href="https://blog.alphasmanifesto.com/2008/01/16/link-del-dia-project-euler/">hablé de HackThisSite</a>, pero ahora sí tengo un listado grande de sitios que permiten hacer pruebas de seguridad y aprender online. Basado en <a href="http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist">esta pregunta en IT Security</a>, este es un buen listado de sitios para practicar seguridad o participar de desafíos. Cada uno tiene su propia modalidad, pero les dejo como ejercicio a ustedes elegir la más apropiada:
+Fue exactamente hace un par de días cuando hablé de [Explot Exercises](https://blog.alphasmanifesto.com/2012/04/24/exploit-exercises/), pero más de cuatro años (wow) cuando [hablé de HackThisSite](https://blog.alphasmanifesto.com/2008/01/16/link-del-dia-project-euler/), pero ahora sí tengo un listado grande de sitios que permiten hacer pruebas de seguridad y aprender online. Basado en [esta pregunta en IT Security](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist), este es un buen listado de sitios para practicar seguridad o participar de desafíos. Cada uno tiene su propia modalidad, pero les dejo como ejercicio a ustedes elegir la más apropiada:
 
-- <a href="http://www.hackthissite.org/">HackThisSite</a>
-- <a href="https://cybersecuritychallenge.org.uk/">CyberSecurityChallenge</a>
-- <a href="http://www.uscyberchallenge.org/">US Cyber Challenge</a>
-- <a href="http://defcon.com/">DefCon</a> (por supuesto)
-- <a href="http://www.ddtek.biz/">DefCon Quals</a>
-- <a href="http://yut.codegate.org/">CodeGate Quals</a>
-- <a href="http://www.overthewire.org/wargames/">Over The Wire</a>
-- <a href="http://www.wechall.net/sites.php">We Chall</a>
-- <a href="http://ictf.cs.ucsb.edu/">iCTF</a>
-- <a href="http://www.dc3.mil/challenge/">DC3</a>
-- <a href="http://www.sans.org/netwars/">NetWars</a>
-- <a href="https://www.facebook.com/hackercup">HackerCup</a> on Facebook
-- <a href="http://smashthestack.org/">Smash The Stack</a>
-- <a href="http://intruded.net/">Intruded</a>
-- <a href="http://www.poly.edu/csaw2011/csaw-CTF">CSAW CTF</a>
-- <a href="http://2011.hack.lu/index.php/CaptureTheFlag">Hack.lu 2011</a>
-- <a href="http://www.plaidctf.com/">PlaidCTF</a>
-- <a href="http://www.cipher-ctf.org/cipher7.php?edit=0&amp;include=cipher7.php">CHIPER CTF</a>
-- <a href="http://ructf.org/e/2011/">RuCTFe</a>
-- <a href="http://ghostintheshellcode.com/">Ghost in the Shellcode</a>
-- <a href="http://exploit-exercises.com/">Exploit Exercises</a>
-- <a href="http://www.nullcon.net/challenge/">Nullcon</a>
-- <a href="http://challenge.spider.io/">The Spider Challenge</a>
-- Más sitios en <a href="http://capture.thefl.ag/practice-ctf/">Practice CTF List</a>
-- Artículo: <a href="http://www.brighthub.com/internet/security-privacy/articles/77093.aspx">The Best Free Legal Hacking Sites</a>
+- [HackThisSite](http://www.hackthissite.org/)
+- [CyberSecurityChallenge](https://cybersecuritychallenge.org.uk/)
+- [US Cyber Challenge](http://www.uscyberchallenge.org/)
+- [DefCon](http://defcon.com/) (por supuesto)
+- [DefCon Quals](http://www.ddtek.biz/)
+- [CodeGate Quals](http://yut.codegate.org/)
+- [Over The Wire](http://www.overthewire.org/wargames/)
+- [We Chall](http://www.wechall.net/sites.php)
+- [iCTF](http://ictf.cs.ucsb.edu/)
+- [DC3](http://www.dc3.mil/challenge/)
+- [NetWars](http://www.sans.org/netwars/)
+- [HackerCup](https://www.facebook.com/hackercup) on Facebook
+- [Smash The Stack](http://smashthestack.org/)
+- [Intruded](http://intruded.net/)
+- [CSAW CTF](http://www.poly.edu/csaw2011/csaw-CTF)
+- [Hack.lu 2011](http://2011.hack.lu/index.php/CaptureTheFlag)
+- [PlaidCTF](http://www.plaidctf.com/)
+- [CHIPER CTF](http://www.cipher-ctf.org/cipher7.php?edit=0&amp;include=cipher7.php)
+- [RuCTFe](http://ructf.org/e/2011/)
+- [Ghost in the Shellcode](http://ghostintheshellcode.com/)
+- [Exploit Exercises](http://exploit-exercises.com/)
+- [Nullcon](http://www.nullcon.net/challenge/)
+- [The Spider Challenge](http://challenge.spider.io/)
+- Más sitios en [Practice CTF List](http://capture.thefl.ag/practice-ctf/)
+- Artículo: [The Best Free Legal Hacking Sites](http://www.brighthub.com/internet/security-privacy/articles/77093.aspx)
 
 _Soy un zorrinito inseguro._

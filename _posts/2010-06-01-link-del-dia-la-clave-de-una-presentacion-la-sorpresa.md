@@ -27,9 +27,9 @@ tags:
 comments: []
 ---
 
-Este link es un video, al cual llegué gracias al <a href="http://www.thalskarth.com.ar/2010/05/20/profesor-sorprende-a-sus-alumnos-al-jugar-con-su-sombra/">blog de Thalskarth Ma&euml;lstrom</a> (a quién en algún momento comenzaré a llamar "T"), el cual muestra de forma divertida cómo es que un profesor dando una clase sorprende a sus alumnos interactuando con su propia sombra y les da el saludo de vacaciones de pascua.
+Este link es un video, al cual llegué gracias al [blog de Thalskarth Ma&euml;lstrom](http://www.thalskarth.com.ar/2010/05/20/profesor-sorprende-a-sus-alumnos-al-jugar-con-su-sombra/) (a quién en algún momento comenzaré a llamar "T"), el cual muestra de forma divertida cómo es que un profesor dando una clase sorprende a sus alumnos interactuando con su propia sombra y les da el saludo de vacaciones de pascua.
 
-Fuera de lo divertido y novedoso que resulta (lo cual podemos profundizar en un video donde <a href="http://www.youtube.com/watch?v=ixSCjigDeM8">él nos cuenta cómo lo hizo</a>), hay que destacar algo muy interesante: la sorpresa fue la clave de esta presentación. El concepto novedoso, semi gracioso les permitió a todos mantener la atención centrada en lo que él hacía, sin sentir cansancio ni aburrimiento.
+Fuera de lo divertido y novedoso que resulta (lo cual podemos profundizar en un video donde [él nos cuenta cómo lo hizo](http://www.youtube.com/watch?v=ixSCjigDeM8)), hay que destacar algo muy interesante: la sorpresa fue la clave de esta presentación. El concepto novedoso, semi gracioso les permitió a todos mantener la atención centrada en lo que él hacía, sin sentir cansancio ni aburrimiento.
 
 Por supuesto, la presentación no fue muy informativa, pero supongamos que haciendo los mismos pasos, el profesor se hubiera dedicado a enseñarle a sus alumnos cómo es el manejo básico de Windows.
 

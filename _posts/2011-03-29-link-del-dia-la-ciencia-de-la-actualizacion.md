@@ -29,9 +29,9 @@ tags:
 comments: []
 ---
 
-Gracias a <a href="http://twitter.com/nanojaus">@nanojaus</a>, si no me equivoco, me llegó un video interesante sobre la experiencia de instalar Windows 1.0 en una máquina virtual, e ir actualizando hacia las versiones posteriores (versiones mayores). No sólo eso, sino que se van probando distintas características a lo largo de las versiones del sistema operativo y se intenta mostrar cuánta compatibilidad hay con las versiones anteriores (en detalles, por supuesto que una investigación profunda tomaría muchísimo más tiempo).
+Gracias a [@nanojaus](http://twitter.com/nanojaus), si no me equivoco, me llegó un video interesante sobre la experiencia de instalar Windows 1.0 en una máquina virtual, e ir actualizando hacia las versiones posteriores (versiones mayores). No sólo eso, sino que se van probando distintas características a lo largo de las versiones del sistema operativo y se intenta mostrar cuánta compatibilidad hay con las versiones anteriores (en detalles, por supuesto que una investigación profunda tomaría muchísimo más tiempo).
 
-El artítulo está <a href="http://www.genbeta.com/windows/imagen-de-la-semana-actualizando-desde-windows-10-hasta-windows-7-en-una-maquina-virtual">aquí</a>, pero posiblemente prefieran ver el <a href="http://www.youtube.com/watch?v=vPnehDhGa14">video</a>.
+El artítulo está [aquí](http://www.genbeta.com/windows/imagen-de-la-semana-actualizando-desde-windows-10-hasta-windows-7-en-una-maquina-virtual), pero posiblemente prefieran ver el [video](http://www.youtube.com/watch?v=vPnehDhGa14).
 
 Este experimento me hizo pensar en cómo es que deberían ser las experiencias de actualización o instalación de software. Estas son las características que vienen a mi mente, las cuales también aplicarían para cualquier proceso que pueda tomar un tiempo:
 

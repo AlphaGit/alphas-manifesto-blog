@@ -38,7 +38,7 @@ comments:
     Alpha said: Link del día: Simulador de iPad - http://ow.ly/3yC42 [...]"
 ---
 
-Gracias a <a href="http://twitter.com/Woork/status/22338930942672896">@Woork</a> me enteré de este <a href="http://alexw.me/ipad/">Simulador de iPad</a> totalmente hecho en CSS y JS. Si lo prueban un poco se darán cuenta que la mayoría de las aplicaciones no están implementadas todavía, pero hay cosas que sí están implementadas y pueden probarse hoy, por supuesto, de la misma forma que funcionaría en un iPad real:
+Gracias a [@Woork](http://twitter.com/Woork/status/22338930942672896) me enteré de este [Simulador de iPad](http://alexw.me/ipad/) totalmente hecho en CSS y JS. Si lo prueban un poco se darán cuenta que la mayoría de las aplicaciones no están implementadas todavía, pero hay cosas que sí están implementadas y pueden probarse hoy, por supuesto, de la misma forma que funcionaría en un iPad real:
 
 - Moverse sobre las distintas pantallas (pueden usar el mouse o las teclas de dirección del teclado)
 - El botón de Sleep
@@ -51,6 +51,6 @@ Gracias a <a href="http://twitter.com/Woork/status/22338930942672896">@Woork</a>
 
 Es mucho y anda muy bien para ser un poco de JavaScript.
 
-Fuera de eso, cabe aclarar que el creador de este simulador, <a href="http://twitter.com/altryne">Altyrne</a>, tiene un <a href="http://alexw.me/">blog</a> en donde actualiza muy regularmente sobre sus experimentos con navegadores, JavaScript, HTML5 y CSS3, aparte de jQuery, animaciones, etc.
+Fuera de eso, cabe aclarar que el creador de este simulador, [Altyrne](http://twitter.com/altryne), tiene un [blog](http://alexw.me/) en donde actualiza muy regularmente sobre sus experimentos con navegadores, JavaScript, HTML5 y CSS3, aparte de jQuery, animaciones, etc.
 
 _Soy un zorrinito JavaScript._

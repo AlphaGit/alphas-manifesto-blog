@@ -41,7 +41,7 @@ Un documental sobre Raymond Kurzweil y su pensamiento
 > 
 > &mdash; Ray Kurzweil
 
-<a href="http://www.imdb.com/title/tt1117394/">Transcendent Man</a> es el nombre de un documental hecho en el 2009 sobre <a href="http://en.wikipedia.org/wiki/Ray_Kurzweil">Raymond Kurzweil</a> y su filosofía futurista/<a href="http://en.wikipedia.org/wiki/Transhumanism">transhumanista</a>. Ahora hablaré sobre eso, pero primero sobre el documental en sí.
+[Transcendent Man](http://www.imdb.com/title/tt1117394/) es el nombre de un documental hecho en el 2009 sobre [Raymond Kurzweil](http://en.wikipedia.org/wiki/Ray_Kurzweil) y su filosofía futurista/[transhumanista](http://en.wikipedia.org/wiki/Transhumanism). Ahora hablaré sobre eso, pero primero sobre el documental en sí.
 
 Como documental, esta hora y media realmente no es demasiado útil. Tiene una buena introducción para quien no sepa nada de Kurzweil (o su familia o su historia) ni del concepto de la Singularidad. Nuevamente, sólo en ese caso, porque a modo de introducción genera la idea necesaria, pero para alguien que quiere informarse al respecto, este documental no es sólo tendencioso y mal fundamentado, sino que es, planamente, aburrido. Como película es realmente poco dinámico, lento, la estructura de la información está bastante poco definida y la música e intercalación de infografías es pobre y poco cautivante.
 

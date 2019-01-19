@@ -38,7 +38,7 @@ comments:
     [...]"
 ---
 
-La idea me parece fantástica, pero la forma en la que se desarrolló, no tanto. La idea era, <a href="http://smacss.com/book/">Scalable and Modular Architecture for CSS</a>, una organización del código CSS de una aplicación para que fuera dividido en forma modular. De esta forma, habría determinados estilos base, y otros estilos pertenecientes a módulos que especificarían cosas extra, o modificarían detalles (aunque no deberían) de los estilos base.
+La idea me parece fantástica, pero la forma en la que se desarrolló, no tanto. La idea era, [Scalable and Modular Architecture for CSS](http://smacss.com/book/), una organización del código CSS de una aplicación para que fuera dividido en forma modular. De esta forma, habría determinados estilos base, y otros estilos pertenecientes a módulos que especificarían cosas extra, o modificarían detalles (aunque no deberían) de los estilos base.
 
 Ahora, los estilos base se subdividen, a su vez, en estilos que tienen que ver con el layout, y los que no se llaman "base". Por último, hay una cuarta clasificación que tiene que ver con estilos de estados, es decir, cuando algo está activado, cuando se encuentra deshabilitado, etc.
 

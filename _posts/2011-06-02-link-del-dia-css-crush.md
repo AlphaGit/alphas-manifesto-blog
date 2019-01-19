@@ -26,8 +26,8 @@ tags:
 comments: []
 ---
 
-Siguiendo con la seguidilla de links sobre CSS, hoy les traigo <a href="http://github.com/peteboere/css-crush/">CSS Crush</a>. En este caso en particular, se trata de una librería php que muy gentilmente se encarga de extender nuestras capacidades sobre CSS para evitar la repetición de código, mientras que la información que se envía al cliente es totalmente distinta.
+Siguiendo con la seguidilla de links sobre CSS, hoy les traigo [CSS Crush](http://github.com/peteboere/css-crush/). En este caso en particular, se trata de una librería php que muy gentilmente se encarga de extender nuestras capacidades sobre CSS para evitar la repetición de código, mientras que la información que se envía al cliente es totalmente distinta.
 
-El <a href="http://the-echoplex.net/log/css-crush">artículo que lo explica</a> lo compara con otros pre-procesadores CSS que se han probado, y aparentemente CSS Crush sería el más completo de todos ellos. Debe ser server-side, debe tener la posibilidad de cachear, de utilizar variables a gusto, y CSS Crush provee todo eso y un poco más, permitiendo una generación de código muy consistente.
+El [artículo que lo explica](http://the-echoplex.net/log/css-crush) lo compara con otros pre-procesadores CSS que se han probado, y aparentemente CSS Crush sería el más completo de todos ellos. Debe ser server-side, debe tener la posibilidad de cachear, de utilizar variables a gusto, y CSS Crush provee todo eso y un poco más, permitiendo una generación de código muy consistente.
 
 _Soy un zorrinito preprocesado._

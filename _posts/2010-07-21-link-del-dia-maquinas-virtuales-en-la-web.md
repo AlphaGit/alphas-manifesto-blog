@@ -66,11 +66,11 @@ comments:
     envergadura.
 ---
 
-Hace pocas horas Peteris Krumins (<a href="http://www.twitter.com/pkrumins">@pkrumins</a>) anunció que en poco tiempo estará saliendo al público su nuevo proyecto con <a href="http://substack.net/">James Halliday</a>.
+Hace pocas horas Peteris Krumins ([@pkrumins](http://www.twitter.com/pkrumins)) anunció que en poco tiempo estará saliendo al público su nuevo proyecto con [James Halliday](http://substack.net/).
 
-Dicho proyecto, llamado <a href="http://stackvm.com/">StackVM</a>, tiene como propósito poder insertar máquinas virtuales en páginas web, darles conectividad entre ellas con simple pasos como drag &amp; drop, y la cantidad de usos que esto podría tener son miles.
+Dicho proyecto, llamado [StackVM](http://stackvm.com/), tiene como propósito poder insertar máquinas virtuales en páginas web, darles conectividad entre ellas con simple pasos como drag &amp; drop, y la cantidad de usos que esto podría tener son miles.
 
-Entre los ejemplos que él menciona en <a href="http://www.catonmat.net/blog/i-am-doing-a-startup">su anuncio</a>, están la posibilidad de dar una demo "live" de un software (que podría incluir por detrás todo el entorno necesario para mostrarlo, incluyendo servidores de bases de datos, incluyendo routers, etc). Podría demostrar online (sí, en la misma página web) el funcionamiento de un software cliente servidor, de un software firewall, o cosas que por lo general son muy complejas de demostrar.
+Entre los ejemplos que él menciona en [su anuncio](http://www.catonmat.net/blog/i-am-doing-a-startup), están la posibilidad de dar una demo "live" de un software (que podría incluir por detrás todo el entorno necesario para mostrarlo, incluyendo servidores de bases de datos, incluyendo routers, etc). Podría demostrar online (sí, en la misma página web) el funcionamiento de un software cliente servidor, de un software firewall, o cosas que por lo general son muy complejas de demostrar.
 
 Otro de los ejemplos es la enseñanza, testeos de seguridad, o la posibilidad de que los estudiantes realmente interaccionen con entornos virtuales sin otra necesidad que un navegador.
 

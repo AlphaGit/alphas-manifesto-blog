@@ -52,26 +52,26 @@ comments:
     We're following with your feed exactly what wanting you write once more soon!
 ---
 
-Acabo de ver dos videos de Paul Irish, del grupo de Google Chrome. Uno de ellos era <a href="http://www.youtube.com/watch?v=nOEw9iiopwI">Google Chrome Developer Tools: 12 Tricks to Develop Quicker</a>. Aquí básicamente nos da una explicación de los Chrome Developer Tools con algunos trucos que no son tan sabidos. Interesante y útil.
+Acabo de ver dos videos de Paul Irish, del grupo de Google Chrome. Uno de ellos era [Google Chrome Developer Tools: 12 Tricks to Develop Quicker](http://www.youtube.com/watch?v=nOEw9iiopwI). Aquí básicamente nos da una explicación de los Chrome Developer Tools con algunos trucos que no son tan sabidos. Interesante y útil.
 
 [youtube]nOEw9iiopwI[/youtube]
 
-Sin embargo, el video que más interesante me resultó es uno de media hora llamado <a href="http://www.youtube.com/watch?v=q_O9_C2ZjoA">HTML5, CSS3 and DOM Performance</a>.
+Sin embargo, el video que más interesante me resultó es uno de media hora llamado [HTML5, CSS3 and DOM Performance](http://www.youtube.com/watch?v=q_O9_C2ZjoA).
 
 [youtube]q_O9_C2ZjoA[/youtube]
 
 Este video es terriblemente informativo sobre varias temáticas. Quiero en el futuro poder dedicarle un poco más de tiempo a cada una, pero mientras tanto, dejenmé hacer un resumen de las cosas que se tratan en el video:
 
 - **Reflows**: primero se habla de este concepto, relacionado a las operaciones de repintado que un navegador debe realizar. Nos cuenta el caso de Chrome y de Safari (WebKit) y de ciertas operaciones y trucos para evitar. Nos muestra cómo efectivamente podemos monitorear y mejorar esa performance.<br />
-Herramientas relacionadas: <a href="http://peter.sh/experiments/chromium-command-line-switches/">Comandos ocultos de Chrome</a>.
+Herramientas relacionadas: [Comandos ocultos de Chrome](http://peter.sh/experiments/chromium-command-line-switches/).
 - **Animaciones CSS con aceleración por hardware**: Mucho del trabajo de repintado puede hacerse de forma tal que el navegador termine delegándolo al GPU de mando en la máquina cliente. Esto trae experiencias muy distintas, y puede forzarse con pocos truquitos, que en este momento son básicamente hacks. Incluso podemos ver el efecto en ciertos dispositivos móviles.<br />
-Herramientas relacionadas: <a href="http://www.html5rocks.com/tutorials/speed/html5/">Improving the performance of your HTML5 App</a> (artículo), <a href="http://isotope.metafizzy.co/demos/elements-complete.html">Elements Complete</a> (demostración)
+Herramientas relacionadas: [Improving the performance of your HTML5 App](http://www.html5rocks.com/tutorials/speed/html5/) (artículo), [Elements Complete](http://isotope.metafizzy.co/demos/elements-complete.html) (demostración)
 - **Animación y web workers**: Mucho del trabajo que nuestro javascript hace no tiene por qué estar en el thread principal de pintado de la página, esto lleva a las páginas frizadas y funcionando lento. Para eso podemos delegar nuestra ejecución a web workers, que tienen una buena performance y es amigable con la batería.<br />
-Herramientas relacionadas:  <a href="http://webglsamples.googlecode.com/hg/field/field.html">WebGL Field</a> (demo)
+Herramientas relacionadas:  [WebGL Field](http://webglsamples.googlecode.com/hg/field/field.html) (demo)
 - **Benchmarking**: relacionado a todo lo anterior, necesitamos de una forma objetiva y poderosa de poder probar qué elementos son mejores. El ejemplo que Paul menciona es: realmente es más performante usar el === en lugar del == en JavaScript? Ahora tenemos la forma de probarlo fácilmente.<br />
-Herramientas relacionadas: <a href="http://jsperf.com/">jsPerf</a> (herramienta de test cases para benchmarking), <a href="http://www.browserscope.org/">BrowserScope</a> (versión colectiva de pruebas en browsers), <a href="http://benchmarkjs.com/">Benchmark.js</a> (librería JavaScript para benchmarking y testing).
-- **Build scripts**: la posibilidad de automatizar el generado de los sitios puede ahorrar muchos problemas en la performance. Así como alguna vez hablamos de <a href="https://blog.alphasmanifesto.com/2010/11/08/link-del-dia-optimizacion-web-vs-desarrollo-prolijo/">mod_pagespeed</a>, Paul menciona otras alternativas.<br />
-Herramientas relacionadas: <a href="http://html5boilerplate.com/">HTML5 BoilerPlate</a> (librería de startup para generar aplicaciones bajo buenas prácticas).
+Herramientas relacionadas: [jsPerf](http://jsperf.com/) (herramienta de test cases para benchmarking), [BrowserScope](http://www.browserscope.org/) (versión colectiva de pruebas en browsers), [Benchmark.js](http://benchmarkjs.com/) (librería JavaScript para benchmarking y testing).
+- **Build scripts**: la posibilidad de automatizar el generado de los sitios puede ahorrar muchos problemas en la performance. Así como alguna vez hablamos de [mod_pagespeed](https://blog.alphasmanifesto.com/2010/11/08/link-del-dia-optimizacion-web-vs-desarrollo-prolijo/), Paul menciona otras alternativas.<br />
+Herramientas relacionadas: [HTML5 BoilerPlate](http://html5boilerplate.com/) (librería de startup para generar aplicaciones bajo buenas prácticas).
 
 Espero poder ahondar en cada uno de estos en el futuro. Estén atentos!
 

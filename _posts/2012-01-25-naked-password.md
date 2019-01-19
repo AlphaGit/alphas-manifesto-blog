@@ -29,12 +29,12 @@ comments: []
 yeaaah, venga esa complejidad!
 
 
-De los rincones recónditos de User Experience en StackExchange y una pregunta de <a href="http://ux.stackexchange.com/questions/16433/what-is-the-best-way-to-inspire-users-to-choose-strong-password">cómo incitar a los usuarios a poner passwords fuertes</a>, me entero de la existencia de <a href="http://www.nakedpassword.com/">Naked Password</a>, un plugin de jQuery que en sitios informales (_muy_ informales) incentiva a los usuarios a usar passwords complejos, de forma... digamos... "natural". Pueden probar el demo en su misma página.
+De los rincones recónditos de User Experience en StackExchange y una pregunta de [cómo incitar a los usuarios a poner passwords fuertes](http://ux.stackexchange.com/questions/16433/what-is-the-best-way-to-inspire-users-to-choose-strong-password), me entero de la existencia de [Naked Password](http://www.nakedpassword.com/), un plugin de jQuery que en sitios informales (_muy_ informales) incentiva a los usuarios a usar passwords complejos, de forma... digamos... "natural". Pueden probar el demo en su misma página.
 
 Dicho sea de paso, otras buenas respuestas fueron:
 
-- <a href="http://ux.stackexchange.com/a/16434/8702">Asustar al usuario</a> (mostrando en cuánto tiempo se podría crackear su password)
-- <a href="http://ux.stackexchange.com/a/16438/8702">No hacer nada</a> (considerando la mejor experiencia general, que el usuario decida como más quiera)
-- <a href="http://ux.stackexchange.com/a/16511/8702">Recompensarlos con características extras</a> (por ejemplo, funcionalidades en beta)
+- [Asustar al usuario](http://ux.stackexchange.com/a/16434/8702) (mostrando en cuánto tiempo se podría crackear su password)
+- [No hacer nada](http://ux.stackexchange.com/a/16438/8702) (considerando la mejor experiencia general, que el usuario decida como más quiera)
+- [Recompensarlos con características extras](http://ux.stackexchange.com/a/16511/8702) (por ejemplo, funcionalidades en beta)
 
 _Soy un zorrinito de poca complejidad._

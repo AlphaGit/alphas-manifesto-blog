@@ -49,6 +49,6 @@ Sin embargo hay gente que se toma la seguridad en serio, y está muy interesante
 
 Y la lista continúa. Por supuesto, según dice el autor de este artículo, se puede hacer mucho más, y no estoy realmente seguro, pero por lo menos lo hice un poco más difícil.
 
-El artículo en cuestión es <a href="https://grepular.com/Protecting_a_Laptop_from_Simple_and_Sophisticated_Attacks">Protecting a laptop from Simple and Sophisticated Attacks</a>, de <a href="https://grepular.com/">Mike Cardwell</a>.
+El artículo en cuestión es [Protecting a laptop from Simple and Sophisticated Attacks](https://grepular.com/Protecting_a_Laptop_from_Simple_and_Sophisticated_Attacks), de [Mike Cardwell](https://grepular.com/).
 
 _Soy un zorrinito inseguro._

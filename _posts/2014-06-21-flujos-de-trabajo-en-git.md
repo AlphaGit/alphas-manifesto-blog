@@ -47,17 +47,17 @@ Ahora sí lo tengo, de forma que procederé a contar qué aprendí en estos últ
 
 Desde que di mi actualización la vez pasada, estas nuevas características fueron incluidas en what-now como producto:
 
-- [<a href="https://github.com/AlphaGit/what-now/issues/13">#13</a>] Agregué la página de about (que luego desapareció por el rediseño visual)
-- [<a href="https://github.com/AlphaGit/what-now/issues/1">#1</a>] Agregué la posibilidad de editar tareas ya agregadas.
-- [<a href="https://github.com/AlphaGit/what-now/issues/2">#2</a>, <a href="https://github.com/AlphaGit/what-now/issues/3">#3</a>] Agregué la posibilidad de seleccionar una tarea y verla destacada. Esto es tanto en el listado de tareas como en el gráfico.
-- [<a href="https://github.com/AlphaGit/what-now/issues/6">#6</a>] Resolví que los textos largos no se mostraban en múltiples líneas en el gráfico.
-- [<a href="https://github.com/AlphaGit/what-now/issues/8">#8</a>] Le dí algo de estilo y diseño a la aplicación. Deliberadamente dejé dispositivos móbiles de lado. Quité la página de about y una 404 que casi no se usaba.
-- [<a href="https://github.com/AlphaGit/what-now/issues/10">#10</a>] Agregué la posibilidad de cargar y guardar las tareas a un archivo en disco.
-- [<a href="https://github.com/AlphaGit/what-now/issues/9">#9</a>] Hice más fácil poder agregar varias tareas rápidamente.
-- [<a href="https://github.com/AlphaGit/what-now/issues/18">#18</a>] Resolví que una tarea dependiera de sí misma, congelando la aplicación.
-- [<a href="https://github.com/AlphaGit/what-now/issues/20">#20</a>] Mejoré la forma en la que se grafica para que se muestren gráficos complicados sin que se mezclen los caminos.
-- [<a href="https://github.com/AlphaGit/what-now/issues/21">#21</a>] Agregué autocompletado y "tagging" para elegir dependencias de una tarea.
-- [<a href="https://github.com/AlphaGit/what-now/issues/27">#27</a>] Resolví unos problemitas de estilo con resoluciones pequeñas.
+- [[#13](https://github.com/AlphaGit/what-now/issues/13)] Agregué la página de about (que luego desapareció por el rediseño visual)
+- [[#1](https://github.com/AlphaGit/what-now/issues/1)] Agregué la posibilidad de editar tareas ya agregadas.
+- [[#2](https://github.com/AlphaGit/what-now/issues/2), [#3](https://github.com/AlphaGit/what-now/issues/3)] Agregué la posibilidad de seleccionar una tarea y verla destacada. Esto es tanto en el listado de tareas como en el gráfico.
+- [[#6](https://github.com/AlphaGit/what-now/issues/6)] Resolví que los textos largos no se mostraban en múltiples líneas en el gráfico.
+- [[#8](https://github.com/AlphaGit/what-now/issues/8)] Le dí algo de estilo y diseño a la aplicación. Deliberadamente dejé dispositivos móbiles de lado. Quité la página de about y una 404 que casi no se usaba.
+- [[#10](https://github.com/AlphaGit/what-now/issues/10)] Agregué la posibilidad de cargar y guardar las tareas a un archivo en disco.
+- [[#9](https://github.com/AlphaGit/what-now/issues/9)] Hice más fácil poder agregar varias tareas rápidamente.
+- [[#18](https://github.com/AlphaGit/what-now/issues/18)] Resolví que una tarea dependiera de sí misma, congelando la aplicación.
+- [[#20](https://github.com/AlphaGit/what-now/issues/20)] Mejoré la forma en la que se grafica para que se muestren gráficos complicados sin que se mezclen los caminos.
+- [[#21](https://github.com/AlphaGit/what-now/issues/21)] Agregué autocompletado y "tagging" para elegir dependencias de una tarea.
+- [[#27](https://github.com/AlphaGit/what-now/issues/27)] Resolví unos problemitas de estilo con resoluciones pequeñas.
 
 ## Historia en commits
 
@@ -83,7 +83,7 @@ El resultado de este es lo esperado: una rama master siendo actualizada y el his
 ![]({{ site.baseurl }}/assets/gitSimpleFlow.png)
 
 
-Ejemplo de flow "branch, merge" en git. Tomado de <a href="https://github.com/beatfactor/nightwatch/">Nightwatch</a>[/caption]
+Ejemplo de flow "branch, merge" en git. Tomado de [Nightwatch](https://github.com/beatfactor/nightwatch/)[/caption]
 
 A veces tenemos la suerte suficiente como para que el paso 4 no requiera commits de ningún tipo, con lo cual desaparece uno de los commits de merges, y sólo queda el original del paso 3. En esos casos, veremos algo como la figura siguiente.
 
@@ -142,7 +142,7 @@ Esta ciertamente es una herramienta poderosa y hay que usarla con cuidado. Cambi
 
 Esto dejará nuestro master limpito y sin historias innecesarias. El detalle necesario puede agregarse en las líneas posteriores del commit, y personalmente prefiero que la primera línea tenga una indicación del feature en sí. Esto nos deja una línea de historia muy clara y fácil de inspeccionar.
 
-Pueden <a href="https://github.com/AlphaGit/what-now/commits/master">ver un ejemplo de esto</a> en mi proyecto what-now, en el historial de commits:
+Pueden [ver un ejemplo de esto](https://github.com/AlphaGit/what-now/commits/master) en mi proyecto what-now, en el historial de commits:
 
 ![]({{ site.baseurl }}/assets/historyWhatNow.png)
 

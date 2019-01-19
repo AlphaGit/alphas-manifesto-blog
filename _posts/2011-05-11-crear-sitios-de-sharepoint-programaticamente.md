@@ -32,7 +32,7 @@ comments: []
 
 Estuve peleando estos días con la posibilidad de crear sitios de SharePoint programáticamente desde mi código. Sin embargo, aún cuando esto fue hecho para un proyecto interno, tomé tanto de la internet que realmente siento que debo devolver algo a la comunidad. Además, no voy a divulgar nada relacionado al proyecto, así que aquí vamos.
 
-Primero, buscando en internet una forma de crear estos sitios programáticamente, me topé con un artículo del 2007 de WinSmarts.com, llamado <a href="http://blah.winsmarts.com/2007-5-Programatically_create_a_SharePoint_site_based_on_a_site_definition.aspx">Programatically create a Sharepoint site based on a site definition</a>. Aquí está el código de ese post:
+Primero, buscando en internet una forma de crear estos sitios programáticamente, me topé con un artículo del 2007 de WinSmarts.com, llamado [Programatically create a Sharepoint site based on a site definition](http://blah.winsmarts.com/2007-5-Programatically_create_a_SharePoint_site_based_on_a_site_definition.aspx). Aquí está el código de ese post:
 
 ```csharp
 public static bool CreateSite(string parentSiteURL, string siteURLRequested,
@@ -66,7 +66,7 @@ Lo que yo quería cambiar de esta solución era:
 
 ## Removiendo literales...
 
-Entonces fui a revisar la lista de locales: <a href="http://grounding.co.za/blogs/brett/archive/2008/04/09/sharepoint-locale-id-lcid-table.aspx">SharePoint Locale ID (LCID) Table</a>, y una lista de los identificadores de site templates, en un artículo llamado <a href="http://www.sharepointkings.com/2009/02/create-site-programmatically-in-moss.html">Create a site programmatically in moss</a>.
+Entonces fui a revisar la lista de locales: [SharePoint Locale ID (LCID) Table](http://grounding.co.za/blogs/brett/archive/2008/04/09/sharepoint-locale-id-lcid-table.aspx), y una lista de los identificadores de site templates, en un artículo llamado [Create a site programmatically in moss](http://www.sharepointkings.com/2009/02/create-site-programmatically-in-moss.html).
 
 Bueno... aquí vamos (cuidado, vienen enumeraciones largas):
 
@@ -308,7 +308,7 @@ Lo que nos queda es:
 
 Para convertir enums **SPLocales** a su representación uint, sólo tenemos que hacer el casting correspondiente. Esta es la razón por la que hicimos al enum heredar de unit y setear el valor apropiado en cada elemento.
 
-Para poder convertir enums **SPSiteTemplates** a cadenas, el método común es utilizar atributos y reflexión, pero personalmente no me gusta esa forma, así que hice una con diccionarios y métodos de extensión. La idea es proveer al enum la posibilidad de convertirse en una cadena, y estas cadenas de ser parseadas en el enum nuevamente. Para tener este tipo de relación en ambos sentidos, usé la implementación de **BiDictionaryOneToOne ** del usuario de StackOverflow's <a href="http://stackoverflow.com/users/6091/joel-in-go">Joel in Go</a>, en una pregunta de sobre cómo hacer un diccionario buscable key-value y buscable value-key: <a href="http://stackoverflow.com/questions/268321/bidirectional-1-to-1-dictionary-in-c">Bidirectional 1 to 1 Dictionary in C#</a>.
+Para poder convertir enums **SPSiteTemplates** a cadenas, el método común es utilizar atributos y reflexión, pero personalmente no me gusta esa forma, así que hice una con diccionarios y métodos de extensión. La idea es proveer al enum la posibilidad de convertirse en una cadena, y estas cadenas de ser parseadas en el enum nuevamente. Para tener este tipo de relación en ambos sentidos, usé la implementación de **BiDictionaryOneToOne ** del usuario de StackOverflow's [Joel in Go](http://stackoverflow.com/users/6091/joel-in-go), en una pregunta de sobre cómo hacer un diccionario buscable key-value y buscable value-key: [Bidirectional 1 to 1 Dictionary in C#](http://stackoverflow.com/questions/268321/bidirectional-1-to-1-dictionary-in-c).
 
 ```csharp
 public static class SPSiteTemplateMethodExtension
@@ -448,14 +448,14 @@ Ok, entonces ya todo está en su lugar, deberían poder usarlo así::
 CreateSite("http://siteCollectionUrl", "http://siteCollectionUrl/newSite", SPSiteTemplates.PublishingSite, SPLocales.English_UnitedStates, "site description");
 ```
 
-Eso es todo. Espero que esto sea útil para ustedes. Subí una copia de todo este código en <a href="http://files.alphasmanifesto.com/Software/">http://files.alphasmanifesto.com/Software/</a>
+Eso es todo. Espero que esto sea útil para ustedes. Subí una copia de todo este código en [http://files.alphasmanifesto.com/Software/](http://files.alphasmanifesto.com/Software/)
 
 ¡Disfruten!
 
 ## Referencias:
 
-- <a href="http://blah.winsmarts.com/2007-5-Programatically_create_a_SharePoint_site_based_on_a_site_definition.aspx">Programatically create a Sharepoint site based on a site definition</a>, WinSmarts.com
-- <a href="http://grounding.co.za/blogs/brett/archive/2008/04/09/sharepoint-locale-id-lcid-table.aspx">SharePoint Locale ID (LCID) Table</a>, Tech Talk with Brett Maytom
-- <a href="http://www.sharepointkings.com/2009/02/create-site-programmatically-in-moss.html">Create a site programmatically in moss</a>, SharePoint Kings, artículo de Malay Vasavada
-- <a href="http://stackoverflow.com/questions/268321/bidirectional-1-to-1-dictionary-in-c">Bidirectional 1 to 1 Dictionary in C#</a>, pregunta (y respuesta) by <a href="http://stackoverflow.com/users/6091/joel-in-go">Joel in G&ouml;</a>
-- <a href="http://files.alphasmanifesto.com/Software/CreateSPSite.cs">CreateSPSite.cs</a>, el código completo para este artículo
+- [Programatically create a Sharepoint site based on a site definition](http://blah.winsmarts.com/2007-5-Programatically_create_a_SharePoint_site_based_on_a_site_definition.aspx), WinSmarts.com
+- [SharePoint Locale ID (LCID) Table](http://grounding.co.za/blogs/brett/archive/2008/04/09/sharepoint-locale-id-lcid-table.aspx), Tech Talk with Brett Maytom
+- [Create a site programmatically in moss](http://www.sharepointkings.com/2009/02/create-site-programmatically-in-moss.html), SharePoint Kings, artículo de Malay Vasavada
+- [Bidirectional 1 to 1 Dictionary in C#](http://stackoverflow.com/questions/268321/bidirectional-1-to-1-dictionary-in-c), pregunta (y respuesta) by [Joel in G&ouml;](http://stackoverflow.com/users/6091/joel-in-go)
+- [CreateSPSite.cs](http://files.alphasmanifesto.com/Software/CreateSPSite.cs), el código completo para este artículo

@@ -55,7 +55,7 @@ comments:
     Gracias!
 ---
 
-Títulos amarillistas si los hay, MD ha compartido con nosotros este link de la gente de <a href="http://foroalfa.org/">ForoAlfa</a>, un grupo que habla sobre la usabilidad en su forma teórica, y eso es en general de lo que trata este artículo. El artículo, también bajo el título de <a href="http://foroalfa.org/articulos/la-usabilidad-ha-muerto-que-viva-la-usabilidad">La Usabilidad ha muerto. ¡Que viva la usabilidad!</a> habla de cómo la web actual (y los que trabajamos en el software en general) ha degenerado el concepto de usabilidad.
+Títulos amarillistas si los hay, MD ha compartido con nosotros este link de la gente de [ForoAlfa](http://foroalfa.org/), un grupo que habla sobre la usabilidad en su forma teórica, y eso es en general de lo que trata este artículo. El artículo, también bajo el título de [La Usabilidad ha muerto. ¡Que viva la usabilidad!](http://foroalfa.org/articulos/la-usabilidad-ha-muerto-que-viva-la-usabilidad) habla de cómo la web actual (y los que trabajamos en el software en general) ha degenerado el concepto de usabilidad.
 
 Según dicen (y si lo entendí correctamente), la teoría sobre la usabilidad se desarrolló como una serie de medidas y patrones que permitía que las interfaces pudieran dialogar con un usuario y mantener una conversación fluida. Hoy cuando hablamos de usabilidad hablamos de la forma en la que se mueven las pantallas, cuánto se ve y cuánto no se ve, cómo se scrollea, cómo pasan las imágenes y los colores que usamos. Por supuesto que está relacionado, pero no conserva la idea pura original de lo que es usabilidad.
 

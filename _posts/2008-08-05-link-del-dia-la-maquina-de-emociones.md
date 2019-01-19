@@ -23,7 +23,7 @@ tags: []
 
 Aunque se quejen, sí, es un link para leer, y mucho. Yo solo leí un poco y me fascinó, lo dejo en mi listadito de lectura para cuando me ponga, quizá incluso vaya a comprar una copia impresa.
 
-El libro en cuestión es de <a href="http://en.wikipedia.org/wiki/Marvin_Lee_Minsky">Marvin Minsky</a>, un groso desde ser uno de los que ayudó a diseñar la tortuguita del Logo, hasta ser una de las eminencias indiscutibles actualmente en el campo de la inteligencia artificial. El libro se llama <a href="http://en.wikipedia.org/wiki/The_Emotion_Machine">_The Emotion Machine_</a> (_La máquina de emociones_) y es un resumen analítico del pensamiento humano y cómo eso puede ser visto desde un punto de vista automatizado.
+El libro en cuestión es de [Marvin Minsky](http://en.wikipedia.org/wiki/Marvin_Lee_Minsky), un groso desde ser uno de los que ayudó a diseñar la tortuguita del Logo, hasta ser una de las eminencias indiscutibles actualmente en el campo de la inteligencia artificial. El libro se llama [_The Emotion Machine_](http://en.wikipedia.org/wiki/The_Emotion_Machine) (_La máquina de emociones_) y es un resumen analítico del pensamiento humano y cómo eso puede ser visto desde un punto de vista automatizado.
 
 El link lleva al borrador previo a la publicación que Minsky dejó para el público.
 

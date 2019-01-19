@@ -27,10 +27,10 @@ tags:
 comments: []
 ---
 
-Ahora que se acabaron las direcciones IP como las conocíamos y se viene el nuevo apocalípsis (?), pronto comenzará la migración paulatina a la utilización de IPv6. Esto ya no es algo relativamente nuevo, pero si es que no sabías al respecto, te recomiendo un artículo de Bitelia que lo explica todo: <a href="http://bitelia.com/2011/02/transicion-ipv4-a-ipv6-lo-que-necesitas-saber">La transición de IPv4 a IPv6: Lo que necesitas saber</a> (gracias <a href="http://twitter.com/fieritacatalano/status/34979774560468993">@fieritacatalano</a>!), muy bien explicado e ilustrado sobre qué ocurrirá.
+Ahora que se acabaron las direcciones IP como las conocíamos y se viene el nuevo apocalípsis (?), pronto comenzará la migración paulatina a la utilización de IPv6. Esto ya no es algo relativamente nuevo, pero si es que no sabías al respecto, te recomiendo un artículo de Bitelia que lo explica todo: [La transición de IPv4 a IPv6: Lo que necesitas saber](http://bitelia.com/2011/02/transicion-ipv4-a-ipv6-lo-que-necesitas-saber) (gracias [@fieritacatalano](http://twitter.com/fieritacatalano/status/34979774560468993)!), muy bien explicado e ilustrado sobre qué ocurrirá.
 
-Si es que ya estabas informado del asunto, y más aún, si es que tu rol es el de NetAdmin, muy probablemente te interese saber que el próximo 8 de Junio es el <a href="http://isoc.org/wp/worldipv6day/">día IPv6 mundial</a>, un día en donde las grandes compañías van a cambiar sus servicios para trabajar sobre IPv6 y durante 24 horas, verificar que las redes funcionan normalmente y que el mundo no se acabó. Tu compañía podría ser una de esas también.
+Si es que ya estabas informado del asunto, y más aún, si es que tu rol es el de NetAdmin, muy probablemente te interese saber que el próximo 8 de Junio es el [día IPv6 mundial](http://isoc.org/wp/worldipv6day/), un día en donde las grandes compañías van a cambiar sus servicios para trabajar sobre IPv6 y durante 24 horas, verificar que las redes funcionan normalmente y que el mundo no se acabó. Tu compañía podría ser una de esas también.
 
-Y si te perguntás qué pasó con la versión 5... aquí tienes tu respuesta: <a href="http://etherealmind.com/what-was-ipv5-version-5-ip/">IPv5 - What was it?</a>
+Y si te perguntás qué pasó con la versión 5... aquí tienes tu respuesta: [IPv5 - What was it?](http://etherealmind.com/what-was-ipv5-version-5-ip/)
 
 _Soy un zorrinito IP._

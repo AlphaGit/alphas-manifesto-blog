@@ -26,7 +26,7 @@ tags:
 comments: []
 ---
 
-Me gusta cuando las aplicaciones son capaces de encerrar mucha complejidad detrás de algo simple de entender y fácil de usar. Este es uno de esos casos. La finalidad de esta aplicación, llamada <a href="http://www.soluto.com/">Soluto</a> ("Anti-Frustration Software"), es de permitir monitorear el inicio de las distintas aplicaciones (sólo Windows por ahora), elegir cuáles deben cargar y cuáles no, cuáles deben ser demoradas para un momento posterior y de esa forma mejorar el tiempo de inicio.
+Me gusta cuando las aplicaciones son capaces de encerrar mucha complejidad detrás de algo simple de entender y fácil de usar. Este es uno de esos casos. La finalidad de esta aplicación, llamada [Soluto](http://www.soluto.com/) ("Anti-Frustration Software"), es de permitir monitorear el inicio de las distintas aplicaciones (sólo Windows por ahora), elegir cuáles deben cargar y cuáles no, cuáles deben ser demoradas para un momento posterior y de esa forma mejorar el tiempo de inicio.
 
 La interfaz es totalmente intuitiva, y muy atractiva. Aviso que para lograr esto hacen uso de la tecnología .NET (dependencia que debemos de tener instalada, o será instalada por nosotros). Tras instalarlo vamos a reiniciar y ver cómo Soluto monitorea nuestro inicio. Luego podremos verificar cuáles son los programas o servicios que están cargando al inicio y que podrían removerse para mejorar esta velocidad.
 
@@ -36,6 +36,6 @@ En el fondo todo se basa en la segunda forma de clasificación, que es a través
 
 Por último, Soluto también nos muestra un historial de "velocidades" de inicio, para que podamos ver de qué forma ha mejorado o empeorado nuestra performance de booteo desde que lo hemos instalado y a través de las distintas configuraciones e instalaciones.
 
-La web: <a href="http://www.soluto.com/">http://www.soluto.com/</a>
+La web: [http://www.soluto.com/](http://www.soluto.com/)
 
 _Soy un zorrinito optimizado._

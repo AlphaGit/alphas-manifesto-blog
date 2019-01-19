@@ -31,6 +31,6 @@ Aquellos que tenemos que ver con el desarrollo web muy seguramente nos hemos ape
 
 Por suerte, Chrome mismo ha evolucionado al punto de poseer unas herramientas de desarrollo integradas muy profundas e interesantes, sin necesidad de ninguna extensión. Pero aún así, el mercado de extensiones para Chrome ya ha crecido bastante, y es hora de ver alguna de las opciones que tenemos para personalizar el uso que le damos en nuestra tarea de desarrollo.
 
-<a href="http://profiles.google.com/rosa.gutierrez28/about">Rosa Gutiérrez</a> fue quien me compartió a través de Google Reader esta enorme colección de extensiones para desarrollo en Chrome llamada <a href="http://www.hongkiat.com/blog/google-chrome-extensions-designers/">40 Useful Google Chrome Extensions for Web Designers</a>. La verdad no las he contado, pero creo que son más de 40. Aunque no lo fueran, realmente valen la pena, les recomiendo a los usuarios de Chrome que le echen un vistazo, muy seguramente encontrarán algo de su agrado.
+[Rosa Gutiérrez](http://profiles.google.com/rosa.gutierrez28/about) fue quien me compartió a través de Google Reader esta enorme colección de extensiones para desarrollo en Chrome llamada [40 Useful Google Chrome Extensions for Web Designers](http://www.hongkiat.com/blog/google-chrome-extensions-designers/). La verdad no las he contado, pero creo que son más de 40. Aunque no lo fueran, realmente valen la pena, les recomiendo a los usuarios de Chrome que le echen un vistazo, muy seguramente encontrarán algo de su agrado.
 
 _Soy un zorrinito cromado._

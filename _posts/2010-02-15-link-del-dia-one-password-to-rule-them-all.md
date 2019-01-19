@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 
-<a href="https://lastpass.com/">LastPass</a> es un sistema centralizador de passwords que se integra con una gran variedad de navegadores para que autocomplete nuestros datos en los sitios que visitemos. De esta forma, podemos tener una buena cantidad de passwords de alta complejidad sin necesidad de tener que recordarlos de memoria, pudiendo sólo utilizar un password que usaremos en LastPass.
+[LastPass](https://lastpass.com/) es un sistema centralizador de passwords que se integra con una gran variedad de navegadores para que autocomplete nuestros datos en los sitios que visitemos. De esta forma, podemos tener una buena cantidad de passwords de alta complejidad sin necesidad de tener que recordarlos de memoria, pudiendo sólo utilizar un password que usaremos en LastPass.
 
 Por supuesto, sabemos que de esta forma, nuestro punto débil puede ser el password de LastPass, pero por supuesto existen medidas de seguridad adicionales para asegurar que no cualquiera acceda como nosotros a la información que este sistema almacena, donde podemos centralizar todo.
 
@@ -49,6 +49,6 @@ Entre las características que posee, existen:
 - soporte (versión paga)
 - sin publicidades (versión paga)
 
-Incluso hay muchos features más ya incluidos que podemos ver desde la sección de <a href="https://lastpass.com/support_faqs.php">FAQs</a>, pero si es que alguno se anima a probarlo y poner su información ahí, no dudo que va a tener una buena experiencia.
+Incluso hay muchos features más ya incluidos que podemos ver desde la sección de [FAQs](https://lastpass.com/support_faqs.php), pero si es que alguno se anima a probarlo y poner su información ahí, no dudo que va a tener una buena experiencia.
 
 _Soy un zorrinito centralizado._

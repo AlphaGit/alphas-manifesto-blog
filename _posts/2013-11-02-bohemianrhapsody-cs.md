@@ -28,12 +28,12 @@ comments: []
 
 using Queen.GreatestHits;
 
-Hey everyone! I just made a poster of <a href="http://www.reddit.com/r/AskReddit/comments/1poo0n/programmers_of_reddit_how_would_you_sum_up_a/cd4j9iq">likely_an_impostor's rendition of Bohemian Rhapsody</a> in C#, since I definitely believe that it would look great hanging off a wall.
+Hey everyone! I just made a poster of [likely_an_impostor's rendition of Bohemian Rhapsody](http://www.reddit.com/r/AskReddit/comments/1poo0n/programmers_of_reddit_how_would_you_sum_up_a/cd4j9iq) in C#, since I definitely believe that it would look great hanging off a wall.
 
-In case you're interested, just **<a href="http://www.zazzle.com/bohemianrhapsody_cs_posters-228346427007677040">head to its page in Zazzle</a>** and give it a look -- it still has a lot of options you can choose from. It goes out as cheap as $ 10.95.
+In case you're interested, just **[head to its page in Zazzle](http://www.zazzle.com/bohemianrhapsody_cs_posters-228346427007677040)** and give it a look -- it still has a lot of options you can choose from. It goes out as cheap as $ 10.95.
 
 ---
 
-Hey todos! Acabo de crear un poster desde <a href="http://www.reddit.com/r/AskReddit/comments/1poo0n/programmers_of_reddit_how_would_you_sum_up_a/cd4j9iq">la interpretación de likely_an_impostor de Bohemian Rhapsody</a> en C#, dado que me parece que se vería genial colgado en una pared.
+Hey todos! Acabo de crear un poster desde [la interpretación de likely_an_impostor de Bohemian Rhapsody](http://www.reddit.com/r/AskReddit/comments/1poo0n/programmers_of_reddit_how_would_you_sum_up_a/cd4j9iq) en C#, dado que me parece que se vería genial colgado en una pared.
 
-Si están interesados, **<a href="http://www.zazzle.com/bohemianrhapsody_cs_posters-228346427007677040">solo vayan hacia la página en Zazzle y dénle una mirada</a>** -- todavía tiene muchas opciones de las que pueden elegir. Y se va tan barato como $ 10.95.
+Si están interesados, **[solo vayan hacia la página en Zazzle y dénle una mirada](http://www.zazzle.com/bohemianrhapsody_cs_posters-228346427007677040)** -- todavía tiene muchas opciones de las que pueden elegir. Y se va tan barato como $ 10.95.

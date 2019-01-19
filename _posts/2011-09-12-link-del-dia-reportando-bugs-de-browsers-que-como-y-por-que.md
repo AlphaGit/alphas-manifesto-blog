@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-<a href="http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/">Este artículo de Smashing Magazine</a> habla muy en detalle sobre la comunidad de desarrolladores de navegadores (una buena gran mayoría de ellos) y cómo es bienvenido el feedback de los usuarios para mejorar los navegadores mismos.
+[Este artículo de Smashing Magazine](http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/) habla muy en detalle sobre la comunidad de desarrolladores de navegadores (una buena gran mayoría de ellos) y cómo es bienvenido el feedback de los usuarios para mejorar los navegadores mismos.
 
 Explica un poco de qué forma se puede encontrar o aislar algo que creemos que es un bug, que también sirve para método de solución de problemas: una vez aislado el comportamiento no deseado siempre podemos idear un workaround  (que es, de hecho, como surgieron muchos de los hacks vigentes para hacer las cosas funcionar cuando no funcionan como deberían). El resto del artículo nos explica cómo reportar este comportamiento, bajo las líneas básicas de: ver si realmente es inesperado lo que ocurre, ver si no fue reportado antes, y cómo hacer un buen reporte de bug.
 

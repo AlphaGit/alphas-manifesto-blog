@@ -103,7 +103,7 @@ TDD makes sure that this never happens. You know exactly which change broke the 
 
 ## An anecdote: mongo-faceted
 
-Do you remember my side-project, mongo-faceted? If not, you can <a href="https://blog.alphasmanifesto.com/2015/01/03/faceted-searches-with-mongodb-and-mongoose/">read about it here</a>.
+Do you remember my side-project, mongo-faceted? If not, you can [read about it here](https://blog.alphasmanifesto.com/2015/01/03/faceted-searches-with-mongodb-and-mongoose/).
 
 I had to rewrite it so that one of the basic assumptions of the project was not hold true anymore: I relied on mongoose to provide me with the schema of the models and now I wanted to have it completely decoupled, with mongoose optional. I didn't know how much of a change that would involve, and I didn't know how it was going to work. I just had my goal.
 

@@ -38,6 +38,6 @@ Hace poco me crucé con un proyecto que utilizaba RoundhousE y mi curiosidad me 
 
 Cabe aclarar que cuando menciono el concepto de _migración_, no me refiero a la actividad de mover datos de un esquema a otro, sino al hecho de convertir un esquema a otro (que, en el fondo, no es tan distinto). Este concepto de migración y versionamiento de bases de datos permite tener controlados los cambios que deben aplicarse al momento de cambiar la versión de una aplicación, y su capacidad de aplicar o revertir cambios hace que ya no deba recordarse de forma mental en qué estado nuestra base y cómo llevarla al estado nuevo.
 
-RoundhousE puede encontrarse en <a href="https://github.com/chucknorris/roundhouse/">su repositorio de GitHub</a> (bajo el usuario chucknorris, ¡ja!), o en su sitio <a href="http://projectroundhouse.org/" rel="nofollow">http://projectroundhouse.org</a>, que ahora lleva a Google Code.
+RoundhousE puede encontrarse en [su repositorio de GitHub](https://github.com/chucknorris/roundhouse/) (bajo el usuario chucknorris, ¡ja!), o en su sitio <a href="http://projectroundhouse.org/" rel="nofollow">http://projectroundhouse.org</a>, que ahora lleva a Google Code.
 
 _Soy un zorrinito migrado._

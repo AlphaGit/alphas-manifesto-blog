@@ -53,7 +53,7 @@ Ahora que el mundo web se ha acelerado de forma increíble, CSS3 y HTML5 son má
 
 ## HTML5 y CSS3: Nombres complicados para algo simple
 
-**HTML5** (HyperText Markup Language, versión 5) y **CSS3** (Cascading Style Sheets, versión 3) **son lo que hace que la web tenga estructura y se vea de la forma en la que se ve**. En teoría, HTML es el lenguaje que se usa para definir los datos y qué es cada dato, y CSS es el que se usa para darles una presentación o estil. Cuando escuchen hablar de _web semántica_, recuerden esos conceptos. Mientras tanto, pueden leer, relacionado, <a href="https://blog.alphasmanifesto.com/2008/04/17/link-del-dia-como-explicarle-rest-a-la-mujer-de-uno/">cómo explicarle REST a la mujer de uno</a>.
+**HTML5** (HyperText Markup Language, versión 5) y **CSS3** (Cascading Style Sheets, versión 3) **son lo que hace que la web tenga estructura y se vea de la forma en la que se ve**. En teoría, HTML es el lenguaje que se usa para definir los datos y qué es cada dato, y CSS es el que se usa para darles una presentación o estil. Cuando escuchen hablar de _web semántica_, recuerden esos conceptos. Mientras tanto, pueden leer, relacionado, [cómo explicarle REST a la mujer de uno](https://blog.alphasmanifesto.com/2008/04/17/link-del-dia-como-explicarle-rest-a-la-mujer-de-uno/).
 
 Si alguna vez vieron algo de código o quisieron aprender a hacer páginas web y vieron cosas como "_Use `<h1>mi título</h1>`_"
 
@@ -75,9 +75,9 @@ Esta característica se implementó de una forma muy dinámica: no se aplican so
 
 ## Mobile
 
-Hace algunos años, el mercado móvil también está creciendo muchísimo. Ahora <a href="http://en.wikipedia.org/wiki/Smartphone#Market_share">la mayoría de los teléfonos vendidos son smartphones</a> (si no la totalidad), y poseen la capacidad de navegar en internet. E-book readers y tablets introducen también otras experiencias y un tamaño reducido, también con conectividad a internet. Cuando esto comenzó a ser interesante para, además de mirar contenidos, diseñar aplicaciones inteligentes, las posibilidades explotaron y el mercado se revolucionó.
+Hace algunos años, el mercado móvil también está creciendo muchísimo. Ahora [la mayoría de los teléfonos vendidos son smartphones](http://en.wikipedia.org/wiki/Smartphone#Market_share) (si no la totalidad), y poseen la capacidad de navegar en internet. E-book readers y tablets introducen también otras experiencias y un tamaño reducido, también con conectividad a internet. Cuando esto comenzó a ser interesante para, además de mirar contenidos, diseñar aplicaciones inteligentes, las posibilidades explotaron y el mercado se revolucionó.
 
-En ese momento, si los desarrolladores web ya se sentían frustrados con la variedad de navegadores, sistemas operativos, versiones y estándares, al escuchar de esto elevaron un grito de ayuda al cielo. La World Wide Web Consortium (W3C) y varios grandes de la industria (Microsoft, Apple, Google y muchos grupos independientes) atendieron el llamado y propusieron nuevos estándares y un camino para resolver este problema. Si les interesa leer más en detalle sobre eso, pueden leer mi entrada sobre <a href="https://blog.alphasmanifesto.com/2011/11/17/%C2%BFpor-que-html5/">porqué conviene utilizar HTML5</a>.
+En ese momento, si los desarrolladores web ya se sentían frustrados con la variedad de navegadores, sistemas operativos, versiones y estándares, al escuchar de esto elevaron un grito de ayuda al cielo. La World Wide Web Consortium (W3C) y varios grandes de la industria (Microsoft, Apple, Google y muchos grupos independientes) atendieron el llamado y propusieron nuevos estándares y un camino para resolver este problema. Si les interesa leer más en detalle sobre eso, pueden leer mi entrada sobre [porqué conviene utilizar HTML5](https://blog.alphasmanifesto.com/2011/11/17/%C2%BFpor-que-html5/).
 
 ### El mundo mobile, luego de responsive design
 

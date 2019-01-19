@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-Para mi sorpresa, me encontré con un artículo de Mathias Bynens llamado <a href="http://mathiasbynens.be/notes/safe-css-hacks">In defense of CSS hacks &ndash; introducing "safe CSS hacks"</a>. él habla e introduce el concepto de los hacks CSS. Permítanme hablar un poco sobre su idea.
+Para mi sorpresa, me encontré con un artículo de Mathias Bynens llamado [In defense of CSS hacks &ndash; introducing "safe CSS hacks"](http://mathiasbynens.be/notes/safe-css-hacks). él habla e introduce el concepto de los hacks CSS. Permítanme hablar un poco sobre su idea.
 
 él menciona que los CSS hacks son básicamente comportamiento especial que podemos invocar en cada navegador, algo que a veces es totalmente deseado, y no tiene por qué ser un problema o una mala práctica, sino que puede ser usado para muchas cosas. El uso más común que se le ha dado hoy en día es hacer "tweaks" específicos para la forma de renderización de cada navegador/versión y entonces lograr una visión consistente a lo largo de todos los navegadores.
 

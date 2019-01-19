@@ -70,7 +70,7 @@ comments:
 
 ![]({{ site.baseurl }}/assets/CodeReviewFilter2.jpg)
 
-I recently wrote about <a href="https://blog.alphasmanifesto.com/2016/07/11/how-to-create-a-good-pull-request/">how to create a good pull request</a>, this is, how to make your code changes easy to review and discuss. Now we're going to talk about the second part: reviewing someone else's code. This puts you on the reviewers side, and hopefully the person submitting code did follow our guidelines to make your life easier.
+I recently wrote about [how to create a good pull request](https://blog.alphasmanifesto.com/2016/07/11/how-to-create-a-good-pull-request/), this is, how to make your code changes easy to review and discuss. Now we're going to talk about the second part: reviewing someone else's code. This puts you on the reviewers side, and hopefully the person submitting code did follow our guidelines to make your life easier.
 
 There are several approaches you can take to review the code, but we're going to enumerate a checklist that you could use to minimize the usage of your time and the efficiency of the code review.
 
@@ -231,4 +231,4 @@ Sometimes people will give code feedback by email. If that's the case, structure
 
 When providing feedback, do not ever approach that communication from the vision of "this is wrong", even if it is. Always approach it from a "it could be improved / it should be improved". or even as a question, unless you're absolutely sure. Remember that, first of all, there's a person on the other side, and second, they're doing their best. Even if there are technological, knowledge, experience or time limitations that made the developer turn in non-acceptable code, remember that they're doing this for the best of the project.
 
-<a href="http://www.theregister.co.uk/2016/07/11/linus_torvalds_in_sweary_rant_about_punctuation_in_kernel_comments/">Linus Torvals-style rants</a> are pretty fun to read, but remember it's hurtful to be on the receiving end. Also, why make enemies if you don't need to?
+[Linus Torvals-style rants](http://www.theregister.co.uk/2016/07/11/linus_torvalds_in_sweary_rant_about_punctuation_in_kernel_comments/) are pretty fun to read, but remember it's hurtful to be on the receiving end. Also, why make enemies if you don't need to?

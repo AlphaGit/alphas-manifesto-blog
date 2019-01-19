@@ -30,7 +30,7 @@ La gente de Github no me deja de sorprender, parece que siempre tuvieran algo nu
 
 Han notado cómo GMail utiliza el título de la página/tab para avisarnos de cuando tenemos un mail nuevo, incluso si estamos en otro tab? Bueno, algo muy parecido se puede hacer con los favicons, cambiandolos para dar una notificación al usuario. Algo parecido hace Google Calendar, poniendo un favicon distinto cada día con la fecha actual.
 
-El código fuente de este proyecto se puede encontrar en este sitio de Github: <a href="https://github.com/makeable/Notificon">Notificon</a>.
+El código fuente de este proyecto se puede encontrar en este sitio de Github: [Notificon](https://github.com/makeable/Notificon).
 
 Recuerdo haber leído unas pruebas cross-browser del soporte de favicons y su posible utilización. El único caso en donde no funcionaban era en Safari, ya que en lugar de mostrarse los iconos, se mostraba un ícono propio de Safari, y dependiendo de la cantidad de tabs, directamente no se mostraba nada. Desafortunadamente, olvidé en dónde leí eso (y mis búsquedas no dieron resultados). El estudio concluía que Safari debería ponerse al tanto con el resto de los navegadores.
 

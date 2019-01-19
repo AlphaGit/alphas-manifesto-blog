@@ -35,11 +35,11 @@ comments:
     bueno es [...]"
 ---
 
-Esta noticia llegó a mí gracias a un tweet de <a href="http://twitter.com/offsectraining">@offsectraining</a>, el usuario de Twitter de <a href="http://www.offensive-security.com/">Offensive Security</a>, que decía: "Quieren ganar un ticket gratuito de BlackHat a las Vegas? Vengan y hackeen por caridad!".
+Esta noticia llegó a mí gracias a un tweet de [@offsectraining](http://twitter.com/offsectraining), el usuario de Twitter de [Offensive Security](http://www.offensive-security.com/), que decía: "Quieren ganar un ticket gratuito de BlackHat a las Vegas? Vengan y hackeen por caridad!".
 
-El link que daban era el de su blog, que nos cuenta en <a href="http://www.offensive-security.com/offsec/cyber-hacking-challenge-2-hsiyf-for-charity/">una nota sobre el concurso HSIYF #2</a> (How Strong Is Your Fu?) que la primera edición de este concurso fue un éxito, que están esperando que mucha gente participe, y que los fondos recaudados por las donaciones serán enteramente derivadas a obras de caridad.
+El link que daban era el de su blog, que nos cuenta en [una nota sobre el concurso HSIYF #2](http://www.offensive-security.com/offsec/cyber-hacking-challenge-2-hsiyf-for-charity/) (How Strong Is Your Fu?) que la primera edición de este concurso fue un éxito, que están esperando que mucha gente participe, y que los fondos recaudados por las donaciones serán enteramente derivadas a obras de caridad.
 
-Fuera de eso, he estado leyendo <a href="http://www.information-security-training.com/">el blog de Offensive Security Training</a>, y revisando un poco <a href="http://www.information-security-training.com/news/hsiyf-runner-up-documentation/">los resultados del concurso HSIYF #1</a>. Como vemos, hay que dedicarle un buen par de horas para tener una versión andando, pero los desafíos no parecen realmente tan imposibles (o será eso una ilusión ahora que veo la solución?). Si ustedes piensan igual que yo, se animarían a participar?
+Fuera de eso, he estado leyendo [el blog de Offensive Security Training](http://www.information-security-training.com/), y revisando un poco [los resultados del concurso HSIYF #1](http://www.information-security-training.com/news/hsiyf-runner-up-documentation/). Como vemos, hay que dedicarle un buen par de horas para tener una versión andando, pero los desafíos no parecen realmente tan imposibles (o será eso una ilusión ahora que veo la solución?). Si ustedes piensan igual que yo, se animarían a participar?
 
 Sólo necesitan un buen tiempo pegado en la silla, la mente agudizada, las herramientas preparadas y una buena conexión a internet (eso ya me dejó afuera).
 

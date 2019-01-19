@@ -44,7 +44,7 @@ As Udacity advertises it, the course is slow-paced, only requiring about 3 hours
 The course has five projects that you need to complete in order to graduate. They are:
 
 - Feed-forward Neural Networks: Predict a shop's future sales
-- Convolutional Neural Networks: Identify objects in the <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10 image dataset</a>
+- Convolutional Neural Networks: Identify objects in the [CIFAR-10 image dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 - Recurrent Neural Networks: Generate a TV script for a scene in The Simpsons
 - Recurrent Neural Networks: Build an English-to-French translator
 - Generative Adversarial Neural Networks: Generate fake images of handwritten digits and faces
@@ -87,6 +87,6 @@ Generative adversarial networks (taught by Ian Goodfellow, the inventor himself)
 
 Totally worth it. I know it's a little bit more expensive now (it wasn't when it first launched, so I got lucky). It was a great structured introduction to a lot of topics from which now I can move on from basic understanding to continuing my education.
 
-You can <a href="https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101">visit this course page in Udacity</a> and decide if it's worth for you. There is also a free self-paced course by Google on a subset of these contents: <a href="https://www.udacity.com/course/deep-learning--ud730">Deep Learning by Google</a>. I haven't checked that one out yet. Also, there are tons of tutorials and guides everywhere -- just google "deep learning" and you'll find them.
+You can [visit this course page in Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) and decide if it's worth for you. There is also a free self-paced course by Google on a subset of these contents: [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730). I haven't checked that one out yet. Also, there are tons of tutorials and guides everywhere -- just google "deep learning" and you'll find them.
 
 I will be talking more on each of these concepts, as I try to make them more approachable and as I try to go deeper in them.

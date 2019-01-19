@@ -37,9 +37,9 @@ A few of you may already know that I've started learning Ruby. I cannot tell at 
 
 <!--more-->
 
-<a href="http://mislav.uniqpath.com/poignant-guide/">Why's Poignant Guide to Ruby</a> was one of my first options because it did promise to be unusual, and it was a CC Share Alike freely available option, which I thought was really cool for the community (or in this case, Why) to create. At the point of reading this, I had already peeked at some basic language constructs so I was not a full-fledged beginner, and although the book starts assuming you know nothing about it, it did teach me some facts about the basic structures that I didn't know about.
+[Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) was one of my first options because it did promise to be unusual, and it was a CC Share Alike freely available option, which I thought was really cool for the community (or in this case, Why) to create. At the point of reading this, I had already peeked at some basic language constructs so I was not a full-fledged beginner, and although the book starts assuming you know nothing about it, it did teach me some facts about the basic structures that I didn't know about.
 
-The book itself is pretty short, I read it on a PDF-rendered version which amounted to around 200 pages, but it was easily becoming hard for me to follow, since I was paying attention both to the Ruby parts and the sideline stories which are not easy to follow at all. At times I'd find myself trying to make sense on why there was <a href="http://mislav.uniqpath.com/poignant-guide/book/chapter-6.html">a whole sidebar dedicated to bread questions and answers</a>, or reading about irrelevant comparisons.
+The book itself is pretty short, I read it on a PDF-rendered version which amounted to around 200 pages, but it was easily becoming hard for me to follow, since I was paying attention both to the Ruby parts and the sideline stories which are not easy to follow at all. At times I'd find myself trying to make sense on why there was [a whole sidebar dedicated to bread questions and answers](http://mislav.uniqpath.com/poignant-guide/book/chapter-6.html), or reading about irrelevant comparisons.
 
 However, to give you a proper taste of what's it like, I believe the best non-irrelevant section is the description of what metaprogramming is like:
 

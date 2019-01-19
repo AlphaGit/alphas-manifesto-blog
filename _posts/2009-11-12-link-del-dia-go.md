@@ -22,9 +22,9 @@ tags: []
 comments: []
 ---
 
-Gracias a DG quien me pasó <a href="http://alt1040.com/2009/11/google-propone-su-propio-lenguaje-de-programacion-con-go">el dato</a>, resulta que ahora es noticia que <a href="http://google-opensource.blogspot.com/2009/11/hey-ho-lets-go.html">Google quiere liberar un lenguaje llamado Go</a> (como si otra cosa faltara). Este lenguaje, según dicen, quiere combinar lo mejor de C++, Python, e incluso ideas desde Pascal, Oberon, etc...
+Gracias a DG quien me pasó [el dato](http://alt1040.com/2009/11/google-propone-su-propio-lenguaje-de-programacion-con-go), resulta que ahora es noticia que [Google quiere liberar un lenguaje llamado Go](http://google-opensource.blogspot.com/2009/11/hey-ho-lets-go.html) (como si otra cosa faltara). Este lenguaje, según dicen, quiere combinar lo mejor de C++, Python, e incluso ideas desde Pascal, Oberon, etc...
 
-<a href="http://golang.org/">El sitio oficial</a> contiene mucha información al respecto, y creo que toda la necesaria para comenzar a utilizarlo y probar qué tal. Prometen que será fácil, que será rápido y que será algo que nos librará de varios vicios que otros lenguajes tenían.
+[El sitio oficial](http://golang.org/) contiene mucha información al respecto, y creo que toda la necesaria para comenzar a utilizarlo y probar qué tal. Prometen que será fácil, que será rápido y que será algo que nos librará de varios vicios que otros lenguajes tenían.
 
 Habrá que averiguar.
 

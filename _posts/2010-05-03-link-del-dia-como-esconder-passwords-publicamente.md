@@ -40,7 +40,7 @@ comments:
     una combinación que solo nosotros conocemos.
 ---
 
-últimamente se ha puesto de moda una buena idea que la gente de <a href="http://passwordcard.org/">PasswordCard</a> ha propuesto. PasswordCard es la idea de tener una tarjeta de colores y símbolos y una combinación de letras mayúsculas, minúsculas y números.
+últimamente se ha puesto de moda una buena idea que la gente de [PasswordCard](http://passwordcard.org/) ha propuesto. PasswordCard es la idea de tener una tarjeta de colores y símbolos y una combinación de letras mayúsculas, minúsculas y números.
 
  ¿Cuál es la idea? Nosotros podemos elegir nuestro password de cualquier punto de la tarjeta. Podemos recordar en dónde se encuentra gracias a los colores y a los símbolos de la primera línea. (Por ejemplo, rojo-triángulo, o celeste-dólar.) Dicha combinación nos dará un símbolo con el que podemos comenzar a escribir nuestro password, copiando los que sigan a continuación. Sólo tenemos que recordar dicha combinación, que es ciertamente más fácil de recordar que el password en sí, y con esta tarjeta nos podemos acordar.
 

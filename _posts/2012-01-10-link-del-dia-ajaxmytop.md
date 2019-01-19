@@ -28,6 +28,6 @@ tags:
 comments: []
 ---
 
-Del blog de <a href="http://edufortes.com.ar/software/software-libre/monitor-web-de-mysql-en-php-y-ajax/">Edu</a> me entero de un software llamado <a href="http://sourceforge.net/projects/ajaxmytop">AjaxMyTop</a>, que es básicamente un manager de procesos open source para MySQL. Muy útil para, de una forma simple y efectiva administrar los procesos que se estén ejecutando actualmente en el servidor.
+Del blog de [Edu](http://edufortes.com.ar/software/software-libre/monitor-web-de-mysql-en-php-y-ajax/) me entero de un software llamado [AjaxMyTop](http://sourceforge.net/projects/ajaxmytop), que es básicamente un manager de procesos open source para MySQL. Muy útil para, de una forma simple y efectiva administrar los procesos que se estén ejecutando actualmente en el servidor.
 
 _Soy un zorrinito administrable._

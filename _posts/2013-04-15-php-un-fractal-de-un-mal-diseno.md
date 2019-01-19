@@ -527,7 +527,7 @@ comments:
 O mil y un razones para alejarse de PHP
 
 
-Durante mucho tiempo utilicé PHP, y de hecho, lo sigo utilizando. Sin embargo, siempre sentí como que algunas cosas no encajaban, y aunque varias veces me propuse aprender un paradigma de PHP de forma seria, nunca lo logré. Mucho tiempo después me enteré del gran odio generalizado a PHP y los problemas que ha tenido y leyendo esos artículos me encontré el que voy a traducir a continuación. <a href="http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/">PHP: A fractal of Bad Design</a> es una recopilación de <a href="http://me.veekun.com/">Eevee</a>, quien muy amablemente accedió a que yo lo traduzca. La elegí porque es exageradamente detallada y certera.
+Durante mucho tiempo utilicé PHP, y de hecho, lo sigo utilizando. Sin embargo, siempre sentí como que algunas cosas no encajaban, y aunque varias veces me propuse aprender un paradigma de PHP de forma seria, nunca lo logré. Mucho tiempo después me enteré del gran odio generalizado a PHP y los problemas que ha tenido y leyendo esos artículos me encontré el que voy a traducir a continuación. [PHP: A fractal of Bad Design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) es una recopilación de [Eevee](http://me.veekun.com/), quien muy amablemente accedió a que yo lo traduzca. La elegí porque es exageradamente detallada y certera.
 
 Debería aclarar que no estoy de acuerdo con todos los puntos mencionados como negativos o siquiera problemas, pero respeto el artículo original del autor sin interrupciones.
 
@@ -537,7 +537,7 @@ Sin más, los dejo con el artículo. Si pueden leer el original, lo recomiendo.
 
 ## Prefacio
 
-Soy quejoso. Me quejo sobre un montón de cosas. Hay mucho en el mundo de la tecnología que no me gusta, y eso realmente es de esperar -- programar es una disciplina irrisoriamente joven, y ninguno de nosotros tiene la más mínima idea de lo que estamos haciendo. Combinen eso con la <a href="http://en.wikipedia.org/wiki/Sturgeon%27s_Law">Ley de Sturgeon</a>, y tengo una vida llena de cosas sobre las que protestar.
+Soy quejoso. Me quejo sobre un montón de cosas. Hay mucho en el mundo de la tecnología que no me gusta, y eso realmente es de esperar -- programar es una disciplina irrisoriamente joven, y ninguno de nosotros tiene la más mínima idea de lo que estamos haciendo. Combinen eso con la [Ley de Sturgeon](http://en.wikipedia.org/wiki/Sturgeon%27s_Law), y tengo una vida llena de cosas sobre las que protestar.
 
 Esto no es lo mismo. PHP no es meramente raro de usar, o inapropiado para lo que yo quiero, o subóptimo, o contra mi religión. Puedo decir cualquier tipo de cosas buenas sobre lenguajes que evado, y todo tipo de cosas malas sobre lenguajes que disfruto. Adelante, ¡pregunten! Crea conversaciones interesantes.
 
@@ -597,7 +597,7 @@ He estado _mucho_ en discusiones sobre PHP. Escucho muchos argumentos muy genér
 
 - No me digan que "los buenos programadores pueden escribir buen código en cualquier lenguaje", o que los malos programadores bla, bla, bla. Eso no significa nada. Un buen carpintero _puede _martillar un clavo con una roca o un martillo, pero  ¿cuántos carpinteros ves martillando con rocas? Parte de lo que hace a un buen desarrollador es la habilidad para _elegir_ las herramientas con las que trabaja mejor.
 - No me digas que es responsabilidad de los programadores memorizar mil excepciones y comportamientos extraños. Sí, esto es necesario en cualquier sistema, porque las computadoras apestan. Eso no significa que no hay un límite superior por cuánto payaseo es permitido en un sistema. PHP no es nada _sino_ excepciones, y no está bien cuando pelear con el lenguaje de hecho toma más esfuerzo que escribir tu programa. Mis herramientas no deberían crear más trabajo neto para que yo haga.
-- No me digas que "así es cómo funciona la API de C".  ¿Cuál es el punto de usar un lenguaje de alto nivel si todo lo que provee son utilidades de cadenas y un montón de wrappers de C textuales? ¡Sólo escriban C en ese caso! Aquí, incluso hay una <a href="http://www.boutell.com/cgic/">librería CGI</a> para él.
+- No me digas que "así es cómo funciona la API de C".  ¿Cuál es el punto de usar un lenguaje de alto nivel si todo lo que provee son utilidades de cadenas y un montón de wrappers de C textuales? ¡Sólo escriban C en ese caso! Aquí, incluso hay una [librería CGI](http://www.boutell.com/cgic/) para él.
 - No me digas que "eso es lo que te pasa por hacer cosas raras". Si dos características existen, algún día, alguien va a encontrar una razón para usarlas juntas. Y nuevamente, esto no es C; no hay especificaciones, no hay necesidad para "comportamiento indeterminado".
 - No me digas que Facebook y Wikipedia están construidos en PHP. ¡Ya lo sé! Podrían estar también escritos en Brainfuck, pero mientras haya gente inteligente todavía peleando con las cosas, ellos _pueden_ sobreponerse a los problemas con la plataforma. Por todo lo que sabemos, el tiempo de desarrollo podría haber sido duplicado o reducido a la mitad si huberan sido escritos en otro lenguaje; estos datos de por sí no significan nada.
 - Idealmente, ¡no me digas nada! Este es mi gran intento; si esta lista no hiere tu opinión de PHP, _nada_ nunca lo hará, así que deja de discutir con un tipo en internet y ve a hacer un sitio cool en tiempo récord para demostrar que estoy equivocado. :)
@@ -616,7 +616,7 @@ CPAN ha sido llamada la "librería estándar de Perl". Eso no dice mucho sobre l
 
 #### Filosofía
 
-- PHP fue originalmente diseñado explícitamente para no-programadores (y, leyendo entre líneas, no-programas); y no ha escapado sus raíces bien. Una cita escogida desde la <a href="http://www.php.net/manual/phpfi2.php#overload">documentación de PHP 2.0</a>, respecto de `+` y amigos haciendo conversión de tipos:
+- PHP fue originalmente diseñado explícitamente para no-programadores (y, leyendo entre líneas, no-programas); y no ha escapado sus raíces bien. Una cita escogida desde la [documentación de PHP 2.0](http://www.php.net/manual/phpfi2.php#overload), respecto de `+` y amigos haciendo conversión de tipos:
   > Una vez que comienzas a tener operadores separados para cada tipo, comienzas a hacer el lenguaje mucho más complejo. i.e., no puedes usar '==' para stings [sic], ahora usarías 'eq'. No veo el punto, especialmente para algo como PHP en donde la mayoría de los scripts serán generalmente simples y en muchos casos escrito por no-programadores que quieren un lenguaje con una sintaxis lógica básica y no tiene una curva de aprendizaje muy elevada.
 - PHP está construido para mantenerse resoplando a todo costo. Cuando se encuentra con la opción de hacer algo sin sentido o abortar con un error, hará algo sin sentido. Cualquier cosa es mejor que nada.
 - No hay una filosofía de diseño clara. El antiguo PHP fue inspirado en Perl; la gran librería estándar stdlib con parámetros "out" es de C; las partes orientadas a objetos fueron diseñadas como C++ y Java.
@@ -654,7 +654,7 @@ CPAN ha sido llamada la "librería estándar de Perl". Eso no dice mucho sobre l
 
   ¡Esto está mal! Los lenguajes de programación son herramientas; se supone que deben trabajar _conmigo_. Aquí, PHP ha activamente creado una sutil trampa para que yo caiga en ella, y yo debo estar atento incluso con cosas mundanas como operaciones de cadena y comparaciones de igualdad. PHP es _un campo minado_.
 
-He escuchado una buena cantidad de historias sobre PHP y <a href="http://en.wikiquote.org/wiki/Rasmus_Lerdorf">sus desarrolladores</a> de muchos lugares. Estas son de la gente que ha trabajado en <a href="http://www.reddit.com/r/lolphp/comments/qeq7k/php_540_ships_with_82_failing_tests_in_the_suite/">el núcleo de PHP</a>, <a href="http://perlbuzz.com/2008/09/optimizing-for-the-developer-not-the-user-php-misses-again.html">ha debuggeado</a> el núcleo de PHP, interactuado con los desarrolladores del núcleo. Ni una sola historia ha sido un elogio.
+He escuchado una buena cantidad de historias sobre PHP y [sus desarrolladores](http://en.wikiquote.org/wiki/Rasmus_Lerdorf) de muchos lugares. Estas son de la gente que ha trabajado en [el núcleo de PHP](http://www.reddit.com/r/lolphp/comments/qeq7k/php_540_ships_with_82_failing_tests_in_the_suite/), [ha debuggeado](http://perlbuzz.com/2008/09/optimizing-for-the-developer-not-the-user-php-misses-again.html) el núcleo de PHP, interactuado con los desarrolladores del núcleo. Ni una sola historia ha sido un elogio.
 
 Entonces debo poner esto aquí, porque vale la pena repetirlo: PHP es una comunidad de amateurs. Muy poca gente diseñándolo, trabajando en él o escribiendo código en él parece saber lo que están haciendo. (Oh, querido lector, ¡_tú_ eres por supuesto una rara excepción!) Ellos que _sí_ logran tener una pista tienden a alejarse a otras plataformas, reduciendo la competencia promedio del todo. Este, aquí mismo, es el mayor problema con PHP: es absolutamente el ciego guiando a los ciegos.
 
@@ -664,9 +664,9 @@ Okay, de vuelta a los hechos.
 
 - `==` es inútil
 - No es transitivo.  `"foo" == TRUE`, y `"foo" == 0`... pero, por supuesto, `TRUE != 0`.
-- `==` convierte a números cuando es posible (`123 == "123foo"`... aunque `"123" != "123foo"`), lo que significa que convierte a punto flotante cuando es posible. Entonces, cadenas largas hexadecimales (como por ejemplo, digamos, hashes de passwords) pueden ocasionalmente <a href="http://phpsadness.com/sad/47">compararse a true cuando no lo son</a>. Ni JavaScript hace esto.
+- `==` convierte a números cuando es posible (`123 == "123foo"`... aunque `"123" != "123foo"`), lo que significa que convierte a punto flotante cuando es posible. Entonces, cadenas largas hexadecimales (como por ejemplo, digamos, hashes de passwords) pueden ocasionalmente [compararse a true cuando no lo son](http://phpsadness.com/sad/47). Ni JavaScript hace esto.
 - Por la misma razón, `"6" == " 6 "`, `"4.2" == "4.20"`, y `"133" == "0133"`. Pero nota que `133 != 0133` porque `0133` es octal. ¡_Pero_ `"0x10" == "16"` y `"1e3" == "1000"`!
-- `===` compara valores y tipo... excepto con objectos, ¡en donde `===` es solamente verdadero si ambos operandos son el mismo objeto! Para objetos `==` compara ambos valores (de cada atributo) y tipo, que es lo que `===` hace para cualquier otro tipo. <a href="http://developers.slashdot.org/comments.pl?sid=204433&amp;cid=16703529"> ¿Qué?</a>
+- `===` compara valores y tipo... excepto con objectos, ¡en donde `===` es solamente verdadero si ambos operandos son el mismo objeto! Para objetos `==` compara ambos valores (de cada atributo) y tipo, que es lo que `===` hace para cualquier otro tipo. [ ¿Qué?](http://developers.slashdot.org/comments.pl?sid=204433&amp;cid=16703529)
 
 - La comparación no es mucho mejor.
     - Ni siquiera es consistente: `NULL < -1`, y `NULL == 0`. El ordenamiento es por tanto no determinístico; depende del orden en el que los algoritmos de ordenación comparan los elementos.
@@ -699,7 +699,7 @@ Okay, de vuelta a los hechos.
 - Las variables globales necesitan una declaración `global` antes de ser usadas. Esta es una consecuencia natural de lo anterior, por lo que sería perfectamente razonable, pero las variables globales no se pueden siqueira _leer_ sin una declaración explícita -- PHP en su lugar silenciosamente creará una variable local con el mismo nombre. No estoy consciente de otro lenguaje con problemas de ámbitos similares.
 - No hay referencias. Lo que PHP llama referencias son en realidad alias; no hay nada que sea un paso atrás, como las referencias de Perl, y no hay identidad de pasaje-por-objeto como en Python.
 - El referenciamiento infecta una variable como ninguna otra cosa en el lenguaje. PHP es de tipado dinámico, por lo que las variables generalmente no tienen tipo... excepto las referencias, que adornan definiciones de funciones, sintaxis de las variables, y asignaciones. Una vez que una variable ha sido convertida en referencia (que puede pasar en cualquier lugar), está atorada como referencia. No hay una forma obvia de detectar esto y de-referenciarla requiere destruir la variable completamente.
-- Okay, mentí. Hay "<a href="http://www.php.net/manual/en/book.spl-types.php">Tipos SPL</a>" que también infectan a las variables: `$x = new SplBool(true); $x = "foo";` fallará. Es como un tipado estático.
+- Okay, mentí. Hay "[Tipos SPL](http://www.php.net/manual/en/book.spl-types.php)" que también infectan a las variables: `$x = new SplBool(true); $x = "foo";` fallará. Es como un tipado estático.
 - Una referencia puede ser hecha a una key que no existe en una variable no definida (que se convierte en un array). Usar un array no existente por lo general genera un aviso, pero este no.
 - Las constantes son definidas por una llamada a una función que toman una cadena; antes de eso, no existían. (Esto podría de hecho ser una copia del comportamiento de `use constant` de Perl.)
 - Los nombres de las variables son sensibles a mayúsculas y minúsculas. Las funciones y nombres de clases no lo son. Esto incluye nombres de métodos, que hace que camelCase sea una elección extraña para la nomenclatura.
@@ -715,14 +715,14 @@ Okay, de vuelta a los hechos.
 - No hay algo como funciones o clases anidadas o locales. Son sólo globales. Incluir un archivo pone sus variables en el ámbito de la función actual (y le da al archivo acceso a tus variables), pero pone las funciones y clases en el ámbito global.
 - Agregar a un array se hace con `$foo[] = $bar`.
 - `echo` es algo estilo instrucción, no una función.
-- `empty($var)` es tan extremadamente no-función que cualquier cosa excepto una variable, por ejemplo, `empty($var || $var2)`, es un error de parseo.  ¿Por qué en la Tierra tiene el parser que saber sobre <a href="http://phpsadness.com/sad/28">`empty`</a>?
+- `empty($var)` es tan extremadamente no-función que cualquier cosa excepto una variable, por ejemplo, `empty($var || $var2)`, es un error de parseo.  ¿Por qué en la Tierra tiene el parser que saber sobre [`empty`](http://phpsadness.com/sad/28)?
 - Hay sintaxis redundante para los bloques: `if (...): ... endif;`, etc.
 
 #### Manejo de errores
 
 - El único operador de PHP es `@` (de hecho, tomado prestado de DOS), que _silencia_ errores.
 - Los errores de PHP no proveen stack traces. Debes instalar un handler para que los genere. (Pero no puedes hacerlo para errores fatales -- ver abajo.)
-- Los errores de parseo de PHP generalmente sólo escupen el estado de parseo y nada más, haciendo una comilla olvidada <a href="http://phpsadness.com/sad/44">terrible para debuggear</a>.
+- Los errores de parseo de PHP generalmente sólo escupen el estado de parseo y nada más, haciendo una comilla olvidada [terrible para debuggear](http://phpsadness.com/sad/44).
 - El parser de PHP se refiere, por ejemplo, a `::` internamente como `T_PAAMAYIM_NEKUDOTAYIM`, y al operador `<<` como `T_SL`. Digo "internamente" pero igual que arriba, esto es lo que se le muestra al programador cuando `::` o `<<` aparecen en el lugar equivocado.
 - Mucho del manejo de errores es en la forma de imprimir una línea a un log en el servidor que nadie lee y seguir adelante.
 - `E_STRICT` está ahí, pero no parece prevenir mucho y no hay documentación sobre lo que en realidad hace.
@@ -753,14 +753,14 @@ Okay, de vuelta a los hechos.
     - De forma similar, las excepciones no desatan manejadores de errores instalados por `set_error_handler`.
     - En su lugar, hay un `set_exception_handler` separado que maneja excepciones no atrapadas, porque envolver al punto de entrada de tu programa en un bloque `try` es imposible en el modelo `mod_php`.
     - Los errores fatales (por ejemplo, `new ClassDoesntExist()`) no pueden ser atrapados por nada. _Muchas_ de las cosas inofensivas arrojan errores fatales, terminando tu programa forzosamente por razones cuestionables. Las funciones de cierre aún se ejecutarán, pero no pueden obtener un stack trace (corren al nivel más alto) y no pueden fácilmente determinar si el programa terminó por error o por haberse completado.
-- No hay una construcción `finally`, haciendo al código que envuelve otro código (poner manejador, correr el código, quitar el manejador; monkeypatch, correr un test, quitar el monkeypatch) tedioso y difícil de escribir. A pensar que la orientación a objectos y las excepciones fueron en su mayor parte copiadas de Java, esto <a href="https://bugs.php.net/bug.php?id=32100">es deliberado</a>, porque finally "no tiene mucho sentido en el contexto de PHP".  ¿Eh?
+- No hay una construcción `finally`, haciendo al código que envuelve otro código (poner manejador, correr el código, quitar el manejador; monkeypatch, correr un test, quitar el monkeypatch) tedioso y difícil de escribir. A pensar que la orientación a objectos y las excepciones fueron en su mayor parte copiadas de Java, esto [es deliberado](https://bugs.php.net/bug.php?id=32100), porque finally "no tiene mucho sentido en el contexto de PHP".  ¿Eh?
 
 #### Funciones
 
-- Las llamadas a funciones aparentemente son algo <a href="http://www.phpwtf.org/php-function-calls-have-quite-some-overhead">caras</a>.
-- Algunas funciones incorporadas interactúan con las funciones que devuelven referencias en, ehm, <a href="http://www.phpwtf.org/php-function-calls-returning-references">una manera extraña</a>.
+- Las llamadas a funciones aparentemente son algo [caras](http://www.phpwtf.org/php-function-calls-have-quite-some-overhead).
+- Algunas funciones incorporadas interactúan con las funciones que devuelven referencias en, ehm, [una manera extraña](http://www.phpwtf.org/php-function-calls-returning-references).
 - Como está mencionado en algún otro lado, muchas cosas que parecen funciones o se ven como que _deberían ser_ funciones, son de hecho construcciones del lenguaje, de forma que nada que trabaje con funciones trabajará con ellas.
-- Los argumentos de las funciones pueden tener "implicación de tipos", que es básicamente tipado estático. Pero no puedes requerir que un argumento sea un `int`, o `string`, u `object`, u otro tipo "del núcleo", incluso cuando cualquier función incorporada usa este tipo de tipado, probablemente porque `int` no es nada en PHP. (Ver arriba sobre `(int)`.) Tampoco puedes usar las <a href="http://www.php.net/manual/en/language.pseudo-types.php#language.types.mixed">decoraciones de pseudo-tipos</a> usada tanto en las funciones incorporadas: `mixed`, `number`, o `callback`. (`callable`está permitido desde PHP 5.4.)
+- Los argumentos de las funciones pueden tener "implicación de tipos", que es básicamente tipado estático. Pero no puedes requerir que un argumento sea un `int`, o `string`, u `object`, u otro tipo "del núcleo", incluso cuando cualquier función incorporada usa este tipo de tipado, probablemente porque `int` no es nada en PHP. (Ver arriba sobre `(int)`.) Tampoco puedes usar las [decoraciones de pseudo-tipos](http://www.php.net/manual/en/language.pseudo-types.php#language.types.mixed) usada tanto en las funciones incorporadas: `mixed`, `number`, o `callback`. (`callable`está permitido desde PHP 5.4.)
     - Como resultado, esto:`function foo(string $s) {}`<br />
     `foo("hello world");`produce el error:`PHP Catchable fatal error: argument 1 passed to foo() must be an instance of string, string given, called in...`
     - Puedes notar que el "implicado de tipo" dado no tiene que existir; no hay ninguna clase `string` en este programa. Si intentas usar `ReflectionParameter::getClass()` para examinar el implicado de tipos de forma dinámica, entonces negará que la clase no existe, haciendo imposible obtener el nombre de la clase.
@@ -770,7 +770,7 @@ Okay, de vuelta a los hechos.
 - Las clausuras requieren explícitamente nombrar cada variable sobre la que se cerrará.  ¿Por qué no puede el intérprete detectarlo solo? Como que destroza el propósito de la característica. (Okay, es porque usar una variable en algún punto, en cualquier punto, la crea a menos que se le diga explícitamente lo contrario.)
 - Las variables sobre las que se cierra la clausura son "pasadas" por la misma semántica que otros argumentos de función. Eso es, arrays, strings, etc., serán "pasados" a la clausura por valor. A menos que uses `&amp;`.
 - Ya que las variables sobre las que se cierra la clausura son efectivamente argumentos automáticamente pasados y no hay ámbitos anidados, una clausura no se puede referir a métodos privados, incluso si está definido dentro de una clase. ( ¿Posiblemente arreglado en 5.4? No está claro.)
-- No hay argumentos nombrados a las funciones. De hecho, <a href="http://www.php.net/~derick/meeting-notes.html#named-parameters">se rechazaron explícitamente</a> por los desarrolladores porque "ayuda a código más desprolijo".
+- No hay argumentos nombrados a las funciones. De hecho, [se rechazaron explícitamente](http://www.php.net/~derick/meeting-notes.html#named-parameters) por los desarrolladores porque "ayuda a código más desprolijo".
 - Los argumentos de función con valores por defecto pueden aparecer antes que los argumentos de función sin ellos, incluso aunque la documentación aclara que esto es raro e inútil. (Entonces,  ¿por qué permitirlo?)
 - Los argumentos extras a una función son ignorados (excepto con funciones incorporadas, que arrojan un error). Los argumentos faltantes se asumen nulos.
 - Las funciones "variadicas" requieren pelear con `func_num_args`, `func_get_arg` y `func_get_args`. No hay sintaxis para algo así.
@@ -778,7 +778,7 @@ Okay, de vuelta a los hechos.
 #### Orientación a Objetos (OO)
 
 - Las partes procedurales de PHP están diseñadas como C, pero la parte objeccional (jo jo) están diseñadas como Java. No puedo sobreenfatizar lo discordante que esto es. El sistema de clases está diseñado alrededor del lenguaje Java de _bajo-nivel_ que es naturalmente y deliberadamente más limitado que los contemporarios de PHP, y estoy perplejo.
-    - Todavía debo encontrar alguna función global que siquiera tenga una letra mayúscula en su nombre, pero aún así varias <a href="http://www.php.net/manual/en/class.reflectionfunction.php">clases importantes incorporadas</a> usan nombres de métodos camelCase y tienen métodos de acceso `getFoo` al estilo Java.
+    - Todavía debo encontrar alguna función global que siquiera tenga una letra mayúscula en su nombre, pero aún así varias [clases importantes incorporadas](http://www.php.net/manual/en/class.reflectionfunction.php) usan nombres de métodos camelCase y tienen métodos de acceso `getFoo` al estilo Java.
     - Perl, Python y Ruby, todos tienen algún concepto de acceso a "propiedad" vía código; PHP sólo tiene el torpe `__get` y sus amigos. (La documentación inexplicablemente se refiere a esos métodos especiales como "sobrecarga".)
     - Las clases tienen algo como la declaración de variables (`var` y `const`) para atributos de clase, mientras que la parte procedural del lenguaje no.
     - A pesar de la pesada influencia de C++/Java, donde los objetos son medianamente opacos, PHP generalmente trata a los objetos como hashes bonitos -- por ejemplo, el comportamiento por defecto de `foreach ($obj as $key => $value)` es para iterar sobre cada atributo accesible del objeto.
@@ -809,7 +809,7 @@ Okay, de vuelta a los hechos.
 
 ### Librería estándar
 
-Perl es "algo de construcción necesaria". Python es "baterías incluidas". PHP es "de todo y más, pero es de Canadá y <a href="http://mcguirehimself.com/?p=4146">ambas llaves dicen C</a>".
+Perl es "algo de construcción necesaria". Python es "baterías incluidas". PHP es "de todo y más, pero es de Canadá y [ambas llaves dicen C](http://mcguirehimself.com/?p=4146)".
 
 #### General
 
@@ -864,7 +864,7 @@ No hay ninguno. Si una función tiene que hacer dos cosas ligeramente distintas,
 - `parse_str` parsea un query string, con ninguna indicación en su nombre. También actúa igual que `register_globals` y arroja el query en tu ámbito local como variables, a menos que le pases un array para que popule. (No devuelve nada, por supuesto.)
 - `explode` se rehusa a separar cadenas con un limitador vacío o faltante. Todas las otras implementaciones de separación de cadenas hace algo útil en este caso; PHP en cambio tiene una función completamente separada, confusamente llamada `str_split` y descripta como "convierte una cadena a un array".
 - Para formatear fechas, está `strftime`, que actúa como la API de C y respeta el lugar. También está date, que tiene una sintaxis completamente distinta y sólo funciona en inglés.
-- <a href="http://php.net/manual/en/function.gzgetss.php">`gzgetss`</a> -- Obtiene una línea desde un puntero a un archivo gz y remueve las etiquetas HTML." Me estoy muriendo por conocer la serie de circunstancias que llevaron a la concepción de esta función.
+- [`gzgetss`](http://php.net/manual/en/function.gzgetss.php) -- Obtiene una línea desde un puntero a un archivo gz y remueve las etiquetas HTML." Me estoy muriendo por conocer la serie de circunstancias que llevaron a la concepción de esta función.
 - `mbstring`
     - Es todo sobre "multi-byte", cuando el problema son los conjuntos de caracteres.
     - Aún así opera en cadenas comunes. Tiene un conjunto de caracteres "por defecto" global. Algunas funciones permiten un conjunto específico, pero luego aplica a todos los argumentos y el valor de retorno.
@@ -875,7 +875,7 @@ No hay ninguno. Si una función tiene que hacer dos cosas ligeramente distintas,
 - Hay, en general, muchas funciones que bordean la línea entre texto y variables. `compact` y `extract` son sólo la punta del iceberg.
 - Hay muchas formas de ser dinámico en PHP, y en una primera mirada no hay una diferencia obvia o beneficios orelativos. `classkit` puede modificar clases definidas por el usuario; `runkit` lo suplanta y puede modificar cualquier cosa definida por el usuario; las clases `Reflection*` pueden reflexionar en la mayor parte del lenguaje; hay una buena cantidad de funciones individuales para reportar propiedades de funciones y clases.  ¿Son estos subsistemas independientes, relacionados, redundantes?
 - `get_class($obj)` devuelve el nombre de la clase del objeto, `get_class()` devuelve el nombre de la clase de la función que lo llama. Dejando de lado que esta única función hace dos cosas radicalmente distintas: `get_class(null)` funciona como el segundo. Por tanto no se lo puede confiar en un valor arbitrario. ¡Sorpresa!
-- Las clases `stream_*` permiten implementar objetos de flujos de datos personalizados para usar con `fopen` y otros elementos inherentes archivezcos. "tell" no puede ser implementado por <a href="https://bugs.php.net/bug.php?id=30157">razones internas</a>. (También hay <a href="http://www.php.net/manual/en/book.stream.php">MUCHAS</a> funciones involucradas con este sistema.)
+- Las clases `stream_*` permiten implementar objetos de flujos de datos personalizados para usar con `fopen` y otros elementos inherentes archivezcos. "tell" no puede ser implementado por [razones internas](https://bugs.php.net/bug.php?id=30157). (También hay [MUCHAS](http://www.php.net/manual/en/book.stream.php) funciones involucradas con este sistema.)
 - `register_tick_function` aceptará un objeto clausura. `unregister_tick_function` no; en lugar de eso arroja un error quejándose de que la clausura no puede ser convertida a cadena.
 - `php_uname` te cuenta sobre el sistema operativo actual. A menos que PHP no pueda decir en qué está corriendo, en cuyo caso te cuenta sobre el sistema operativo en el que fue _compilado_. No te avisará si esto ocurrió.
 - `fork` y `exec` no son propios del lenguaje. Vienen con la extensión pcntl, pero no está incluida por defecto. `popen` no provee un pid.
@@ -893,11 +893,11 @@ Los programas no son más que grandes máquinas que mastican datos y escupen má
 
 #### Números
 
-- Los enteros tienen signo y tienen 32 bits en plataformas de 32 bits. A diferencia de todos los contemporarios de PHP, no hay promoción automática a bigint. Por lo que puedes terminar con sorpresas como tamaños de archivos negativos, y tu matemática puede funcionar diferentemente basada en la _arquitectura del CPU_. Tu única opción para enteros más grandes es usar las funciones wrapper GMP o BC. (Los desarrolladores han propuesto <a href="http://www.php.net/~derick/meeting-notes.html#add-a-64bit-integer">añadir un nuevo tipo, separado, de 64 bits</a>. Esto es locura.)
+- Los enteros tienen signo y tienen 32 bits en plataformas de 32 bits. A diferencia de todos los contemporarios de PHP, no hay promoción automática a bigint. Por lo que puedes terminar con sorpresas como tamaños de archivos negativos, y tu matemática puede funcionar diferentemente basada en la _arquitectura del CPU_. Tu única opción para enteros más grandes es usar las funciones wrapper GMP o BC. (Los desarrolladores han propuesto [añadir un nuevo tipo, separado, de 64 bits](http://www.php.net/~derick/meeting-notes.html#add-a-64bit-integer). Esto es locura.)
 - PHP soporta sintaxis octal con un `0` inicial, por lo que, por ejemplo, `012` será el número diez. Sin embargo, `08` se convierte en el número cero. El `8` (o `9`) y cualquier dígito posterior desaparecen. `01c` es un error de sintaxis.
 - `0x0+2` produce 4. El parser considera el `2` como parte simultánea del literal hexadecimal _y_ como un literal decimal separado, tratando esto como `0x002 + 2`. `0x0+0x2` muestra el mimo problema. Extrañamente, `0x0 +2` es todavía 4, pero `0x0+ 2` es correctamente 2. (Esto se arregló en PHP 5.4. Pero también se volvió a romper en PHP 5.4 con el nuevo prefijo literal `0b`: `0b0+1` produce 2.)
 - `pi` es una función. O hay una constante, `M_PI`.
-- No hay <a href="https://bugs.php.net/bug.php?id=13756">operador de exponenciación</a>, sólo la función `pow`.
+- No hay [operador de exponenciación](https://bugs.php.net/bug.php?id=13756), sólo la función `pow`.
 
 #### Texto
 
@@ -962,9 +962,9 @@ Oh...
 - Un único archivo `php.ini` compartido controla partes _masivas_ de la funcionalidad de PHP e introduce reglas complejas respecto de qué se antepone a qué y cuándo. El software PHP que espera ser instalado en máquinas arbitrarias tiene que reescribir configuraciones de todos modos para normalizar su entorno, lo que derrota en mayor parte el uso de un mecanismo como php.ini de todos modos.
     - PHP busca a `php.ini` en varios lugares, por lo que puede (o puede que no) ser posible que se anteponga al de tu host. Sólo _un_ archivo de esos será parseado, sin embargo, por lo que no puedes sobreescribir un par de configuraciones y terminar ahí.
 - PHP básicamente corre como CGI. Cada vez que una página es alcanzada, PHP recompila toda la cosa antes de ejecutarse. Incluso los frameworks de juguete de servidores de Python no actúan así.<br />
-Esto ha llevado a un mercado completo de "aceleradores de PHP" que sólo compilan una vez, acelerando PHP hasta el nivel de cualquier otro lenguaje. Zend, la compañía detrás de PHP, ha hecho esto parte de su <a href="http://www.zend.com/products/server/">modelo de negocios</a>.
+Esto ha llevado a un mercado completo de "aceleradores de PHP" que sólo compilan una vez, acelerando PHP hasta el nivel de cualquier otro lenguaje. Zend, la compañía detrás de PHP, ha hecho esto parte de su [modelo de negocios](http://www.zend.com/products/server/).
 - Por un tiempo algo largo, los errores PHP iban al cliente por defecto -- supongo que para ayudar durante el desarrollo. No creo que esto siga siendo verdad, pero todavía veo el error de mysql siendo escupido al principio de alguna página.
-- PHP está lleno de extraños "huevos de pascua", como <a href="http://phpsadness.com/sad/11">producir el logo de PHP con el argumento correcto</a>. No sólo es esto completamente irrelevante a construir _tu_ aplicación, sino que permite a cualquiera detectar si estás usando PHP (y quizá incluso estimar aproximadamente la versión), a pesar de cuántas configuraciones `mod_rewrite`, FastCGI, proxy inverso o `Server:` tengas.
+- PHP está lleno de extraños "huevos de pascua", como [producir el logo de PHP con el argumento correcto](http://phpsadness.com/sad/11). No sólo es esto completamente irrelevante a construir _tu_ aplicación, sino que permite a cualquiera detectar si estás usando PHP (y quizá incluso estimar aproximadamente la versión), a pesar de cuántas configuraciones `mod_rewrite`, FastCGI, proxy inverso o `Server:` tengas.
 - Las líneas en blanco antes o después de los tags `<?php ... ?>`, incluso en librerías, cuentan como texto literal y es interpolado en la respuesta (o causa errores de "cabeceras ya enviadas"). Tus opciones son o estrictamente evitar líneas extras al final de cada archivo (el siguiente luego de `?>` no cuenta), o simplemente evitar el token de cerrado `?>`.
 
 #### Implantanción
@@ -988,7 +988,7 @@ El problema aquí no es "usar el nombre de archivo original" o "no validar mejor
 Considero todas estas ser de distinto nivel de crítico para construir una aplicación web. Parece razonable que PHP, con su mayor punto de venta siendo que es un "lenguaje web", debería tener algunas de ellas.
 
 - No hay sistema de templates. Está PHP en sí mismo, pero nada que funcione como un gran interpolador más que un programa.
-- No hay filtros de XSS. No, "recuerda usar `htmlspecialchars`" no es un filtro XSS. <a href="https://pypi.python.org/pypi/MarkupSafe">Esto es</a>.
+- No hay filtros de XSS. No, "recuerda usar `htmlspecialchars`" no es un filtro XSS. [Esto es](https://pypi.python.org/pypi/MarkupSafe).
 - No hay protección CSRF. Te toca hacerlo a tí.
 - No hay API estándar de base de datos. Cosas como PDO tienen que envolver cada llamada individual a la API para abstraer las diferencias.
 - No hay ruteo. Tu website se ve exactamente igual que tu sistema de archivos. Muchos desarrolladores han sido engañados en pensar que `mod_rewrite` (y `.htaccess` en general) es un sustituto aceptable.
@@ -1005,28 +1005,28 @@ La reputación de seguridad pobre de PHP es en mayor parte porque toda datos arb
 
 Haciendo esto peor está el grito común por "sanitizar tus entradas". Esto está completamente _equivocado_; no puedes mover una varita mágica para hacer que un montón de datos estén inherentemente "limpios". Lo que necesitas es hablar el lenguaje: usar placeholders con SQL, usar listas de argumentos cuando se generan procesos, etc.
 
-- PHP completamente _alienta_ el "sanitizado": hay una <a href="http://www.php.net/manual/en/book.filter.php">extensión de filtrado de datos</a> entera para hacer eso.
+- PHP completamente _alienta_ el "sanitizado": hay una [extensión de filtrado de datos](http://www.php.net/manual/en/book.filter.php) entera para hacer eso.
 - Todos los `addslashes`, `stripslashes` y otros sinsentidos relacionados-a-slashes son distracciones que no ayudan en nada.
 - No hay, hasta lo que puedo decir, una forma segura de instanciar un proceso. SóLO puedes ejecutarlo a través de una cadena por la línea de comandos. Tus opciones son escapar como loco y esperar que la línea de comandos por defecto use el escapado correcto, o `pcntl_fork` y `pcntl_exec` _manualmente_.
 - Ambos `escapeshellcmd` y `escapeshellarg` existen con descripciones vagamente similares. Noten que en Windows, `escapeshellarg` no funciona (porque asume semántica de la línea de comandos Bourne) y `escapeshellcmd` sólo reemplaza un montón de puntuación con espacios porque nadie puede entender cómo funciona el escapado de comandos de Windows (que puede silenciosamente romper todo lo que estés intentando hacer).
 - Los bindeos originales incorporados para MySQL, todavía ampliamente usados, no tienen forma de crear instrucciones preparadas.
 
-Al día de hoy, <a href="http://www.php.net/manual/en/security.database.sql-injection.php">la documentación de PHP sobre inyección SQL</a> recomienda prácticas locas como checkeo de tipos, usando `sprintf` y `is_numeric`, manualmente usando `mysql_real_escape_string` en todos lados, o manualmente usar `addslashes` en todos lados (que ¡"puede ser útil"!). No hay mención de PDO o parametrización, excepto en los comentarios de los usuarios. Me quejé de este hecho específicamente a _un desarrollador de PHP_ al menos hace dos años, estaba alarmado, y la página nunca cambió.
+Al día de hoy, [la documentación de PHP sobre inyección SQL](http://www.php.net/manual/en/security.database.sql-injection.php) recomienda prácticas locas como checkeo de tipos, usando `sprintf` y `is_numeric`, manualmente usando `mysql_real_escape_string` en todos lados, o manualmente usar `addslashes` en todos lados (que ¡"puede ser útil"!). No hay mención de PDO o parametrización, excepto en los comentarios de los usuarios. Me quejé de este hecho específicamente a _un desarrollador de PHP_ al menos hace dos años, estaba alarmado, y la página nunca cambió.
 
 #### Inseguro-por-defecto
 
 - `register_globals`. Está desactivado por defecto desde hace un tiempo ya, y se fue en 5.4. No me importa. Es una _verg&uuml;enza_.
 - `include` aceptando URLs HTTP. Igual.
 - Comillas mágicas. Tan cerca a seguro-por-defecto y aún así tan lejos de comprender el concepto totalmente. E, igual.
-- Puedes, digamos, <a href="http://www.idontplaydarts.com/2011/02/scanning-the-internal-network-using-simplexml/">escanear una red</a> usando el soporte XML de PHP, y abusando su soporte ubicuo de nombres-de-archivos-como-URLs. Sólo `libxml_disable_entity_loader()` puede arreglar esto, y el problema sólo está mencionado en los comentarios del manual.
+- Puedes, digamos, [escanear una red](http://www.idontplaydarts.com/2011/02/scanning-the-internal-network-using-simplexml/) usando el soporte XML de PHP, y abusando su soporte ubicuo de nombres-de-archivos-como-URLs. Sólo `libxml_disable_entity_loader()` puede arreglar esto, y el problema sólo está mencionado en los comentarios del manual.
 
 #### Núcleo
 
 El intérprete de PHP mismo ha tenido algunos problemas de seguridad _fascinantes__._
 
-- En 2007 el intérprete tuvo una vulnerabilidad de desbordamiento de enteros. El arreglo comenzó con if (size > INT_MAX) return NULL; y se fue <a href="http://use.perl.org/use.perl.org/_Aristotle/journal/33448.html">en picada desde allí</a>. (Para aquellos que no estén cómodos con el C: `INT_MAX` es el mayor entero que entrará en una variable, nunca. Espero que puedan darse cuenta del resto desde ahí.)
-- Más recientemente, PHP 5.3.7 se las arregló para incluir una función crypt() que permitiría, en efecto, a <a href="https://bugs.php.net/bug.php?id=55439">cualquiera loggearse sin un password</a>.
-- El servidor de desarrollo de PHP 5.4 es vulnerable a una denegación de servicio, porque toma el header `Content-Length` (que cualquiera puede setear a cualquier cosa) y trata de alocar eso en memoria. <a href="http://www.exploit-db.com/exploits/18665/">Esto es una mala idea</a>.
+- En 2007 el intérprete tuvo una vulnerabilidad de desbordamiento de enteros. El arreglo comenzó con if (size > INT_MAX) return NULL; y se fue [en picada desde allí](http://use.perl.org/use.perl.org/_Aristotle/journal/33448.html). (Para aquellos que no estén cómodos con el C: `INT_MAX` es el mayor entero que entrará en una variable, nunca. Espero que puedan darse cuenta del resto desde ahí.)
+- Más recientemente, PHP 5.3.7 se las arregló para incluir una función crypt() que permitiría, en efecto, a [cualquiera loggearse sin un password](https://bugs.php.net/bug.php?id=55439).
+- El servidor de desarrollo de PHP 5.4 es vulnerable a una denegación de servicio, porque toma el header `Content-Length` (que cualquiera puede setear a cualquier cosa) y trata de alocar eso en memoria. [Esto es una mala idea](http://www.exploit-db.com/exploits/18665/).
 
 Podría seguir desenterrando más, pero el punto no es que hay X exploits -- el software siempre tiene bugs, pasa, no importa. La _naturaleza_ de estos es horripilante. Y no me puse a buscar estos; sólo aparecieron en mi puerta en los últimos meses.
 
@@ -1036,11 +1036,11 @@ Podría seguir desenterrando más, pero el punto no es que hay X exploits -- el 
 
 Algún comentarista ha correctamente señalado que no tengo una conclusión. Y, bueno, no tengo una conclusión. Si llegaste hasta aquí, asumo que estabas de acuerdo conmigo antes de haber comenzado. :)
 
-Si sólo sabes PHP y estás curioso de aprender algo más, dale un intento al <a href="http://docs.python.org/2/tutorial/">tutorial de Python</a> y trata con <a href="http://flask.pocoo.org/">Flask</a> para la parte web. (No soy un fanático de su lenguaje de templates, pero cumple con su trabajo.) Desarma las piezas de tu aplicación, pero son aún las mismas piezas y deberían ser lo suficientemente familiares. Podría escribir un post real sobre esto más tarde; una intrducción remolino a un lenguaje entero y tecnologías web no pertenece aquí abajo.
+Si sólo sabes PHP y estás curioso de aprender algo más, dale un intento al [tutorial de Python](http://docs.python.org/2/tutorial/) y trata con [Flask](http://flask.pocoo.org/) para la parte web. (No soy un fanático de su lenguaje de templates, pero cumple con su trabajo.) Desarma las piezas de tu aplicación, pero son aún las mismas piezas y deberían ser lo suficientemente familiares. Podría escribir un post real sobre esto más tarde; una intrducción remolino a un lenguaje entero y tecnologías web no pertenece aquí abajo.
 
-Más tarde o para projectos más grandes podrías querer <a href="http://www.pylonsproject.org/">Pyramid</a>, que es nivel-medio, o <a href="https://www.djangoproject.com/">Django</a>, que es una monstruosidad compleja que trabaja muy bien para construir sitios como el de Django.
+Más tarde o para projectos más grandes podrías querer [Pyramid](http://www.pylonsproject.org/), que es nivel-medio, o [Django](https://www.djangoproject.com/), que es una monstruosidad compleja que trabaja muy bien para construir sitios como el de Django.
 
-Si no eres un desarrollador para nada pero aún leiste esto por alguna razón, no estaré feliz hasta que cualquiera en el planeta haya pasado por <a href="http://learnpythonthehardway.org/">Aprender Python de la Manera Difícil</a>, así que ve a hacer eso.
+Si no eres un desarrollador para nada pero aún leiste esto por alguna razón, no estaré feliz hasta que cualquiera en el planeta haya pasado por [Aprender Python de la Manera Difícil](http://learnpythonthehardway.org/), así que ve a hacer eso.
 
 Está también Ruby on Rails y algunos competidores que no he usado nunca, y Perl sigue vivo y coleando con Catalyst. Lee cosas, aprende cosas, construye cosas, vuélvete loco.
 
@@ -1048,14 +1048,14 @@ Está también Ruby on Rails y algunos competidores que no he usado nunca, y Per
 
 Gracias a los siguientes por la inspiración:
 
-- <a href="http://alokmenghrajani.github.io/wtf/php.html">PHP Turtles</a>
-- <a href="http://phpsadness.com/">PHP Sadness</a>
-- <a href="http://www.phpwtf.org/">PHP WTF</a>
-- <a href="https://wiki.theory.org/YourLanguageSucks#PHP_sucks_because%3A">YourLanguageSucks</a>
-- <a href="http://tnx.nl/php.html">PHP in contrast to Perl</a>
-- <a href="http://two-pi-r.livejournal.com/622760.html">La densa, furiosa e inspiracional bronca de Pi</a>
-- <a href="http://tracks.ranea.org/post/13908062333/php-is-not-an-acceptable-cobol">PHP is not an acceptable COBOL</a>
-- <a href="http://www.php.net/manual/en/index.php">La documentación PHP</a>
+- [PHP Turtles](http://alokmenghrajani.github.io/wtf/php.html)
+- [PHP Sadness](http://phpsadness.com/)
+- [PHP WTF](http://www.phpwtf.org/)
+- [YourLanguageSucks](https://wiki.theory.org/YourLanguageSucks#PHP_sucks_because%3A)
+- [PHP in contrast to Perl](http://tnx.nl/php.html)
+- [La densa, furiosa e inspiracional bronca de Pi](http://two-pi-r.livejournal.com/622760.html)
+- [PHP is not an acceptable COBOL](http://tracks.ranea.org/post/13908062333/php-is-not-an-acceptable-cobol)
+- [La documentación PHP](http://www.php.net/manual/en/index.php)
 - un montón de fanáticos y contra-fanáticos PHP
 - y, por supuesto, Rasmus Lerdorf por su salvaje mala interpretación de la mayoría de Perl
 

@@ -50,9 +50,9 @@ Configuré la integración de mi repositorio de git con Heroku para que se actua
 
 Seguimos juntando estándares, esta vez con el `Procfile` que determina la forma en la que se va a ejecutar la aplicación, y que me sorprende que una aplicación que se detecta que es de node (como lo indica heroku en sus documentos) y que se detecta que es una aplicación web (como lo indica heroku en sus documentos) no levante un servidor web de Node. Hay que hacerlo a mano.
 
-Tras hacerlo como lo dicen en esta guía (<a href="http://www.sitepoint.com/deploying-yeomanangular-app-heroku/">Deploying a Yeoman/Angular app to Heroku</a>), me entero que uno de los pasos requeridos para poder usar los recursos minimizados es quitar de `.gitignore` el directorio `/dist`. Esto me parece una pésima práctica, y en búsqueda de evitarla, recurrí a yeoman generator-heroku.
+Tras hacerlo como lo dicen en esta guía ([Deploying a Yeoman/Angular app to Heroku](http://www.sitepoint.com/deploying-yeomanangular-app-heroku/)), me entero que uno de los pasos requeridos para poder usar los recursos minimizados es quitar de `.gitignore` el directorio `/dist`. Esto me parece una pésima práctica, y en búsqueda de evitarla, recurrí a yeoman generator-heroku.
 
-Lo instalé y comenzando a correrlo me preguntó si quería un repositorio git independiente para el directorio `dist`. Esto me produjo demasiada extrañeza e indagué sobre lo que el código hace. Logré encontrarlo sin mucho problema, y lo que encontré fue <a href="https://github.com/passy/generator-heroku/blob/master/app/index.js#L88">lo siguiente</a>: si mi respuesta hubiera sido "sí", yeoman heroku generaba un repositorio git independiente para el directorio de distribución, commiteaba todos sus contenidos y generaba la aplicación de heroku directamente desde este repositorio y no desde el directorio principal. Esta parece una solución interesante, pero tiene la desventaja de requerir las herramientas de heroku en la máquina en donde se ejecutan, lo que quiere decir que será difícil integrar en Heroku. Aún así, parece ser la opción interesante.
+Lo instalé y comenzando a correrlo me preguntó si quería un repositorio git independiente para el directorio `dist`. Esto me produjo demasiada extrañeza e indagué sobre lo que el código hace. Logré encontrarlo sin mucho problema, y lo que encontré fue [lo siguiente](https://github.com/passy/generator-heroku/blob/master/app/index.js#L88): si mi respuesta hubiera sido "sí", yeoman heroku generaba un repositorio git independiente para el directorio de distribución, commiteaba todos sus contenidos y generaba la aplicación de heroku directamente desde este repositorio y no desde el directorio principal. Esta parece una solución interesante, pero tiene la desventaja de requerir las herramientas de heroku en la máquina en donde se ejecutan, lo que quiere decir que será difícil integrar en Heroku. Aún así, parece ser la opción interesante.
 
 Si mi respuesta fuera "no", yeoman heroku se encarga de quitar `/dist` de mi `.gitignore`. ¡No! ¡Eso no resuelve mi problema!  ¿Imaginan a cada commit, cada pull request, lleno de archivos compilados y minimizados?  ¿Imaginan repositorios desincronizados en donde el código fuente no se corresponda con la versión minimizada sólo porque alguien olvidó correr `grunt:build` (y claro, porque nadie puede comparar a simple vista que esos archivos no hayan cambiado). Terrible.
 
@@ -76,7 +76,7 @@ Intenté lo más posible hacer que el proceso de deployment y compilación ocurr
 
 Finalmente logré que todo funcionara de la forma esperada, pero no todo quedó totalmente "limpio". Aún así, creo que llegué a una solución mejor que la de incluir "dist" en nuestro repositorio. Voy a explicar la forma en la que funciona el deploy, y espero comentarios y sugerencias de formas en la que podría mejorarse.
 
-El resultado final de los cambios que hacen esto posible, como ejemplo para otros proyectos, <a href="https://github.com/AlphaGit/what-now/pull/15/files">puede verse en el pull request de Heroku deployment</a>.
+El resultado final de los cambios que hacen esto posible, como ejemplo para otros proyectos, [puede verse en el pull request de Heroku deployment](https://github.com/AlphaGit/what-now/pull/15/files).
 
 ![]({{ site.baseurl }}/assets/What-now-Heroku-deployment.png)
 
@@ -149,7 +149,7 @@ Finalmente, podemos hacer el commit de nuestro agregado de la carpeta, y ya lo t
 
 ### Travis: deploy
 
-El deploy de Travis es bastante simple y puede configurarse siguiendo <a href="http://docs.travis-ci.com/user/deployment/heroku/">la documentación que ellos proveen para Heroku</a>: sólo tenemos que aclarar cuál es nuestra aplicación, nuestra clave de API, el proveedor (heroku), la rama de la cual hacer deploy, la estrategia (anvil) y quizá algún que otro comando a ejecutar luego de instalar la aplicación.
+El deploy de Travis es bastante simple y puede configurarse siguiendo [la documentación que ellos proveen para Heroku](http://docs.travis-ci.com/user/deployment/heroku/): sólo tenemos que aclarar cuál es nuestra aplicación, nuestra clave de API, el proveedor (heroku), la rama de la cual hacer deploy, la estrategia (anvil) y quizá algún que otro comando a ejecutar luego de instalar la aplicación.
 
 ### Heroku: npm install
 
@@ -161,4 +161,4 @@ Por úlimo, Heroku utilizará nuestras definiciones en Procfile para identificar
 
 ## Conclusión
 
-No sólo descubrí una buena forma de lograr estos deployments, sino que además ya tengo feedback instantáneo de los estados de los builds y los pull requests, los deployments automatizados, ¡y la aplicación online! Se puede ver en <a href="http://what-now.herokuapp.com/">http://what-now.heroku.com</a>.
+No sólo descubrí una buena forma de lograr estos deployments, sino que además ya tengo feedback instantáneo de los estados de los builds y los pull requests, los deployments automatizados, ¡y la aplicación online! Se puede ver en [http://what-now.heroku.com](http://what-now.herokuapp.com/).

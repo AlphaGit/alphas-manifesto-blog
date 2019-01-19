@@ -21,12 +21,12 @@ tags: []
 comments: []
 ---
 
-Arranquemos primero por el lado de Javascript, para lo cual tenemos una pequeña aplicación llamada <a href="http://0xcc.net/jsescape/">Text Escaping and Unescaping in Javascript</a> (del cual una extraña traducción podría ser "_Texto en Javascript que escapa y regresa._").
+Arranquemos primero por el lado de Javascript, para lo cual tenemos una pequeña aplicación llamada [Text Escaping and Unescaping in Javascript](http://0xcc.net/jsescape/) (del cual una extraña traducción podría ser "_Texto en Javascript que escapa y regresa._").
 
-Una segunda historia relacionada a Javascript es una noticia llamada <a href="http://www.fayerwayer.com/2009/07/una-simple-linea-de-javascript-desecho-una-venta-millonaria/">Una simple linea de Javascript desechó una venta millonaria</a>. De todos modos, considero que el titular es un poco tendencioso, ya que no era una sola línea, sino que, de no estar esa línea, bastantes otras cosas ya la habrían desechado.
+Una segunda historia relacionada a Javascript es una noticia llamada [Una simple linea de Javascript desechó una venta millonaria](http://www.fayerwayer.com/2009/07/una-simple-linea-de-javascript-desecho-una-venta-millonaria/). De todos modos, considero que el titular es un poco tendencioso, ya que no era una sola línea, sino que, de no estar esa línea, bastantes otras cosas ya la habrían desechado.
 
-Y ahora divirtiéndonos un poco más con el texto les traigo <a href="http://streetpc.free.fr/text/">Text Utilities</a>, que es, básicamente, una colección de utilidades misceláneas para trabajar con texto, todo en una simple página.
+Y ahora divirtiéndonos un poco más con el texto les traigo [Text Utilities](http://streetpc.free.fr/text/), que es, básicamente, una colección de utilidades misceláneas para trabajar con texto, todo en una simple página.
 
-Y por último, para los programadores: <a href="http://beerpla.net/2009/06/21/hidden-features-of-perl-php-javascript-c-c-c-java-ruby-python-and-others-collection-of-incredibly-useful-lists/">Hidden Features of Perl, PHP, Javascript, C, C++, C#, Java, Ruby, Python, And Others [Collection of Incredibly Useful Lists]</a>... el título lo dice todo.
+Y por último, para los programadores: [Hidden Features of Perl, PHP, Javascript, C, C++, C#, Java, Ruby, Python, And Others [Collection of Incredibly Useful Lists]](http://beerpla.net/2009/06/21/hidden-features-of-perl-php-javascript-c-c-c-java-ruby-python-and-others-collection-of-incredibly-useful-lists/)... el título lo dice todo.
 
 _Soy un zorrinito útil._

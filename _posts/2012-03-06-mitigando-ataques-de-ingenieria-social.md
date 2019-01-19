@@ -27,7 +27,7 @@ comments: []
 Top 5 de acciones para prevenirse
 
 
-Desde el mes pasado estoy esperando a que <a href="http://www.social-engineer.org/">Social-Engineer.org</a> deje salir a la luz el newsletter que enviaron sobre tips de reducción de riesgo ante ataques de ingeniería social. Este newsletter, específicamente el número 29, se titula <a href="http://www.social-engineer.org/newsletter/Social-Engineer.OrgNewsletterVol.03Iss.29.htm">The Top 5 Social Engineering Mitigation Tips</a>.
+Desde el mes pasado estoy esperando a que [Social-Engineer.org](http://www.social-engineer.org/) deje salir a la luz el newsletter que enviaron sobre tips de reducción de riesgo ante ataques de ingeniería social. Este newsletter, específicamente el número 29, se titula [The Top 5 Social Engineering Mitigation Tips](http://www.social-engineer.org/newsletter/Social-Engineer.OrgNewsletterVol.03Iss.29.htm).
 
 El newsletter es un poco más descriptivo que sólo enumerar cinco items, cuenta por qué son importantes y qué cosas podrían ocurrir si es que no se tuvieran en cuenta. Por alguna razón el formato se ve un poco roto y se veía mejor en el email, pero aún así es legible y útil.
 

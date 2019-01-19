@@ -72,7 +72,7 @@ Una vez hecha la obra, vale tanto como su material, porque ya no hay nada más q
 Quiénes exigen que el copyright se pague caen en una de las siguientes categorías:
 
 - **Parásitos**: son los que quieren trabajar una sola vez, hacerse famosos y vivir de los que eso les de. Si de verdad quisiéramos fomentar la cultura, alguien talentoso debería trabajar más, no menos. Sin discriminar, todos deberían trabajar para pagar sus cuentas. (O nadie... pero esa es otra historia sobre la que no voy a hablar ahora.)
-- **Narcisistas**: exigen reconocimiento. (Yo caigo en esta, pero <a href="http://creativecommons.org/">Creative Commons</a> me da lo mejor de los dos mundos.)
+- **Narcisistas**: exigen reconocimiento. (Yo caigo en esta, pero [Creative Commons](http://creativecommons.org/) me da lo mejor de los dos mundos.)
 - **Multimediales**: (esta es la más interesante.) Estas son las empresas que consumen a los artistas y viven de ello. Por supuesto, ellos fabrican, distribuyen, venden, publicitan, etc. Estoy de acuerdo con que ese trabajo se pague... Pero no más que lo que ese trabajo vale. El copyright no tiene nada que ver acá.
 
 La discusión sobre cuánto es lo justo para cada empresa es otra discusión extensa, y creo que abarca más de lo que puedo opinar acá. Pero no, la propiedad intelectual no tiene cabida ahí, solo el trabajo realizado.

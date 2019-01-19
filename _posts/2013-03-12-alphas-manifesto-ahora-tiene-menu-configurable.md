@@ -69,7 +69,7 @@ Cabe aclarar que por la forma del menú actual, no se permite una representació
 
 Si sos un desarrollador de Wordpress o estás pensando en hacer un theme, esto puede ser muy valioso para vos, especialmente si tienes necesidades particulares de controlar el HTML generado para los items. (Y especialmente dado que parece no haber mucha documentación de cómo lograr esto.)
 
-Según explica el <a href="http://codex.wordpress.org/Theme_Development#Template_File_Checklist">Template File Checklist</a> de Wordpress Theme Development, la navegación debe implementarse a través de la función <a href="http://codex.wordpress.org/Function_Reference/wp_nav_menu">`wp_nav_menu()`</a>. La utilización de dicha función es bastante simple si estamos en las siguientes situaciones:
+Según explica el [Template File Checklist](http://codex.wordpress.org/Theme_Development#Template_File_Checklist) de Wordpress Theme Development, la navegación debe implementarse a través de la función [`wp_nav_menu()`](http://codex.wordpress.org/Function_Reference/wp_nav_menu). La utilización de dicha función es bastante simple si estamos en las siguientes situaciones:
 
 - Generar el menú con listas sin ordenar es suficiente para nosotros (`ul > li`)
 - El soporte a la anidación se hará también con listas sin ordenar (`ul > li > ul > li`)
@@ -77,7 +77,7 @@ Según explica el <a href="http://codex.wordpress.org/Theme_Development#Template
 - Queremos agregar atributos propios a la lista (`ul`)
 - Queremos que la lista se encuentre contenida en algún otro elemento del DOM
 
-Todo lo anterior se puede lograr con distintos valores de los parámetros `container`, `menu_class`, `menu_id`, e `items_wrap`. Notesé que no **existe forma de manipular el output de cada item de la lista**, al menos no entre los parámetros. Para estos casos es en donde Wordpress recomienda utilizar un _walker_, que es una herencia de la clase <a href="http://phpdoc.wordpress.org/trunk/WordPress/Nav_Menus/Walker_Nav_Menu.html">`Walker_Nav_Menu`</a>.
+Todo lo anterior se puede lograr con distintos valores de los parámetros `container`, `menu_class`, `menu_id`, e `items_wrap`. Notesé que no **existe forma de manipular el output de cada item de la lista**, al menos no entre los parámetros. Para estos casos es en donde Wordpress recomienda utilizar un _walker_, que es una herencia de la clase [`Walker_Nav_Menu`](http://phpdoc.wordpress.org/trunk/WordPress/Nav_Menus/Walker_Nav_Menu.html).
 
 ### Modificando la generación del menú
 
@@ -95,7 +95,7 @@ Y por supuesto, la implementación del mismo. Mucho del mismo no es más que una
 
 Si miran con atención, habrán visto que en el snippet de código anterior estoy usando `$item->image_url` para la generación de la imagen del menú. Sin embargo, esta información no existe en la definición de los items, y mucho menos en la interfaz del usuario. Para esto es necesario registrar la información necesaria para que Wordpress nos permita agregar esos datos. Esto fue difícil de lograr porque casi no existe documentación al respecto (o al menos yo no logré encontrarla).
 
-El código en general lo pueden encontrar en <a href="https://github.com/AlphaGit/alphasmanifesto/blob/8517782b4b4bfeeedbb5aa684bc690540d9ab479/custom_menu_setup.php">el archivo custom_menu_setup.php del theme</a>, pero pasaré a explicarlo por partes.
+El código en general lo pueden encontrar en [el archivo custom_menu_setup.php del theme](https://github.com/AlphaGit/alphasmanifesto/blob/8517782b4b4bfeeedbb5aa684bc690540d9ab479/custom_menu_setup.php), pero pasaré a explicarlo por partes.
 
 Como cualquier atributo extra que se agregue no se leerá o guardará para el item por defecto, podemos usar filtros y acciones que nos permitirán hacer esa operación cuando los items se lean o se guarden a la base de datos. De esta forma, extendemos Wordpress para trabajar con esa información extra.
 
@@ -109,7 +109,7 @@ En <a title="How to add a custom field in the advanced menu properties?" href="h
 - Registra un custom Walker para la edición de los menús
 - En la implementación de este Walker, copia la generación del form original para agregar al final su propio campo
 
-El usuario Cek (Frank) tomó un paso más y creó <a title="Wordpress Menu Item Meta Fields" href="http://changeset.hr/blog/code/wordpress-menu-item-meta-fields">un plugin para Wordpress que permite agregar campos custom</a>, que utiliza casi la misma técnica para extender la funcionalidad de Wordpress, con una diferencia: él no reescribe el código del Walker de Wordpress, sino que utiliza <a href="https://code.google.com/p/phpquery/">phpQuery</a> para que la clase base genere su HTML y él anexar al final del formulario su propios datos al formulario.
+El usuario Cek (Frank) tomó un paso más y creó <a title="Wordpress Menu Item Meta Fields" href="http://changeset.hr/blog/code/wordpress-menu-item-meta-fields">un plugin para Wordpress que permite agregar campos custom</a>, que utiliza casi la misma técnica para extender la funcionalidad de Wordpress, con una diferencia: él no reescribe el código del Walker de Wordpress, sino que utiliza [phpQuery](https://code.google.com/p/phpquery/) para que la clase base genere su HTML y él anexar al final del formulario su propios datos al formulario.
 
 Si bien su aproximación me resultó muy interesante y simple, preferí no seguirla por dos razones:
 
@@ -118,7 +118,7 @@ Si bien su aproximación me resultó muy interesante y simple, preferí no segui
 
 Por eso, preferí la aproximación general y reescribir el contenido del Walker de Wordpress. En el códifo de Cek, se está extendiendo una clase llamada `Walker_Nav_Menu_Edit`, pero esta clase no se encuentra definida completamente en todos los ámbitos en donde el theme se ejecuta. él incluye una condición para tratar con eso, pero yo sólo encontré problemas que rompían la administración de Wordpress. Por eso, en este caso, también extendí Walker_Nav_Menu (`Walker_Nav_Menu_Edit` es una implementación de `Walker_Nav_Menu` y no agrega métodos propios) y lo registramos de otra forma, utilizando la función add_action con `wp_edit_nav_menu_walker` como primer parámetro.
 
-El código general de esta clase lo pueden ver en <a href="https://github.com/AlphaGit/alphasmanifesto/blob/master/custom_menu_setup.php">`custom_menu_setup.php`</a> del theme, pero la parte importante es la siguiente:
+El código general de esta clase lo pueden ver en [`custom_menu_setup.php`](https://github.com/AlphaGit/alphasmanifesto/blob/master/custom_menu_setup.php) del theme, pero la parte importante es la siguiente:
 
 <script src="https://gist.github.com/AlphaGit/5149321.js"></script>
 

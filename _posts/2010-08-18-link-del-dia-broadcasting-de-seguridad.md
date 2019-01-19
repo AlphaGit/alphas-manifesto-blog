@@ -27,9 +27,9 @@ tags:
 comments: []
 ---
 
-Desde hace mucho tiempo que la gente de <a href="http://www.dragonjar.org/">Dragonjar</a> se ocupa de informar y educar sobre temas de seguridad informática, hacking, avances en tecnología y temas relacionados. No se quedan sólo en eso sino que a lo largo del tiempo han ido generando concursos, conferencias, discusiones, y participación de la comunidad.
+Desde hace mucho tiempo que la gente de [Dragonjar](http://www.dragonjar.org/) se ocupa de informar y educar sobre temas de seguridad informática, hacking, avances en tecnología y temas relacionados. No se quedan sólo en eso sino que a lo largo del tiempo han ido generando concursos, conferencias, discusiones, y participación de la comunidad.
 
-Todo eso no es suficiente, y hoy comenzarán con su nuevo proyecto llamado <a href="http://www.dragonjar.tv/">Dragonjar.tv</a>, un broadcasting para toda la audiencia interesada en esto sobre temas relacionados, que comenzará a verse hoy Miércoles 18 de Agosto, a las 20.00 hrs, hora de Colombia (GMT -5).
+Todo eso no es suficiente, y hoy comenzarán con su nuevo proyecto llamado [Dragonjar.tv](http://www.dragonjar.tv/), un broadcasting para toda la audiencia interesada en esto sobre temas relacionados, que comenzará a verse hoy Miércoles 18 de Agosto, a las 20.00 hrs, hora de Colombia (GMT -5).
 
 Les transcribo el mensaje que me han enviado informándome al respecto:
 <blockquote style="text-align: justify;">

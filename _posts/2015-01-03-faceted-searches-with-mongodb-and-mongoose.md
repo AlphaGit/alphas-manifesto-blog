@@ -40,7 +40,7 @@ comments:
 
 ![]({{ site.baseurl }}/assets/mongo-faceted-logo-300x290.png)
 
-Some people in Latin-America may remember an old _Yupi_ ad where a woman was complaining on how difficult using the internet was. "_It's so difficult. So complicated! There must be something better._" (In Spanish, of course.) Cheesy as it sounds, H&auml;ndel Messiah's "Hallelujah" sonorously invaded the screen. Don't believe me? <a href="https://www.youtube.com/watch?v=oI1Tjeh4_D8">See for yourself</a>.
+Some people in Latin-America may remember an old _Yupi_ ad where a woman was complaining on how difficult using the internet was. "_It's so difficult. So complicated! There must be something better._" (In Spanish, of course.) Cheesy as it sounds, H&auml;ndel Messiah's "Hallelujah" sonorously invaded the screen. Don't believe me? [See for yourself](https://www.youtube.com/watch?v=oI1Tjeh4_D8).
 
 That's how I felt when I was investigating what's the best approach to achieve faceted searches in MongoDB. But I found something better. Let me show it to you.
 
@@ -48,7 +48,7 @@ That's how I felt when I was investigating what's the best approach to achieve f
 
  For a project that I had been assisting with for a while already, the need for performing faceted searches came up. I haven't done this before with MongoDB but -- how hard could it be, right? I went out searching for the best practices on the subject, only to find contrived examples and approximations that didn't account for all situations. Most solutions had limitations here and there. Not only downsides, but straight down cases that would not work, and some others weren't even worth the effort for the maintainability nightmare that they would have caused. Some other solutions for that were already part of paid products, which is not something that we could use for this project (you know, small pet projects and so on).
 
-So I stepped onto it and came up with a simple and reusable solution: <a href="https://github.com/AlphaGit/mongo-faceted">mongo-faceted.</a>
+So I stepped onto it and came up with a simple and reusable solution: [mongo-faceted.](https://github.com/AlphaGit/mongo-faceted)
 
 ## What is faceted search?
 
@@ -69,10 +69,10 @@ If the system is intelligent enough, it will help you in not making combinations
 
 If you're interested in this pattern and its best practices, I suggest you stop searching for cars in Google and read these great articles:
 
-- <a href="http://alistapart.com/article/design-patterns-faceted-navigation">Design Patterns: Faceted Navigation</a>, from A List Apart
-- <a href="http://www.nngroup.com/articles/filters-vs-facets/">Filters vs. Facets: Definitions</a>, Norman Nielsen Group
-- <a href="http://www.welie.com/patterns/showPattern.php?patternID=faceted-navigation">Faceted Navigation</a>, Patterns in Interaction Design (Wellie.com)
-- <a href="http://en.wikipedia.org/wiki/Faceted_search">Faceted Search</a>, Wikipedia
+- [Design Patterns: Faceted Navigation](http://alistapart.com/article/design-patterns-faceted-navigation), from A List Apart
+- [Filters vs. Facets: Definitions](http://www.nngroup.com/articles/filters-vs-facets/), Norman Nielsen Group
+- [Faceted Navigation](http://www.welie.com/patterns/showPattern.php?patternID=faceted-navigation), Patterns in Interaction Design (Wellie.com)
+- [Faceted Search](http://en.wikipedia.org/wiki/Faceted_search), Wikipedia
 
 ## Using mongo-faceted
 
@@ -89,7 +89,7 @@ As you may have already guessed, mongo-faceted performs two slight modifications
 
 mongo-faceted will detect the structure of your schema and add the proper logic to your model. Invoking this functionality is just one line: `mongoFacets(modelName, schema)`.
 
-If you happen to find any issues or limitations, feel free to <a href="https://github.com/AlphaGit/mongo-faceted/issues/new">report an issue</a> on the repository, or submit pull requests (definitely welcome!).
+If you happen to find any issues or limitations, feel free to [report an issue](https://github.com/AlphaGit/mongo-faceted/issues/new) on the repository, or submit pull requests (definitely welcome!).
 
 ## How it works
 
@@ -101,4 +101,4 @@ The aggregation call has basically this structure:
 - `$unwind`: one `$unwind` step for every array property in the schema, so that they can be reported together
 - `$group`: `$addToSet` for every property, so that all possible non-duplicate values are reported as available for a specific property
 
-You can also <a href="https://github.com/AlphaGit/mongo-faceted/blob/01b6ac37e0c8b5e8bba4bb864c1b805e7b9e8157/poc/ImageModel.js">see how the approach can be applied without the library</a>, which was basically a proof-of-concept that I worked on before making this reusable as a library.
+You can also [see how the approach can be applied without the library](https://github.com/AlphaGit/mongo-faceted/blob/01b6ac37e0c8b5e8bba4bb864c1b805e7b9e8157/poc/ImageModel.js), which was basically a proof-of-concept that I worked on before making this reusable as a library.

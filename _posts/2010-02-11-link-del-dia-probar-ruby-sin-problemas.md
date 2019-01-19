@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-Uno de los lenguajes que más furor está haciendo en estos días es Ruby. De hecho, es el lenguaje en el que está programado Twitter. Para curiosos como yo que les gustaría probarlo, se encontrarían con la desventaja de que no es del todo fácil la instalación en algún sistema de los intérpretes (excepto que estés usando alguna distribución de Linux para tus tareas diarias, o que puedas utilizarlo sin problemas). Si es el caso, entonces es cuando <a href="http://tryruby.org/">TryRuby.org</a> se amolda perfectamente an nuestras necesidades.
+Uno de los lenguajes que más furor está haciendo en estos días es Ruby. De hecho, es el lenguaje en el que está programado Twitter. Para curiosos como yo que les gustaría probarlo, se encontrarían con la desventaja de que no es del todo fácil la instalación en algún sistema de los intérpretes (excepto que estés usando alguna distribución de Linux para tus tareas diarias, o que puedas utilizarlo sin problemas). Si es el caso, entonces es cuando [TryRuby.org](http://tryruby.org/) se amolda perfectamente an nuestras necesidades.
 
 TryRuby es un intérprete online de Ruby que nos lleva a través de un tutorial para aprender las cuestiones más básicas del lenguaje y nos permite experimentar con ellas online, solo desde el navegador. Por supuesto, esto no nos dejará estar guardando archivos ni generar proyectos, pero por lo pronto, es suficiente como para probar un poco y ver qué ocurre.
 

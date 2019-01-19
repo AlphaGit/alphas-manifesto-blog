@@ -26,9 +26,9 @@ tags:
 comments: []
 ---
 
-I've been looking into some documentation on how testable code should be written. They all say pretty much the same, but I found <a href="http://www.methodsandtools.com/archive/archive.php?id=103">this article</a> by Isa Goksu which is quite extensive on some particular points, and also provides a good linking to other related articles. He mentions concepts that are closely related to testing and test-driven development, like <a href="http://www.artima.com/intv/simplest.html">The Simplest Thing that Could Possibly Work</a>, or <a href="http://www.ccs.neu.edu/home/lieber/LoD.html">Law of Demeter</a> (which is a good design pattern too), some not-as-spread-as-they-should-be <a href="http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod">Principles of Object Oriented Design</a>, and so on.
+I've been looking into some documentation on how testable code should be written. They all say pretty much the same, but I found [this article](http://www.methodsandtools.com/archive/archive.php?id=103) by Isa Goksu which is quite extensive on some particular points, and also provides a good linking to other related articles. He mentions concepts that are closely related to testing and test-driven development, like [The Simplest Thing that Could Possibly Work](http://www.artima.com/intv/simplest.html), or [Law of Demeter](http://www.ccs.neu.edu/home/lieber/LoD.html) (which is a good design pattern too), some not-as-spread-as-they-should-be [Principles of Object Oriented Design](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod), and so on.
 
-Remember we also have <a href="http://googletesting.blogspot.com/">Google Testing blog</a> where sometimes guidelines about testing and good testable code is engineered.
+Remember we also have [Google Testing blog](http://googletesting.blogspot.com/) where sometimes guidelines about testing and good testable code is engineered.
 
 Hope it's a testable Friday for you!
 

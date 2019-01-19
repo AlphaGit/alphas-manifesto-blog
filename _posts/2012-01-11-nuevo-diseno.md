@@ -39,6 +39,6 @@ Las cosas que deberían volver a aparecer y/o que no están funcionando bien (y 
 - No hay links a las páginas del blog
 - No hay sidebars (no habrá, pero en algún lado debería poner otras cosas)
 
-En fin, acepto tanto críticas como sugerencias, y por supuesto, halagos. No hay comentarios así que no podrán hacerlo por acá, si quieren hacerlo en otro lado son bienvenidos a mi Twitter: <a href="https://twitter.com/#!/AlphaTwi">@AlphaTwi</a>.
+En fin, acepto tanto críticas como sugerencias, y por supuesto, halagos. No hay comentarios así que no podrán hacerlo por acá, si quieren hacerlo en otro lado son bienvenidos a mi Twitter: [@AlphaTwi](https://twitter.com/#!/AlphaTwi).
 
 **UPDATE**: Este diseño es mobile friendly. Navegadores del pulgar, sientansé libres de disfrutar de algo mucho más legible.

@@ -54,6 +54,6 @@ Sé que existen excepciones. Se puede ser muy directo y muy conciso, pero eso no
 
 > "Si lo que vas a decir no es más bello que el silencio, no lo digas."
 >
-> -- <a href="http://es.wikiquote.org/wiki/Proverbios_%C3%A1rabes">Proverbio árabe</a>.
+> -- [Proverbio árabe](http://es.wikiquote.org/wiki/Proverbios_%C3%A1rabes).
 
 En resumen: **comenzar con la respuesta directa a una pregunta, y evitar explicaciones si no son necesarias.**

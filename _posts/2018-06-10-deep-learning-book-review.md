@@ -36,7 +36,7 @@ I finally finished reading Deep Learning, by Ian Goodfellow, Yoshua Bengio and A
 
 <!--more-->
 
-I recently finished reading one of the recommendations that reached me, Deep Learning. This book can be found online and for free, in its <a href="http://www.deeplearningbook.org/">official web page</a>, and it is absolutely ones of the best literature reference books that you'll find for the Deep Learning state of the art. Of course, we're talking about Artificial Intelligence and its particular sub-area on multi-layer neural networks.
+I recently finished reading one of the recommendations that reached me, Deep Learning. This book can be found online and for free, in its [official web page](http://www.deeplearningbook.org/), and it is absolutely ones of the best literature reference books that you'll find for the Deep Learning state of the art. Of course, we're talking about Artificial Intelligence and its particular sub-area on multi-layer neural networks.
 
 The book requires some undergraduate calculus and probability level knowledge to start and follow, but it gets very complicated really fast. This is because this book takes a mathematical approach to describing neural networks and processes. It gives a very detailed look at the implications of choosing a particular function over the other, the challenges of particular distributions, the challenges of optimizations and so on.
 

@@ -31,7 +31,7 @@ comments: []
 El mundo microscópico de los píxels
 
 
-Hace un par de días, <a href="http://www.microsiervos.com/archivo/gadgets/pantalla-ipad-3-comparada-ipad-2.html">un artículo en MicroSiervos</a> mostraba una comparación de las pantallas del iPad 2 y el iPad 3 (que no se llama iPad 3). Más interesante aún, dejaron el link al blog de Lukas Mathis, que entre otras cosas escribió un artículo llamado <a href="http://ignorethecode.net/blog/2012/03/16/ipad_screen_microscope/">The New iPad's screen under the Microscope</a>.
+Hace un par de días, [un artículo en MicroSiervos](http://www.microsiervos.com/archivo/gadgets/pantalla-ipad-3-comparada-ipad-2.html) mostraba una comparación de las pantallas del iPad 2 y el iPad 3 (que no se llama iPad 3). Más interesante aún, dejaron el link al blog de Lukas Mathis, que entre otras cosas escribió un artículo llamado [The New iPad's screen under the Microscope](http://ignorethecode.net/blog/2012/03/16/ipad_screen_microscope/).
 
 Más allá de sólo mostrar la comparación entre las pantallas del iPad viejo y el nuevo, continúa agregando imágenes con el mismo aumento de otros dispositivos, tanto de Apple (iPhone 4S, iPod Touch), como de otras marcas y tipos de tablets o teléfonos. A mi me sorprende mucho la variabilidad que tienen los píxeles en cada una de las pantallas, y cómo la formita especial que cada uno tiene ayuda a una calidad particular de imagen.
 

@@ -27,8 +27,8 @@ comments: []
 Comparando funcionalidades desde su pantalla
 
 
-De parte de <a href="https://twitter.com/#!/cesardonofrio">Cesar D'Onofrio</a> (¡gracias!) me llega este útil link llamado, simplemente, <a href="http://mobile-patterns.com/">Mobile Patterns</a>. El sitio es, sin mucho más, una galería de interfaces mobile para distintas categorías de pantalla. En este caso, se trata de pantallas de iPhone, pero los conceptos van más allá del teléfono en el cual se vean. La distribución de la información y la utilización de imágenes no tiene realmente que ver con una marca de dispositivos.
+De parte de [Cesar D'Onofrio](https://twitter.com/#!/cesardonofrio) (¡gracias!) me llega este útil link llamado, simplemente, [Mobile Patterns](http://mobile-patterns.com/). El sitio es, sin mucho más, una galería de interfaces mobile para distintas categorías de pantalla. En este caso, se trata de pantallas de iPhone, pero los conceptos van más allá del teléfono en el cual se vean. La distribución de la información y la utilización de imágenes no tiene realmente que ver con una marca de dispositivos.
 
-Esta recopilación en particular fue puesta junta por <a href="http://www.marisheibley.com/">Mari Sheilbley</a>, la diseñadora líder de Foursquare, quien a la vez postea varios diseños interesantes en su blog personal a modo de portfolio.
+Esta recopilación en particular fue puesta junta por [Mari Sheilbley](http://www.marisheibley.com/), la diseñadora líder de Foursquare, quien a la vez postea varios diseños interesantes en su blog personal a modo de portfolio.
 
 _Soy un zorrinito diseñado._

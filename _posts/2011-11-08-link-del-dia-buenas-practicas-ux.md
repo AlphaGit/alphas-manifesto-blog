@@ -24,12 +24,12 @@ tags:
 comments: []
 ---
 
-Encontré tres preguntas particularmente útiles en el foro de <a href="http://ux.stackexchange.com">UX de Stack Exchange</a>, las cuales son:
+Encontré tres preguntas particularmente útiles en el foro de [UX de Stack Exchange](http://ux.stackexchange.com), las cuales son:
 
-- <a href="http://ux.stackexchange.com/questions/9898/have-i-missed-anything-from-my-list-of-web-form-best-practices">Have I missed anything from my list of web form best practices?</a>
-- <a href="http://ux.stackexchange.com/questions/343/common-web-app-usability-gotchas">Common Web App Usability gotchas?</a>
-- <a href="http://ux.stackexchange.com/questions/906/what-are-your-desktop-ui-pet-peeves">What are your desktop UI Pet Peeves?</a>
-- <a href="http://ux.stackexchange.com/questions/394/what-are-common-ui-misconceptions-and-annoyances">Whare are ccommon UI misconceptions and annoyances?</a>
+- [Have I missed anything from my list of web form best practices?](http://ux.stackexchange.com/questions/9898/have-i-missed-anything-from-my-list-of-web-form-best-practices)
+- [Common Web App Usability gotchas?](http://ux.stackexchange.com/questions/343/common-web-app-usability-gotchas)
+- [What are your desktop UI Pet Peeves?](http://ux.stackexchange.com/questions/906/what-are-your-desktop-ui-pet-peeves)
+- [Whare are ccommon UI misconceptions and annoyances?](http://ux.stackexchange.com/questions/394/what-are-common-ui-misconceptions-and-annoyances)
 
 Estas cuatro preguntitas (y muchas otras si también checkean la sección de related en cada una) son un buen comienzo para identificar cuáles son las bases de la experiencia de usuario. Seguramente sepamos mucho al respecto por el uso diario que tenemos de distintas aplicaciones, tanto web como de escritorio, y al momento de ver algo nuevo, podemos distinguir de forma muy fácil si se trata de una experiencia positiva o negativa. Sin embargo, al momento de explicarle a alguien más cuáles son esas bases, o al momento de checkear todo, se hace un poco difícil enumerarlas.
 

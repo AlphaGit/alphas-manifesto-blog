@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 
-Notesé que el título habla de <a href="http://es.wikipedia.org/wiki/M%C3%B3nada">mónadas</a>, y no de monadas. Esto se trata de un artículo algo extenso, pero muy interesante, de cómo el concepto de mónadas se puede aplicar a cualquier lenguaje que permita el uso de objetos función o lambdas. Y qué lenguaje más simple para demostrar esto que JavaScript: <a href="http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html">Understanding Monads With JavaScript</a>.
+Notesé que el título habla de [mónadas](http://es.wikipedia.org/wiki/M%C3%B3nada), y no de monadas. Esto se trata de un artículo algo extenso, pero muy interesante, de cómo el concepto de mónadas se puede aplicar a cualquier lenguaje que permita el uso de objetos función o lambdas. Y qué lenguaje más simple para demostrar esto que JavaScript: [Understanding Monads With JavaScript](http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html).
 
 El artículo nos lleva sobre una estructura muy simple (un array utilizado como pila) en donde se ponen dos valores y luego se recuperan. Ese mismo proceso se va modificando en la forma en que se codifica hasta el punto de lograr las mónadas: objetos "computables" totalmente encapsulados en donde se abstrae de nosotros el procesamiento y la estructura, que a la vez, es más funcional que procedural.
 

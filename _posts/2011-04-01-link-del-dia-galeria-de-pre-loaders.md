@@ -32,6 +32,6 @@ Fuera de eso, y de la enorme discusión sobre la forma en las que se puede encar
 
 Y para muchos lugares, todavía se trata de un problema al momento de pre-cargar esa aplicación, ya que hay que presentar algo para que el usuario sepa que todavía estamos trabajando para su experiencia.
 
-Por supuesto, no faltan quiénes quisieron hacer una galería para la inspiración de aquellos que no sepan cómo aproximarse, o aquellos que simplemente quiera ver cuáles son los mejores pre-loaders que hay por la web. Allí surgió <a href="http://www.prettyloaded.com/">Pretty Loaded</a>, una galería de pre-cargadores en donde podemos ver muchos de estos interesantes ejemplos.
+Por supuesto, no faltan quiénes quisieron hacer una galería para la inspiración de aquellos que no sepan cómo aproximarse, o aquellos que simplemente quiera ver cuáles son los mejores pre-loaders que hay por la web. Allí surgió [Pretty Loaded](http://www.prettyloaded.com/), una galería de pre-cargadores en donde podemos ver muchos de estos interesantes ejemplos.
 
 _Soy un zorrinito precargado._

@@ -37,7 +37,7 @@ comments: []
 Opiniones propias sobre muchos problemas mencionados
 
 
-Acabo de terminar de leer un artículo largo y genial de Smashing Magazine, llamado <a href="http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/">The State of Responsive Web Design</a>. Como el título lo indica, habla sobre el estado actual del diseño de webs responsive y sus pros y contras. Mucho mejor aún, habla de los distintos problemas a superar y la forma en la que la tecnología de hoy nos permite hacerlo. Pero no es una introducción al tema, sino que abarca todos esos problemas que aún no tienen soluciones definitivas. Totalmente novedoso.
+Acabo de terminar de leer un artículo largo y genial de Smashing Magazine, llamado [The State of Responsive Web Design](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/). Como el título lo indica, habla sobre el estado actual del diseño de webs responsive y sus pros y contras. Mucho mejor aún, habla de los distintos problemas a superar y la forma en la que la tecnología de hoy nos permite hacerlo. Pero no es una introducción al tema, sino que abarca todos esos problemas que aún no tienen soluciones definitivas. Totalmente novedoso.
 
 Sin embargo, como bien dicen al final, esto no es ni el comienzo, y sobre las cosas mencionadas tengo mucho que mencionar. Quería dejar mis comentarios por aquí.
 
@@ -65,7 +65,7 @@ Invito a la discusión en este tema.
 
 Respecto de los formatos, está claro que ahora y en el futuro habrá más avances sobre nuevos algoritmos o ideas que nos permitirán comprimir imágenes mejor. Hoy la mejor opción parece ser WebP y ya está soportado en una determinada cantidad de browsers. El artículo menciona que Firefox no tiene intenciones de implementar WebP (¡ ¿por qué?!) pero no pude encontrar referencias al respecto.
 
-Sobre WebP, si están dispuesto a sacrificar un script y un poquito de procesamiento, ya hay un JavaScript que permite decodificar ese formato en cualquier navegador que no lo soporte. Está aún en desarrollo y seguramente con algunos bugs, pero pueden experimentar un poco con él: <a href="http://webpjs.appspot.com/">WebPJS</a>.
+Sobre WebP, si están dispuesto a sacrificar un script y un poquito de procesamiento, ya hay un JavaScript que permite decodificar ese formato en cualquier navegador que no lo soporte. Está aún en desarrollo y seguramente con algunos bugs, pero pueden experimentar un poco con él: [WebPJS](http://webpjs.appspot.com/).
 
 ## Layout
 
@@ -103,7 +103,7 @@ Las tablas scrolleables no caen en ninguno de estos problemas que mencioné, per
 
 ### Contenido externo
 
-Estoy de acuerdo con lo que el artícul original menciona: es difícil lidear con contenido externo. Parte de eso es algo que ya podría atacarse hoy, como mejores APIs para mejor personalización del contenido expuesto. Recuerdo haber usado gráficos desde <a href="https://developers.google.com/chart/">Google Charts</a>, que entre opciones nos permite indicar colores, tamaño y otras cosas que poco tienen que ver con el contenido, pero más con el diseño de la información que queremos mostrar y la forma de integrarlo. Eso es agradable, y siendo parámetros opcionales, quien no quiere sumergirse en esa complejidad no tiene por qué hacerlo.
+Estoy de acuerdo con lo que el artícul original menciona: es difícil lidear con contenido externo. Parte de eso es algo que ya podría atacarse hoy, como mejores APIs para mejor personalización del contenido expuesto. Recuerdo haber usado gráficos desde [Google Charts](https://developers.google.com/chart/), que entre opciones nos permite indicar colores, tamaño y otras cosas que poco tienen que ver con el contenido, pero más con el diseño de la información que queremos mostrar y la forma de integrarlo. Eso es agradable, y siendo parámetros opcionales, quien no quiere sumergirse en esa complejidad no tiene por qué hacerlo.
 
 El uso de iframes y embed tienen sus propios problemas y no se van a ir en mucho tiempo.
 

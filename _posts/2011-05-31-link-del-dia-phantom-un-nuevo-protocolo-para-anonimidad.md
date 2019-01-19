@@ -48,9 +48,9 @@ comments:
     Si no hay un wikileaks ahí, no me imagino en dónde estaría mejor.
 ---
 
-Recuerdan <a href="https://blog.alphasmanifesto.com/2009/11/27/link-del-dia-freenet/">Freenet</a> y cómo se basaba en el concepto de crear una internet paralela, totalmente descentralizada e indetectable? La idea sigue creciendo y el proyecto sigue obteniendo sus aportes, pero también han surgido esfuerzos paralelos, que también intentan solucionar alguno de los problemas que este proyecto tuvo.
+Recuerdan [Freenet](https://blog.alphasmanifesto.com/2009/11/27/link-del-dia-freenet/) y cómo se basaba en el concepto de crear una internet paralela, totalmente descentralizada e indetectable? La idea sigue creciendo y el proyecto sigue obteniendo sus aportes, pero también han surgido esfuerzos paralelos, que también intentan solucionar alguno de los problemas que este proyecto tuvo.
 
-<a href="http://code.google.com/p/phantom/">Phantom</a> es un proyecto similar. Básicamente plantea los mismos estándares y, para ser más precisos, lo indico desde la página de su proyecto:
+[Phantom](http://code.google.com/p/phantom/) es un proyecto similar. Básicamente plantea los mismos estándares y, para ser más precisos, lo indico desde la página de su proyecto:
 
 > 1. Completamente descentralizado
 > 1. Resistencia máxima a todo tipo de ataque DoS

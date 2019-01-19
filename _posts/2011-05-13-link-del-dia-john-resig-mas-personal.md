@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-Hace un tiempo Josh Resig, famoso por ser el creador de <a href="http://www.jqueery.com/">JQuery</a>, anunció en <a href="http://twitter.com/#!/jeresig">su cuenta de Twitter</a> que estaría brindando una especie de "conferencia de prensa", una rueda de preguntas y respuestas en Reddit, específicamente en <a href="http://www.reddit.com/r/IAmA/comments/h42ak/i_am_john_resig_creator_of_jquery_ama/">este thread</a>.
+Hace un tiempo Josh Resig, famoso por ser el creador de [JQuery](http://www.jqueery.com/), anunció en [su cuenta de Twitter](http://twitter.com/#!/jeresig) que estaría brindando una especie de "conferencia de prensa", una rueda de preguntas y respuestas en Reddit, específicamente en [este thread](http://www.reddit.com/r/IAmA/comments/h42ak/i_am_john_resig_creator_of_jquery_ama/).
 
 Ahí podemos conocer un poco más de lo que él piensa sobre distintos temas, desde que le encantan los memes del Rage Guy hasta las propuestas que estaba pensando en plantear para la reestructuración del estándar del DOM. Podemos saber qué máquina usa y qué software hasta qué cosas estudió en la universidad y cómo hace para concentrarse en su trabajo.
 

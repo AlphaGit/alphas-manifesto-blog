@@ -22,7 +22,7 @@ tags: []
 comments: []
 ---
 
-El día de hoy tuve el gusto de poder participar como disertante en <a href="http://www.mug.org.ar/Eventos/3307.aspx">un seminario que se dio en la Universidad FASTA</a>, junto a Adrián Cura, presidente de <a href="http://www.mug.org.ar/">MUG Argentina</a>, quién se encargó de explicar la parte teórica, y yo dando demostraciones en vivo y en directo de cómo funcionan muchas de las características o fundamentos mencionados.
+El día de hoy tuve el gusto de poder participar como disertante en [un seminario que se dio en la Universidad FASTA](http://www.mug.org.ar/Eventos/3307.aspx), junto a Adrián Cura, presidente de [MUG Argentina](http://www.mug.org.ar/), quién se encargó de explicar la parte teórica, y yo dando demostraciones en vivo y en directo de cómo funcionan muchas de las características o fundamentos mencionados.
 
 Si bien el tema de la charla, en lo que se publicó originalmente, trataba del nuevo modelo de programación de ASP.NET con .NET Framework 3.0 o 3.5, ASP.NET AJAX y Windows Communication Foundation, en realidad el temario fue un poco más extenso.
 

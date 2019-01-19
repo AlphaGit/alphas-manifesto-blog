@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 
-Del blog de <a href="http://sethgodin.typepad.com/seths_blog/2011/09/run-your-own-race.html">Seth Godin</a>:
+Del blog de [Seth Godin](http://sethgodin.typepad.com/seths_blog/2011/09/run-your-own-race.html):
 
 > **Corre tu propia carrera**
 > 

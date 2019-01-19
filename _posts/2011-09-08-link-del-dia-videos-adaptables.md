@@ -26,7 +26,7 @@ tags:
 comments: []
 ---
 
-De la misma forma que hace poco hablamos de <a href="https://blog.alphasmanifesto.com/2011/09/02/link-del-dia-adaptive-images-mobile/">Adaptive Images</a>, hoy tenemos una propuesta parecida para videos, llamada <a href="http://fitvidsjs.com/">FitVids</a> (también de parte de la gente de <a href="http://css-tricks.com/14103-fitvids-js/">CSS Tricks</a>). Más que una configuración del lado del servidor, FitVids se trata de un plugin de jQuery que nos permite hacer el tamaño de los videos fluidos, ajustados al máximo de su contenedor, permitiendo que las cajas de los videos sean también fluidos con el diseño de la página.
+De la misma forma que hace poco hablamos de [Adaptive Images](https://blog.alphasmanifesto.com/2011/09/02/link-del-dia-adaptive-images-mobile/), hoy tenemos una propuesta parecida para videos, llamada [FitVids](http://fitvidsjs.com/) (también de parte de la gente de [CSS Tricks](http://css-tricks.com/14103-fitvids-js/)). Más que una configuración del lado del servidor, FitVids se trata de un plugin de jQuery que nos permite hacer el tamaño de los videos fluidos, ajustados al máximo de su contenedor, permitiendo que las cajas de los videos sean también fluidos con el diseño de la página.
 
 Hay un video de demostración, y mejor aún, la misma página es la demostración de su funcionamiento, en donde podemos cambiar el tamaño de la ventana y ver cómo el video se escala de forma proporcional. Haciéndolo un par de veces logré hacer crashear el plugin de Flash en Chrome, pero estoy seguro que eso es un problema relacionado con el navegador y con el plugin, no con el funcionamiento del plugin en sí.
 

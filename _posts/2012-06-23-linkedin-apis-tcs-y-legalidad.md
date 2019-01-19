@@ -36,7 +36,7 @@ Por un desarrollo propio me encuentro investigando las APIs de integración a Li
 
 El departamento legal de LinkedIn parece opinar distinto.
 
-El último punto de mi registro de clave API son los T&amp;Cs (Terms &amp; Conditions), que especifica claramente qué cosas se pueden y no se pueden hacer con la API. Veamos un poco de ellas. Los pueden acceder aquí: <a href="http://developer.linkedin.com/documents/linkedin-apis-terms-use">LinkedIn API Terms of Use</a>.
+El último punto de mi registro de clave API son los T&amp;Cs (Terms &amp; Conditions), que especifica claramente qué cosas se pueden y no se pueden hacer con la API. Veamos un poco de ellas. Los pueden acceder aquí: [LinkedIn API Terms of Use](http://developer.linkedin.com/documents/linkedin-apis-terms-use).
 
 > LinkedIn reserves the right, from time to time, with or without notice to you, to change these Terms in our sole and absolute discretion. The most current version of these Terms can be reviewed on the LinkedIn developer portal at anytime and supersedes all previous versions. By using the LinkedIn APIs after changes are made to the Terms, you agree to be bound by such changes. Your only recourse if you disagree with the Terms, or changes to the Terms, is to discontinue your use of the APIs. Accordingly, we recommend you review these Terms periodically.
 
@@ -94,7 +94,7 @@ Traducción: "no garantizamos que funcionen en el futuro, nos importa poco lo qu
 
 Traducción: "no garantizamos que vayan a ser gratis".
 
-> **1.9 Usage Limitations.** LinkedIn may limit the number of network calls that your Application may make via the APIs, and/or the maximum Content that may be accessed, or anything else about the APIs and the Content it accesses as LinkedIn deems appropriate in its sole discretion. The usage limitations can be found in the LinkedIn developer portal at <a href="http://developer.linkedin.com/">http://developer.linkedin.com/</a>. LinkedIn may change such usage limits at any time. In addition to its other rights under these Terms, LinkedIn may utilize technical measures to prevent over-usage and/or stop usage of the APIs by an Application after any usage limitations are exceeded. If no limits are stated in the Platform Guidelines, you nevertheless agree to use the APIs in a manner that, as determined by us in our sole discretion, exceeds reasonable request volume or constitutes excessive or abusive usage.
+> **1.9 Usage Limitations.** LinkedIn may limit the number of network calls that your Application may make via the APIs, and/or the maximum Content that may be accessed, or anything else about the APIs and the Content it accesses as LinkedIn deems appropriate in its sole discretion. The usage limitations can be found in the LinkedIn developer portal at [http://developer.linkedin.com/](http://developer.linkedin.com/). LinkedIn may change such usage limits at any time. In addition to its other rights under these Terms, LinkedIn may utilize technical measures to prevent over-usage and/or stop usage of the APIs by an Application after any usage limitations are exceeded. If no limits are stated in the Platform Guidelines, you nevertheless agree to use the APIs in a manner that, as determined by us in our sole discretion, exceeds reasonable request volume or constitutes excessive or abusive usage.
 
 Esto tiene dos partes. La primera, como ya habrán leído, aclara que ellos van a hacer lo que mejor les parezca con los límites de uso. La segunda, que me parece ridículamente absurda en un contrato legal: "estás de acuerdo en usar las APIs de una forma que nosotros queramos, pero no te diremos cómo". Es realmente irrisorio que consideren esto parte de algo expuesto públicamente.
 
@@ -102,7 +102,7 @@ Esto tiene dos partes. La primera, como ya habrán leído, aclara que ellos van 
 > 
 > **2.1 LinkedIn Property.** As between you and us, we own all rights, title, and interest, including without limitation all intellectual property rights, in and to, the (i) APIs, and all elements, components, and executables of the APIs; (ii) the Content available from the APIs; (iii) our Website; and (iv) our Brand Features (collectively, the "LinkedIn Materials"). Except for the express licenses granted in these Terms, LinkedIn does not grant you any right, title or interest in the LinkedIn Materials. You agree to take such actions, including, without limitation, execution of affidavits or other documents, as LinkedIn may reasonably request to effect, perfect or confirm LinkedIn's rights to the LinkedIn Materials.
 
-¿Significa esto que toda la información que recuperemos a través de las APIs son propiedad de LinkedIn? Sí. Incluyendo información de tu usuario, mí usuario, y la información que públicamente se encuentra disponible allí. Cabe aclarar que esta es una directa contradicción del <a href="http://www.linkedin.com/static?key=user_agreement">acuerdo de usuario</a>, en donde dice:
+¿Significa esto que toda la información que recuperemos a través de las APIs son propiedad de LinkedIn? Sí. Incluyendo información de tu usuario, mí usuario, y la información que públicamente se encuentra disponible allí. Cabe aclarar que esta es una directa contradicción del [acuerdo de usuario](http://www.linkedin.com/static?key=user_agreement), en donde dice:
 
 > 2. License and warranty for your submissions to LinkedIn.
 > 

@@ -84,13 +84,13 @@ comments:
 async y await
 
 
-Continuando con mi serie de posts e investigación sobre lo que VS11 ofrece (<a href="https://blog.alphasmanifesto.com/2012/05/11/pruebas-con-vs11-dia-uno/">Parte 1</a>), quisiera tomar una aproximación separada. Si bien la exploración es interesante, es poco apropiada cuando uno quiere aprovechar el tiempo.
+Continuando con mi serie de posts e investigación sobre lo que VS11 ofrece ([Parte 1](https://blog.alphasmanifesto.com/2012/05/11/pruebas-con-vs11-dia-uno/)), quisiera tomar una aproximación separada. Si bien la exploración es interesante, es poco apropiada cuando uno quiere aprovechar el tiempo.
 
-Es por eso que comencé con las referencias en MSDN sobre <a href="http://msdn.microsoft.com/en-us/library/bb386063(v=vs.110).aspx">qué hay de nuevo en VS11</a>, que seguiremos de a partes. Pero a la vez quiero cumplir con mi promesa, por lo cual, si comenzamos sobre qué hay de nuevo en el lenguaje C# (lo siento VB, lo siento C++, soy del bando de C#), nos encontramos con la excusa para cumplir lo prometido.
+Es por eso que comencé con las referencias en MSDN sobre [qué hay de nuevo en VS11](http://msdn.microsoft.com/en-us/library/bb386063(v=vs.110).aspx), que seguiremos de a partes. Pero a la vez quiero cumplir con mi promesa, por lo cual, si comenzamos sobre qué hay de nuevo en el lenguaje C# (lo siento VB, lo siento C++, soy del bando de C#), nos encontramos con la excusa para cumplir lo prometido.
 
 ## Características nuevas de C#: await y async
 
-Esto, bien sabemos, no es algo propio de VS11, sino de C# 5.0, que va de la mano con VS11 y .NET 4.5. Como <a href="http://msdn.microsoft.com/en-us/library/hh156499(v=vs.110).aspx">MSDN</a> lo indica, una de las primeras características es la habilidad de construir fácilmente código asíncrono. _"We have to go deeper..."_
+Esto, bien sabemos, no es algo propio de VS11, sino de C# 5.0, que va de la mano con VS11 y .NET 4.5. Como [MSDN](http://msdn.microsoft.com/en-us/library/hh156499(v=vs.110).aspx) lo indica, una de las primeras características es la habilidad de construir fácilmente código asíncrono. _"We have to go deeper..."_
 
 Cabe aclarar que ya existía la posibilidad de escribir código asíncrono. Los callbacks y el multithreading no es nada nuevo, aunque esto es ligeramente distinto, ya que simplifican un poco la idea y esconden el trabajo sucio. Sin duda se logrará que en el futuro mucha gente no sepa cómo funciona los métodos asíncronos por detrás pero esconder complejidad es un buen paso para permitir innovación.
 
@@ -101,7 +101,7 @@ Básicamente deberíamos definir un método que sirva de callback. El callback (
 ![]({{ site.baseurl }}/assets/asyncWithoutAsync.png)
 
 
-(Ejemplo del código en Gist.GitHub: <a href="https://gist.github.com/2838443">Async without async</a>)
+(Ejemplo del código en Gist.GitHub: [Async without async](https://gist.github.com/2838443))
 
 Esta aproximación tiene un problema muy claro: la complejidad. Estamos de acuerdo con que el código de FactorNumber debería estar separado en su propio método, pero la continuación de la llamada a FactorNumber y el resto de esa lógica son parte de una misma operación. El hecho de que estén separados en el código no es más que una obligación que debemos cumplir por las restricciones del framework para la instanciación de threads.
 

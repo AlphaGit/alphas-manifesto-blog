@@ -30,7 +30,7 @@ tags:
 comments: []
 ---
 
-Hay varias formas de aproximarse a la performance de una aplicación que está construida bajo los nuevos estándares e implementaciones de HTML5, CSS3, y, por supuesto, JavaScript. Como ya lo habíamos mencionado en la <a href="https://blog.alphasmanifesto.com/2011/05/09/link-del-dia-performance-html5-css3-y-dom-parte-1-intro/">parte 1 de este artículo</a>, el tutorial de HTML5 Rocks llamado <a href="http://www.html5rocks.com/tutorials/speed/html5/">Improving the performance of your HTML5 App</a> trata varios puntos que son importantes para lograr una buena performance y una aplicación sólida.
+Hay varias formas de aproximarse a la performance de una aplicación que está construida bajo los nuevos estándares e implementaciones de HTML5, CSS3, y, por supuesto, JavaScript. Como ya lo habíamos mencionado en la [parte 1 de este artículo](https://blog.alphasmanifesto.com/2011/05/09/link-del-dia-performance-html5-css3-y-dom-parte-1-intro/), el tutorial de HTML5 Rocks llamado [Improving the performance of your HTML5 App](http://www.html5rocks.com/tutorials/speed/html5/) trata varios puntos que son importantes para lograr una buena performance y una aplicación sólida.
 
 Repasémoslos rápidamente:
 

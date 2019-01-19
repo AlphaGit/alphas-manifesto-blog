@@ -26,7 +26,7 @@ tags:
 comments: []
 ---
 
-Hace ya mucho tiempo que los programadores web checkean sus markups con la <a href="http://validator.w3.org/">herramienta de validación HTML de W3c</a>, sus estilos con el <a href="http://jigsaw.w3.org/css-validator/">validador CSS de W3c</a>, sus sitios móbiles con dicho <a href="http://validator.w3.org/mobile/">servicio de W3C</a> y también el <a href="http://validator.w3.org/feed/">validador de feeds</a>. Gracias a <a href="http://twitter.com/jmma/status/19757726670">un tweet de jmma</a>, me enteré que ahora W3C dispone de un servicio completo para verificar todo esto al mismo tiempo, llamado <a href="http://validator.w3.org/unicorn/">Unicorn</a>.
+Hace ya mucho tiempo que los programadores web checkean sus markups con la [herramienta de validación HTML de W3c](http://validator.w3.org/), sus estilos con el [validador CSS de W3c](http://jigsaw.w3.org/css-validator/), sus sitios móbiles con dicho [servicio de W3C](http://validator.w3.org/mobile/) y también el [validador de feeds](http://validator.w3.org/feed/). Gracias a [un tweet de jmma](http://twitter.com/jmma/status/19757726670), me enteré que ahora W3C dispone de un servicio completo para verificar todo esto al mismo tiempo, llamado [Unicorn](http://validator.w3.org/unicorn/).
 
 Este servicio es tan fácil de utilizar como los otros existentes, y además es un poco más user-friendly, permitiéndonos con artimañas de interfaz solamente concentrarnos en lo que más nos importe.
 

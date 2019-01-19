@@ -22,8 +22,8 @@ tags: []
 comments: []
 ---
 
-Gracias a un artículo de <a href="http://www.taranfx.com/blog/java-visualvm">TaranFX</a> me enteré de algo que, si bien no es nada nuevo, es terriblemente útil para todo desarrollador de Java. Se trata de una aplicación que Sun distribuye llamada VisualVM, que, básicamente, es un manager de aplicaciones y profiler de datos, muy completo, muy amigable y muy fácil de usar. Solo tenemos que tener la máquina virtual de Java instalada y tras eso, podemos bajarnos esta aplicación y ponerla a funcionar, desde el <a href="https://visualvm.dev.java.net/">sitio oficial</a>.
+Gracias a un artículo de [TaranFX](http://www.taranfx.com/blog/java-visualvm) me enteré de algo que, si bien no es nada nuevo, es terriblemente útil para todo desarrollador de Java. Se trata de una aplicación que Sun distribuye llamada VisualVM, que, básicamente, es un manager de aplicaciones y profiler de datos, muy completo, muy amigable y muy fácil de usar. Solo tenemos que tener la máquina virtual de Java instalada y tras eso, podemos bajarnos esta aplicación y ponerla a funcionar, desde el [sitio oficial](https://visualvm.dev.java.net/).
 
-También la podemos integrar con algunos entornos de desarrollo (vi por ahí mencionados a Eclipse y IntelliJ IDea), o podemos incluso <a href="https://visualvm.dev.java.net/plugins.html">agregarle plugins</a> para mejorar sus capacidades. Algo sin duda utilísimo para el desarrollador / tester Java.
+También la podemos integrar con algunos entornos de desarrollo (vi por ahí mencionados a Eclipse y IntelliJ IDea), o podemos incluso [agregarle plugins](https://visualvm.dev.java.net/plugins.html) para mejorar sus capacidades. Algo sin duda utilísimo para el desarrollador / tester Java.
 
 _Soy un zorrinito de café._
