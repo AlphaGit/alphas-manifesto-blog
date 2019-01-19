@@ -20,4 +20,4 @@ plugins:
  - jekyll-sitemap
  - jekyll-paginate
 paginate: 10
-paginate_path: /page:num/
+paginate_path: /page/:num/
