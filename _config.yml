@@ -1,4 +1,5 @@
 title: Alpha's Manifesto
+description: A black and white figure's thought-hive
 locale: en
 remote_theme: mmistakes/so-simple-theme
 read_time: true
@@ -14,3 +15,7 @@ timezone: America/Toronto
 baseurl: /alphas-manifesto-blog
 permalink: /:year/:month/:day/:slug/
 logo: images/headerAlpha.png
+plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap
+paginate: 5
