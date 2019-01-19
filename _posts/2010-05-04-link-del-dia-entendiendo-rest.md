@@ -27,7 +27,7 @@ tags:
 - sistema
 ---
 
-Un tiempo atrás tuvimos una lectura que trataba de [una visión simple de la arquitectura REST](https://blog.alphasmanifesto.com.ar/2008/04/17/link-del-dia-como-explicarle-rest-a-la-mujer-de-uno/). Sin embargo, hay mucho más por comprender en esta arquitectura.
+Un tiempo atrás tuvimos una lectura que trataba de _una visión simple de la arquitectura REST_. Sin embargo, hay mucho más por comprender en esta arquitectura.
 
 En este caso me dediqué a leer el artículo de [Ivan Zuzak](http://izuzak.wordpress.com/), llamado [Why understanding REST is hard and what we should do about it](http://izuzak.wordpress.com/2010/04/03/why-understanding-rest-is-hard-and-what-we-should-do-about-it-systematization-models-and-terminology-for-rest/) (_Por qué comprender REST es difícil y qué deberíamos hacer sobre eso_). El artículo es extenso en demasía, pero quisiera dejar alguna suerte de resumen para que no tengan que lidiar completamente con él sin conocimientos previos:
 

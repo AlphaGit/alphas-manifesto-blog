@@ -23,7 +23,7 @@ tags:
 - freeware
 ---
 
-Si bien ya alguna vez publiqué [un link](https://blog.alphasmanifesto.com.ar/2009/08/21/link-of-the-day-awesome-free-software/) en donde había un listado de software libre ordenado por categorías, estoy seguro que ese listado ni es extensivo, ni es completo, ni cubre las necesidades de todos. El software gratuito y libre abunda y, aunque opino que no existe software de calidad necesaria para reemplazar a todo el software prioritario, no podemos decir que nuestras necesidades no se encuentran cubiertas bajo el paraguas del no-pagar.
+Si bien ya alguna vez publiqué _un link_ en donde había un listado de software libre ordenado por categorías, estoy seguro que ese listado ni es extensivo, ni es completo, ni cubre las necesidades de todos. El software gratuito y libre abunda y, aunque opino que no existe software de calidad necesaria para reemplazar a todo el software prioritario, no podemos decir que nuestras necesidades no se encuentran cubiertas bajo el paraguas del no-pagar.
 
 Aviso que no quiero hablar aquí de la mentidad del software libre contra la del software cerrado (en la cual, mucho del freeware posiblemente caiga). Sé que existe la diferencia pero no quiero remarcarla aquí, yo quiero afrontar esto ahora desde el punto de vista de los usuarios, nosotros, quiénes lo que queremos es "una alternativa gratis".
 

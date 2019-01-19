@@ -34,6 +34,6 @@ El problema es, cómo probar este tipo de cosas? Muchas veces se usan equipos de
 
 Tras probar con muchos usuarios, podemos visualizar nuestros resultados de forma gráfica, o en la misma página.
 
-Recuerden que como competidor de este servicio alguna vez hablamos de [Loop11](https://blog.alphasmanifesto.com.ar/2009/05/13/link-del-dia-loop11/), que parecía tener la ventaja de permitir la navegación a través de las pruebas, y de esa forma evaluar la navegabilidad de un sitio. No sé si Usabilla lo permita, aunque por lo que ví en las demos parecería que no.
+Recuerden que como competidor de este servicio alguna vez hablamos de _Loop11_, que parecía tener la ventaja de permitir la navegación a través de las pruebas, y de esa forma evaluar la navegabilidad de un sitio. No sé si Usabilla lo permita, aunque por lo que ví en las demos parecería que no.
 
 _Soy un zorrinito usable._

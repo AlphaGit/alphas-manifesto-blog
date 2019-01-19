@@ -21,7 +21,7 @@ categories:
 tags: []
 ---
 
-Once ago I [published some information](https://blog.alphasmanifesto.com.ar/2008/08/05/link-del-dia-la-maquina-de-emociones/) about Marvin Minsky's book, _The Emotion Machine_, but I never had the chance to get to read it deeply. Finally, with time flying by, I kept on crawling through along the pages.
+Once ago I [published some information](({{ site.baseUrl }}{% link _posts/2008-08-05-link-del-dia-la-maquina-de-emociones.md %})) about Marvin Minsky's book, _The Emotion Machine_, but I never had the chance to get to read it deeply. Finally, with time flying by, I kept on crawling through along the pages.
 
 The book itself it extremely interesting, but sadly the online version has lots of quirks that makes us realize it is just a draft prior to publication, due to some of the poor explanation of certain concepts, but it still is quite understandable, always full of practical and simple examples and explanations that allow us to comprehend the concept being developed.
 
