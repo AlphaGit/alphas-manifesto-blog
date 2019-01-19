@@ -39,7 +39,7 @@ comments:
   content: Amazing post, thanks. I should read this http://floating-point-gui.de/basic/.
 ---
 
-![]({{ site.url }}/assets/chemistryskunk.png)
+![]({{ site.baseurl }}/assets/chemistryskunk.png)
 
 Applied skepticism
 

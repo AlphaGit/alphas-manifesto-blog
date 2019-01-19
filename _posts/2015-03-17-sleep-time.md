@@ -38,7 +38,7 @@ And this is not a secret, it has been known for a while, and it's the exact reas
 
 And now I've tried a smart alarm. However, it is not one of the _true_ smart alarms. The ones that works correctly should be strapped onto me with electric sensors to monitor my brain activity, should be calibrated to my particular brain and then it'd say "yup, now is the correct time to wake up". But I didn't want to go that far, so I got one of the free ones available in the Apple store. I got the Azumio's <a href="http://www.azumio.com/s/sleeptime/index.html">Sleep Time</a>, and it did make a difference in my life.
 
-![]({{ site.url }}/assets/sleeptimemetrics.png)
+![]({{ site.baseurl }}/assets/sleeptimemetrics.png)
 
 
 Now, I'm not magically refreshed or suddenly everything's fine. I sometimes still wake up with a not-so-good night of sleeping, and this is no substitute for sleeping the right amount of hours you should sleep. However, the number of times I've woken up with that groggy feeling had been significantly reduced.

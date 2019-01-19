@@ -67,7 +67,7 @@ comments:
   content: "[&#8230;] found this post regarding code [&#8230;]"
 ---
 
-![]({{ site.url }}/assets/CodeReviewFilter2.jpg)
+![]({{ site.baseurl }}/assets/CodeReviewFilter2.jpg)
 
 Reaching agreement from a bunch of code
 

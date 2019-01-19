@@ -98,7 +98,7 @@ Digamos que tenemos un programa que factoriza números grandes, porque logramos 
 
 Básicamente deberíamos definir un método que sirva de callback. El callback (también llamado continuación) es un método que el thread que trabaja en la tarea llama cuando termina para avisar que su trabajo terminó. De esta forma, podemos preparar nuestra tarea, enviarla a ejecutar, hacer otras cosas en el intermedio y ejecutar código extra cuando la tarea termina, como por ejemplo, trabajar con los resultados.
 
-![]({{ site.url }}/assets/asyncWithoutAsync.png)
+![]({{ site.baseurl }}/assets/asyncWithoutAsync.png)
 
 
 (Ejemplo del código en Gist.GitHub: <a href="https://gist.github.com/2838443">Async without async</a>)

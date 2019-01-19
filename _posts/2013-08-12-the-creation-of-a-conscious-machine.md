@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/The_Creation_of_a_Conscious_Machine.jpg)
+![]({{ site.baseurl }}/assets/The_Creation_of_a_Conscious_Machine.jpg)
 
 La destrucción de una buena idea
 

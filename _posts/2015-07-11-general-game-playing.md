@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/mechaskunky.png)
+![]({{ site.baseurl }}/assets/mechaskunky.png)
 
 Automatic players that don't complain when they lose
 

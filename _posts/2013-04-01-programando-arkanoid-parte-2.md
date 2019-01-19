@@ -68,7 +68,7 @@ comments:
     obstáculos.
 ---
 
-![]({{ site.url }}/assets/Building2lq.jpg)
+![]({{ site.baseurl }}/assets/Building2lq.jpg)
 
 El escenario de juego y el jugador en él
 
@@ -83,7 +83,7 @@ En <a title="Programando Arkanoid - Parte 1" href="https://blog.alphasmanifesto.
 
 ## Introducción del escenario
 
-![]({{ site.url }}/assets/arkanoidescenario.jpg)
+![]({{ site.baseurl }}/assets/arkanoidescenario.jpg)
 
 
 Ya tenemos generado el objeto `canvas` y las opciones para comenzar a dibujar sobre el contexto. Ahora, toda esa lógica de dibujado debería ser encerrada en algún objeto que pueda coordinar los elementos a dibujar -- o a no dibujar (por ejemplo, cuando un bloque desaparezca). Por otra parte, este objeto podrá hacer los cálculos de tamaños según el tamaño del escenario (una de las opciones que ya inicializamos).
@@ -115,7 +115,7 @@ Como nota extra, notarán que no me preocupó escribir esto en el global scope. 
 
 ## El jugador
 
-![]({{ site.url }}/assets/Building1lq.jpg)
+![]({{ site.baseurl }}/assets/Building1lq.jpg)
 
 
 El jugador será el primero de los elementos que se dibuje en nuestra pantalla, y eso ya agrega varias responsabilidades a resolver. El dibujado en sí no debería ser una responsabilidad del jugador, sino las características que lo hacen un jugador (como su posición y su movimiento). Por supuesto, también debe dibujarse pero esa no es una característica única de él. ¡Esto suena a herencia de objetos!
@@ -126,7 +126,7 @@ Por ahora nos ocuparemos de los bloques, y a estos los llamaremos `DrawableBlock
 
 Y finalmente, entre los bloques, tendremos tanto a los bloques objetivos como al jugador. Concentrémosnos en el jugador por ahora, y creemos una clase para él: `ArkanoidPlayer`, heredando de `DrawableBlock`. Hasta este momento, esta es nuestra herencia de clases:
 
-![]({{ site.url }}/assets/DrawableEntityBaseDrawableBlockArkanoidPlayer.png)
+![]({{ site.baseurl }}/assets/DrawableEntityBaseDrawableBlockArkanoidPlayer.png)
 
 
 Vamos a un poco de código.
@@ -220,7 +220,7 @@ Para este caso, invocaremos a `ellipse()`, <a href="http://docs.webplatform.org/
 
 Hasta ahora, entonces, nuestra jerarquía de objetos se vería así:
 
-![]({{ site.url }}/assets/hierarchy2.png)
+![]({{ site.baseurl }}/assets/hierarchy2.png)
 
 
 No será la última vez que trabajemos con la pelota, porque además de la capacidad de dibujarse, hay otras características que deberemos tratar más adelante.

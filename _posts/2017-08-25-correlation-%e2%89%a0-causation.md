@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/AB.jpg)
+![]({{ site.baseurl }}/assets/AB.jpg)
 
 But causation ⇒ correlation|
 
@@ -60,7 +60,7 @@ And this is the scientific glory of data mining: it may help finding causations 
 
 Let's theoretically play with this example, taken from Wikipedia. I haven't fact-checked it, but it will still be a good example to discuss.
 
-![]({{ site.url }}/assets/CART_tree_titanic_survivors.png)
+![]({{ site.baseurl }}/assets/CART_tree_titanic_survivors.png)
 
 
 This is a decision tree that shows the relationship of three variables to how likely a passenger was to survive the Titanic accident. This is how to read it:

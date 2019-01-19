@@ -32,7 +32,7 @@ comments:
   content: that was a good Journal writing
 ---
 
-![]({{ site.url }}/assets/Journal.gif)
+![]({{ site.baseurl }}/assets/Journal.gif)
 
 Spoiler: not a journal about guns
 
@@ -72,7 +72,7 @@ There are drawbacks, though, most of them recognized by the author himself:
 
 I don't think most of these are drawbacks but rather caveats that you need to consider when deciding if this is the method for you.
 
-![]({{ site.url }}/assets/bullet-journal.jpg)
+![]({{ site.baseurl }}/assets/bullet-journal.jpg)
 
 
 ## My experience

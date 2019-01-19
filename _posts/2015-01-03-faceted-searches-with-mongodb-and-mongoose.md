@@ -37,7 +37,7 @@ comments:
     can read about it here. [&#8230;]"
 ---
 
-![]({{ site.url }}/assets/mongo-faceted-logo-300x290.png)
+![]({{ site.baseurl }}/assets/mongo-faceted-logo-300x290.png)
 
 Generating facet search results
 
@@ -60,7 +60,7 @@ When you search google for "cars", you will get a list of results. You can think
 
 When you switch to Google Images, you have performed yet another filter: you're telling Google to provide results related with cars AND those that happen to be images. Before you can congratulate yourself again, you may have noticed that the toolbar can help you find what you're looking for, with options that seem to be a little more intelligent: options that make sense for images, for example, their color.
 
-![]({{ site.url }}/assets/googlecars.png)
+![]({{ site.baseurl }}/assets/googlecars.png)
 
 
 This type of filter makes no sense for things that are not images.

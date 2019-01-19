@@ -32,7 +32,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/gitTree.png)
+![]({{ site.baseurl }}/assets/gitTree.png)
 
 Los más comunes y el historial de cambios que generan
 
@@ -80,14 +80,14 @@ Yo estaba acostumbrado al siguiente flujo en git:
 
 El resultado de este es lo esperado: una rama master siendo actualizada y el historial del cambio de cada rama disponible en el historial de git. Esto es también lo que hace por defecto GitHub si manejamos pull requests y merges desde la aplicación web.
 
-![]({{ site.url }}/assets/gitSimpleFlow.png)
+![]({{ site.baseurl }}/assets/gitSimpleFlow.png)
 
 
 Ejemplo de flow "branch, merge" en git. Tomado de <a href="https://github.com/beatfactor/nightwatch/">Nightwatch</a>[/caption]
 
 A veces tenemos la suerte suficiente como para que el paso 4 no requiera commits de ningún tipo, con lo cual desaparece uno de los commits de merges, y sólo queda el original del paso 3. En esos casos, veremos algo como la figura siguiente.
 
-![]({{ site.url }}/assets/gitBranchMerge2.png)
+![]({{ site.baseurl }}/assets/gitBranchMerge2.png)
 
 
 Esto no quiere decir que no haya ocurrido el paso 4, sólo que no hace falta un commit particular para el merge, con lo que el marcador de la rama master sólo actualiza su posición y se mueve hacia adelante (fast-forward).
@@ -113,7 +113,7 @@ Imaginen el siguiente escenario: tengo mis commits 1, 2 y 3. En cada uno de los 
 
 Esta desventaja no es algo muy importante pero ciertamente hay que tener en cuenta. Además, con el uso de unit testing y acceptance testing automatizado, ya no es tan difícil verificar aspectos variados, con lo que se hace más simple asegurarnos que nuestros conflictos hayan sido resueltos correctamente.
 
-![]({{ site.url }}/assets/gitBranchRebase.png)
+![]({{ site.baseurl }}/assets/gitBranchRebase.png)
 
 
 Este flujo se deshace de esos commits de merging, que suelen ser confusos. La línea de desarrollo es, en su mayoría, directa (excepto cuando myFeature1 y myFeature2 deben mergearse), y el avance de la rama principal es directo.
@@ -144,7 +144,7 @@ Esto dejará nuestro master limpito y sin historias innecesarias. El detalle nec
 
 Pueden <a href="https://github.com/AlphaGit/what-now/commits/master">ver un ejemplo de esto</a> en mi proyecto what-now, en el historial de commits:
 
-![]({{ site.url }}/assets/historyWhatNow.png)
+![]({{ site.baseurl }}/assets/historyWhatNow.png)
 
 Este flujo soluciona el problema de los commits no confiables porque simplemente desaparecen. Hay quiénes no se sienten cómodos con esta aproximación justamente por eso: se pierde el historial del desarrollo parcial de un feature particular. Personalmente, no lo veo como un problema: me parece útil mientras se está desarrollando una parte del sistema, pero para el futuro eso ya no tiene importancia.
 

@@ -36,7 +36,7 @@ comments:
   content: Gracias por compartirlo, muy buen post!
 ---
 
-![]({{ site.url }}/assets/scopeSoupMin.png)
+![]({{ site.baseurl }}/assets/scopeSoupMin.png)
 
 Tomando la sopa por el mango de la cuchara
 

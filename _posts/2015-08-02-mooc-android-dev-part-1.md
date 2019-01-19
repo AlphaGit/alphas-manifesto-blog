@@ -66,7 +66,7 @@ comments:
     fácil (como este, particularmente).
 ---
 
-![]({{ site.url }}/assets/android.png)
+![]({{ site.baseurl }}/assets/android.png)
 
 That little green trash can
 

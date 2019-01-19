@@ -42,7 +42,7 @@ comments:
     this on my previous post) [&#8230;]"
 ---
 
-![]({{ site.url }}/assets/multitasking.png)
+![]({{ site.baseurl }}/assets/multitasking.png)
 
 Before it makes you frown
 
@@ -56,7 +56,7 @@ Besides the problem of solving everything, there's also the problem of keeping u
 
 Let me introduce you a new set of tools called: **paper and pen!**
 
-![]({{ site.url }}/assets/sexyPenAndPaper1.jpg)
+![]({{ site.baseurl }}/assets/sexyPenAndPaper1.jpg)
 
 
 I found that in this type of situations, writing down quickly everything that's going on allows me to quickly switch contexts without losing anything in between, because it's all on paper. Furthermore, the act of writing it down has a psychological effect of alleviating that cognitive load that creates this stressful situations.

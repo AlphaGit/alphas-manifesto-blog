@@ -27,7 +27,7 @@ comments: []
 
 ... te permite hacer este tipo de cosas:
 
-![]({{ site.url }}/assets/mailsTwitter.png)
+![]({{ site.baseurl }}/assets/mailsTwitter.png)
 
 ¿Acaso a alguien más le encanta la forma en la que Twitter maneja los emails? Me agrada muchísimo la idea en donde hicieron el estilo de los emails totalmente similar al de la web. Simple, clara y con la información justa.
 

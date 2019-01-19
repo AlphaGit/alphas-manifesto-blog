@@ -37,7 +37,7 @@ comments:
     goal is helping to hide it. [&#8230;]"
 ---
 
-![]({{ site.url }}/assets/whip.png)
+![]({{ site.baseurl }}/assets/whip.png)
 
 They should work for you!
 

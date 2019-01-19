@@ -68,7 +68,7 @@ Comencé como un proceso de autocapacitación mi investigación personal de las 
 
 ## Instalación
 
-![]({{ site.url }}/assets/vs11installscreen.png){ :align-left }
+![]({{ site.baseurl }}/assets/vs11installscreen.png){ :align-left }
 
 
 Lo primero que tengo que comentar es la instalación. La interfaz está mucho más refinada, pero más allá de eso, es un poco más oscura en el sentido en que no tenemos mucha información sobre qué está pasando. No he tenido problemas con la instalación, pero imagino que debe ser más complicado de hacer troubleshooting si ocurriera algún error. Por último, la instalación toma su buen par de horas, quizá extendiéndose hasta cuatro o cinco. Si tiene que bajar los updates de internet, es lo suficientemente inteligente como para hacerlo en paralelo mientras otra cosa se instala, así que tener una conexión pobre no debería ser un problema a menos que fuera muy acotada.
@@ -91,19 +91,19 @@ Mi primer sorpresa es la elección de colores que tuvieron con el entorno. En ge
 
 Recordemos nuevamente que está pensado también para Windows 8, con lo que mi apreciación podría ser equivocada, pero no lo he probado aún. Esa es otra historia y probablemente otra serie de posts.
 
-![]({{ site.url }}/assets/vs11intellisense.png)
+![]({{ site.baseurl }}/assets/vs11intellisense.png)
 
 
 Como pueden ver en el screenshot que tomé, también optaron por eliminar los colores de los menúes contextuales, específicamente les muestro el de Intellisense, el cual me parece una pésima decisión. La habilidad de distinguir propiedades, métodos, clases, enumerados y campos por color a simple vista era una bendición. Las selecciones de arriba siguen siendo dropdowns anque parezcan desaparecidos, y los íconos más el gris claro/gris oscuro/negro de toda la sección derecha lo hace difícil de acostumbrarse. Creo entender la intención: esta pantalla nos concentra, sin duda, en el código, y eso definitivamente debería ocurrir.
 
 El entorno completo parecer ser más rápido y responsivo, sospecho que estará utilizando la misma tecnología de async que el nuevo framework ofrece.  ¿Recuerdan el cuadro de diálogo de Add Reference, que fácilmente detenía todo unos minutos hasta recuperar el listado de assemblies? Sigue tardando, pero ya no significa un problema, el entorno sigue respondiendo como si nada estuviera ocurriendo de fondo.
 
-![]({{ site.url }}/assets/vs11errorlist.png)
+![]({{ site.baseurl }}/assets/vs11errorlist.png)
 
 
 Una muy buena adición que encontré es la capacidad de filtrar errores desde el listado de errores de compilación. Esto nos permite dar un paso adelante, cuando ya estamos acostumbrados a determinados errores causando otros, pudiendo concentrar nuestro esfuerzo en solucionar esos primero. Como pueden ver además, el filtro funciona para cualquier campo, lo cual resulta totalmente natural.
 
-![]({{ site.url }}/assets/vs11unittest.png)
+![]({{ site.baseurl }}/assets/vs11unittest.png)
 
 
 Desafortunadamente, parece que esta característica no se comporta de forma consistente en todas la ventanas. Otra que me interesa que vean es la ventana _Unit Test Explorer_, otra que estaremos viendo muy seguido, más todavía si trabajamos con TDD. En este caso la búsqueda sólo funciona con el nombre de las pruebas y uno debe presionar enter para aceptar la búsqueda, cuando en la anterior ya con sólo filtrar podíamos ver nuestro filtro aplicarse.
@@ -112,7 +112,7 @@ Esta ventana, sin embargo, tuvo un rediseño visual algo importante y me agrada 
 
 Parece que otra característica que tampoco nos dejará muy contentos es algo que estaba siendo muy aclamado. Cualquiera que reconozca la frase "_Expression cannot contain lambda expressions"_ sabe de qué estoy hablando. Así es, esa frase sigue presente y nos sigue molestando aún en esta nueva versión. Por favor, espero que la versión final del IDE agregue esto porque es una funcionalidad que puede salvar horas y horas de desarrollo.
 
-![]({{ site.url }}/assets/vs11quickwatch.png)
+![]({{ site.baseurl }}/assets/vs11quickwatch.png)
 
 
 Desafortunadamente alguien ha decidido que agregar coloreado al texto que tipeamos ahí fue más importante, y terminamos con una versión algo buggeada de texto formateado (como pueden ver en la imagen anterior, ambas decepciones juntas). No es realmente nada tan terrible como algo que no funcione, pero muchos queremos poder efectuar un _.Where()_ para no tener que pasar por más de 200 elementos en un enumerable.
@@ -125,7 +125,7 @@ Dispuse la siguiente prueba para verificar su funcionalidad, y como sorpresa ext
 
 Desafortunadamente mi prueba no resultó muy exitosa, ya que al elegir una ventana de watch para poder ver, el siguiente mensaje se hace presente (les dije que algo iba a romper):
 
-![]({{ site.url }}/assets/vs11parallelwatch.png)
+![]({{ site.baseurl }}/assets/vs11parallelwatch.png)
 
 
 Creo que de todos momentos puedo estar en el camino equivocado, ya que en la ventana de Parallel Tasks nada aparecía. Seguramente tenga algo que ver con la nueva característica de <a href="http://msdn.microsoft.com/en-us/library/hh191443(v=vs.110).aspx">async tasks de .NET 4.5</a>.

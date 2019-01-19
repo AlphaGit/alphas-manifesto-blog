@@ -50,7 +50,7 @@ Esta parte de la película (no se preocupen, no arruinaré la trama) me trajo un
 
 <!--more-->
 
-![]({{ site.url }}/assets/nickFury.jpg)
+![]({{ site.baseurl }}/assets/nickFury.jpg)
 
 
 Este es, salvando las diferencias y las armas de fuego, el tipo de relaciones que queremos tener internamente en nuestros equipos, y el tipo de relaciones que queremos que nuestros partners tengan con nosotros. Es algo que nos ha ocurrido muchas veces. Es fácil confiar cuando todo está bien, así que quiero contar la anécdota que más me gusta: cuando las cosas no estaban tan bien.

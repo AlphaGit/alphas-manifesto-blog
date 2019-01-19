@@ -56,7 +56,7 @@ comments:
     (even if not functional) and they should be considered part of the design.\r\n\r\nThanks!"
 ---
 
-![]({{ site.url }}/assets/arrow.jpg)
+![]({{ site.baseurl }}/assets/arrow.jpg)
 
 Testing requires decoupling
 

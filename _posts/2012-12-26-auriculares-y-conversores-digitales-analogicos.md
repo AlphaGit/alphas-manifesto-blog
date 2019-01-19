@@ -71,7 +71,7 @@ Me aseguré que el volumen no me fuera a hacer explotar la cabeza y puse música
 
 Hoy, casi un año después, pienso exactamente lo mismo.
 
-![]({{ site.url }}/assets/Headphones.jpg)
+![]({{ site.baseurl }}/assets/Headphones.jpg)
 
 ## DAC -- Conversor digital a análogo
 
@@ -89,7 +89,7 @@ Bueno, la configuraciones a realizar en las máquinas no son realmente muchos. L
 
 Por otro lado, hay <a href="http://superuser.com/q/492281/94180">una pequeña estrategia</a> a seguir para lograr buena calidad con las computadoras. Trata de mantener, por software, el volumen lo más alto posible. Si se escucha demasiado fuerte, probablemente la computadora esté amplificando y entonces un punto medio será aceptable. Para manejar el volumen entonces usamos los dispositivos externos (DAC, parlantes, o lo que sea) y tendremos unos pequeños puntos más sumados a la calidad. No harán una diferencia terrible, pero la hará.
 
-![]({{ site.url }}/assets/headphonesydac.jpg)
+![]({{ site.baseurl }}/assets/headphonesydac.jpg)
 
 ## Conclusión
 

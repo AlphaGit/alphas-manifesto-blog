@@ -36,7 +36,7 @@ comments:
   content: "Well written and presented stuff.Keep it up.\r\nhttps://www.simpliv.com"
 ---
 
-![]({{ site.url }}/assets/working-effectively-legacy.jpg)
+![]({{ site.baseurl }}/assets/working-effectively-legacy.jpg)
 
 Your weapons against any badly designed code
 

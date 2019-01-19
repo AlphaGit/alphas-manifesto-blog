@@ -36,7 +36,7 @@ comments:
     too..
 ---
 
-![]({{ site.url }}/assets/Docker-heavy.png)
+![]({{ site.baseurl }}/assets/Docker-heavy.png)
 
 _Making efficient final images_
 

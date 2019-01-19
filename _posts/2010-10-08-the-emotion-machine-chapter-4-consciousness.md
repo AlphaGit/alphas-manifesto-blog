@@ -38,7 +38,7 @@ Going on with my reading of <a href="https://blog.alphasmanifesto.com/2009/09/20
 
 The first section of the chapter tries to define what consciousness _is_, of course, failing as in fact "conscience" is nothing but a word that describes something that we are able to percieve. As our mind, it can't be so simple as to define with just one word (or just one process) so Minsky states that consciousness may be in fact the interaction of different mind resources. He proposes the idea that our minds have a _consciousness detector_ that is activated when certain resources are activated. In that idea we can explain for unconcious complex behavior and conscious simple behavior. (Of course, also the oposite.)
 
-![]({{ site.url }}/assets/minskys-consciousness-detector.gif)
+![]({{ site.baseurl }}/assets/minskys-consciousness-detector.gif)
 
 Minsky also describes how neural or connectivity networks cannot fully describe the secrets of counsciousness, but semantic networks can. (How aligned is this with neurobiology?) This is because our counsciousness process must have at least four characteristics:
 

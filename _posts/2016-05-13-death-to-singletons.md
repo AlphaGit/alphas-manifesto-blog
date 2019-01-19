@@ -34,7 +34,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/Singleton.png)
+![]({{ site.baseurl }}/assets/Singleton.png)
 
 Singleton.Instance.SelfDestruct();
 
@@ -57,7 +57,7 @@ So, pretty much as it sounds. A singleton is the pattern where a single object o
 
 The usual design looks like this:
 
-![]({{ site.url }}/assets/MySingletonClass.png)
+![]({{ site.baseurl }}/assets/MySingletonClass.png)
 
 
 The usual implementation goes like this:

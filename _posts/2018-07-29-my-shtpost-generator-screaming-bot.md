@@ -33,7 +33,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/20120227-robotthatscreams-1.png)
+![]({{ site.baseurl }}/assets/20120227-robotthatscreams-1.png)
 
 Text generation with nltk, markovify, Tumblr, docker
 
@@ -48,7 +48,7 @@ I wanted to try out a few text generation tools so I decided I would make a bot 
 
 Shitposting is, in spite of what Wikipedia says this time, a low quality post that might revolve around memes or occurrences. Usually bad or bizarre enough that they cannot even qualify as jokes, but become jokes because of the sheer absurdness of it. Without going further, let me give you an example:
 
-![]({{ site.url }}/assets/truth-1.jpg)
+![]({{ site.baseurl }}/assets/truth-1.jpg)
 
 
 I find these hilarious but that is besides the point.

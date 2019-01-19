@@ -39,12 +39,12 @@ Uno de los elementos que más cambio ha tenido son los indicadores de progreso. 
 
 Cabe aclarar que los indicadores de progreso vienen en dos sabores. Uno de ellos es el indicador de progreso indeterminado, el cual indica que hay un progreso ocurriendo de fondo en nuestra aplicación, pero sin indicar qué tan cerca estamos de terminar esa operación. Muchos de estos hemos visto en Youtube y distintas páginas que hacen uso de ajax. <a href="http://commons.wikimedia.org/wiki/Category:Throbbers">Wikimedia tiene una linda galería de estos</a>, pero para ejemplo, aquí tienen uno:
 
-![]({{ site.url }}/assets/loader.gif)
+![]({{ site.baseurl }}/assets/loader.gif)
 
 
 El otro tipo de indicador es la barra de progreso propiamente dicha. Esta barra es el concepto básico que indica un límite en donde el trabajo ha sido terminado y nuestra posición respecto de completar esa tarea. <a href="https://www.google.com/search?q=progress+bar&amp;sugexp=chrome,mod%3D11&amp;um=1&amp;ie=UTF-8&amp;hl=en&amp;tbm=isch&amp;source=og&amp;sa=N&amp;tab=wi&amp;authuser=0&amp;ei=KRDjT7fBCOuu2AWmlazqCw&amp;biw=1920&amp;bih=979&amp;sei=LBDjT62ZJIO42wWm8NTcCw">Una búsqueda en Google Images</a> devuelve muchas, muchas imágenes para saber de qué estamos hablando, y mejor aún, <a href="http://prettyloaded.com/">PrettyLoaded</a> es un sitio (Flash) con una galería continua de pre-loaders que reutilizan este concepto con distintas formas.
 
-![]({{ site.url }}/assets/progressbar.gif)
+![]({{ site.baseurl }}/assets/progressbar.gif)
 
 ## Jugando con la mente
 

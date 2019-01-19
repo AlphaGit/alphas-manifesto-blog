@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/papers.png)
+![]({{ site.baseurl }}/assets/papers.png)
 
 Secrecy is the halt of humanity's progress
 

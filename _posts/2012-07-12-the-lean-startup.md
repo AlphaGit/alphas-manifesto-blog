@@ -38,7 +38,7 @@ Cómo los entrepeneurs de hoy usan la innovación continua para crear negocios e
 
 <a href="http://www.amazon.com/The-Lean-Startup-Eric-Ries/dp/0670921602">The Lean Startup</a> es no sólo el título del nuevo libro de **Eric Ries**, sino además el nombre del movimiento que él inició intentando reestructurar la forma en la que se ve al entrepeneurship y a la innovación dentro del mundo que vivimos. Este movimiento tiene su <a href="http://theleanstartup.com/">sitio principal en el sitio de The Lean Startup</a>.
 
-![]({{ site.url }}/assets/theleanstartup.jpg)
+![]({{ site.baseurl }}/assets/theleanstartup.jpg)
 
 
 Quizá más conocido por ser uno de los co-fundadores de **IMVU**, <a href="http://en.wikipedia.org/wiki/Eric_Ries">Eric Ries</a>, quien es activo en su blog <a href="http://www.startuplessonslearned.com/">Lessons Learned</a> y en <a href="https://twitter.com/ericries/">su cuenta de twitter</a>, intenta con este libro desmitificar al proceso de las startups y a toda la especulación que rodea al mundo de los entrepeneurs, y exponer procesos y maneras en la que se puede tratar con la gran incertidumbre en una startup.

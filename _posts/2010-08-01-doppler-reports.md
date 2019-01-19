@@ -41,7 +41,7 @@ I'm really glad to announce that since some time ago, I had the opportunity to w
 
 ## What is Doppler anyway?
 
-![Doppler]({{ site.url }}/assets/Doppler.png){ :align-left}
+![Doppler]({{ site.baseurl }}/assets/Doppler.png){ :align-left}
 
 For those that are not aware of it, <a href="http://www.fromdoppler.com">Doppler</a> is a online **email-marketing tool**. It's really complex, but explaining it just at a glance, you can use it to create email content online (template-based or editing it yourself online), and sending it massively to one or many of your pre-entered mailing lists. However, there is much more to it, and one of the big powers enclosed in such a tool is the ability to analyze the customer's reaction to your mail campaigns. When you have ten, maybe twenty, fifty, or even a hundred customers, this is something you could easily do with lists. You check for your contacts, you see who opened the email you sent, you see who click on which link, and that's all the information you need to go on.
 
@@ -59,7 +59,7 @@ Then we entered the scene. I had the chance to work closely along with <a href="
 
 ### **1. Distributed architecture**
 
-![Distributed architecture]({{ site.url }}/assets/ModularAndDistributed.png){ :align-right}
+![Distributed architecture]({{ site.baseurl }}/assets/ModularAndDistributed.png){ :align-right}
 
 Every part of Doppler will work as a separated module, that can have many instances working at the same time. There is a special module which will take care of connecting all of the others between them, but these interconnection modules may work independently as well.
 
@@ -69,7 +69,7 @@ This also means that if we have too much load, because of intensive use, we can 
 
 ### **2. Security on each call**
 
-![Keys and lock]({{ site.url }}/assets/Keys.png)
+![Keys and lock]({{ site.baseurl }}/assets/Keys.png)
 
 Having this modules out on the wild is no little thing for security. So, security had to be strong as possible, and we developed a communication protocol that would allow each module to check if the caller is in fact an authorized application and that it is ok to return data to it. If everything goes right, then the call is made and the results are returned. If something goes wrong, as like if you provided an incorrect token, you would never know what happened. This is not transparent at all for the end developer (and we know that), but **it is as secure as it gets** to prevent hackers.
 
@@ -83,7 +83,7 @@ More than an architectural decision, this was a challenge. You already know that
 
 This means that you can now enter the **dashboard** screen summary report for one of your campaigns, and you would see (_beware... long list coming_):
 
-![]({{ site.url }}/assets/Time.png)
+![]({{ site.baseurl }}/assets/Time.png)
 
 - Name of the campaign
 - Subject for the campaign
@@ -111,7 +111,7 @@ Of course, we also use caching. This adds another layer of interaction until we 
 
 ### **4. Modular design**
 
-![]({{ site.url }}/assets/Puzzle.png)
+![]({{ site.baseurl }}/assets/Puzzle.png)
 
 
 I mentioned before that Doppler had started to become more complex, and is now being designed with a modular approach. In this way, modules work independently and at the same time, they rely responsibilities on the module that really knows how to solve a certain problem, or to treat certain data. Having a modular design is terribly important for future changes. It allows our team to parallelize work, it allows our team (and application) to grow.

@@ -32,7 +32,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/Experiment.png)
+![]({{ site.baseurl }}/assets/Experiment.png)
 
 Hey, I messed up but at least I learnt from it!
 

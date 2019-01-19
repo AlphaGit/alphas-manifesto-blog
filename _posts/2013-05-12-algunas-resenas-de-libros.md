@@ -53,7 +53,7 @@ En este caso, los libros de los que voy a hablar son:
 
 _por Matthew Inman_
 
-![]({{ site.url }}/assets/catplot1.jpg)
+![]({{ site.baseurl }}/assets/catplot1.jpg)
 
 Este es el libro de Matthew Inman, mejor conocido como <a href="http://theoatmeal.com/">The Oatmeal</a>, un escritor de web comics que tiene un humor algo explícito y muy sarcástico. Amante de los animales y la ciencia, fue mucho mejor conocido por las respuestas ultra-sarcásticas que da a quienes lo amenazan legalmente (ver <a href="http://theoatmeal.com/blog/funnyjunk">caso FunnyJunk</a>, la <a href="http://theoatmeal.com/blog/funnyjunk2">respuesta de FunnyJunk</a> y la <a href="http://theoatmeal.com/blog/funnyjunk_letter">demanda de FunnyJunk por defamación</a>). Si algo quiero compartir de los comics de Oatmeal es su increíble tributo a la vida de Tesla: <a href="http://theoatmeal.com/comics/tesla">Why Nikola Tesla was the greatest geek that ever lived</a>, y la seguidilla de posts en donde él usó su fama para salvar la torre Wardenclyffe y convertirla en un museo.
 
@@ -61,7 +61,7 @@ Volviendo al libro, es una recopilación de muchos de los comics que están onli
 
 Quiero alardear un poquito sobre el hecho de que Matthew Inman ("el chico de los gatos", según se refirieron a él en la librería) visitó nuestra ciudad el año pasado y aprovechamos a saludar y pedirle un autógrafo. A diferencia de lo que sus comics nos hacen pensar, él es una persona de buena presentación, en buena forma física, joven y muy amable.
 
-![]({{ site.url }}/assets/catplot2.jpg)
+![]({{ site.baseurl }}/assets/catplot2.jpg)
 
 
 Resumiendo: buen humor, aunque no destacable, simple. Libro corto.
@@ -72,7 +72,7 @@ Resumiendo: buen humor, aunque no destacable, simple. Libro corto.
 
 _por George Heineman, Gary Pollice y Stanley Selkow_
 
-![]({{ site.url }}/assets/algorithms_nutshell.jpeg)
+![]({{ site.baseurl }}/assets/algorithms_nutshell.jpeg)
 
 
 Este libro tiene una muy buena premisa y propósito: hacer entender el concepto detrás de los algoritmos más comunes que se utilizan en el mundo de la informática. Básicamente: ordenamiento, asociación, recorrida de grafos, recorrida de árboles, búsqueda. Desafortunadamente, el libro sufre de varios problemas que lo hace muy difícil de seguir, como por ejemplo:
@@ -92,7 +92,7 @@ En definitiva, tuve una mala experiencia pero no fue totalmente negativa. Logré
 
 _por Stephen Hawking_
 
-![]({{ site.url }}/assets/grandDesign.jpg)
+![]({{ site.baseurl }}/assets/grandDesign.jpg)
 
 
 Personalmente, pensé que este libro se centraría en la controversia de Hawking afirmando que no se requiere un Dios para tener al universo de la forma en la que hoy existe, y más aún con toda la polémica de las teorías del Diseño Inteligente. (Esa es una discusión que no abordaré aquí.)
@@ -106,7 +106,7 @@ Un punto muy importante que también explica es el principio antrópico y cómo 
 
 _por Jacob Seidelin_
 
-![]({{ site.url }}/assets/html5games.jpg)
+![]({{ site.baseurl }}/assets/html5games.jpg)
 
 
 Este es uno de esos libros que, como _Algorithms in a Nutshell_, tiene muy buena intención pero la forma de llevar a cabo sus explicaciones no son tan buenas. Sin embargo, a diferencia de ese ejemplo, este sí tiene un contenido con bases mucho más fáciles de comprender, incluso para aquél que no esté totalmente familiarizado con la programación JavaScript.

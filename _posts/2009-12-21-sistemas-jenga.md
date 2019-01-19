@@ -36,7 +36,7 @@ comments: []
 
 Suelo decir muchas tonterías a modo de chiste, pero de tanto en tanto, alguna de ellas tiene un poco de verdad. Hoy, hablando de un sistema del que estoy encargado (entre otras personas) de mantener, pensé que estaba muy difícil su actualización, <a href="http://twitter.com/AlphaTwi/status/6895562175">y lo llamé un </a>_<a href="http://twitter.com/AlphaTwi/status/6895562175">Sistema Jenga</a>_.  ¿Qué es un _sistema Jenga_? Es un sistema para el cual agregar una pieza hace que peligre toda la estructura de su programación.
 
-![]({{ site.url }}/assets/Jenga.gif){: .align-left}
+![]({{ site.baseurl }}/assets/Jenga.gif){: .align-left}
 
 Aquí participan varios conceptos que alguna vez he mencionado. Uno de ellos es, por supuesto, la arquitectura o la estructura con la cual se ha programado, diseñado y modelado el sistema en cuestión. Es obvio que una buena arquitectura, o una pensada en torno a futuros cambios, pueda ser lo suficientemente flexible como para aceptar futuros nuevos requerimientos sin necesidad de rediseños mayores o cambios drásticos en la programación anterior. Pero ese no es el concepto que más me interesa discutir hoy.
 
@@ -48,7 +48,7 @@ Entonces, a medida que pasa el tiempo, es muy factible que los requerimientos pa
 
 Yo creo (aunque es mi opinión personal) que en ese caso el sistema se vuelve obsoleto, y pierde su razón de ser. Es entonces en donde el mantenimiento de esos sistemas para acomodarse a los nuevos requerimientos puede ser algo dramático, porque se está intentando usar algo que ni siquiera estaba pensado de la forma que se necesita para algo que ni siquiera estaba pensado que se iba a necesitar. Casos tan drásticos son raros, pero son factibles de ocurrir. Y creánme, ocurren.
 
-![]({{ site.url }}/assets/Bathtub_curve.jpg){ :align-right}
+![]({{ site.baseurl }}/assets/Bathtub_curve.jpg){ :align-right}
 
 
 Esto no es nada nuevo tampoco. Se sabe, y es algo conocido como "la curva de la tina de baño" (o su nombre en inglés "Bathtub curve") que el ciclo de vida de un sofware, o la utilidad que el mismo proporciona a sus propósitos es poco al principio, hasta que los usuarios logran sacar el máximo provecho de los sistemas, hasta que los demás sistemas lograron integrarse de forma correcta al mismo y hasta que los bugs iniciales hayan sido corregidos. En la etapa media es el ápice de la utilización de esos sistemas, pero pasado el tiempo, es cuando el sistema ya deja de satisfacer las necesidades del usuario.

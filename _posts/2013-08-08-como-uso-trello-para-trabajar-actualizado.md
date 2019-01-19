@@ -161,7 +161,7 @@ comments:
     se llama \r\n\r\nhttps://www.getharvest.com/trello\r\n\r\nespero les sea util"
 ---
 
-![]({{ site.url }}/assets/TrelloWorkUpdated.jpg)
+![]({{ site.baseurl }}/assets/TrelloWorkUpdated.jpg)
 
 Cambios a mi flujo de trabajo para más productividad
 

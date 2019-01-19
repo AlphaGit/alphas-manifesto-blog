@@ -30,7 +30,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/jqueryNoviceToNinja.jpg)
+![]({{ site.baseurl }}/assets/jqueryNoviceToNinja.jpg)
 
 Manos a la obra desde lo más básico
 
