@@ -34,9 +34,9 @@ comments:
   date_gmt: '2018-11-07 04:40:27 +0000'
   content: Well written and presented about Docker and the file system.Much informative
     too..
-image:
-  feature: Docker-heavy.png
 ---
+
+![]({{ site.baseurl }}/assets/Docker-heavy.png)
 
 _Making efficient final images_
 
