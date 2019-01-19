@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Correlation &ne; causation
@@ -30,9 +31,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/AB.jpg)
-
-But causation ⇒ correlation|
-
 
 In my earlier post I explained how certain type of machine learning models, specifically neural networks, find the correlations between two sets of values. For predictive models, we feed correlated variables to train our models. However, sometimes, we don't know if or how variables correlate, and part of the machine learning intelligence is to actually find that out.
 

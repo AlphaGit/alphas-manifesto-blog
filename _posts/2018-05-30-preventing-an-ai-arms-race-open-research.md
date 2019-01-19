@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: 'Preventing an AI arms race: open research'
@@ -29,10 +30,9 @@ comments: []
 
 ![]({{ site.baseurl }}/assets/papers.png)
 
-Secrecy is the halt of humanity's progress
-
-
 I've noticed a trend in the AI research field, and one I feel pretty proud to talk about.
+
+<!--more-->
 
 Given the latest advancements, even if there is or there is not a plateau in research in these next years, means that there is definitely a technological advance to nations or corporations that have the first step into new revolutionary AI. I am not talking about the new Skynet (although <a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads">some people suggest it</a>), but rather who gets the head start that creates the new vicious cycle. Those where our regulations are not enough to keep up, and we need to rethink what our laws are regarding economy, or military, or ethics.
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Neural Networks can learn anything
@@ -30,9 +31,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/SkunkBalls.jpg)
-
-A simple explanation on the basis of neural network learning
-
 
 This is a question I've been recently asked, and I think it's interesting enough to share about. A few people asked me how is it that machines can learn, and specifically, how is it that neural networks can learn to understand data that may be really complex. The goal of this article is not to give an in-depth explanation, but rather one that can be easily understood.
 

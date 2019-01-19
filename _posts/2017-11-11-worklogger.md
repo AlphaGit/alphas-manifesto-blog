@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Worklogger
@@ -30,9 +31,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/time.jpg)
-
-Automatic timesheet entry
-
 
 As you may know, part of the daily responsibilities of the software-workers is to log their time. (And many other professions too, I'm sure.) This implies reporting time with a certain level of detail so that our managers (sometimes, ourselves) can properly bill each customer for the work done.
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Deep Learning (book review)
@@ -30,9 +31,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/deep-learning.jpg)
-
-by Goodfellow, Bengio and Courville
-
 
 I finally finished reading Deep Learning, by Ian Goodfellow, Yoshua Bengio and Aaron Courville. And as a wonderful as a book as it is, it wasn't an easy read, at all.
 

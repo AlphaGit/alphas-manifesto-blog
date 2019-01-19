@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Udacity's Deep Learning Nanodegree Foundations
@@ -29,9 +30,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/nd101.png)
-
-Course contents and structure
-
 
 A few weeks ago I graduated from Udacity's Deep Learning Foundations Nanodegree program. It was an introduction to all things deep learning, from the very basics to state of the art techniques. Let me tell you a little bit about it.
 

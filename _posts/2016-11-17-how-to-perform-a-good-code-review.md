@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: How to perform a good code review
@@ -68,9 +69,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/CodeReviewFilter2.jpg)
-
-Reaching agreement from a bunch of code
-
 
 I recently wrote about <a href="https://blog.alphasmanifesto.com/2016/07/11/how-to-create-a-good-pull-request/">how to create a good pull request</a>, this is, how to make your code changes easy to review and discuss. Now we're going to talk about the second part: reviewing someone else's code. This puts you on the reviewers side, and hopefully the person submitting code did follow our guidelines to make your life easier.
 

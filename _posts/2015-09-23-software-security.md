@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Software Security
@@ -68,9 +69,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/candado.png)
-
-MOOC by the University of Maryland
-
 
 Yes, I continue to go on courses. Now I just finished the <a href="https://www.coursera.org/course/softwaresec">Software Security</a> course, from the University of Maryland.
 

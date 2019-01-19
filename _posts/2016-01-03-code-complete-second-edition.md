@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Code Complete, Second Edition
@@ -38,9 +39,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/codecomplete.jpg)
-
-Aspects of software construction, deconstructed
-
 
 <a href="http://cc2e.com/">Code Complete</a> is like the reference manual of software development, regardless of the technology, industry or language you're working in. And there are really good reasons for that. Let me tell you what I thought of this book.
 

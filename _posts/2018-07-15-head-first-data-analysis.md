@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Head First Data Analysis
@@ -27,9 +28,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/headfirstdataanalysis.jpg)
-
-Introductory solid book on Data Analysis
-
 
 I just finished reading "Head First Data Analysis ", by Michael Milton, and it was the first book I've ever read from the "Head First" series.
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: The future of work, aided by AI?
@@ -31,9 +32,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/BeeDrones.jpg)
-
-How machine learning algorithms may take on our work
-
 
 I recently came across the article <a href="https://distill.pub/2017/aia/">Using Artificial Intelligence to Augment Human Intelligence</a>, by Shan Carter and Michael Nielsen. I'd like to tell you a bit about the ideas that this essay mentions, and a few interpretations of my own about them.
 

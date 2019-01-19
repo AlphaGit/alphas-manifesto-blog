@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Ciencia de datos ágil
@@ -29,12 +30,11 @@ comments: []
 
 ![]({{ site.baseurl }}/assets/7puentes.jpg)
 
-Curso de Ernesto Mislej
-
-
 (Post only in Spanish since I'm reviewing Spanish content. It's a Udemy course talking about Data Science in an agile framework.)
 
 Hace unos días terminé de participar del curso <a href="https://www.udemy.com/ciencia-de-datos-agil/learn/v4/">Ciencia de datos ágil</a>, por Ernesto Mislej, co-fundador de 7puentes. Al comienzo me recomendaron el curso porque cubría un hueco que no estaba muy bien explicado en las fuentes online: cómo llevar adelante un proyecto de Data Science, fuera del típico proceso waterfall que siempre se describe. Además, Ernesto es una fuente de buena reputación, por lo que el curso me interesó.
+
+<!--more-->
 
 El curso es relativamente corto, pero es algo condensado. El formato del curso es primero plantear algunos aspectos teóricos sobre el marco metodológico agile y la ciencia de datos. Luego, con esas bases, comienza un ejemplo práctico como si estuviéramos siendo parte de un proyecto. Tras eso, Ernesto nos lleva por lo que serían nuestras deducciones, idas, vueltas y conclusiones. También nos explica qué reuniones se "dieron" con nuestros clientes y todo lo que ocurre en un proyecto agile común y corriente.
 

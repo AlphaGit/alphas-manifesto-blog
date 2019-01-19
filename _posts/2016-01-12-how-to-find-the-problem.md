@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: How to find the problem
@@ -40,9 +41,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/chemistryskunk.png)
-
-Applied skepticism
-
 
 User minusSeven from the StackExchange community asked a seemingly uninteresting question that happens to be really deep and meaningful: <a href="http://productivity.stackexchange.com/questions/4827">How do you learn programming when you're stuck and without access to the internet?</a> All the answers there are really good and useful, but I think there's an underlying theme worth discussing: how a methodical approach should be.
 

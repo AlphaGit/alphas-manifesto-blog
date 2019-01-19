@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Failed experiments and what I've learned from them
@@ -33,9 +34,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/Experiment.png)
-
-Hey, I messed up but at least I learnt from it!
-
 
 In a preparation for a post that I'm going to write, I've prepared some code examples, and of course, making sure they work correctly. I spent nearly all of last week trying to find out what was wrong with my code, and when I did it, it was something really stupid. I don't consider myself very stupid, so why did this happen? Let's reflect a bit.
 

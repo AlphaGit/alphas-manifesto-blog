@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Technical Leaders **must** write code
@@ -51,9 +52,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/ForgottenKeyboard.png)
-
-And here's why
-
 
 While the premise sounds obvious, it is not so much once you get used to all the responsibilities that a Technical Leader has. And most of the time it turns out that writing code is a second priority to them. But here's why it shouldn't be dismissed at all.
 

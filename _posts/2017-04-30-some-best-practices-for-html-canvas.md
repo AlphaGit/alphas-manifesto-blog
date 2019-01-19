@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Some best practices for HTML Canvas
@@ -27,7 +28,6 @@ comments: []
 ---
 
 by Colin Cieloha from Skilled.co
-
 
 This is a guest post submitted by Colin Cieloha, who is an American author and content marketer at <a href="https://skilled.co/">Skilled.co</a>. He writes about everything that will draw his attention with a focus on the mobile and e-commerce space. When he is not writing he is spending his time traveling the globe and snowboarding. You can follow him on his Twitter at <a href="https://twitter.com/ColinCieloha">@ColinCieloha</a> or on <a href="https://www.linkedin.com/in/colin-cieloha-7a01ab55">Linkedin</a>.
 

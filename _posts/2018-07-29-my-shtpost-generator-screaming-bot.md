@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: 'My sh*tpost generator: screaming-bot'
@@ -36,7 +37,6 @@ comments: []
 ![]({{ site.baseurl }}/assets/20120227-robotthatscreams-1.png)
 
 Text generation with nltk, markovify, Tumblr, docker
-
 
 (Image used without permission from <a href="http://gunshowcomic.com/513">Gunshow comic: Robot that screams</a>.)
 

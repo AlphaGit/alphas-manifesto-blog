@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Working effectively with legacy code (review)
@@ -37,8 +38,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/working-effectively-legacy.jpg)
-
-Your weapons against any badly designed code
 
 I just finished reading _Working effectively with legacy code_, by Michael Feathers. The title is perfectly descriptive and quite ambiguous at the same time. Let me explain to you why.
 

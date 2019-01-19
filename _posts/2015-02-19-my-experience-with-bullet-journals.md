@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: My experience with bullet journals
@@ -33,9 +34,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/Journal.gif)
-
-Spoiler: not a journal about guns
-
 
 I have just learned about this technique called Bullet Journalism, which seem to have revolutionized daily planning for lots of people. I've tried it out myself and it has been definitely something to share. Let me tell you more about it.
 

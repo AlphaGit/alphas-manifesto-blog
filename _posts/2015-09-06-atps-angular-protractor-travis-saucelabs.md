@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: 'ATPS: Angular, Protractor, Travis, SauceLabs'
@@ -50,9 +51,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/juggling.png)
-
-Quick guide to get these bad boys cooperating
-
 
 A few days ago I got the combination of Angular + Protractor + TravisCI + SauceLabs working together. There are a few quirks into making this work, but nowhere I found a comprehensive description to jump all the obstacles. Here I'll describe what I did to get there.
 

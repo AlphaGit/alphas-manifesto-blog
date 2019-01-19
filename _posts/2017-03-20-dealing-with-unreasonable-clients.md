@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Dealing with "unreasonable" clients
@@ -30,9 +31,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/StickFigure.png)
-
-Customer management
-
 
 One of the forums from the StackExchange family which I usually visit is the Workplace one. It deals with office / team behavior, ethics and professionalism. The questions are incredibly interesting -- most of the time, I'm not entirely sure what I should do in situations like that -- and the answers are amazingly well crafted and thought.
 

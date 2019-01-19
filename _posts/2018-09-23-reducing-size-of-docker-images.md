@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Reducing size of Docker images
@@ -38,8 +39,6 @@ comments:
 
 ![]({{ site.baseurl }}/assets/Docker-heavy.png)
 
-_Making efficient final images_
-
 Most blogs and manuals will recommend you the simpler approaches to reducing the image of your docker image. We'll go a little further today but let's reiterate them anyway:
 
 - Use the reduced version of base images (alpine usually recommended), avoid SDKs for final images
@@ -49,6 +48,8 @@ Most blogs and manuals will recommend you the simpler approaches to reducing the
 Having said that, it is possible that you'll still end up with a very huge docker image, and it's difficult to understand what the next step from here.
 
 This is where this post comes in.
+
+<!--more-->
 
 Once the image is constructed, we can inspect what different steps (commits) took place on it to identify what the major hog of space is:
 

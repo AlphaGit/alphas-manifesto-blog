@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Testability vs. simple design
@@ -57,9 +58,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/arrow.jpg)
-
-Testing requires decoupling
-
 
 You may know I'm a proponent for simplicity. I believe that if a particular feature can be achieved with a single `if` statement, then that's all that needs to be done. I'm also a proponent of testability, that all code should be easily testable so that we can make sure that it works. As it turns out, these two don't usually go hand in hand. (Spoiler alert: that's not true.)
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Death to Singletons!
@@ -35,9 +36,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/Singleton.png)
-
-Singleton.Instance.SelfDestruct();
-
 
 No, I'm not talking about those that can't find someone to be with. You're ok in my book.
 

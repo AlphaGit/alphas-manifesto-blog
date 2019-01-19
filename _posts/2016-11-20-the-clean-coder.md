@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: The Clean Coder
@@ -98,9 +99,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/the-clean-coder-cover.jpg)
-
-a.k.a. "Software Professionalism"
-
 
 I recently read Uncle Bob's "The Clean Coder". I have to say, this book slapped me in the face. There's so much to discuss.
 

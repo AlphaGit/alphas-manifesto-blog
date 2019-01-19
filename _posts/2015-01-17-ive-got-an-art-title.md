@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: I've got an art degree!
@@ -31,7 +32,6 @@ comments: []
 ![]({{ site.baseurl }}/assets/Art.png)
 
 Well, sort of...
-
 
 I just finished an art course on an MOOC platform and got a certificate for it. Let me tell you how was it like.
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: 'MOOC: Android Dev Part 1'
@@ -67,9 +68,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/android.png)
-
-That little green trash can
-
 
 Yes, I continue to go on courses. Now I just finished the <a href="https://www.coursera.org/course/androidpart1">Android Development Part 1</a> (or "Programming Mobile Applications for Android Handheld Systems: Part 1"), dictated by the University of Maryland.
 

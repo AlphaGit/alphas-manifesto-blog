@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: General Game Playing
@@ -30,9 +31,6 @@ comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/mechaskunky.png)
-
-Automatic players that don't complain when they lose
-
 
 I've recently taken and finished the course on <a href="https://www.coursera.org/course/ggp">General Game Playing</a>, by Stanford University. Let me tell you what it was about and what the experience was like.
 

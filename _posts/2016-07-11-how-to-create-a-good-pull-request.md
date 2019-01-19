@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: How to create a good pull request
@@ -40,9 +41,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/CodeReviewFilter1.jpg)
-
-A meta-guide for creating easy to review requests
-
 
 This has been a common question and a subject of debate since everyone has their opinions on what _good code_ is and what _bad code_ is. Regardless, the pull request is not about the code itself but about the actions of reviewing, adjusting, discussing and assimilating (merging) code, which may be good or bad in itself.
 

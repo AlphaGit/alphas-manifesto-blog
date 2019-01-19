@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 status: publish
 published: true
 title: Faceted searches with MongoDB and mongoose
@@ -38,9 +39,6 @@ comments:
 ---
 
 ![]({{ site.baseurl }}/assets/mongo-faceted-logo-300x290.png)
-
-Generating facet search results
-
 
 Some people in Latin-America may remember an old _Yupi_ ad where a woman was complaining on how difficult using the internet was. "_It's so difficult. So complicated! There must be something better._" (In Spanish, of course.) Cheesy as it sounds, H&auml;ndel Messiah's "Hallelujah" sonorously invaded the screen. Don't believe me? <a href="https://www.youtube.com/watch?v=oI1Tjeh4_D8">See for yourself</a>.
 
