@@ -35,7 +35,7 @@ comments:
     [&#8230;]"
 ---
 
-![]({{ site.url }}/assets/codecomplete.jpg)
+![]({{ site.baseurl }}/assets/codecomplete.jpg)
 
 Aspects of software construction, deconstructed
 

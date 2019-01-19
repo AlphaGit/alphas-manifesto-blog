@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/batchfile.png)
+![]({{ site.baseurl }}/assets/batchfile.png)
 
 Unleash the power of .bat!
 

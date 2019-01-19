@@ -11,5 +11,5 @@ disqus:
   shortname: alphasmanifestoblog
 google_analytics: UA-367009-7
 timezone: America/Toronto
-baseurl: alphas-manifesto-blog/
+baseurl: /alphas-manifesto-blog
 permalink: /:year/:month/:day/:slug/

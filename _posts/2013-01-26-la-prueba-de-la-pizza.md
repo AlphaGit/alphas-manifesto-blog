@@ -35,7 +35,7 @@ comments:
   content: "[...] (via Alpha&#8217;s Manifesto) [...]"
 ---
 
-![]({{ site.url }}/assets/Pizza.jpg)
+![]({{ site.baseurl }}/assets/Pizza.jpg)
 
 La versión casera de pruebas de carga cognitiva
 

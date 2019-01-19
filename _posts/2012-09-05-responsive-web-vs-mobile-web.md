@@ -40,7 +40,7 @@ comments:
     Español) [...]"
 ---
 
-![]({{ site.url }}/assets/pantallas.png)
+![]({{ site.baseurl }}/assets/pantallas.png)
 
 ¿Qué son y cuándo usar cada uno?
 
@@ -83,7 +83,7 @@ La aplicación más interesante para responsive design fue, entonces, el mercado
 
 ##  ¿Es Responsive Design entonces la respuesta para sitios mobile?
 
-![]({{ site.url }}/assets/ZorriDepende.png)
+![]({{ site.baseurl }}/assets/ZorriDepende.png)
 
 
 **La respuesta es, como muchas cosas: depende.**

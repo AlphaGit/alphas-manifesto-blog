@@ -41,7 +41,7 @@ comments:
     web. Sin duda habrá [...]"
 ---
 
-![]({{ site.url }}/assets/web-application-design-patterns.jpg)
+![]({{ site.baseurl }}/assets/web-application-design-patterns.jpg)
 
 Una librería de referencias de patrones de usabilidad
 

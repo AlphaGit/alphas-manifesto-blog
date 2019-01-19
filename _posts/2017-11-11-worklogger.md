@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/time.jpg)
+![]({{ site.baseurl }}/assets/time.jpg)
 
 Automatic timesheet entry
 

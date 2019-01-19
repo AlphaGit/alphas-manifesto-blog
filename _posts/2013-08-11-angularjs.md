@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/angularjs.jpg)
+![]({{ site.baseurl }}/assets/angularjs.jpg)
 
 Libro introductorio sobre AngularJS y sus prácticas
 

@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/googleimg.jpg)
+![]({{ site.baseurl }}/assets/googleimg.jpg)
 
 by Rae Steinbach, in cooperation with Y Media Labs
 

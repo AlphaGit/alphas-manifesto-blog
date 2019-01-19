@@ -54,7 +54,7 @@ comments:
     and [&#8230;]"
 ---
 
-![]({{ site.url }}/assets/Semaforo1.png)
+![]({{ site.baseurl }}/assets/Semaforo1.png)
 
 A success story from the side of the doubtful
 

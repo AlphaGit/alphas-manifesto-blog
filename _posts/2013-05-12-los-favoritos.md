@@ -30,7 +30,7 @@ tags:
 comments: []
 ---
 
-![]({{ site.url }}/assets/Favorites.jpg)
+![]({{ site.baseurl }}/assets/Favorites.jpg)
 
 El fenómeno 2.0 del soporte y el gusto personal
 
