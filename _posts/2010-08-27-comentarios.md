@@ -32,8 +32,8 @@ comments:
   author_url: http://www.alphasmanifesto.com.ar/
   date: '2010-08-27 21:02:50 +0000'
   date_gmt: '2010-08-27 23:02:50 +0000'
-  content: "Se ve un poco m&aacute;s bonito que antes, no?\r\nMir&aacute;! Espacio
-    entre p&aacute;rrafos! XD"
+  content: "Se ve un poco más bonito que antes, no?\r\nMirá! Espacio
+    entre párrafos! XD"
 - id: 6763
   author: Alejandro
   author_email: rastamanxx@hotmail.com
@@ -42,6 +42,9 @@ comments:
   date_gmt: '2010-08-28 07:09:06 +0000'
   content: Uhhh, a ver!
 ---
-<p style="text-align: justify;">Hola, s&iacute;, qu&eacute; tal?</p>
-<p style="text-align: justify;">Cambi&eacute; un poco el estilo de la secci&oacute;n de comentarios. Perd&oacute;n por como estaba antes, incluso a mi me daba asco comentar. Ahora se ve un poco m&aacute;s bonito, voy a ver si en alg&uacute;n momento le habilito algo de edici&oacute;n m&aacute;s interesante.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito con estilo.</em></p>
+
+Hola, sí, qué tal?
+
+Cambié un poco el estilo de la sección de comentarios. Perdón por como estaba antes, incluso a mi me daba asco comentar. Ahora se ve un poco más bonito, voy a ver si en algún momento le habilito algo de edición más interesante.
+
+_Soy un zorrinito con estilo._

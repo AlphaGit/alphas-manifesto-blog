@@ -26,7 +26,7 @@ comments:
   date: '2009-02-23 10:29:58 +0000'
   date_gmt: '2009-02-23 12:29:58 +0000'
   content: "Asi es, a mi me acaban de llegar todos tus post juntos de varios dias
-    atr&aacute;s, cre&iacute; que el problema era mio ya que a veces tampoco actualiza
+    atrás, creí que el problema era mio ya que a veces tampoco actualiza
     hasta dos dias de salir los post de otros blogs.\r\nMe alegro que solucionaras\r\nSaludos"
 - id: 1734
   author: Alpha
@@ -35,12 +35,15 @@ comments:
   date: '2009-02-23 10:32:03 +0000'
   date_gmt: '2009-02-23 12:32:03 +0000'
   content: |-
-    Muchias gracias. Un problema de configuraci&oacute;n mio, se ve que en alg&uacute;n momento cambi&eacute; algo y no me percat&eacute; de eso.
+    Muchias gracias. Un problema de configuración mio, se ve que en algún momento cambié algo y no me percaté de eso.
 
     De hecho, me di cuenta de casualidad xD
 
-    Es bueno saber que segu&iacute;s por ah&iacute; leyendo. Nos vemos!
+    Es bueno saber que seguís por ahí leyendo. Nos vemos!
 ---
-<p style="text-align: justify;">Para aquellos que me segu&iacute;an a trav&eacute;s de alg&uacute;n feedreader habr&aacute;n notado que de golpe no hubo m&aacute;s actualizaciones (o, de otra forma: "habr&aacute;n dejado de notar que hab&iacute;a actualizaciones"). Esto se deb&iacute;a a un problema de configuraci&oacute;n que surgi&oacute; un tiempo despu&eacute;s de que reconfigur&eacute; los subdominios... el por qu&eacute;, no lo tengo claro todav&iacute;a, ya que con el subminio nuevo ya hab&iacute;a entradas y estaban correctamente publicadas.</p>
-<p style="text-align: justify;">Ahora supongo que es cuesti&oacute;n de tiempo para que todos los feeds que quedaron apretados esperando salir aparezcan en sus correspondientes lectores. Posiblemente tengan un rato para leer. Ojal&aacute; lo disfruten.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito con problemas.</em></p>
+
+Para aquellos que me seguían a través de algún feedreader habrán notado que de golpe no hubo más actualizaciones (o, de otra forma: "habrán dejado de notar que había actualizaciones"). Esto se debía a un problema de configuración que surgió un tiempo después de que reconfiguré los subdominios... el por qué, no lo tengo claro todavía, ya que con el subminio nuevo ya había entradas y estaban correctamente publicadas.
+
+Ahora supongo que es cuestión de tiempo para que todos los feeds que quedaron apretados esperando salir aparezcan en sus correspondientes lectores. Posiblemente tengan un rato para leer. Ojalá lo disfruten.
+
+_Soy un zorrinito con problemas._

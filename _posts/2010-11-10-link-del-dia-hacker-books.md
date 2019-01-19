@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Hacker Books'
+title: 'Link del día: Hacker Books'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,13 +16,17 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2647
 date: '2010-11-10 11:22:37 +0000'
 date_gmt: '2010-11-10 13:22:37 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - web 2.0
 - book
 comments: []
 ---
-<p style="text-align: justify;">Imagino que ustedes se habr&aacute;n emocionado tanto como yo al leer el t&iacute;tulo. <a href="http://www.hn-books.com/">Hacker Books</a> contiene, entre otros, libros para hacker, y eso es verdad. Se supone que dise&ntilde;ado muy estilo a web 2.0, esta librer&iacute;a virtual nos permite acceso a cierta cantidad de libros que suelen ser de los mejores recomendados en el &aacute;mbito. Esperemos que con el tiempo ese criterio no cambie, ya que de verdad he visto muy buenos libros por ah&iacute;.</p>
-<p style="text-align: justify;">Como dec&iacute;a, no son los &uacute;nicos libros. Tambi&eacute;n hay muchos libros muy buenos sobre desarrollo, sobre entrepeneurship, sobre lenguajes espec&iacute;ficos, sobre negocios. Est&aacute;n categorizados en distintos niveles, y est&aacute;n en distintos formatos, algunos digitales, otros en audio, otros en libros f&iacute;sicos para leer.</p>
-<p style="text-align: justify;">Disfruten su lectura!</p>
-<p style="text-align: justify;"><em>Soy un zorrinito lector.</em></p>
+
+Imagino que ustedes se habrán emocionado tanto como yo al leer el título. <a href="http://www.hn-books.com/">Hacker Books</a> contiene, entre otros, libros para hacker, y eso es verdad. Se supone que diseñado muy estilo a web 2.0, esta librería virtual nos permite acceso a cierta cantidad de libros que suelen ser de los mejores recomendados en el ámbito. Esperemos que con el tiempo ese criterio no cambie, ya que de verdad he visto muy buenos libros por ahí.
+
+Como decía, no son los únicos libros. También hay muchos libros muy buenos sobre desarrollo, sobre entrepeneurship, sobre lenguajes específicos, sobre negocios. Están categorizados en distintos niveles, y están en distintos formatos, algunos digitales, otros en audio, otros en libros físicos para leer.
+
+Disfruten su lectura!
+
+_Soy un zorrinito lector._

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Hermoso JavaScript!'
+title: 'Link del día: Hermoso JavaScript!'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,13 +16,16 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2540
 date: '2010-09-16 14:59:29 +0000'
 date_gmt: '2010-09-16 16:59:29 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - JavaScript
 - seguridad
-- ofuscaci&oacute;n
+- ofuscación
 comments: []
 ---
-<p style="text-align: justify;">Si ustedes han estado trabajando en an&aacute;lisis de alg&uacute;n sitio, ya sea por cuestiones de seguridad, curiosidad o investigaci&oacute;n, muy seguramente habr&aacute;n encontrado que analizar el JavaScript luego de que se comprime lo mayormente posible es un dolor. Por supuesto, sabemos que sigue siendo JavaScript v&aacute;lido porque se ejecuta, pero lo que nos falta es una forma de poder leerlo de forma simple.</p>
-<p style="text-align: justify;"><a href="http://jsbeautifier.org/">JavaScript Beautifier</a> se encarga de eso, toma nuestro input y lo convierte en JavaScript f&aacute;cil de leer. No s&oacute;lo eso, hay varias sugerencias extras al final de la p&aacute;gina, pero si preferimos no hacer caso a ellas, el beautifier funcionar&aacute; siempre online. Dice tambi&eacute;n de-obfuscar los cr&iacute;pticos c&oacute;digos generados por <a href="http://javascriptobfuscator.com/">JavaScript Obfuscator</a>.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito arregladito.</em></p>
+
+Si ustedes han estado trabajando en análisis de algún sitio, ya sea por cuestiones de seguridad, curiosidad o investigación, muy seguramente habrán encontrado que analizar el JavaScript luego de que se comprime lo mayormente posible es un dolor. Por supuesto, sabemos que sigue siendo JavaScript válido porque se ejecuta, pero lo que nos falta es una forma de poder leerlo de forma simple.
+
+<a href="http://jsbeautifier.org/">JavaScript Beautifier</a> se encarga de eso, toma nuestro input y lo convierte en JavaScript fácil de leer. No sólo eso, hay varias sugerencias extras al final de la página, pero si preferimos no hacer caso a ellas, el beautifier funcionará siempre online. Dice también de-obfuscar los crípticos códigos generados por <a href="http://javascriptobfuscator.com/">JavaScript Obfuscator</a>.
+
+_Soy un zorrinito arregladito._

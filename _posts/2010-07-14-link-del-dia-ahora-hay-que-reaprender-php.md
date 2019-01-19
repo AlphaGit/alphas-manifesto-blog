@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Ahora hay que reaprender PHP'
+title: 'Link del día: Ahora hay que reaprender PHP'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2218
 date: '2010-07-14 10:03:50 +0000'
 date_gmt: '2010-07-14 12:03:50 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - datos
 - desarrollo web
@@ -47,12 +47,16 @@ comments:
   author_url: http://www.alphasmanifesto.com.ar/
   date: '2010-07-16 09:16:07 +0000'
   date_gmt: '2010-07-16 11:16:07 +0000'
-  content: "@Lisandro: Por? Sospech&aacute;s que puede no estar bien implementado
-    o algo as&iacute;?\r\n\r\n@Sein: S&iacute;, lo mismo pienso yo. Lo bueno de conocer
+  content: "@Lisandro: Por? Sospechás que puede no estar bien implementado
+    o algo así?\r\n\r\n@Sein: Sí, lo mismo pienso yo. Lo bueno de conocer
     estas cosas es que se pueden usar soluciones comunes y no andar reinventando la
     rueda."
 ---
-<p style="text-align: justify;">Gracias a <a href="https://twitter.com/Analton">@Analton</a> llegu&eacute; a un art&iacute;culo llamado <a href="http://www.phparch.com/2010/07/08/never-use-_get-again/">Never user $_GET again</a>, que habla de c&oacute;mo ya no deber&iacute;amos utilizar m&aacute;s las archi-conocidas variables globales de GET y POST al programar en PHP. No s&oacute;lo eso, sino que explicando los conceptos de validaci&oacute;n y sanitizaci&oacute;n nos deja como paso siguiente ir al manual de PHP, y explorar una secci&oacute;n que quiz&aacute; muchos ya no tengamos del todo frescas.</p>
-<p style="text-align: justify;">Esta secci&oacute;n es la de <a href="http://www.php.net/manual/en/book.filter.php">Filtering</a>, en donde nos vemos introducidos a distintas funciones que ya efect&uacute;an validaciones de determinados tipos de entrada en particular, y nos permiten filtrar el resto de lo ingresado para obtener valores correctos, o al menos, lo suficientemente corregidos como para que no da&ntilde;en nuestro c&oacute;digo.</p>
-<p style="text-align: justify;"><em>"&iquest;Desde cuando est&aacute; eso ah&iacute;?"</em>, algunos preguntar&aacute;n. Desde PHP 5.2, de forma que ya tiene un ratito ah&iacute;, no s&eacute; como a muchos se nos pas&oacute; de largo. Aprovechen a reaprenderlo y ser&aacute; m&aacute;s f&aacute;cil programar la entrada de datos!</p>
-<p style="text-align: justify;"><em>Soy un zorrinito preprocesado.</em></p>
+
+Gracias a <a href="https://twitter.com/Analton">@Analton</a> llegué a un artículo llamado <a href="http://www.phparch.com/2010/07/08/never-use-_get-again/">Never user $_GET again</a>, que habla de cómo ya no deberíamos utilizar más las archi-conocidas variables globales de GET y POST al programar en PHP. No sólo eso, sino que explicando los conceptos de validación y sanitización nos deja como paso siguiente ir al manual de PHP, y explorar una sección que quizá muchos ya no tengamos del todo frescas.
+
+Esta sección es la de <a href="http://www.php.net/manual/en/book.filter.php">Filtering</a>, en donde nos vemos introducidos a distintas funciones que ya efectúan validaciones de determinados tipos de entrada en particular, y nos permiten filtrar el resto de lo ingresado para obtener valores correctos, o al menos, lo suficientemente corregidos como para que no dañen nuestro código.
+
+_" ¿Desde cuando está eso ahí?"_, algunos preguntarán. Desde PHP 5.2, de forma que ya tiene un ratito ahí, no sé como a muchos se nos pasó de largo. Aprovechen a reaprenderlo y será más fácil programar la entrada de datos!
+
+_Soy un zorrinito preprocesado._

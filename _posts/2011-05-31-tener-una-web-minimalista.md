@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3019
 date: '2011-05-31 21:58:45 +0000'
 date_gmt: '2011-05-31 23:58:45 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - Twitter
 - design
@@ -24,10 +24,13 @@ tags:
 - web
 comments: []
 ---
-<p style="text-align: justify;">... te permite hacer este tipo de cosas:</p>
+
+... te permite hacer este tipo de cosas:
 
 ![](/assets/mailsTwitter.png)
 
-<p style="text-align: justify;">&iquest;Acaso a alguien m&aacute;s le encanta la forma en la que Twitter maneja los emails? Me agrada much&iacute;simo la idea en donde hicieron el estilo de los emails totalmente similar al de la web. Simple, clara y con la informaci&oacute;n justa.</p>
-<p style="text-align: justify;">Notes&eacute; hasta la presencia de la barra superior, al estilo de la web, cuando notificaba de la existencia del nuevo Twitter. (De hecho, por alguna raz&oacute;n a veces lo sigo viendo. Hay alguien que todav&iacute;a no est&eacute; usando la nueva versi&oacute;n?)</p>
-<p style="text-align: justify;"><em>Soy un zorrinito simplista.</em></p>
+¿Acaso a alguien más le encanta la forma en la que Twitter maneja los emails? Me agrada muchísimo la idea en donde hicieron el estilo de los emails totalmente similar al de la web. Simple, clara y con la información justa.
+
+Notesé hasta la presencia de la barra superior, al estilo de la web, cuando notificaba de la existencia del nuevo Twitter. (De hecho, por alguna razón a veces lo sigo viendo. Hay alguien que todavía no esté usando la nueva versión?)
+
+_Soy un zorrinito simplista._

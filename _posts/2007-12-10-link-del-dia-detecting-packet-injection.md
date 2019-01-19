@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Detecting Packet Injection'
+title: 'Link del día: Detecting Packet Injection'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,12 +16,16 @@ wordpress_url: http://zorri2.wordpress.com/2007/12/10/link-del-dia-detecting-pac
 date: '2007-12-10 11:36:00 +0000'
 date_gmt: '2007-12-10 11:36:00 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags: []
 comments: []
 ---
-<div align="justify">Para todos aquellos que no est&eacute;n contentos con sus proveedores de internet (s&iacute;, todos) y aquellos que sospechemos que de alguna forma est&aacute;n interfiriendo nuestra comunicaci&oacute;n (s&iacute;, todos), y aquellos que creamos que puede ser alg&uacute;n tipo de inyecci&oacute;n de paquetes (...ya no son todos), ac&aacute; les dejo un link que tiene un art&iacute;culo largo de teor&iacute;a muy explicativa sobre todo el tema y una peque&ntilde;a gu&iacute;a con una aplicaci&oacute;n (<a href="http://www.wireshark.org/">WireShark</a>) para detectar si efectivamente nuestro ISP est&aacute; inyectando paquetes en nuestra conexi&oacute;n.</p>
-<p>Sobre el art&iacute;culo en s&iacute;... creo que lo m&aacute;s interesante es toda la teor&iacute;a al respecto, me resulta bastante explicativa.</p>
-<p><a href="http://www.eff.org/wp/detecting-packet-injection">Electronic Frontier Foundation - Detecting packet injection: A Guide to observing packet spoofing by ISPs</a></p>
-<p>(Y no, se ve que no les preocupan los t&iacute;tulos largos)</p>
-<p><i>Soy un zorrinito inyectado.</i></div>
+<div align="justify">Para todos aquellos que no estén contentos con sus proveedores de internet (sí, todos) y aquellos que sospechemos que de alguna forma están interfiriendo nuestra comunicación (sí, todos), y aquellos que creamos que puede ser algún tipo de inyección de paquetes (...ya no son todos), acá les dejo un link que tiene un artículo largo de teoría muy explicativa sobre todo el tema y una pequeña guía con una aplicación (<a href="http://www.wireshark.org/">WireShark</a>) para detectar si efectivamente nuestro ISP está inyectando paquetes en nuestra conexión.
+
+Sobre el artículo en sí... creo que lo más interesante es toda la teoría al respecto, me resulta bastante explicativa.
+
+<a href="http://www.eff.org/wp/detecting-packet-injection">Electronic Frontier Foundation - Detecting packet injection: A Guide to observing packet spoofing by ISPs</a>
+
+(Y no, se ve que no les preocupan los títulos largos)
+
+_Soy un zorrinito inyectado._

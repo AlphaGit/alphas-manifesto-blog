@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Linux en tu explorador'
+title: 'Link del día: Linux en tu explorador'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2998
 date: '2011-05-19 12:35:30 +0000'
 date_gmt: '2011-05-19 14:35:30 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 - Technology
 tags:
 - proyecto
@@ -27,9 +27,15 @@ tags:
 - emulador
 comments: []
 ---
-<p style="text-align: justify;">De los creadores de <a href="https://blog.alphasmanifesto.com/2008/03/28/link-del-dia-compiladores-en-linea/">Compiladores en l&iacute;nea</a> y de <a href="https://blog.alphasmanifesto.com/2009/09/10/link-del-dia-mas-compiladores-online/">M&aacute;s compiladores online</a> y compitiendo con <a href="https://blog.alphasmanifesto.com/2010/07/21/link-del-dia-maquinas-virtuales-en-la-web/">M&aacute;quinas virtuales en la web</a> nos llega un linux que podemos correr en nuestro navegador. Emulado. En JavaScript.</p>
-<p style="text-align: justify;">As&iacute; como suena, este logro interesante llamado <a href="http://bellard.org/jslinux/">JavaScript PC Emulator</a> parece correr totalmente del lado del cliente, con unos 150 Ks de memoria (aunque no lo he verificado).</p>
-<p style="text-align: justify;">Parece que este es otro de los proyectos de <a href="http://bellard.org/">Fabrice Bellard</a>, aunque no el &uacute;nico. Si no les suena el nombre de este muchacho, &eacute;l es qui&eacute;n comenz&oacute; qemu, ffmpeg, lzexe... palabras grandes.</p>
-<p style="text-align: justify;">En fin, la versi&oacute;n de Linux en el navegador parece ser totalmente funcional, aunque no tiene mucho en &eacute;l, y no me he puesto a investigar de qu&eacute; forma podr&iacute;an extenderse sus capabilidades, tampoco he visto que detecte dispositivos de comunicaci&oacute;n m&aacute;s all&aacute; del clipboard (que tenemos disponible como un textbox en la p&aacute;gina), como para poder instalar algo. A&uacute;n as&iacute;... interesante, no?</p>
-<p style="text-align: justify;">Si leemos las <a href="http://bellard.org/jslinux/tech.html">notas t&eacute;cnicas</a> al respecto veremos otros detalles y el hecho de que esto comenz&oacute; como pura diversi&oacute;n, pero que f&aacute;cilmente podr&iacute;an encontr&aacute;rsele algunas aplicaciones &uacute;tiles. C&oacute;mo que no! Un sistema operativo corriendo en el navegador!</p>
-<p style="text-align: justify;"><em>Soy un zorrinito asombrado.</em></p>
+
+De los creadores de <a href="https://blog.alphasmanifesto.com/2008/03/28/link-del-dia-compiladores-en-linea/">Compiladores en línea</a> y de <a href="https://blog.alphasmanifesto.com/2009/09/10/link-del-dia-mas-compiladores-online/">Más compiladores online</a> y compitiendo con <a href="https://blog.alphasmanifesto.com/2010/07/21/link-del-dia-maquinas-virtuales-en-la-web/">Máquinas virtuales en la web</a> nos llega un linux que podemos correr en nuestro navegador. Emulado. En JavaScript.
+
+Así como suena, este logro interesante llamado <a href="http://bellard.org/jslinux/">JavaScript PC Emulator</a> parece correr totalmente del lado del cliente, con unos 150 Ks de memoria (aunque no lo he verificado).
+
+Parece que este es otro de los proyectos de <a href="http://bellard.org/">Fabrice Bellard</a>, aunque no el único. Si no les suena el nombre de este muchacho, él es quién comenzó qemu, ffmpeg, lzexe... palabras grandes.
+
+En fin, la versión de Linux en el navegador parece ser totalmente funcional, aunque no tiene mucho en él, y no me he puesto a investigar de qué forma podrían extenderse sus capabilidades, tampoco he visto que detecte dispositivos de comunicación más allá del clipboard (que tenemos disponible como un textbox en la página), como para poder instalar algo. Aún así... interesante, no?
+
+Si leemos las <a href="http://bellard.org/jslinux/tech.html">notas técnicas</a> al respecto veremos otros detalles y el hecho de que esto comenzó como pura diversión, pero que fácilmente podrían encontrársele algunas aplicaciones útiles. Cómo que no! Un sistema operativo corriendo en el navegador!
+
+_Soy un zorrinito asombrado._

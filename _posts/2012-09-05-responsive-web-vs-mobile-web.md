@@ -22,13 +22,13 @@ tags:
 - web application
 - CSS
 - HTML5
-- desarrollo m&oacute;vil
+- desarrollo móvil
 - Technology
 - design
 - CSS3
-- aplicaci&oacute;n m&oacute;vil
+- aplicación móvil
 - mobile
-- m&oacute;vil
+- móvil
 - responsive
 - media queries
 comments:
@@ -38,44 +38,72 @@ comments:
   author_url: http://decodecode.net/elitist/2010/12/responsive-web-design/
   date: '2013-07-07 12:30:25 +0000'
   date_gmt: '2013-07-07 17:30:25 +0000'
-  content: "[...] Responsive Web vs. Mobile Web | Alpha&#8217;s Manifesto&nbsp;(en
-    Espa&ntilde;ol) [...]"
+  content: "[...] Responsive Web vs. Mobile Web | Alpha&#8217;s Manifesto (en
+    Español) [...]"
 ---
 
 ![](/assets/pantallas.png)
 
 ¿Qué son y cuándo usar cada uno?
 
-<p style="text-align: justify;">Ahora que el mundo web se ha acelerado de forma incre&iacute;ble, CSS3 y HTML5 son m&aacute;s y m&aacute;s poderosos cada d&iacute;a. Una de las caracter&iacute;sticas que trajo CSS3 son <em>media queries</em>, que habilitan un nuevo tipo de sitio llamado <em>responsive web</em>. &iquest;Qu&eacute; es esto y c&oacute;mo nos afecta?</p>
-<p style="text-align: justify;"><!--more--></p>
-<h2>HTML5 y CSS3: Nombres complicados para algo simple</h2>
-<p style="text-align: justify;"><strong>HTML5</strong> (HyperText Markup Language, versi&oacute;n 5) y <strong>CSS3</strong> (Cascading Style Sheets, versi&oacute;n 3) <strong>son lo que hace que la web tenga estructura y se vea de la forma en la que se ve</strong>. En teor&iacute;a, HTML es el lenguaje que se usa para definir los datos y qu&eacute; es cada dato, y CSS es el que se usa para darles una presentaci&oacute;n o estil. Cuando escuchen hablar de <em>web sem&aacute;ntica</em>, recuerden esos conceptos. Mientras tanto, pueden leer, relacionado,&nbsp;<a href="https://blog.alphasmanifesto.com/2008/04/17/link-del-dia-como-explicarle-rest-a-la-mujer-de-uno/">c&oacute;mo explicarle REST a la mujer de uno</a>.</p>
-<p style="text-align: justify;">Si alguna vez vieron algo de c&oacute;digo o quisieron aprender a hacer p&aacute;ginas web y vieron cosas como "<em>Use <span style="font-family: 'courier new', courier;"><br />
-<h1>mi t&iacute;tulo</h1>
-<p></span> para hacer que &laquo;mi t&iacute;tulo&raquo; sea un t&iacute;tulo</em>", eso es HTML. Para ser sincero, hay muchas m&aacute;s reglas, y mucha terminolog&iacute;a. Se puede usar f&aacute;cil, pero hay formas correctas de usarlo y formas incorrectas tambi&eacute;n. <strong>HTML define qu&eacute; es cada elemento y su contenido.</strong></p>
-<p style="text-align: justify;"><strong>CSS, por otro lado, define la est&eacute;tica particular que cada elemento tendr&aacute;.</strong> Una regla CSS como <span style="font-family: 'courier new', courier;">h1 { font-size: 14px; }</span> definir&iacute;a que los elementos <span style="font-family: 'courier new', courier;">h1</span> (en nuestro ejemplo, se aplicar&iacute;a a nuestro t&iacute;tulo) &nbsp;se vean con un tama&ntilde;o de fuente de catorce p&iacute;xeles. Colores, tama&ntilde;os, espaciados y alineamientos tienen lugar aqu&iacute;. Al igual que HTML, la idea es simple pero hay muchas reglas que definen formas correctas y formas incorrectas de utilizarlo.</p>
-<p style="text-align: justify;">Es importante tener en mente esta distinci&oacute;n: m&aacute;s adelante hablaremos de por qu&eacute; responsive web y mobile web siguen esta misma diferencia seg&uacute;n su funci&oacute;n.</p>
-<h2>Media queries y responsive web design</h2>
-<p style="text-align: justify;">CSS3 introduce algo llamado <em>media queries</em>: <strong>la capacidad de aplicar reglas CSS bajo ciertas condiciones</strong>. Estas se basar&aacute;n en propiedades que consultar&aacute;n del medio de visualizaci&oacute;n (de ah&iacute; su nombre). Por ejemplo, una regla de este estilo:</p>
-<p><script src="https://gist.github.com/3642063.js?file=mediaqueries.css"></script></p>
-<p style="text-align: justify;">Podr&iacute;a traducirse a nuestro lenguaje como: "<em>Si esta p&aacute;gina se ve en un dispositivo peque&ntilde;o -- menos de 480 p&iacute;xeles de ancho -- entonces no mostremos el objeto de men&uacute;</em>".</p>
-<p style="text-align: justify;">Esta caracter&iacute;stica se implement&oacute; de una forma muy din&aacute;mica: no se aplican solamente al momento en que la web se carga en nuestro browser, sino en todo momento. Esto significa que si cambi&aacute;ramos el tama&ntilde;o de nuestro navegador, las reglas condicionales se aplicar&iacute;an seg&uacute;n el nuevo tama&ntilde;o del mismo. Este concepto de un dise&ntilde;o adaptable al espacio disponible din&aacute;micamente se llama <em>responsive design</em>. A las webs dise&ntilde;adas as&iacute; se les dice responsive tambi&eacute;n, y como se ha vuelto popular el concepto, a casi cualquier cosa relacionada.</p>
-<h2 style="text-align: justify;">Mobile</h2>
-<p style="text-align: justify;">Hace algunos a&ntilde;os, el mercado m&oacute;vil tambi&eacute;n est&aacute; creciendo much&iacute;simo. Ahora <a href="http://en.wikipedia.org/wiki/Smartphone#Market_share">la mayor&iacute;a de los tel&eacute;fonos vendidos son smartphones</a>&nbsp;(si no la totalidad), y poseen la capacidad de navegar en internet. E-book readers y tablets introducen tambi&eacute;n otras experiencias y un tama&ntilde;o reducido, tambi&eacute;n con conectividad a internet. Cuando esto comenz&oacute; a ser interesante para, adem&aacute;s de mirar contenidos, dise&ntilde;ar aplicaciones inteligentes, las posibilidades explotaron y el mercado se revolucion&oacute;.</p>
-<p style="text-align: justify;">En ese momento, si los desarrolladores web ya se sent&iacute;an frustrados con la variedad de navegadores, sistemas operativos, versiones y est&aacute;ndares, al escuchar de esto elevaron un grito de ayuda al cielo. La World Wide Web Consortium (W3C) y varios grandes de la industria (Microsoft, Apple, Google y muchos grupos independientes) atendieron el llamado y propusieron nuevos est&aacute;ndares y un camino para resolver este problema. Si les interesa leer m&aacute;s en detalle sobre eso, pueden leer mi entrada sobre <a href="https://blog.alphasmanifesto.com/2011/11/17/%C2%BFpor-que-html5/">porqu&eacute; conviene utilizar HTML5</a>.</p>
-<h3 style="text-align: justify;">El mundo mobile, luego de responsive design</h3>
-<p style="text-align: justify;">La aplicaci&oacute;n m&aacute;s interesante para responsive design fue, entonces, el mercado mobile. A diferencia de antes, con pocas reglas un sitio puede dise&ntilde;arse para que se vea correctamente en navegadores de escritorio, en tablets y en tel&eacute;fonos. Antes este trabajo requer&iacute;a duplicar el sitio y tener un desarollo mobile separado, o hacer magia con JavaScript, pero esta &uacute;ltima opci&oacute;n (por lo general) es descartada ya que puede ser inestable y dif&iacute;cil de mantener.</p>
-<h2 style="text-align: justify;">&iquest;Es Responsive Design entonces la respuesta para sitios mobile?</h2>
+
+Ahora que el mundo web se ha acelerado de forma increíble, CSS3 y HTML5 son más y más poderosos cada día. Una de las características que trajo CSS3 son _media queries_, que habilitan un nuevo tipo de sitio llamado _responsive web_.  ¿Qué es esto y cómo nos afecta?
+
+<!--more-->
+
+## HTML5 y CSS3: Nombres complicados para algo simple
+
+**HTML5** (HyperText Markup Language, versión 5) y **CSS3** (Cascading Style Sheets, versión 3) **son lo que hace que la web tenga estructura y se vea de la forma en la que se ve**. En teoría, HTML es el lenguaje que se usa para definir los datos y qué es cada dato, y CSS es el que se usa para darles una presentación o estil. Cuando escuchen hablar de _web semántica_, recuerden esos conceptos. Mientras tanto, pueden leer, relacionado, <a href="https://blog.alphasmanifesto.com/2008/04/17/link-del-dia-como-explicarle-rest-a-la-mujer-de-uno/">cómo explicarle REST a la mujer de uno</a>.
+
+Si alguna vez vieron algo de código o quisieron aprender a hacer páginas web y vieron cosas como "_Use `<h1>mi título</h1>`_"
+
+para hacer que &laquo;mi título&raquo; sea un título", eso es HTML. Para ser sincero, hay muchas más reglas, y mucha terminología. Se puede usar fácil, pero hay formas correctas de usarlo y formas incorrectas también. **HTML define qué es cada elemento y su contenido.**
+
+**CSS, por otro lado, define la estética particular que cada elemento tendrá.** Una regla CSS como `h1 { font-size: 14px; }` definiría que los elementos `h1` (en nuestro ejemplo, se aplicaría a nuestro título)  se vean con un tamaño de fuente de catorce píxeles. Colores, tamaños, espaciados y alineamientos tienen lugar aquí. Al igual que HTML, la idea es simple pero hay muchas reglas que definen formas correctas y formas incorrectas de utilizarlo.
+
+Es importante tener en mente esta distinción: más adelante hablaremos de por qué responsive web y mobile web siguen esta misma diferencia según su función.
+
+## Media queries y responsive web design
+
+CSS3 introduce algo llamado _media queries_: **la capacidad de aplicar reglas CSS bajo ciertas condiciones**. Estas se basarán en propiedades que consultarán del medio de visualización (de ahí su nombre). Por ejemplo, una regla de este estilo:
+
+<script src="https://gist.github.com/3642063.js?file=mediaqueries.css"></script>
+
+Podría traducirse a nuestro lenguaje como: "_Si esta página se ve en un dispositivo pequeño -- menos de 480 píxeles de ancho -- entonces no mostremos el objeto de menú_".
+
+Esta característica se implementó de una forma muy dinámica: no se aplican solamente al momento en que la web se carga en nuestro browser, sino en todo momento. Esto significa que si cambiáramos el tamaño de nuestro navegador, las reglas condicionales se aplicarían según el nuevo tamaño del mismo. Este concepto de un diseño adaptable al espacio disponible dinámicamente se llama _responsive design_. A las webs diseñadas así se les dice responsive también, y como se ha vuelto popular el concepto, a casi cualquier cosa relacionada.
+
+## Mobile
+
+Hace algunos años, el mercado móvil también está creciendo muchísimo. Ahora <a href="http://en.wikipedia.org/wiki/Smartphone#Market_share">la mayoría de los teléfonos vendidos son smartphones</a> (si no la totalidad), y poseen la capacidad de navegar en internet. E-book readers y tablets introducen también otras experiencias y un tamaño reducido, también con conectividad a internet. Cuando esto comenzó a ser interesante para, además de mirar contenidos, diseñar aplicaciones inteligentes, las posibilidades explotaron y el mercado se revolucionó.
+
+En ese momento, si los desarrolladores web ya se sentían frustrados con la variedad de navegadores, sistemas operativos, versiones y estándares, al escuchar de esto elevaron un grito de ayuda al cielo. La World Wide Web Consortium (W3C) y varios grandes de la industria (Microsoft, Apple, Google y muchos grupos independientes) atendieron el llamado y propusieron nuevos estándares y un camino para resolver este problema. Si les interesa leer más en detalle sobre eso, pueden leer mi entrada sobre <a href="https://blog.alphasmanifesto.com/2011/11/17/%C2%BFpor-que-html5/">porqué conviene utilizar HTML5</a>.
+
+### El mundo mobile, luego de responsive design
+
+La aplicación más interesante para responsive design fue, entonces, el mercado mobile. A diferencia de antes, con pocas reglas un sitio puede diseñarse para que se vea correctamente en navegadores de escritorio, en tablets y en teléfonos. Antes este trabajo requería duplicar el sitio y tener un desarollo mobile separado, o hacer magia con JavaScript, pero esta última opción (por lo general) es descartada ya que puede ser inestable y difícil de mantener.
+
+##  ¿Es Responsive Design entonces la respuesta para sitios mobile?
 
 ![](/assets/ZorriDepende.png)
 
-<p style="text-align: justify;"><strong>La respuesta es, como muchas cosas: depende.</strong></p>
-<p style="text-align: justify;">Es verdad que el uso de responsive design acorta los tiempos de desarrollo, pero a veces la complejidad de un sitio simplemente no pertenece a un tel&eacute;fono o un tablet. Si bien estos dispositivos nos permiten hacer casi cualquier cosa, no es el mejor lugar para ver videos (&iquest;subt&iacute;tulos? -- imposible), escribir mails complejos o entradas de blogs, o leer y comparar especificaciones de productos. Hacer zoom no es divertido y distrae. Teclear y equivocarse por el peque&ntilde;o teclado permite lograr el fin, pero toma demasiado tiempo -- &iquest;y qu&eacute; si est&aacute;s en un tren? Suerte con eso. Las tablets ayudan por su mayor tama&ntilde;o pero tampoco tienen el mismo poder de procesamiento que una m&aacute;quina de escritorio: las animaciones pueden verse lentas, la memoria se acaba r&aacute;pidamente y el navegador se cierra, o el teclado sigue siendo inc&oacute;modo para teclear -- si es que estamos en una situaci&oacute;n en donde siquiera podemos hacerlo.</p>
-<p style="text-align: justify;">La respuesta est&aacute; escondida detr&aacute;s de lo que cont&eacute; en el p&aacute;rrafo anterior: <strong>contenido vs. interacci&oacute;n</strong>. De la misma forma que en el mundo del desarrollo, contenido vs. presentaci&oacute;n deben manejarse de forma separada, tambi&eacute;n debe aplicarse esa distinci&oacute;n a m&aacute;s alto nivel.</p>
-<h3 style="text-align: justify;">Centrado en el contenido</h3>
-<p style="text-align: justify;">Considerando que el contenido es lo m&aacute;s importante en nuestro caso, redise&ntilde;ar para un dispositivo m&oacute;vil s&oacute;lo debe dejarse ver distinto, pero debe tener el contenido de todos modos. Por ejemplo, es el caso de un blog mostrado para visitantes, o una p&aacute;gina de compras, o el sitio de nuestra empresa. Aqu&iacute; responsive design es un m&eacute;todo apropiado: permite no duplicar el contenido y dar una versi&oacute;n lista para dispositivos peque&ntilde;os. Si necesitamos algo de interacci&oacute;n, siempre debe ser centrada en el contenido y lo suficientemente simple como para poder hacerse con un tel&eacute;fono: botones grandes, pocos campos de entrada y pocos pasos. En general, <strong>la respuesta aqu&iacute; ser&aacute; responsive design como mejor opci&oacute;n</strong>.</p>
-<h3 style="text-align: justify;">Centrado en la interacci&oacute;n</h3>
-<p style="text-align: justify;">Para sitios m&aacute;s complejos, que a veces podemos denominar aplicaciones, responsive web design no es buena opci&oacute;n. Esto es porque ocultar contenido o cambiar su presentaci&oacute;n no oculta la complejidad de la interacci&oacute;n con el mismo. Una aplicaci&oacute;n por lo general tiene ciertos requerimientos del navegador que accede (por ejemplo, poder mostrar gr&aacute;ficos de forma din&aacute;mica, o actualizarse en tiempo real). Tambi&eacute;n puede requerir procesos complejos por parte del usuario: entrada de datos, correlaci&oacute;n y varias pantallas de datos para tomar una decisi&oacute;n. Tales situaciones, nuevamente, no pertenecen a un dispositivo m&oacute;vil, y el trabajo requerido para convertir esto en algo aceptable va m&aacute;s all&aacute; de simple estilizado. Una soluci&oacute;n con CSS significar&iacute;a adem&aacute;s cargar cantidades enormes de informaci&oacute;n para ocultar parte de ella, cuando la conexi&oacute;n de este dispositivo puede no ser muy buena.</p>
-<p style="text-align: justify;"><strong>En estos casos se recomienda trabajar con un sitio mobile independiente.</strong> Un sitio mobile as&iacute; puede aislar ciertas funcionalidades que son apropiadas para estos casos. Por ejemplo, una secci&oacute;n de status, aprobaciones simples (s&iacute; / no / m&aacute;s tarde), alertas o informaci&oacute;n &uacute;til on-the-go. Tener una aplicaci&oacute;n independiente para mobile tambi&eacute;n permite otras cosas, como geolocalizaci&oacute;n, utilizaci&oacute;n del aceler&oacute;metro, y tantas otras caracter&iacute;sticas que los dispositivos m&oacute;viles tienen y un browser de desktop no.</p>
-<h2 style="text-align: justify;">Conclusi&oacute;n</h2>
-<p style="text-align: justify;">Como siempre se recomienda, hay que tener sentido com&uacute;n al momento de elegir. Cuando se planifica el objetivo de cada aplicaci&oacute;n sabiendo en qu&eacute; situaci&oacute;n se usar&aacute;, se pueden preveer este tipo de cosas y tomar decisiones correctas. Las nuevas tecnolog&iacute;as son apasionantes pero aseg&uacute;rese de utilizarlas cuando son apropiadas. Considerar responsive design cuando el centro de la experiencia es el contenido, y mobile web cuando es la interacci&oacute;n del usuario.</p>
+
+**La respuesta es, como muchas cosas: depende.**
+
+Es verdad que el uso de responsive design acorta los tiempos de desarrollo, pero a veces la complejidad de un sitio simplemente no pertenece a un teléfono o un tablet. Si bien estos dispositivos nos permiten hacer casi cualquier cosa, no es el mejor lugar para ver videos ( ¿subtítulos? -- imposible), escribir mails complejos o entradas de blogs, o leer y comparar especificaciones de productos. Hacer zoom no es divertido y distrae. Teclear y equivocarse por el pequeño teclado permite lograr el fin, pero toma demasiado tiempo --  ¿y qué si estás en un tren? Suerte con eso. Las tablets ayudan por su mayor tamaño pero tampoco tienen el mismo poder de procesamiento que una máquina de escritorio: las animaciones pueden verse lentas, la memoria se acaba rápidamente y el navegador se cierra, o el teclado sigue siendo incómodo para teclear -- si es que estamos en una situación en donde siquiera podemos hacerlo.
+
+La respuesta está escondida detrás de lo que conté en el párrafo anterior: **contenido vs. interacción**. De la misma forma que en el mundo del desarrollo, contenido vs. presentación deben manejarse de forma separada, también debe aplicarse esa distinción a más alto nivel.
+
+### Centrado en el contenido
+
+Considerando que el contenido es lo más importante en nuestro caso, rediseñar para un dispositivo móvil sólo debe dejarse ver distinto, pero debe tener el contenido de todos modos. Por ejemplo, es el caso de un blog mostrado para visitantes, o una página de compras, o el sitio de nuestra empresa. Aquí responsive design es un método apropiado: permite no duplicar el contenido y dar una versión lista para dispositivos pequeños. Si necesitamos algo de interacción, siempre debe ser centrada en el contenido y lo suficientemente simple como para poder hacerse con un teléfono: botones grandes, pocos campos de entrada y pocos pasos. En general, **la respuesta aquí será responsive design como mejor opción**.
+
+### Centrado en la interacción
+
+Para sitios más complejos, que a veces podemos denominar aplicaciones, responsive web design no es buena opción. Esto es porque ocultar contenido o cambiar su presentación no oculta la complejidad de la interacción con el mismo. Una aplicación por lo general tiene ciertos requerimientos del navegador que accede (por ejemplo, poder mostrar gráficos de forma dinámica, o actualizarse en tiempo real). También puede requerir procesos complejos por parte del usuario: entrada de datos, correlación y varias pantallas de datos para tomar una decisión. Tales situaciones, nuevamente, no pertenecen a un dispositivo móvil, y el trabajo requerido para convertir esto en algo aceptable va más allá de simple estilizado. Una solución con CSS significaría además cargar cantidades enormes de información para ocultar parte de ella, cuando la conexión de este dispositivo puede no ser muy buena.
+
+**En estos casos se recomienda trabajar con un sitio mobile independiente.** Un sitio mobile así puede aislar ciertas funcionalidades que son apropiadas para estos casos. Por ejemplo, una sección de status, aprobaciones simples (sí / no / más tarde), alertas o información útil on-the-go. Tener una aplicación independiente para mobile también permite otras cosas, como geolocalización, utilización del acelerómetro, y tantas otras características que los dispositivos móviles tienen y un browser de desktop no.
+
+## Conclusión
+
+Como siempre se recomienda, hay que tener sentido común al momento de elegir. Cuando se planifica el objetivo de cada aplicación sabiendo en qué situación se usará, se pueden preveer este tipo de cosas y tomar decisiones correctas. Las nuevas tecnologías son apasionantes pero asegúrese de utilizarlas cuando son apropiadas. Considerar responsive design cuando el centro de la experiencia es el contenido, y mobile web cuando es la interacción del usuario.

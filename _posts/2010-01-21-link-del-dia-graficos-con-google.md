@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Gr&aacute;ficos con Google'
+title: 'Link del día: Gráficos con Google'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1787
 date: '2010-01-21 12:12:44 +0000'
 date_gmt: '2010-01-21 14:12:44 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - Google
 - HTML
@@ -25,7 +25,11 @@ tags:
 - jQuery
 comments: []
 ---
-<p style="text-align: justify;">Hace un tiempo anduvimos en b&uacute;squeda de un buen plugin / framework / herramienta web que me permitiera utilizar gr&aacute;ficos en una aplicaci&oacute;n web que nos encontrabamos desarrollando. Pasamos por varias opciones, algunas de las m&aacute;s interesantes siendo <a href="http://www.jqplot.com/">jqPlot</a> para jQuery, o <a href="http://code.google.com/p/flot/">flot</a> (tambi&eacute;n para jQuery), pero terminamos decidi&eacute;ndonos por <a href="http://teethgrinder.co.uk/open-flash-chart/">OpenFlashChart</a>.</p>
-<p style="text-align: justify;">Sin embargo, encontr&eacute; luego una opci&oacute;n muy &uacute;til para sitios est&aacute;ticos que quiz&aacute; necesiten solo un poco de HTML, o sitios din&aacute;micos que no quieran incorporar la complejidad de generar gr&aacute;ficos en su c&oacute;digo. Esta opci&oacute;n es la que <a href="http://code.google.com/apis/chart/">Google Chart API</a> ofrece. Y es tan f&aacute;cil como hacer un link a una imagen que tenga ciertos c&oacute;digos que van a determinar el gr&aacute;fico que mostremos.</p>
-<p style="text-align: justify;">Opciones hay muchas, distintos tipos de gr&aacute;ficos, colores, opciones, aunque siendo im&aacute;genes, les falta algo que las otras opciones tienen, que es la interactividad. Pero nuevamente, si lo importante es el dise&ntilde;o simple y la tecnolog&iacute;a a usar (o tiempo) es limitada, esta puede ser la mejor opci&oacute;n.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito graficado.</em></p>
+
+Hace un tiempo anduvimos en búsqueda de un buen plugin / framework / herramienta web que me permitiera utilizar gráficos en una aplicación web que nos encontrabamos desarrollando. Pasamos por varias opciones, algunas de las más interesantes siendo <a href="http://www.jqplot.com/">jqPlot</a> para jQuery, o <a href="http://code.google.com/p/flot/">flot</a> (también para jQuery), pero terminamos decidiéndonos por <a href="http://teethgrinder.co.uk/open-flash-chart/">OpenFlashChart</a>.
+
+Sin embargo, encontré luego una opción muy útil para sitios estáticos que quizá necesiten solo un poco de HTML, o sitios dinámicos que no quieran incorporar la complejidad de generar gráficos en su código. Esta opción es la que <a href="http://code.google.com/apis/chart/">Google Chart API</a> ofrece. Y es tan fácil como hacer un link a una imagen que tenga ciertos códigos que van a determinar el gráfico que mostremos.
+
+Opciones hay muchas, distintos tipos de gráficos, colores, opciones, aunque siendo imágenes, les falta algo que las otras opciones tienen, que es la interactividad. Pero nuevamente, si lo importante es el diseño simple y la tecnología a usar (o tiempo) es limitada, esta puede ser la mejor opción.
+
+_Soy un zorrinito graficado._

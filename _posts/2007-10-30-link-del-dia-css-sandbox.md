@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: CSS Sandbox'
+title: 'Link del día: CSS Sandbox'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,11 +16,15 @@ wordpress_url: http://zorri2.wordpress.com/2007/10/30/link-del-dia-css-sandbox/
 date: '2007-10-30 12:44:00 +0000'
 date_gmt: '2007-10-30 12:44:00 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags: []
 comments: []
 ---
-<div style="text-align:justify;">Link <a href="http://aurelio.net/css-sandbox/">aqu&iacute;</a>.</p>
-<p>Esto seguro le sirva a alguno.</p>
-<p>Cuando trabajan con hojas de estilo, a veces no les da por probar a ver qu&eacute; queda mejor, pero en el medio terminan rompiendo todo lo que hicieron? Bueno, para eso es esta paginita, en la que pueden cambiar las cosas a gusto a ver "qu&eacute; tal se ve". En mi opini&oacute;n le faltan un par de detalles, pero igual est&aacute; buena.</p>
-<p><span style="font-style:italic;">Soy un zorrinito sandbox.</span></div>
+
+Link <a href="http://aurelio.net/css-sandbox/">aquí</a>.
+
+Esto seguro le sirva a alguno.
+
+Cuando trabajan con hojas de estilo, a veces no les da por probar a ver qué queda mejor, pero en el medio terminan rompiendo todo lo que hicieron? Bueno, para eso es esta paginita, en la que pueden cambiar las cosas a gusto a ver "qué tal se ve". En mi opinión le faltan un par de detalles, pero igual está buena.
+
+_Soy un zorrinito sandbox._

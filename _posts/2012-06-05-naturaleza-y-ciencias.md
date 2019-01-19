@@ -16,23 +16,28 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3952
 date: '2012-06-05 08:54:13 +0000'
 date_gmt: '2012-06-05 13:54:13 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - ciencia
-- matem&aacute;tica
+- matemática
 - naturaleza
-- aritm&eacute;tica
-- ciencias de la computaci&oacute;n
+- aritmética
+- ciencias de la computación
 - monte carlo
-- algoritmos de b&uacute;squeda
+- algoritmos de búsqueda
 - Fibonacci
-- rel&aacute;mpagos
+- relámpagos
 comments: []
 ---
 Sobre el punto en donde dos mundos se tocan
 
-<p style="text-align: justify;">&iquest;Puede la naturaleza ser un modelo de c&oacute;mo resolver problemas de las ciencias? La pregunta tiene una respuesta obvia. Sabemos que s&iacute;, sabemos que muchos procesos pueden copiarse desde la naturaleza para mejorar la forma en la que resolvemos determinados problemas. Desafortunadamente, muchas veces, determinadas &aacute;reas de las ciencias quedan fuera porque la relaci&oacute;n con el mundo natural est&aacute; algo alejado. Por ejemplo, las ciencias de la computaci&oacute;n o la aritm&eacute;tica.</p>
-<p style="text-align: justify;">Sin embargo, hay gente que sabe ver ese tipo de relaciones. Por ejemplo, el caso de micahoover, qui&eacute;n se preguntaba <a href="http://physics.stackexchange.com/questions/28311/can-lightning-be-used-to-solve-np-complete-problems">qu&eacute; algoritmo de b&uacute;squeda realizan los rel&aacute;mpagos al caer</a>. Y parecer&iacute;a que, curiosamente, es una b&uacute;squeda de tipo simulaci&oacute;n Monte Carlo (<a href="http://www.aaai.org/Papers/AIIDE/2008/AIIDE08-036.pdf">Monte Carlo Search: A New Framework for Game UI</a> [PDF]).</p>
-<p style="text-align: justify;">O el caso de <a href="http://www.youtube.com/user/Vihart">Vihart</a>, quien tiene una serie de videos hablando sobre <em>Doodling in Math: Spirals, Fibonacci and Being a Plant</em> (<a href="http://www.youtube.com/watch?v=ahXIMUkSXX0">Part 1</a>, <a href="http://www.youtube.com/watch?v=lOIP_Z_-0Hs">Part 2</a>, <a href="http://www.youtube.com/watch?v=14-NdQwKz9w">Part 3</a>), en donde nos cuenta, desde el punto de vista de una planta, c&oacute;mo maximizar el consumo de luz solar sin que nuestras hojas nos tapen otras hojas y c&oacute;mo la serie de Fibonacci y las espirales son la forma de lograrlo.</p>
-<p style="text-align: justify;">Estos son dos ejemplos de muchos otros que deben haber ah&iacute; afuera (los invito a contarme de m&aacute;s si los conocen)</p>
-<p style="text-align: justify;"><em>Soy un zorrinito natural.</em></p>
+
+ ¿Puede la naturaleza ser un modelo de cómo resolver problemas de las ciencias? La pregunta tiene una respuesta obvia. Sabemos que sí, sabemos que muchos procesos pueden copiarse desde la naturaleza para mejorar la forma en la que resolvemos determinados problemas. Desafortunadamente, muchas veces, determinadas áreas de las ciencias quedan fuera porque la relación con el mundo natural está algo alejado. Por ejemplo, las ciencias de la computación o la aritmética.
+
+Sin embargo, hay gente que sabe ver ese tipo de relaciones. Por ejemplo, el caso de micahoover, quién se preguntaba <a href="http://physics.stackexchange.com/questions/28311/can-lightning-be-used-to-solve-np-complete-problems">qué algoritmo de búsqueda realizan los relámpagos al caer</a>. Y parecería que, curiosamente, es una búsqueda de tipo simulación Monte Carlo (<a href="http://www.aaai.org/Papers/AIIDE/2008/AIIDE08-036.pdf">Monte Carlo Search: A New Framework for Game UI</a> [PDF]).
+
+O el caso de <a href="http://www.youtube.com/user/Vihart">Vihart</a>, quien tiene una serie de videos hablando sobre _Doodling in Math: Spirals, Fibonacci and Being a Plant_ (<a href="http://www.youtube.com/watch?v=ahXIMUkSXX0">Part 1</a>, <a href="http://www.youtube.com/watch?v=lOIP_Z_-0Hs">Part 2</a>, <a href="http://www.youtube.com/watch?v=14-NdQwKz9w">Part 3</a>), en donde nos cuenta, desde el punto de vista de una planta, cómo maximizar el consumo de luz solar sin que nuestras hojas nos tapen otras hojas y cómo la serie de Fibonacci y las espirales son la forma de lograrlo.
+
+Estos son dos ejemplos de muchos otros que deben haber ahí afuera (los invito a contarme de más si los conocen)
+
+_Soy un zorrinito natural._

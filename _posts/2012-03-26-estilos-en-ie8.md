@@ -37,7 +37,7 @@ comments:
   author_url: ''
   date: '2012-03-27 06:30:44 +0000'
   date_gmt: '2012-03-27 11:30:44 +0000'
-  content: "Creo que como desarrolladores o dise&ntilde;adores no deber&iacute;amos
+  content: "Creo que como desarrolladores o diseñadores no deberíamos
     permitir que ie8 se transforme en el nuevo ie6 y pedirle a nuestros usuarios/lectores
     que actualicen a un navegador moderno.\r\nComo dato de color facebook ya no le
     da soporte o mantenimiento a su sitio para ie8."
@@ -47,18 +47,23 @@ comments:
   author_url: http://www.alphasmanifesto.com.ar/
   date: '2012-03-27 07:59:11 +0000'
   date_gmt: '2012-03-27 12:59:11 +0000'
-  content: "Totalmente de acuerdo Lisandro. Lo bueno es que Microsoft ya est&aacute;
+  content: "Totalmente de acuerdo Lisandro. Lo bueno es que Microsoft ya está
     forzando updates como parte del sistema de updates comunes para Internet Explorer
-    (&iquest;era para el 9 o para el 8?). Eso va a ser un gran paso, pero para aquellos
-    que dependan de entornos m&aacute;s controlados (por ejemplo, empresas), no deber&iacute;a
-    haber opci&oacute;n.\r\n\r\nSupongo que es cuesti&oacute;n de complotarse antes
-    de que el default sea dar soporte para todo.\r\n\r\nAdem&aacute;s, el update est&aacute;
-    gratis y ah&iacute; afuera."
+    ( ¿era para el 9 o para el 8?). Eso va a ser un gran paso, pero para aquellos
+    que dependan de entornos más controlados (por ejemplo, empresas), no debería
+    haber opción.\r\n\r\nSupongo que es cuestión de complotarse antes
+    de que el default sea dar soporte para todo.\r\n\r\nAdemás, el update está
+    gratis y ahí afuera."
 ---
 Y mi sobrada misericordia
 
-<p style="text-align: justify;">Me acabo de dar cuenta, de casualidad, que los estilos del blog <a href="http://stackoverflow.com/questions/6491882/css-styles-not-being-loaded-in-ie8">no estaban funcionando en IE8-</a>, debido a la presencia de elementos de HTML5, que, para ser breve, romp&iacute;an todo. Tengo sentimientos encontrados y noticias acordes.</p>
-<p style="text-align: justify;">Por un lado, si es que estabas usando IE8- y visitando mi blog, asumo que deb&eacute;s de estar de pasada, no creo que seas el tipo de audiencia que lee este blog. Por lo general la gente ac&aacute; utiliza Chrome o Firefox, y siempre en las versiones m&aacute;s actuales. Lamento decirlo, pero surfers de IE, son una minor&iacute;a.</p>
-<p style="text-align: justify;">Por otro lado, les perdono que no hayan actualizado y ya solucion&eacute; el problema. Disfruten de dos colores m&aacute;s.</p>
-<p style="text-align: justify;">PS: Ahora tenemos b&uacute;squeda. <em>&iexcl;Wheeee!</em></p>
-<p style="text-align: justify;"><em>Soy un zorrinito misericordioso.</em></p>
+
+Me acabo de dar cuenta, de casualidad, que los estilos del blog <a href="http://stackoverflow.com/questions/6491882/css-styles-not-being-loaded-in-ie8">no estaban funcionando en IE8-</a>, debido a la presencia de elementos de HTML5, que, para ser breve, rompían todo. Tengo sentimientos encontrados y noticias acordes.
+
+Por un lado, si es que estabas usando IE8- y visitando mi blog, asumo que debés de estar de pasada, no creo que seas el tipo de audiencia que lee este blog. Por lo general la gente acá utiliza Chrome o Firefox, y siempre en las versiones más actuales. Lamento decirlo, pero surfers de IE, son una minoría.
+
+Por otro lado, les perdono que no hayan actualizado y ya solucioné el problema. Disfruten de dos colores más.
+
+PS: Ahora tenemos búsqueda. _¡Wheeee!_
+
+_Soy un zorrinito misericordioso._

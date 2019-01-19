@@ -20,9 +20,15 @@ categories:
 tags: []
 comments: []
 ---
-<div style="text-align:justify;">Cambi&eacute; la t&eacute;cnica de escalado de las fuentes.</p>
-<p>Radicalmente.</p>
-<p>Esto tiene una gran ventaja, que es la generaci&oacute;n de conjuntos de datos mucho m&aacute;s homog&eacute;neos, y por tanto, una facilidad mucho mayor para las redes neuronales de aprender bajo dichos datos. A la vez, me deshice del problema del Font Padding, que es espacio extra que una fuente utiliza para generar una cadena en pantalla. (Gracias Graphics.MeasureString! No fuiste muy &uacute;til pero s&iacute; performante).</p>
-<p>Sin embargo, con ello viene una gran desventaja, que es el tiempo extra de procesamiento (y claro! lo proceso todo a mano), pero por suerte arregl&eacute; el bug de la barra de progreso y algunos detalles m&aacute;s de la aplicaci&oacute;n y el deploy.</p>
-<p>Download de Thot, <a href="http://alphagma.googlepages.com">aqu&iacute;</a>.</p>
-<p><span style="font-style:italic;">Soy un zorrinito cambiante.</span></div>
+
+Cambié la técnica de escalado de las fuentes.
+
+Radicalmente.
+
+Esto tiene una gran ventaja, que es la generación de conjuntos de datos mucho más homogéneos, y por tanto, una facilidad mucho mayor para las redes neuronales de aprender bajo dichos datos. A la vez, me deshice del problema del Font Padding, que es espacio extra que una fuente utiliza para generar una cadena en pantalla. (Gracias Graphics.MeasureString! No fuiste muy útil pero sí performante).
+
+Sin embargo, con ello viene una gran desventaja, que es el tiempo extra de procesamiento (y claro! lo proceso todo a mano), pero por suerte arreglé el bug de la barra de progreso y algunos detalles más de la aplicación y el deploy.
+
+Download de Thot, <a href="http://alphagma.googlepages.com">aquí</a>.
+
+_Soy un zorrinito cambiante._

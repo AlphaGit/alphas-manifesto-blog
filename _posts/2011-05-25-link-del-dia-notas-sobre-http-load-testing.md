@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Notas sobre HTTP Load testing'
+title: 'Link del día: Notas sobre HTTP Load testing'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,17 +16,21 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3011
 date: '2011-05-25 02:53:17 +0000'
 date_gmt: '2011-05-25 04:53:17 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - testing
-- t&eacute;cnicas
+- técnicas
 - load testing
 - HTTP
 - cliente-servidor
-- m&eacute;tricas
+- métricas
 comments: []
 ---
-<p style="text-align: justify;">Hace poquito encontr&eacute; esta serie de notas que conformaron un art&iacute;culo sobre <a href="http://www.mnot.net/blog/2011/05/18/http_benchmark_rules">HTTP Load Testing</a>. El art&iacute;culo trata distintos puntos relativos a c&oacute;mo se ve afectada la calidad del testing, a la vez de distintas t&eacute;cnicas para tener (o para evitar) de forma que los resultados del testing sean lo suficientemente confiables como para significar algo.</p>
-<p style="text-align: justify;">Por otro lado, siempre est&aacute;n esos consejos de la experiencia que podemos leer ah&iacute; tambi&eacute;n, y que si bien no tienen mucho sentido en un principio, tras haber hecho caso podemos ver la raz&oacute;n real de por qu&eacute; se nos aconsejaba eso.</p>
-<p style="text-align: justify;">El art&iacute;culo est&aacute; muy interesante, incluso si est&aacute;n pensando en aplicarlo a load testing que no necesariamente sea HTTP, yo creo que aplicar&iacute;a a cualquier tipo de testing cliente-servidor, y tambi&eacute;n varios de estos conceptos ser&iacute;an &uacute;tiles para load testing de cualquier tipo de aplicaci&oacute;n.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito cargado.</em></p>
+
+Hace poquito encontré esta serie de notas que conformaron un artículo sobre <a href="http://www.mnot.net/blog/2011/05/18/http_benchmark_rules">HTTP Load Testing</a>. El artículo trata distintos puntos relativos a cómo se ve afectada la calidad del testing, a la vez de distintas técnicas para tener (o para evitar) de forma que los resultados del testing sean lo suficientemente confiables como para significar algo.
+
+Por otro lado, siempre están esos consejos de la experiencia que podemos leer ahí también, y que si bien no tienen mucho sentido en un principio, tras haber hecho caso podemos ver la razón real de por qué se nos aconsejaba eso.
+
+El artículo está muy interesante, incluso si están pensando en aplicarlo a load testing que no necesariamente sea HTTP, yo creo que aplicaría a cualquier tipo de testing cliente-servidor, y también varios de estos conceptos serían útiles para load testing de cualquier tipo de aplicación.
+
+_Soy un zorrinito cargado._

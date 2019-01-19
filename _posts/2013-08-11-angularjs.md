@@ -19,7 +19,7 @@ categories:
 - Books
 tags:
 - JavaScript
-- librer&iacute;a
+- librería
 - review
 - MVC
 - TDD
@@ -34,11 +34,19 @@ comments: []
 
 Libro introductorio sobre AngularJS y sus prácticas
 
-<p style="text-align: justify;">Hace ya algunos meses termin&eacute; de leer un libro que me ser&iacute;a &uacute;til para un proyecto en el que estoy involucrado, en el cual usamos <a href="angularjs.org">AngularJS</a>. La librer&iacute;a me encanta, pero me tom&oacute; un tiempo entender su filosof&iacute;a, y ah&iacute; es en donde este libro hace su aparici&oacute;n.</p>
-<p><!--more--></p>
-<p style="text-align: justify;">El libro comienza un poco lento, especialmente para alguien que ya estuvo experimentando con la librer&iacute;a y quiere comprenderla. Para alguien que nunca escuch&oacute; hablar de ella, es una buena introducci&oacute;n. En general el libro cubre varios aspectos de la misma, sin ir nunca demasiado en detalle. Como tal, no es un buen libro de referencia pero s&iacute; un buen libro para principantes.</p>
-<p style="text-align: justify;">Lo m&aacute;s interesante del libro es que hace mucho &eacute;nfasis en varias de las buenas pr&aacute;cticas y metodolog&iacute;as, algo que ciertamente no me canso de pensar: deber&iacute;a ser m&aacute;s hecho por todos los libros. Me agrada mucho que este sea uno de esos. Hace un intensivo &eacute;nfasis en <a href="http://en.wikipedia.org/wiki/Test-driven_development">TDD</a> y por qu&eacute; el testing es algo importante para el desarrollo, sin dejar al menos un ejemplo de cada caracter&iacute;stica que da la librer&iacute;a y c&oacute;mo esta puede testearse.</p>
-<p style="text-align: justify;">El libro, sin embargo, no hace menci&oacute;n alguna a ninguna metodolog&iacute;a de dise&ntilde;o, y creo que eso est&aacute; bien. Parecer&iacute;a abogar por dise&ntilde;os emergentes en base al testing, pero no hace menci&oacute;n al respecto. Es interesante saber tambi&eacute;n que AngularJS no apunta a ninguna filosof&iacute;a en particular y podemos hacer tanta chanchada como hermoso y elegante dise&ntilde;o querramos. Pero volvamos al libro.</p>
-<p style="text-align: justify;">En los primeros cap&iacute;tulos nos da suficiente informaci&oacute;n como para poder comenzar a utilizar la librer&iacute;a sin mucho miedo, habiendo introducido varios de los conceptos en los que se apoya (templating, MVC, data binding, dependency injection). Luego nos habla de varias herramientas que podemos utilizar para acelerar nuestro desarrollo, y finalmente indaga un poco m&aacute;s a fondo sobre estos conceptos, nunca llegando a un nivel experto ni demasiado detallado. Finalmente, abunda en ejemplos simples sobre situaciones particulares para demostrar algunas caracter&iacute;sticas, pero nada que pueda considerarse al nivel proyecto o aplicaci&oacute;n entera. Varios elementos que la librer&iacute;a provee no se encuentran explicados en este libro.</p>
-<p style="text-align: justify;">A&uacute;n as&iacute;, a pesar de ese nivel de detalle extensivo, pienso que el libro habr&iacute;a sido muy bueno... si no fuera por haber podido detectar varios errores a lo largo de &eacute;l. Algunos eran errores menores, como piezas de c&oacute;digo que no corresponden al ejemplo que se est&aacute; describiendo, o explicaciones incorrectas sobre algunos conceptos. Me considero con suerte por haber tenido una base anterior a leerlo, puesto que de no ser as&iacute;, me habr&iacute;a confundido mucho. Por tanto es que s&oacute;lo le doy tres zorrinitos de cinco: considero que puede ser algo peligroso si uno no est&aacute; preparado a prestar atenci&oacute;n a esos detalles. &iquest;Quiz&aacute; en ediciones posteriores esto se solucione?</p>
-<p style="text-align: justify;"><strong>En fin, lo considero una buena introducci&oacute;n, pero hay que leerlo con algo de cuidado.</strong> Afortunadamente, hay mucho en la internet que complementa este libro, as&iacute; que sigue siendo &uacute;til.</p>
+
+Hace ya algunos meses terminé de leer un libro que me sería útil para un proyecto en el que estoy involucrado, en el cual usamos <a href="angularjs.org">AngularJS</a>. La librería me encanta, pero me tomó un tiempo entender su filosofía, y ahí es en donde este libro hace su aparición.
+
+<!--more-->
+
+El libro comienza un poco lento, especialmente para alguien que ya estuvo experimentando con la librería y quiere comprenderla. Para alguien que nunca escuchó hablar de ella, es una buena introducción. En general el libro cubre varios aspectos de la misma, sin ir nunca demasiado en detalle. Como tal, no es un buen libro de referencia pero sí un buen libro para principantes.
+
+Lo más interesante del libro es que hace mucho énfasis en varias de las buenas prácticas y metodologías, algo que ciertamente no me canso de pensar: debería ser más hecho por todos los libros. Me agrada mucho que este sea uno de esos. Hace un intensivo énfasis en <a href="http://en.wikipedia.org/wiki/Test-driven_development">TDD</a> y por qué el testing es algo importante para el desarrollo, sin dejar al menos un ejemplo de cada característica que da la librería y cómo esta puede testearse.
+
+El libro, sin embargo, no hace mención alguna a ninguna metodología de diseño, y creo que eso está bien. Parecería abogar por diseños emergentes en base al testing, pero no hace mención al respecto. Es interesante saber también que AngularJS no apunta a ninguna filosofía en particular y podemos hacer tanta chanchada como hermoso y elegante diseño querramos. Pero volvamos al libro.
+
+En los primeros capítulos nos da suficiente información como para poder comenzar a utilizar la librería sin mucho miedo, habiendo introducido varios de los conceptos en los que se apoya (templating, MVC, data binding, dependency injection). Luego nos habla de varias herramientas que podemos utilizar para acelerar nuestro desarrollo, y finalmente indaga un poco más a fondo sobre estos conceptos, nunca llegando a un nivel experto ni demasiado detallado. Finalmente, abunda en ejemplos simples sobre situaciones particulares para demostrar algunas características, pero nada que pueda considerarse al nivel proyecto o aplicación entera. Varios elementos que la librería provee no se encuentran explicados en este libro.
+
+Aún así, a pesar de ese nivel de detalle extensivo, pienso que el libro habría sido muy bueno... si no fuera por haber podido detectar varios errores a lo largo de él. Algunos eran errores menores, como piezas de código que no corresponden al ejemplo que se está describiendo, o explicaciones incorrectas sobre algunos conceptos. Me considero con suerte por haber tenido una base anterior a leerlo, puesto que de no ser así, me habría confundido mucho. Por tanto es que sólo le doy tres zorrinitos de cinco: considero que puede ser algo peligroso si uno no está preparado a prestar atención a esos detalles.  ¿Quizá en ediciones posteriores esto se solucione?
+
+**En fin, lo considero una buena introducción, pero hay que leerlo con algo de cuidado.** Afortunadamente, hay mucho en la internet que complementa este libro, así que sigue siendo útil.

@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3648
 date: '2012-02-22 11:38:03 +0000'
 date_gmt: '2012-02-22 16:38:03 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - preguntas
 - entrevista
@@ -35,7 +35,11 @@ comments:
 
 Simpleza autocrítica
 
-<p style="text-align: justify;">Para quienes no conocen el <a href="http://www.joelonsoftware.com/articles/fog0000000043.html">Joel Test</a>, es una prueba muy simple, solo 12 preguntas que nos gu&iacute;an a darnos cuenta si nuestro equipo de desarrollo va por el buen camino o tenemos cosas que arreglar.</p>
-<p style="text-align: justify;">De ah&iacute; alguien pregunt&oacute; <a href="http://programmers.stackexchange.com/questions/135170/the-joel-tests-equivalent-for-measuring-a-programmer">si hab&iacute;a una especie de Joel Test para la evaluaci&oacute;n de un programador en particular</a>, especialmente preguntas para hacer en entrevistas y para evaluar a gente de forma individual. Alguien mencion&oacute; que se pod&iacute;a trabajar con la <a href="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">Programmer Competency Matrix</a> de IndianGeek, con la que ya he trabajado anteriormente. A&uacute;n as&iacute;, no se ajusta espec&iacute;ficamente a todas las caracter&iacute;sticas que alguien quisiera medir en un programador.</p>
-<p style="text-align: justify;">Al fin y al cabo, las respuestas no fueron muy iluminadoras, usuarios relacionados hicieron una pregunta en Quora sobre <a href="http://www.quora.com/What-do-you-absolutely-have-to-know-about-a-programmer-software-engineer-before-hiring-him">qu&eacute; hay que preguntar a un candidato antes de contratarlo</a>, las respuestas son un poco m&aacute;s interesantes y m&aacute;s all&aacute; del tema del entrevistado y la contrataci&oacute;n, es interesante como ejercicio preguntarnos esas cosas a nosotros mismos y evaluar las respuestas.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito evaluado.</em></p>
+
+Para quienes no conocen el <a href="http://www.joelonsoftware.com/articles/fog0000000043.html">Joel Test</a>, es una prueba muy simple, solo 12 preguntas que nos guían a darnos cuenta si nuestro equipo de desarrollo va por el buen camino o tenemos cosas que arreglar.
+
+De ahí alguien preguntó <a href="http://programmers.stackexchange.com/questions/135170/the-joel-tests-equivalent-for-measuring-a-programmer">si había una especie de Joel Test para la evaluación de un programador en particular</a>, especialmente preguntas para hacer en entrevistas y para evaluar a gente de forma individual. Alguien mencionó que se podía trabajar con la <a href="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">Programmer Competency Matrix</a> de IndianGeek, con la que ya he trabajado anteriormente. Aún así, no se ajusta específicamente a todas las características que alguien quisiera medir en un programador.
+
+Al fin y al cabo, las respuestas no fueron muy iluminadoras, usuarios relacionados hicieron una pregunta en Quora sobre <a href="http://www.quora.com/What-do-you-absolutely-have-to-know-about-a-programmer-software-engineer-before-hiring-him">qué hay que preguntar a un candidato antes de contratarlo</a>, las respuestas son un poco más interesantes y más allá del tema del entrevistado y la contratación, es interesante como ejercicio preguntarnos esas cosas a nosotros mismos y evaluar las respuestas.
+
+_Soy un zorrinito evaluado._

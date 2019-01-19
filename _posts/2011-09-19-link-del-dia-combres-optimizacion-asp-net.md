@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Combres, optimizaci&oacute;n ASP.NET'
+title: 'Link del día: Combres, optimización ASP.NET'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,16 +16,20 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3273
 date: '2011-09-19 10:48:45 +0000'
 date_gmt: '2011-09-19 15:48:45 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - HTML
 - performance
-- librer&iacute;a
-- optimizaci&oacute;n
+- librería
+- optimización
 - ASP.NET
 comments: []
 ---
-<p style="text-align: justify;">Justo ayer, rondando la medianoche, JH me envi&oacute; por email un link a este proyecto llamado <a href="http://www.codeproject.com/KB/aspnet/combres2.aspx">Combres 2.0</a>, una librer&iacute;a para optimizaci&oacute;n de sitios ASP.NET. Recuerdan el caso de <a href="https://blog.alphasmanifesto.com/2011/06/20/link-del-dia-minify/">Minify</a> para PHP o <a href="https://blog.alphasmanifesto.com/2010/11/08/link-del-dia-optimizacion-web-vs-desarrollo-prolijo/">mod_pagespeed</a> para Apache, este es el turno de ASP.NET.</p>
-<p style="text-align: justify;">Esta librer&iacute;a nos permite incluir recursos haciendo uso de ella, de forma que al momento de generar los links tambi&eacute;n se hacen referentes a una direcci&oacute;n que esta librer&iacute;a manejar&aacute;, y se encarga del cacheo, compresi&oacute;n y minimizado de los documentos. La reducci&oacute;n de HTTP requests es, por lejos, una de las ganancias m&aacute;s &uacute;tiles y menos costosas de lograr que nos ofrece.</p>
-<p style="text-align: justify;">En el sitio de CodeProject (en donde se encuentra alojado) se pueden ver varias de las aplicaciones y usos que tiene. Ver&eacute; si prontamente puedo comenzar a utilizarla.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito optimizado.</em></p>
+
+Justo ayer, rondando la medianoche, JH me envió por email un link a este proyecto llamado <a href="http://www.codeproject.com/KB/aspnet/combres2.aspx">Combres 2.0</a>, una librería para optimización de sitios ASP.NET. Recuerdan el caso de <a href="https://blog.alphasmanifesto.com/2011/06/20/link-del-dia-minify/">Minify</a> para PHP o <a href="https://blog.alphasmanifesto.com/2010/11/08/link-del-dia-optimizacion-web-vs-desarrollo-prolijo/">mod_pagespeed</a> para Apache, este es el turno de ASP.NET.
+
+Esta librería nos permite incluir recursos haciendo uso de ella, de forma que al momento de generar los links también se hacen referentes a una dirección que esta librería manejará, y se encarga del cacheo, compresión y minimizado de los documentos. La reducción de HTTP requests es, por lejos, una de las ganancias más útiles y menos costosas de lograr que nos ofrece.
+
+En el sitio de CodeProject (en donde se encuentra alojado) se pueden ver varias de las aplicaciones y usos que tiene. Veré si prontamente puedo comenzar a utilizarla.
+
+_Soy un zorrinito optimizado._

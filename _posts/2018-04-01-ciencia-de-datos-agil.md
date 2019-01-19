@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Ciencia de datos &aacute;gil
+title: Ciencia de datos ágil
 author:
   display_name: Alpha
   login: Alpha
@@ -31,9 +31,15 @@ comments: []
 
 Curso de Ernesto Mislej
 
-<p style="text-align: justify;">(Post only in Spanish since I'm reviewing Spanish content. It's a Udemy course talking about Data Science in an agile framework.)</p>
-<p style="text-align: justify;">Hace unos d&iacute;as termin&eacute; de participar del curso <a href="https://www.udemy.com/ciencia-de-datos-agil/learn/v4/">Ciencia de datos &aacute;gil</a>, por Ernesto Mislej, co-fundador de 7puentes. Al comienzo me recomendaron el curso porque cubr&iacute;a un hueco que no estaba muy bien explicado en las fuentes online: c&oacute;mo llevar adelante un proyecto de Data Science, fuera del t&iacute;pico proceso waterfall que siempre se describe. Adem&aacute;s, Ernesto es una fuente de buena reputaci&oacute;n, por lo que el curso me interes&oacute;.</p>
-<p style="text-align: justify;">El curso es relativamente corto, pero es algo condensado. El formato del curso es primero plantear algunos aspectos te&oacute;ricos sobre el marco metodol&oacute;gico agile y la ciencia de datos. Luego, con esas bases, comienza un ejemplo pr&aacute;ctico como si estuvi&eacute;ramos siendo parte de un proyecto. Tras eso, Ernesto nos lleva por lo que ser&iacute;an nuestras deducciones, idas, vueltas y conclusiones. Tambi&eacute;n nos explica qu&eacute; reuniones se "dieron" con nuestros clientes y todo lo que ocurre en un proyecto agile com&uacute;n y corriente.</p>
-<p style="text-align: justify;">Estos ejemplos son realmente esclarecedores: permiten ver c&oacute;mo se llevar&iacute;a adelante un proyecto como estos. Pero como ejemplo, por supuesto que tiene algunos aspectos simplificados. No mencionan de entregables, o procesos de testing, o casos de poca definici&oacute;n de negocios que tambi&eacute;n es el tipo de cosas que pasan en proyectos normales. No culpo al curso por esto: era claramente un curso introductorio a esta tem&aacute;tica, pero por eso a&uacute;n quedan algunas preguntas pendientes para quienes ya hayan participado de proyectos agile.</p>
-<p style="text-align: justify;">En definitiva, es una buena inversi&oacute;n de 2 horas y 15 d&oacute;lares. (&iexcl;Muy accesible!) Definitivamente lo recomendar&iacute;a.</p>
-<p style="text-align: justify;">Si les interesa, pueden visitarlo en <a href="https://www.udemy.com/ciencia-de-datos-agil/learn/v4/">Udemy: Ciencia de datos &aacute;gil</a>.</p>
+
+(Post only in Spanish since I'm reviewing Spanish content. It's a Udemy course talking about Data Science in an agile framework.)
+
+Hace unos días terminé de participar del curso <a href="https://www.udemy.com/ciencia-de-datos-agil/learn/v4/">Ciencia de datos ágil</a>, por Ernesto Mislej, co-fundador de 7puentes. Al comienzo me recomendaron el curso porque cubría un hueco que no estaba muy bien explicado en las fuentes online: cómo llevar adelante un proyecto de Data Science, fuera del típico proceso waterfall que siempre se describe. Además, Ernesto es una fuente de buena reputación, por lo que el curso me interesó.
+
+El curso es relativamente corto, pero es algo condensado. El formato del curso es primero plantear algunos aspectos teóricos sobre el marco metodológico agile y la ciencia de datos. Luego, con esas bases, comienza un ejemplo práctico como si estuviéramos siendo parte de un proyecto. Tras eso, Ernesto nos lleva por lo que serían nuestras deducciones, idas, vueltas y conclusiones. También nos explica qué reuniones se "dieron" con nuestros clientes y todo lo que ocurre en un proyecto agile común y corriente.
+
+Estos ejemplos son realmente esclarecedores: permiten ver cómo se llevaría adelante un proyecto como estos. Pero como ejemplo, por supuesto que tiene algunos aspectos simplificados. No mencionan de entregables, o procesos de testing, o casos de poca definición de negocios que también es el tipo de cosas que pasan en proyectos normales. No culpo al curso por esto: era claramente un curso introductorio a esta temática, pero por eso aún quedan algunas preguntas pendientes para quienes ya hayan participado de proyectos agile.
+
+En definitiva, es una buena inversión de 2 horas y 15 dólares. (¡Muy accesible!) Definitivamente lo recomendaría.
+
+Si les interesa, pueden visitarlo en <a href="https://www.udemy.com/ciencia-de-datos-agil/learn/v4/">Udemy: Ciencia de datos ágil</a>.

@@ -16,19 +16,22 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3943
 date: '2012-06-04 08:50:43 +0000'
 date_gmt: '2012-06-04 13:50:43 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - proyecto
-- Im&aacute;genes
+- Imágenes
 - design
 - minimalismo
-- dise&ntilde;o gr&aacute;fico
-- galer&iacute;a
-- inspiraci&oacute;n
+- diseño gráfico
+- galería
+- inspiración
 comments: []
 ---
 Iconos minimalistas para todas las ocasiones
 
-<p style="text-align: justify;"><a href="http://thenounproject.com/">The Noun Project</a>&nbsp;es una colecci&oacute;n de iconos minimalistas, la gran mayor&iacute;a libres para usar. Cada imagen tiene asociada un sustantivo que lo describe, y por lo general la imagen es una buena representaci&oacute;n de esa palabra. Disponible tanto en ingl&eacute;s como en espa&ntilde;ol para buscar, esta galer&iacute;a de im&aacute;genes nos permite inspirarnos como dise&ntilde;adores y conseguir una buena cantidad de iconos para nuestros sistemas de necesitarlos.</p>
-<p style="text-align: justify;">Tambi&eacute;n existe una <a href="http://thenounproject.com/en-us/categories/">visualizaci&oacute;n por categor&iacute;as</a> que nos permite interiorizarnos en alguna de ellas en particular, que puede estar asociada a nuestra necesidad.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito iconizado.</em></p>
+
+<a href="http://thenounproject.com/">The Noun Project</a> es una colección de iconos minimalistas, la gran mayoría libres para usar. Cada imagen tiene asociada un sustantivo que lo describe, y por lo general la imagen es una buena representación de esa palabra. Disponible tanto en inglés como en español para buscar, esta galería de imágenes nos permite inspirarnos como diseñadores y conseguir una buena cantidad de iconos para nuestros sistemas de necesitarlos.
+
+También existe una <a href="http://thenounproject.com/en-us/categories/">visualización por categorías</a> que nos permite interiorizarnos en alguna de ellas en particular, que puede estar asociada a nuestra necesidad.
+
+_Soy un zorrinito iconizado._

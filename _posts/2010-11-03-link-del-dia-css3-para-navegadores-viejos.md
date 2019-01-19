@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: CSS3 para navegadores viejos'
+title: 'Link del día: CSS3 para navegadores viejos'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2628
 date: '2010-11-03 11:15:42 +0000'
 date_gmt: '2010-11-03 13:15:42 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - HTML
 - desarrollo web
@@ -24,16 +24,20 @@ tags:
 - CSS3
 comments:
 - id: 7980
-  author: 'Link del d&iacute;a: Herramientas para CSS3 | Alpha''s Manifesto'
+  author: 'Link del día: Herramientas para CSS3 | Alpha''s Manifesto'
   author_email: ''
   author_url: http://blog.alphasmanifesto.com/2011/05/18/link-del-dia-herramientas-para-css3/
   date: '2011-05-18 13:56:42 +0000'
   date_gmt: '2011-05-18 15:56:42 +0000'
-  content: "[...] utilizar condicionalmente caracter&iacute;sticas que pueden estar
+  content: "[...] utilizar condicionalmente características que pueden estar
     soportadas o no. (Aunque yo prefiero Selectivizr que emula esos comportamientos.),El
-    otro de ellos es simplemente una p&aacute;gina de referencia, que es [...]"
+    otro de ellos es simplemente una página de referencia, que es [...]"
 ---
-<p style="text-align: justify;">Todos sabemos que cuando queremos avanzar en las tendencias tecnol&oacute;gicas, muchas veces debemos dejar atr&aacute;s a una serie de usuarios que no quieren o no pueden actualizar sus plataformas. Para muchos desarrolladores web, Internet Explorer es hoy el problema de dar soporte a todos los posibles usuarios, m&aacute;s espec&iacute;ficamente en las versiones antiguas de este navegador. (Seg&uacute;n parece, todav&iacute;a hay gente que utiliza la versi&oacute;n 5.)</p>
-<p style="text-align: justify;">Gracias a <a href="http://twitter.com/jmma/status/27247791324">un tweet de @jmma</a> me enter&eacute; de un script llamado <a href="http://selectivizr.com/">Selectivizr</a> (nombres 2.0 si los hay) que simula los selectores CSS3 para IE6, IE7 e IE8. Por supuesto, ya luego podemos utilizar CSS3 y librer&iacute;as JavaScript con selectores CSS3 sin problemas.</p>
-<p style="text-align: justify;">En el fondo, sabemos que no es perfecto (vean la secci&oacute;n "You need to know"), pero est&aacute; mucho m&aacute;s cerca de ayudarnos a avanzar sin dejar a muchos usuarios de lado.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito compatible.</em></p>
+
+Todos sabemos que cuando queremos avanzar en las tendencias tecnológicas, muchas veces debemos dejar atrás a una serie de usuarios que no quieren o no pueden actualizar sus plataformas. Para muchos desarrolladores web, Internet Explorer es hoy el problema de dar soporte a todos los posibles usuarios, más específicamente en las versiones antiguas de este navegador. (Según parece, todavía hay gente que utiliza la versión 5.)
+
+Gracias a <a href="http://twitter.com/jmma/status/27247791324">un tweet de @jmma</a> me enteré de un script llamado <a href="http://selectivizr.com/">Selectivizr</a> (nombres 2.0 si los hay) que simula los selectores CSS3 para IE6, IE7 e IE8. Por supuesto, ya luego podemos utilizar CSS3 y librerías JavaScript con selectores CSS3 sin problemas.
+
+En el fondo, sabemos que no es perfecto (vean la sección "You need to know"), pero está mucho más cerca de ayudarnos a avanzar sin dejar a muchos usuarios de lado.
+
+_Soy un zorrinito compatible._

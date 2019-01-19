@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Introduction to Genetic Algorithms'
+title: 'Link del día: Introduction to Genetic Algorithms'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,12 +16,17 @@ wordpress_url: http://zorri2.wordpress.com/2007/11/07/link-del-dia-introduction-
 date: '2007-11-07 12:36:00 +0000'
 date_gmt: '2007-11-07 12:36:00 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags: []
 comments: []
 ---
-<div style="text-align:justify;">Link <a href="http://www.rennard.org/alife/english/gavintrgb.html">aqu&iacute;</a>.</p>
-<p>No se fijen en la p&aacute;gina pedorra. :P</p>
-<p>Si bien esto no es demasiado avanzado, es una introducci&oacute;n dentro de todo interesante a los algoritmos gen&eacute;ticos, aquellos algoritmos que evolucionan para lograr un objetivo que se desconoce c&oacute;mo hacer o para mejorar la forma en que lo hace. El enfoque que ac&aacute; se da no es tan biol&oacute;gico respecto de la teor&iacute;a de la evoluci&oacute;n (que es el cl&aacute;sicamente abordado cuando se tratan estos temas), sino que tiene un enfoque m&aacute;s matem&aacute;tico y probabil&iacute;stico... v&aacute;lido tambi&eacute;n.</p>
-<p>Tiene un programita para ver algo as&iacute; en funcionamiento, pero la verdad no lo prob&eacute;.</p>
-<p><span style="font-style:italic;">Soy un zorrinito gen&eacute;tico.</span></div>
+
+Link <a href="http://www.rennard.org/alife/english/gavintrgb.html">aquí</a>.
+
+No se fijen en la página pedorra. :P
+
+Si bien esto no es demasiado avanzado, es una introducción dentro de todo interesante a los algoritmos genéticos, aquellos algoritmos que evolucionan para lograr un objetivo que se desconoce cómo hacer o para mejorar la forma en que lo hace. El enfoque que acá se da no es tan biológico respecto de la teoría de la evolución (que es el clásicamente abordado cuando se tratan estos temas), sino que tiene un enfoque más matemático y probabilístico... válido también.
+
+Tiene un programita para ver algo así en funcionamiento, pero la verdad no lo probé.
+
+_Soy un zorrinito genético._

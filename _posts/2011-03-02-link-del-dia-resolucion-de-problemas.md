@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Resoluci&oacute;n de problemas'
+title: 'Link del día: Resolución de problemas'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,14 +16,18 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2832
 date: '2011-03-02 11:58:19 +0000'
 date_gmt: '2011-03-02 13:58:19 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - problema
 - MicroSiervos
-- art&iacute;culo
+- artículo
 comments: []
 ---
-<p style="text-align: justify;">No me refiero a problemas de tipo matem&aacute;tico, ni siquiera a problemas relacionados a la inform&aacute;tica (aunque los ejemplos se relacionan mucho con eso). En este art&iacute;culo, publicado desde <a href="http://www.microsiervos.com/archivo/ordenadores/pero-si-yo-no-he-tocado-nada.html">MicroSiervos</a>, se nos explican varios puntos distintos a tener en cuenta al momento de resolver ese tipo de problemas cuya soluci&oacute;n no es nada evidente.</p>
-<p style="text-align: justify;">Muchos de nosotros nos hemos encontrados cazando este tipo de problemas, y sin duda es una ciencia dif&iacute;cil. Este art&iacute;culo, llamada&nbsp;<a href="http://manuelpereiragonzalez.blogspot.com/2010/10/10-consejos-para-la-resolucion-de.html">10 consejos para la resoluci&oacute;n de problemas t&eacute;cnicos inexplicables</a>, aclara varios puntos que todos deberiamos tener muy presentes antes de frustrarnos buscando este tipo de problemas fantasmas.</p>
-<p style="text-align: justify;">Este es el tipo de aprendizaje que paga r&aacute;pidamente.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito dif&iacute;cil de resolver.</em></p>
+
+No me refiero a problemas de tipo matemático, ni siquiera a problemas relacionados a la informática (aunque los ejemplos se relacionan mucho con eso). En este artículo, publicado desde <a href="http://www.microsiervos.com/archivo/ordenadores/pero-si-yo-no-he-tocado-nada.html">MicroSiervos</a>, se nos explican varios puntos distintos a tener en cuenta al momento de resolver ese tipo de problemas cuya solución no es nada evidente.
+
+Muchos de nosotros nos hemos encontrados cazando este tipo de problemas, y sin duda es una ciencia difícil. Este artículo, llamada <a href="http://manuelpereiragonzalez.blogspot.com/2010/10/10-consejos-para-la-resolucion-de.html">10 consejos para la resolución de problemas técnicos inexplicables</a>, aclara varios puntos que todos deberiamos tener muy presentes antes de frustrarnos buscando este tipo de problemas fantasmas.
+
+Este es el tipo de aprendizaje que paga rápidamente.
+
+_Soy un zorrinito difícil de resolver._

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Configuraci&oacute;n de ManagedFusion.Rewriter como proxy reverso
+title: Configuración de ManagedFusion.Rewriter como proxy reverso
 author:
   display_name: Alpha
   login: Alpha
@@ -23,63 +23,90 @@ tags:
 - Technology
 - seguridad
 - herramientas
-- configuraci&oacute;n
+- configuración
 - proxy
 comments: []
 ---
 Guía rápida para tener un proxy reverso en 5 pasos
 
-<p style="text-align: justify;">En mi post anterior de <a href="https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/">alternativas para superar la limitaci&oacute;n de la Same Origin Policy</a>, expliqu&eacute; brevemente el por qu&eacute; de mi preferencia por los reverse proxy.</p>
-<p style="text-align: justify;">Aqu&iacute; quiero contar un poco m&aacute;s al respecto y contar, con lujo de detalles, c&oacute;mo configurar un proxy reverso gratuito para proyectos .NET.</p>
-<p><!--more--></p>
-<h2>&iquest;Por qu&eacute; un proxy reverso?</h2>
-<p style="text-align: justify;">Entre todas las opciones mencionadas en <a href="https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/">el post anterior</a> se destacaba al proxy reverso como una de mis opciones preferidas, por las siguientes razones:</p>
-<ol style="text-align: justify;">
-<li><strong>Se puede configurar y versionar como parte del proyecto.</strong> Esto significa que personas que se sumen al equipo no tienen m&aacute;s que actualizar el c&oacute;digo y ejecutarlo para que la aplicaci&oacute;n les funcione. Puede que esto var&iacute;e seg&uacute;n el proxy elegido, pero si podemos usar componentes que nos permita esto, es definitivamente una ventaja no menor.</li>
-<li><strong>Es totalmente transparente para la aplicaci&oacute;n.</strong> Esta ventaja se da sobre supuestos en donde tenemos dos equipos distintos trabajando en una aplicaci&oacute;n, o mientras unos est&aacute;n desarrollando el frontend, otros trabajan con el backend y deben exponer una API para que el frontend consuma. Por otro lado, no se debe ensuciar el c&oacute;digo de la aplicaci&oacute;n con mecanismos innecesarios que eviten las limitaciones del navegador cuando esta complejidad no es necesaria en un ambiente real.</li>
-<li><strong>La configuracion es simple</strong>, y eso incluye: f&aacute;cil y no propensa a errores.</li>
-</ol>
-<p style="text-align: justify;">Aclarados esos puntos, pasemos a la parte central de este art&iacute;culo.</p>
-<h2 style="text-align: justify;">Configurando ManagedFusion.Rewriter</h2>
-<p style="text-align: justify;">En mi b&uacute;squeda por proxies, encontr&eacute; <a href="https://github.com/managedfusion/managedfusion-rewriter">ManagedFusion.Rewriter</a>, un proyecto open source y gratuito implementado en .NET que con unos pocos pasos nos permitir&aacute; configurar un rewriter de URLs y proxy reverso.</p>
-<p style="text-align: justify;">Cabe aclarar que ManagedFusion.Rewriter no tiene in desarrollo activo actualmente. Consid&eacute;renlo dos veces antes de usar este proyecto para ambientes de producci&oacute;n. Para entornos de desarrollo, sin embargo, deber&iacute;a ser aceptable.</p>
-<h3 style="text-align: justify;">1. Bajar el proyecto</h3>
-<p style="text-align: justify;">Recomiendo usar la &uacute;ltima versi&oacute;n disponible <a href="https://github.com/managedfusion/managedfusion-rewriter">en Github</a>. Hay copias en Codeplex y en Nuget, pero parecen estar un par de versiones atr&aacute;s. Como extra, el &uacute;ltimo release tiene un bug que imped&iacute;a ejecutar requests contra URLs que parecieran paths. Pueden leer m&aacute;s de esto aqu&iacute;: <a href="https://github.com/managedfusion/managedfusion-rewriter/pull/6">Proxy issues for URLs without trailing slash</a>.</p>
-<p style="text-align: justify;">En la p&aacute;gina principal del repositorio, utilicen la opci&oacute;n de download zip. Tambi&eacute;n pueden clonar el repositorio con su cliente git favorito, pero eso requiere que conozcan la utilizaci&oacute;n de git y quiero dejar esta gu&iacute;a en lo b&aacute;sico posible.</p>
+
+En mi post anterior de <a href="https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/">alternativas para superar la limitación de la Same Origin Policy</a>, expliqué brevemente el por qué de mi preferencia por los reverse proxy.
+
+Aquí quiero contar un poco más al respecto y contar, con lujo de detalles, cómo configurar un proxy reverso gratuito para proyectos .NET.
+
+<!--more-->
+
+##  ¿Por qué un proxy reverso?
+
+Entre todas las opciones mencionadas en <a href="https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/">el post anterior</a> se destacaba al proxy reverso como una de mis opciones preferidas, por las siguientes razones:
+
+1. **Se puede configurar y versionar como parte del proyecto.** Esto significa que personas que se sumen al equipo no tienen más que actualizar el código y ejecutarlo para que la aplicación les funcione. Puede que esto varíe según el proxy elegido, pero si podemos usar componentes que nos permita esto, es definitivamente una ventaja no menor.
+1. **Es totalmente transparente para la aplicación.** Esta ventaja se da sobre supuestos en donde tenemos dos equipos distintos trabajando en una aplicación, o mientras unos están desarrollando el frontend, otros trabajan con el backend y deben exponer una API para que el frontend consuma. Por otro lado, no se debe ensuciar el código de la aplicación con mecanismos innecesarios que eviten las limitaciones del navegador cuando esta complejidad no es necesaria en un ambiente real.
+1. **La configuracion es simple**, y eso incluye: fácil y no propensa a errores.
+
+Aclarados esos puntos, pasemos a la parte central de este artículo.
+
+## Configurando ManagedFusion.Rewriter
+
+En mi búsqueda por proxies, encontré <a href="https://github.com/managedfusion/managedfusion-rewriter">ManagedFusion.Rewriter</a>, un proyecto open source y gratuito implementado en .NET que con unos pocos pasos nos permitirá configurar un rewriter de URLs y proxy reverso.
+
+Cabe aclarar que ManagedFusion.Rewriter no tiene in desarrollo activo actualmente. Considérenlo dos veces antes de usar este proyecto para ambientes de producción. Para entornos de desarrollo, sin embargo, debería ser aceptable.
+
+### 1. Bajar el proyecto
+
+Recomiendo usar la última versión disponible <a href="https://github.com/managedfusion/managedfusion-rewriter">en Github</a>. Hay copias en Codeplex y en Nuget, pero parecen estar un par de versiones atrás. Como extra, el último release tiene un bug que impedía ejecutar requests contra URLs que parecieran paths. Pueden leer más de esto aquí: <a href="https://github.com/managedfusion/managedfusion-rewriter/pull/6">Proxy issues for URLs without trailing slash</a>.
+
+En la página principal del repositorio, utilicen la opción de download zip. También pueden clonar el repositorio con su cliente git favorito, pero eso requiere que conozcan la utilización de git y quiero dejar esta guía en lo básico posible.
 
 ![](/assets/ManagedFusionRewriter-downloadZip.png)
 
-<h3 style="text-align: justify;">2. Compilar el proyecto y obtener el binario</h3>
-<p style="text-align: justify;">Luego de descomprimir el archivo bajado, podr&aacute;n abrir el proyecto desde Visual Studio 2012 y deber&iacute;an poder compilarlo sin problemas. Recuerden hacerlo con permisos de administraci&oacute;n porque el proyecto debe ser firmado (de otra forma recibir&aacute;n un error).&nbsp;Hagan el build en la configuraci&oacute;n de Release. En el momento de escritura de este art&iacute;culo, la configuraci&oacute;n es indiferente pero tiene m&aacute;s sentido y precauci&oacute;n para el futuro permitir las optimizaciomes y posibles cambios que ocurran en el proyecto.</p>
-<p style="text-align: justify;">Incluso pueden correr los unit tests solo para asegurarse de tener una versi&oacute;n consistente.</p>
+
+### 2. Compilar el proyecto y obtener el binario
+
+Luego de descomprimir el archivo bajado, podrán abrir el proyecto desde Visual Studio 2012 y deberían poder compilarlo sin problemas. Recuerden hacerlo con permisos de administración porque el proyecto debe ser firmado (de otra forma recibirán un error). Hagan el build en la configuración de Release. En el momento de escritura de este artículo, la configuración es indiferente pero tiene más sentido y precaución para el futuro permitir las optimizaciomes y posibles cambios que ocurran en el proyecto.
+
+Incluso pueden correr los unit tests solo para asegurarse de tener una versión consistente.
 
 ![](/assets/ManagedFusionRewriter-runningTests.png)
 
-<p style="text-align: justify;">Ahora navegando a la carpeta del proyecto, sub carpeta <code>src/bin/Release</code> encontrar&aacute;n la librer&iacute;a <code>ManagedFusion.Rewriter.dll</code>.</p>
+
+Ahora navegando a la carpeta del proyecto, sub carpeta `src/bin/Release` encontrarán la librería `ManagedFusion.Rewriter.dll`.
 
 ![](/assets/ManagedFusionRewriter-files.png)
 
-<h3 style="text-align: justify;">3. Agregar la librer&iacute;a a nuestro proyecto</h3>
-<p style="text-align: justify;">Ahora procederemos a agregar esta librer&iacute;a a nuestro proyecto. Describir&eacute; c&oacute;mo utilizar el archivo .dll binario, pero otra opci&oacute;n es utilizar el c&oacute;digo fuente como un proyecto referenciado.</p>
-<p style="text-align: justify;">&nbsp;Recomiendo tambi&eacute;n agregar la librer&iacute;a a la soluci&oacute;n para que todo pueda ser versionado junto.</p>
+
+### 3. Agregar la librería a nuestro proyecto
+
+Ahora procederemos a agregar esta librería a nuestro proyecto. Describiré cómo utilizar el archivo .dll binario, pero otra opción es utilizar el código fuente como un proyecto referenciado.
+
+ Recomiendo también agregar la librería a la solución para que todo pueda ser versionado junto.
 
 ![](/assets/ManagedFusionRewriter-references.png)
 
-<h3 style="text-align: justify;">4. Configurar el servidor ASP.NET para que Rewriter funcione</h3>
-<p style="text-align: justify;">Esto se puede lograr s&oacute;lo con agregar las siguientes entradas al <code>web.config</code>:</p>
-<p><script src="https://gist.github.com/AlphaGit/7175519.js"></script></p>
-<h3 style="text-align: justify;">5. Configurar las reglas de rewrite</h3>
-<p style="text-align: justify;">ManagedFusion.Rewriter posee varias formas de configurar las reglas de reescritura, pero personalmente prefiero la configuraci&oacute;n por defecto, que incluye la de Apache mod_rewrite.</p>
-<p style="text-align: justify;">Para esto crearemos un archivo en la ra&iacute;z de nuestro proyecto, lo llamaremos <code>ManagedFusion.Rewriter.txt</code> y le daremos las reglas de la misma forma que lo har&iacute;amos con mod_rewrite. Por ejemplo:</p>
-<p><script src="https://gist.github.com/AlphaGit/7175558.js"></script></p>
-<p style="text-align: justify;">Con la segunda l&iacute;nea, puedo probar f&aacute;cilmente que el proxy se encuentra funcionando:</p>
+
+### 4. Configurar el servidor ASP.NET para que Rewriter funcione
+
+Esto se puede lograr sólo con agregar las siguientes entradas al `web.config`:
+
+<script src="https://gist.github.com/AlphaGit/7175519.js"></script>
+
+### 5. Configurar las reglas de rewrite
+
+ManagedFusion.Rewriter posee varias formas de configurar las reglas de reescritura, pero personalmente prefiero la configuración por defecto, que incluye la de Apache mod_rewrite.
+
+Para esto crearemos un archivo en la raíz de nuestro proyecto, lo llamaremos `ManagedFusion.Rewriter.txt` y le daremos las reglas de la misma forma que lo haríamos con mod_rewrite. Por ejemplo:
+
+<script src="https://gist.github.com/AlphaGit/7175558.js"></script>
+
+Con la segunda línea, puedo probar fácilmente que el proxy se encuentra funcionando:
 
 ![](/assets/ManagedFusionRewriter-testingProxy.png)
 
-<p style="text-align: justify;">Cuando tengamos problemas, siempre podemos descomentar las l&iacute;neas de <code>RewriteLog</code> y <code>RewriteLogLevel</code> para encontrar un archivo de log con el nombre indicado y verificar qu&eacute; problema est&aacute; ocurriendo.</p>
-<p style="text-align: justify;">La documentaci&oacute;n sobre las opciones disponibles est&aacute; en <a href="http://httpd.apache.org/docs/current/rewrite/flags.html">RewriteRule Flags</a>, y los ejemplos que yo inclu&iacute; tienen el siguiente efecto:</p>
-<ul>
-<li><code>QA</code>: Mantiene la query string.</li>
-<li><code>P</code>: Ejecuta un proxy reverso contra la URL especificada (esto tambi&eacute;n funciona como L: terminar la ejecuci&oacute;n de reglas para este request).</li>
-<li><code>NC</code>: No es susceptible a may&uacute;sculas y min&uacute;sculas en la evaluaci&oacute;n de la expresi&oacute;n regular.</li>
-</ul>
+
+Cuando tengamos problemas, siempre podemos descomentar las líneas de `RewriteLog` y `RewriteLogLevel` para encontrar un archivo de log con el nombre indicado y verificar qué problema está ocurriendo.
+
+La documentación sobre las opciones disponibles está en <a href="http://httpd.apache.org/docs/current/rewrite/flags.html">RewriteRule Flags</a>, y los ejemplos que yo incluí tienen el siguiente efecto:
+
+- `QA`: Mantiene la query string.
+- `P`: Ejecuta un proxy reverso contra la URL especificada (esto también funciona como L: terminar la ejecución de reglas para este request).
+- `NC`: No es susceptible a mayúsculas y minúsculas en la evaluación de la expresión regular.

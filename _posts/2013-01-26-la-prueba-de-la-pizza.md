@@ -20,10 +20,10 @@ categories:
 tags:
 - experiencia del usuario
 - user experience
-- dispositivos m&oacute;viles
+- dispositivos móviles
 - mobile
 - UX
-- decisi&oacute;n
+- decisión
 - Rackspace
 - pizza
 - claridad
@@ -41,17 +41,27 @@ comments:
 
 La versión casera de pruebas de carga cognitiva
 
-<p style="text-align: justify;">Hace tiempo atr&aacute;s, en <strong>MakingSense</strong> tuvimos la oportunidad de trabajar en el desarrollo de una aplicaci&oacute;n m&oacute;vil. No s&oacute;lo era para una empresa grande, sino que la aplicaci&oacute;n iba a ser mostrada en vivo por Microsoft en la presentaci&oacute;n <strong>//BUILD 2012</strong> junto a Rackspace. Mi historia tratar&aacute; sobre otra cosa, pero si les interesa, pueden <a href="http://blog.makingsense.com/2012/11/windows-8-app-with-rackspace/">leer m&aacute;s sobre eso en el blog de MakingSense</a>, o asimismo <a href="http://www.rackspace.com/blog/manage-the-rackspace-open-cloud-with-windows-8/">en el blog de Rackspace</a>.</p>
-<p style="text-align: justify;">Particip&eacute; de este proyecto a pesar de muchos factores internos que lo dificultaban, pero me alegra haberlo hecho porque ten&iacute;a caracter&iacute;sticas muy interesantes. Al comienzo de dicho proyecto, obtuvimos los requerimientos y analizamos sistemas de Rackspace para tener m&aacute;s contexto sobre lo que ten&iacute;amos que hacer. En una de esas oportunidades, realizamos una reuni&oacute;n sobre alcance, dise&ntilde;o y experiencia de usuario.</p>
-<p style="text-align: justify;"><!--more--></p>
-<p style="text-align: justify;"><a href="https://twitter.com/CesarDOnofrio">C&eacute;sar D'Onofrio</a> fue parte de esa reuni&oacute;n, y nos comparti&oacute; su opini&oacute;n sobre la usabilidad deseada de una forma muy clara.</p>
-<blockquote>
-<p style="text-align: justify;">Deben imaginar que el usuario es un tipo que est&aacute; en su casa mirando televisi&oacute;n, tiene una pizza en una mano y una tableta en la otra, usando la aplicaci&oacute;n. Si para &eacute;l no es f&aacute;cil usar una mano y r&aacute;pidamente ver lo que tiene que hacer, fallamos.</p>
-</blockquote>
-<p style="text-align: justify;">La prueba de la pizza qued&oacute; grabada en mi mente. Ustedes deben tambi&eacute;n recordar la sensaci&oacute;n de mezclar pizza y dispositivos t&aacute;ctiles: En el mejor caso son dif&iacute;ciles de manejar, o una suciedad. Intentando evitar la suciedad, terminamos utilizando una mano para comer (y parte de nuestra atenci&oacute;n) mientras con la otra mano sostenemos el dispositivo y manejarlo, o s&oacute;lo usarlo si tenemos la suerte de una mesa. Alternativas incluyen las rodillas, pies, sillas, bancos, mascotas y objetos inanimados de variada forma.</p>
-<p style="text-align: justify;">Si estoy comiendo, viendo televisi&oacute;n o hablando con alguien, <strong>no quiero que una aplicaci&oacute;n me haga pensar</strong>. Quiero grandes carteles rojos con calaveras si algo grave ocurri&oacute;, y si no es el caso, quiero un gr&aacute;fico grande y f&aacute;cil de leer para saber c&oacute;mo anda todo, con botones grandes que sean claros en lo que ocurrir&iacute;a si los oprimo.</p>
-<p style="text-align: justify;">La posibilidad de tomar decisiones r&aacute;pidas y no afectar nuestra comodidad son tambi&eacute;n caracter&iacute;sticas importantes, no s&oacute;lo beneficios extra. La primera porque, obviamente, pensar y decidir requiere esfuerzo. Suena tonto, pero imaginen que son las 3 de la ma&ntilde;ana, les llega un aviso importante y tienen que tomar una decisi&oacute;n. La decisi&oacute;n puede significar salvar a tu empresa o perder tu trabajo (s&iacute;, as&iacute; es la administraci&oacute;n de servidores). &iquest;Preferir&iacute;an tener que concentrarse y evaluar las opciones, o preferir&iacute;an que las opciones fueran claras y directas?</p>
-<p style="text-align: justify;">La caracter&iacute;stica de no afectar nuestra comodidad negativamente es tambi&eacute;n importante. Dejando de lado que una aplicaci&oacute;n mal dise&ntilde;ada o inc&oacute;moda puede resultar en que nos equivoquemos, para el usuario puede significa la diferencia entre la pr&oacute;xima vez utilizar esa aplicaci&oacute;n u otra. Y para nosotros, como vendedores de aplicaciones, esto nos importa y mucho.</p>
-<p style="text-align: justify;">Hay quienes han logrado que sus aplicaciones sean hasta divertidas y adictivas. Ejemplos hay miles, y si ustedes analizan sus elecciones, encontrar&aacute;n seguramente muchas de esas. &iquest;Por qu&eacute; eligieron esas y no otras alternativas? Las respuestas pueden ser muy variadas, pero todo cuenta. Recordar&aacute;n el juicio anti-monopolio contra Microsoft por entregar Internet Explorer preinstalado en Windows. &iquest;Por qu&eacute; vali&oacute; la pena un juicio para esto, si tambi&eacute;n era verdad que cualquiera pod&iacute;a instalar el navegador que m&aacute;s le gustara? La respuesta es que la mayor&iacute;a de la gente no quer&iacute;a pasar por la incomodidad de elegir un navegador, bajarlo e instalarlo. Microsoft alegaba que le hac&iacute;a la vida m&aacute;s f&aacute;cil a los usuarios, los demandantes aseguraban que Microsoft se aseguraba tener m&aacute;s mercado con esas movidas desleales. &iquest;Qu&eacute; piensan ustedes?</p>
-<p style="text-align: justify;">Al fin y al cabo, <strong>la prueba de la pizza es contundente</strong>. &iquest;Pueden comer pizza y jugar Angry Birds? Yo pude. &iquest;Pueden comer pizza y manejar Excel? Yo pude. &iquest;Pueden comer pizza y escribir un art&iacute;culo de un blog? Yo no.</p>
-<p style="text-align: justify;">&iquest;Pueden comer pizza y administrar servidores en Rackspace? S&iacute;, y fue muy divertido lograrlo.</p>
+
+Hace tiempo atrás, en **MakingSense** tuvimos la oportunidad de trabajar en el desarrollo de una aplicación móvil. No sólo era para una empresa grande, sino que la aplicación iba a ser mostrada en vivo por Microsoft en la presentación **//BUILD 2012** junto a Rackspace. Mi historia tratará sobre otra cosa, pero si les interesa, pueden <a href="http://blog.makingsense.com/2012/11/windows-8-app-with-rackspace/">leer más sobre eso en el blog de MakingSense</a>, o asimismo <a href="http://www.rackspace.com/blog/manage-the-rackspace-open-cloud-with-windows-8/">en el blog de Rackspace</a>.
+
+Participé de este proyecto a pesar de muchos factores internos que lo dificultaban, pero me alegra haberlo hecho porque tenía características muy interesantes. Al comienzo de dicho proyecto, obtuvimos los requerimientos y analizamos sistemas de Rackspace para tener más contexto sobre lo que teníamos que hacer. En una de esas oportunidades, realizamos una reunión sobre alcance, diseño y experiencia de usuario.
+
+<!--more-->
+
+<a href="https://twitter.com/CesarDOnofrio">César D'Onofrio</a> fue parte de esa reunión, y nos compartió su opinión sobre la usabilidad deseada de una forma muy clara.
+
+> Deben imaginar que el usuario es un tipo que está en su casa mirando televisión, tiene una pizza en una mano y una tableta en la otra, usando la aplicación. Si para él no es fácil usar una mano y rápidamente ver lo que tiene que hacer, fallamos.
+
+La prueba de la pizza quedó grabada en mi mente. Ustedes deben también recordar la sensación de mezclar pizza y dispositivos táctiles: En el mejor caso son difíciles de manejar, o una suciedad. Intentando evitar la suciedad, terminamos utilizando una mano para comer (y parte de nuestra atención) mientras con la otra mano sostenemos el dispositivo y manejarlo, o sólo usarlo si tenemos la suerte de una mesa. Alternativas incluyen las rodillas, pies, sillas, bancos, mascotas y objetos inanimados de variada forma.
+
+Si estoy comiendo, viendo televisión o hablando con alguien, **no quiero que una aplicación me haga pensar**. Quiero grandes carteles rojos con calaveras si algo grave ocurrió, y si no es el caso, quiero un gráfico grande y fácil de leer para saber cómo anda todo, con botones grandes que sean claros en lo que ocurriría si los oprimo.
+
+La posibilidad de tomar decisiones rápidas y no afectar nuestra comodidad son también características importantes, no sólo beneficios extra. La primera porque, obviamente, pensar y decidir requiere esfuerzo. Suena tonto, pero imaginen que son las 3 de la mañana, les llega un aviso importante y tienen que tomar una decisión. La decisión puede significar salvar a tu empresa o perder tu trabajo (sí, así es la administración de servidores).  ¿Preferirían tener que concentrarse y evaluar las opciones, o preferirían que las opciones fueran claras y directas?
+
+La característica de no afectar nuestra comodidad negativamente es también importante. Dejando de lado que una aplicación mal diseñada o incómoda puede resultar en que nos equivoquemos, para el usuario puede significa la diferencia entre la próxima vez utilizar esa aplicación u otra. Y para nosotros, como vendedores de aplicaciones, esto nos importa y mucho.
+
+Hay quienes han logrado que sus aplicaciones sean hasta divertidas y adictivas. Ejemplos hay miles, y si ustedes analizan sus elecciones, encontrarán seguramente muchas de esas.  ¿Por qué eligieron esas y no otras alternativas? Las respuestas pueden ser muy variadas, pero todo cuenta. Recordarán el juicio anti-monopolio contra Microsoft por entregar Internet Explorer preinstalado en Windows.  ¿Por qué valió la pena un juicio para esto, si también era verdad que cualquiera podía instalar el navegador que más le gustara? La respuesta es que la mayoría de la gente no quería pasar por la incomodidad de elegir un navegador, bajarlo e instalarlo. Microsoft alegaba que le hacía la vida más fácil a los usuarios, los demandantes aseguraban que Microsoft se aseguraba tener más mercado con esas movidas desleales.  ¿Qué piensan ustedes?
+
+Al fin y al cabo, **la prueba de la pizza es contundente**.  ¿Pueden comer pizza y jugar Angry Birds? Yo pude.  ¿Pueden comer pizza y manejar Excel? Yo pude.  ¿Pueden comer pizza y escribir un artículo de un blog? Yo no.
+
+ ¿Pueden comer pizza y administrar servidores en Rackspace? Sí, y fue muy divertido lograrlo.

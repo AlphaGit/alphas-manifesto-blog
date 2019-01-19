@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Trucos de consola de Chrome'
+title: 'Link del día: Trucos de consola de Chrome'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3295
 date: '2011-09-29 09:00:49 +0000'
 date_gmt: '2011-09-29 14:00:49 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - JavaScript
 - Google Chrome
@@ -38,16 +38,19 @@ comments:
   author_url: http://www.alphasmanifesto.com/
   date: '2014-05-26 16:06:11 +0000'
   date_gmt: '2014-05-26 21:06:11 +0000'
-  content: "Muchas gracias por tu &uacute;til e inteligente cr&iacute;tica. Tendr&eacute;
-    en cuenta eso para futuras publicaciones.\r\n\r\n<em>*anota en un papel*</em>
-    \"Conformar a los est&aacute;ndares impl&iacute;citos de tu papa y no hacer entradas
+  content: "Muchas gracias por tu útil e inteligente crítica. Tendré
+    en cuenta eso para futuras publicaciones.\r\n\r\n_*anota en un papel*_
+    \"Conformar a los estándares implícitos de tu papa y no hacer entradas
     horribles\".\r\n\r\nDicho sea de paso, el \"vos\" latinoamericano se conjuga como
-    si fuera la segunda persona del singular (<em>\"vos sab&eacute;s\"</em>), o si
-    es utilizado como contracci&oacute;n de \"vosotros\" se conjuga como tal (<em>\"vos
-    sab&eacute;is\"</em>). Espero que esto s&iacute; le sirva para futuros insultos,
-    se&ntilde;or <a href=\"mailto://cristhiancancercris@hotmail.com\" rel=\"nofollow\">cristhiancancercris@hotmail.com</a>.\r\n\r\n<em>*tira
-    el papel a la basura*</em>"
+    si fuera la segunda persona del singular (_\"vos sabés\"_), o si
+    es utilizado como contracción de \"vosotros\" se conjuga como tal (_\"vos
+    sabéis\"_). Espero que esto sí le sirva para futuros insultos,
+    señor <a href=\"mailto://cristhiancancercris@hotmail.com\" rel=\"nofollow\">cristhiancancercris@hotmail.com</a>.\r\n\r\n_*tira
+    el papel a la basura*_"
 ---
-<p style="text-align: justify;">De parte de la gente de <a href="http://updates.html5rocks.com">HTML5 Rocks!</a> tenemos un peque&ntilde;o post con dos videos cortos (7 minutos cada uno), llamado <a href="http://updates.html5rocks.com/2011/09/7-minute-videos-Javascript-Console-Protips-newish-DOM-APIs">7 minute videos: Javascript Console Protips &amp; newish DOM APIs</a>, en donde Paul Irish nos cuenta sobre determinados truquillos que podemos utilizar para debuggear JavaScript, mayormente en Chrome (aunque dos de los trucos se aplican a Firefox y a Opera).</p>
-<p style="text-align: justify;">Personalmente no me encuentro desarrollando mucho JavaScript pero creo que adoptar&eacute; alguno de estos trucos, especialmente el $0 que hace las cosas terriblemente m&aacute;s f&aacute;cil, junto con keys(), console.time() y copy(). A ver si puedo ponerlos en mi navaja suiza diara.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito loggeado.</em></p>
+
+De parte de la gente de <a href="http://updates.html5rocks.com">HTML5 Rocks!</a> tenemos un pequeño post con dos videos cortos (7 minutos cada uno), llamado <a href="http://updates.html5rocks.com/2011/09/7-minute-videos-Javascript-Console-Protips-newish-DOM-APIs">7 minute videos: Javascript Console Protips &amp; newish DOM APIs</a>, en donde Paul Irish nos cuenta sobre determinados truquillos que podemos utilizar para debuggear JavaScript, mayormente en Chrome (aunque dos de los trucos se aplican a Firefox y a Opera).
+
+Personalmente no me encuentro desarrollando mucho JavaScript pero creo que adoptaré alguno de estos trucos, especialmente el $0 que hace las cosas terriblemente más fácil, junto con keys(), console.time() y copy(). A ver si puedo ponerlos en mi navaja suiza diara.
+
+_Soy un zorrinito loggeado._

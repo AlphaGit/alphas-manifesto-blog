@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: La m&aacute;quina de emociones'
+title: 'Link del día: La máquina de emociones'
 author:
   display_name: Alpha
   login: Alpha
@@ -17,22 +17,26 @@ date: '2008-08-05 11:54:00 +0000'
 date_gmt: '2008-08-05 11:54:00 +0000'
 categories:
 - Books
-- Link del d&iacute;a
+- Link del día
 tags: []
 ---
-<p style="text-align: justify;">Aunque se quejen, s&iacute;, es un link para leer, y mucho. Yo solo le&iacute; un poco y me fascin&oacute;, lo dejo en mi listadito de lectura para cuando me ponga, quiz&aacute; incluso vaya a comprar una copia impresa.</p>
-<p style="text-align: justify;">El libro en cuesti&oacute;n es de <a href="http://en.wikipedia.org/wiki/Marvin_Lee_Minsky">Marvin Minsky</a>, un groso desde ser uno de los que ayud&oacute; a dise&ntilde;ar la tortuguita del Logo, hasta ser una de las eminencias indiscutibles actualmente en el campo de la inteligencia artificial. El libro se llama <a href="http://en.wikipedia.org/wiki/The_Emotion_Machine"><em>The Emotion Machine</em></a> (<em>La m&aacute;quina de emociones</em>) y es un resumen anal&iacute;tico del pensamiento humano y c&oacute;mo eso puede ser visto desde un punto de vista automatizado.</p>
-<p style="text-align: justify;">El link lleva al borrador previo a la publicaci&oacute;n que Minsky dej&oacute; para el p&uacute;blico.</p>
-<p style="text-align: justify;">Como el mismo Minsky resume su libro por cap&iacute;tulos:</p>
-<ol style="text-align: justify;">
-<li><strong>Enamorarse:</strong> "Nacemos con muchos recursos mentales."</li>
-<li><strong>Apegos y metas:</strong> "Aprendemos de interactuar con otros."</li>
-<li><strong>Desde el dolor y el sufrimiento:</strong> "Las emociones son otras formas de pensar."</li>
-<li><strong>Conciencia:</strong> "Aprendemos a pensar sobre nuestros pensamientos recientes."</li>
-<li><strong>Niveles de actividades mentales:</strong> "Aprendemos a pensar en niveles m&uacute;ltiples."</li>
-<li><strong>Sentido com&uacute;n:</strong> "Acumulamos grandes cantidades de conocimiento com&uacute;n."</li>
-<li><strong>Pensamiento:</strong> "Cambiamos entre distintas formas de pensar."</li>
-<li><strong>Recursos:</strong> "Buscamos muchas formas de representar las cosas."</li>
-<li><strong>El ser propio:</strong> "Construimos m&uacute;ltiples modelos de nosotros mismos."</li>
-</ol>
-<p style="text-align: justify;"><em>Soy un zorrinito emocional.</em></p>
+
+Aunque se quejen, sí, es un link para leer, y mucho. Yo solo leí un poco y me fascinó, lo dejo en mi listadito de lectura para cuando me ponga, quizá incluso vaya a comprar una copia impresa.
+
+El libro en cuestión es de <a href="http://en.wikipedia.org/wiki/Marvin_Lee_Minsky">Marvin Minsky</a>, un groso desde ser uno de los que ayudó a diseñar la tortuguita del Logo, hasta ser una de las eminencias indiscutibles actualmente en el campo de la inteligencia artificial. El libro se llama <a href="http://en.wikipedia.org/wiki/The_Emotion_Machine">_The Emotion Machine_</a> (_La máquina de emociones_) y es un resumen analítico del pensamiento humano y cómo eso puede ser visto desde un punto de vista automatizado.
+
+El link lleva al borrador previo a la publicación que Minsky dejó para el público.
+
+Como el mismo Minsky resume su libro por capítulos:
+
+1. **Enamorarse:** "Nacemos con muchos recursos mentales."
+2. **Apegos y metas:** "Aprendemos de interactuar con otros."
+3. **Desde el dolor y el sufrimiento:** "Las emociones son otras formas de pensar."
+4. **Conciencia:** "Aprendemos a pensar sobre nuestros pensamientos recientes."
+5. **Niveles de actividades mentales:** "Aprendemos a pensar en niveles múltiples."
+6. **Sentido común:** "Acumulamos grandes cantidades de conocimiento común."
+7. **Pensamiento:** "Cambiamos entre distintas formas de pensar."
+8. **Recursos:** "Buscamos muchas formas de representar las cosas."
+9. **El ser propio:** "Construimos múltiples modelos de nosotros mismos."
+
+_Soy un zorrinito emocional._

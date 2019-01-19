@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Git Magic'
+title: 'Link del día: Git Magic'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,13 +16,15 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3436
 date: '2012-01-02 09:39:21 +0000'
 date_gmt: '2012-01-02 14:39:21 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - manual
-- documentaci&oacute;n
+- documentación
 - git
 - control de versiones
 comments: []
 ---
-<p style="text-align: justify;">Para aquellos aprendiendo&nbsp;&ndash; o con ganas de aprender&nbsp;&ndash; a manejar Git como sistema de control de versiones, <a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/">Git Magic</a> es un documento que cuenta c&oacute;mo utilizarlo de a poco, varios trucos y analog&iacute;as de para qu&eacute; sirve, de forma muy pr&aacute;ctica y muy orientada a lo que uno quiera lograr.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito distribuido.</em></p>
+
+Para aquellos aprendiendo &ndash; o con ganas de aprender &ndash; a manejar Git como sistema de control de versiones, <a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/">Git Magic</a> es un documento que cuenta cómo utilizarlo de a poco, varios trucos y analogías de para qué sirve, de forma muy práctica y muy orientada a lo que uno quiera lograr.
+
+_Soy un zorrinito distribuido._

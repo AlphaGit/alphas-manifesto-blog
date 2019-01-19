@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Mockups iPhone, funcionales!'
+title: 'Link del día: Mockups iPhone, funcionales!'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3007
 date: '2011-05-23 12:24:09 +0000'
 date_gmt: '2011-05-23 14:24:09 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - HTML
 - web application
@@ -37,7 +37,11 @@ comments:
     PORFAVOR, TE DEJO MIS DATOS Y SI PUEDES FACILITARMELO, TE AGRADECERIA INFINITAMENTE,
     GRACIAS HASTA LUEGO.\r\n\r\nVELMONTH@HOTMAIL.COM"
 ---
-<p style="text-align: justify;">Acord&aacute;ndome de cuando habl&eacute; de <a href="https://blog.alphasmanifesto.com/2010/04/08/link-del-dia-1-2-3-iphone-app/">Create Free iPhone Apps</a>, quer&iacute;a charlar sobre esta aplicaci&oacute;n web llamada <a href="http://mokk.me/">Mokk.me</a>, una aplicaci&oacute;n que nos permite visualmente construir elementos de un dise&ntilde;o gr&aacute;fico para iPhone y personalizar esos elementos a gusto.</p>
-<p style="text-align: justify;">Cabe aclarar que todo este sistema funciona en nuestra m&aacute;quina, quiz&aacute; la &uacute;nica funcionalidad del servidor es guardar URLs de dise&ntilde;os en particular para luego poder modificarlos. El UI es bastante completo y f&aacute;cil de utilizar, pr&aacute;cticamente todo se puede hacer con un click, as&iacute; que es una experiencia muy intuitiva.</p>
-<p style="text-align: justify;">Mejor a&uacute;n, del resultado que tengamos, s&oacute;lo tenemos que visitar un link para verificar en nuestro iPhone c&oacute;mo se ve, y luego de eso ya podemos guardar ese HTML para utilizarlo en nuestro producto. M&aacute;s simple, quiz&aacute; s&oacute;lo sea la otra aplicaci&oacute;n, que hace todo por nosotros.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito mobile.</em></p>
+
+Acordándome de cuando hablé de <a href="https://blog.alphasmanifesto.com/2010/04/08/link-del-dia-1-2-3-iphone-app/">Create Free iPhone Apps</a>, quería charlar sobre esta aplicación web llamada <a href="http://mokk.me/">Mokk.me</a>, una aplicación que nos permite visualmente construir elementos de un diseño gráfico para iPhone y personalizar esos elementos a gusto.
+
+Cabe aclarar que todo este sistema funciona en nuestra máquina, quizá la única funcionalidad del servidor es guardar URLs de diseños en particular para luego poder modificarlos. El UI es bastante completo y fácil de utilizar, prácticamente todo se puede hacer con un click, así que es una experiencia muy intuitiva.
+
+Mejor aún, del resultado que tengamos, sólo tenemos que visitar un link para verificar en nuestro iPhone cómo se ve, y luego de eso ya podemos guardar ese HTML para utilizarlo en nuestro producto. Más simple, quizá sólo sea la otra aplicación, que hace todo por nosotros.
+
+_Soy un zorrinito mobile._

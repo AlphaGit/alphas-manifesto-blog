@@ -16,12 +16,12 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2708
 date: '2010-12-10 11:34:26 +0000'
 date_gmt: '2010-12-10 13:34:26 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - blog
-- Im&aacute;genes
+- Imágenes
 - open source
-- procesamiento de im&aacute;genes
+- procesamiento de imágenes
 comments:
 - id: 6931
   author: Ale-Alejandro
@@ -37,10 +37,10 @@ comments:
   date: '2010-12-13 12:31:57 +0000'
   date_gmt: '2010-12-13 14:31:57 +0000'
   content: |-
-    Hola, s&iacute;, pero no es algo nuevo para mi, lo que pasa es que la migraci&oacute;n desde blogspot fue un desastre, y aparentemente el importador de Wordpress no parse&oacute; los posts correctamente.
+    Hola, sí, pero no es algo nuevo para mi, lo que pasa es que la migración desde blogspot fue un desastre, y aparentemente el importador de Wordpress no parseó los posts correctamente.
     Lo que hago entonces es, cuando hago referencia a un post anterior, reviso que funcione correctamente y sino lo vuelvo a escribir.
 
-    Los posts viejos todav&iacute;a est&aacute;n en <a href="http://zorri.blogspot.com/" rel="nofollow">http://zorri.blogspot.com/</a>. Si te ha pasado o si conoc&eacute;s alguna forma de solucionarlo, estoy abierto a sugerencias. :3
+    Los posts viejos todavía están en <a href="http://zorri.blogspot.com/" rel="nofollow">http://zorri.blogspot.com/</a>. Si te ha pasado o si conocés alguna forma de solucionarlo, estoy abierto a sugerencias. :3
 - id: 6935
   author: Ale-Alejandro
   author_email: rastamanxx@hotmail.com
@@ -59,10 +59,13 @@ comments:
   date: '2010-12-14 10:51:14 +0000'
   date_gmt: '2010-12-14 12:51:14 +0000'
   content: |-
-    Allo! Los vuelvo a escribir copiando, el Ctrl+C y Ctrl+V me hace desastres con el formato. Y yo creo que no hay forma de recuperarlos porque el importador hizo desastres realmente. De hecho, lo que ves en el post ese truncado es todo lo que hay dentro del post, el resto directamente no se import&oacute;.
+    Allo! Los vuelvo a escribir copiando, el Ctrl+C y Ctrl+V me hace desastres con el formato. Y yo creo que no hay forma de recuperarlos porque el importador hizo desastres realmente. De hecho, lo que ves en el post ese truncado es todo lo que hay dentro del post, el resto directamente no se importó.
 
     Saludos y gracias!
 ---
-<p style="text-align: justify;">Well, face recognitions systems are not actually the last thing in technology, but still may be something new for us who couldn't have a grasp of it and try it out in our own code. Of course, maybe we're not fancy enough to come up with an algorithm out of ourselves and may just have ideas to use it, not to develop it.</p>
-<p style="text-align: justify;">For us then, we can go ahead and try <a href="http://www.tutkiun.com/2010/12/face-detection-in-any-language.html">Face Detection in any language</a>, a blog post from Tukiun referring to <a href="http://opencv.willowgarage.com/wiki/">OpenCV</a>, the Open Computer Vision library that will allow us to make image processing something simple. It has been ported to different languages so it is sure that some of them will be suitable for us.</p>
-<p style="text-align: justify;"><em>I'm a recognized little skunk.</em></p>
+
+Well, face recognitions systems are not actually the last thing in technology, but still may be something new for us who couldn't have a grasp of it and try it out in our own code. Of course, maybe we're not fancy enough to come up with an algorithm out of ourselves and may just have ideas to use it, not to develop it.
+
+For us then, we can go ahead and try <a href="http://www.tutkiun.com/2010/12/face-detection-in-any-language.html">Face Detection in any language</a>, a blog post from Tukiun referring to <a href="http://opencv.willowgarage.com/wiki/">OpenCV</a>, the Open Computer Vision library that will allow us to make image processing something simple. It has been ported to different languages so it is sure that some of them will be suitable for us.
+
+_I'm a recognized little skunk._

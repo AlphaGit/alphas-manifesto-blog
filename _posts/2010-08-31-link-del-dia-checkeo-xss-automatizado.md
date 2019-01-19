@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Checkeo XSS automatizado'
+title: 'Link del día: Checkeo XSS automatizado'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2488
 date: '2010-08-31 15:56:53 +0000'
 date_gmt: '2010-08-31 17:56:53 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - seguridad
 - plugin
@@ -25,6 +25,9 @@ tags:
 - RFI
 comments: []
 ---
-<p style="text-align: justify;">Una de las tantas herramientas para checkeo de seguridad XSS hoy viene de la mano de los muchachos de <a href="http://feedproxy.google.com/~r/dragonjar/pKru/~3/1OUiwbGUnZU/x5s-encuentra-fallos-xss-lfi-y-rfi-facilmente.xhtml">Dragonjar</a>. Seg&uacute;n ellos lo mencionan, esta herramienta llamada <a href="http://xss.codeplex.com/">X5S</a> no solamente sirve para revisar si un sitio es seguro contra ataques <strong>XSS</strong> (cross site scripting), <strong>LFI</strong> (local file inclusion) y <strong>RFI</strong> (remote file inclusion). Sin duda algo muy interesante para los aficionados a la seguridad web, podr&aacute;n probar este software como un plugin de <a href="http://www.fiddler2.com/fiddler2/">Fiddler</a>.</p>
-<p style="text-align: justify;">Como mencionaba, no es la &uacute;nica herramienta, ya que hay otras similares. No he podido probar esta ni tampoco <a href="http://www.gnucitizen.org/blog/attackapi/">AttackAPI</a>, pero pronto me est&aacute;n esperando ambas para que logre poner mis manos encima de ellas. &iquest;Alguien que las conozca ha tenido buenos resultados?</p>
-<p style="text-align: justify;"><em>Soy un zorrinito seguro.</em></p>
+
+Una de las tantas herramientas para checkeo de seguridad XSS hoy viene de la mano de los muchachos de <a href="http://feedproxy.google.com/~r/dragonjar/pKru/~3/1OUiwbGUnZU/x5s-encuentra-fallos-xss-lfi-y-rfi-facilmente.xhtml">Dragonjar</a>. Según ellos lo mencionan, esta herramienta llamada <a href="http://xss.codeplex.com/">X5S</a> no solamente sirve para revisar si un sitio es seguro contra ataques **XSS** (cross site scripting), **LFI** (local file inclusion) y **RFI** (remote file inclusion). Sin duda algo muy interesante para los aficionados a la seguridad web, podrán probar este software como un plugin de <a href="http://www.fiddler2.com/fiddler2/">Fiddler</a>.
+
+Como mencionaba, no es la única herramienta, ya que hay otras similares. No he podido probar esta ni tampoco <a href="http://www.gnucitizen.org/blog/attackapi/">AttackAPI</a>, pero pronto me están esperando ambas para que logre poner mis manos encima de ellas.  ¿Alguien que las conozca ha tenido buenos resultados?
+
+_Soy un zorrinito seguro._

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: La clave de una presentaci&oacute;n: la sorpresa'
+title: 'Link del día: La clave de una presentación: la sorpresa'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,20 +16,27 @@ wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2143
 date: '2010-06-01 11:03:07 +0000'
 date_gmt: '2010-06-01 13:03:07 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - Youtube
 - blog
 - video
-- presentaci&oacute;n
+- presentación
 - sorpresa
-- ense&ntilde;anza
+- enseñanza
 comments: []
 ---
-<p style="text-align: justify;">Este link es un video, al cual llegu&eacute; gracias al <a href="http://www.thalskarth.com.ar/2010/05/20/profesor-sorprende-a-sus-alumnos-al-jugar-con-su-sombra/">blog de Thalskarth Ma&euml;lstrom</a> (a qui&eacute;n en alg&uacute;n momento comenzar&eacute; a llamar "T"), el cual muestra de forma divertida c&oacute;mo es que un profesor dando una clase sorprende a sus alumnos interactuando con su propia sombra y les da el saludo de vacaciones de pascua.</p>
-<p style="text-align: justify;">Fuera de lo divertido y novedoso que resulta (lo cual podemos profundizar en un video donde <a href="http://www.youtube.com/watch?v=ixSCjigDeM8">&eacute;l nos cuenta c&oacute;mo lo hizo</a>), hay que destacar algo muy interesante: la sorpresa fue la clave de esta presentaci&oacute;n. El concepto novedoso, semi gracioso les permiti&oacute; a todos mantener la atenci&oacute;n centrada en lo que &eacute;l hac&iacute;a, sin sentir cansancio ni aburrimiento.</p>
-<p style="text-align: justify;">Por supuesto, la presentaci&oacute;n no fue muy informativa, pero supongamos que haciendo los mismos pasos, el profesor se hubiera dedicado a ense&ntilde;arle a sus alumnos c&oacute;mo es el manejo b&aacute;sico de Windows.</p>
-<p style="text-align: justify;">(A partir de aqu&iacute; voy a contar cosas del video, no lo lean si prefieren ver la sorpresa ustedes mismos.)</p>
-<p style="text-align: justify;">El profesor podr&iacute;a haber dicho cosas como "Est&aacute; borrando mis documentos dej&aacute;ndolo en la papelera!" o "Ahora desde aqu&iacute; apagar&eacute; el sistema para que no moleste m&aacute;s", o "Quiz&aacute; si minimizo una ventana ya no la ver&aacute; y no podr&aacute; usarla" (este &uacute;ltimo es hipot&eacute;tico). Si ese hubiera sido el caso, el profesor estar&iacute;a ense&ntilde;ando su manejo b&aacute;sico de Windows, orientado a lo pr&aacute;ctico, y en una situaci&oacute;n tal que los alumnos agudizaran la atenci&oacute;n dirigida para asimilar m&aacute;s r&aacute;pidamente lo dicho.</p>
-<p style="text-align: justify;">&iquest;No es eso, acaso, lo importante de una buena presentaci&oacute;n?</p>
-<p style="text-align: justify;"><em>Soy un zorrinito sorprendido.</em></p>
+
+Este link es un video, al cual llegué gracias al <a href="http://www.thalskarth.com.ar/2010/05/20/profesor-sorprende-a-sus-alumnos-al-jugar-con-su-sombra/">blog de Thalskarth Ma&euml;lstrom</a> (a quién en algún momento comenzaré a llamar "T"), el cual muestra de forma divertida cómo es que un profesor dando una clase sorprende a sus alumnos interactuando con su propia sombra y les da el saludo de vacaciones de pascua.
+
+Fuera de lo divertido y novedoso que resulta (lo cual podemos profundizar en un video donde <a href="http://www.youtube.com/watch?v=ixSCjigDeM8">él nos cuenta cómo lo hizo</a>), hay que destacar algo muy interesante: la sorpresa fue la clave de esta presentación. El concepto novedoso, semi gracioso les permitió a todos mantener la atención centrada en lo que él hacía, sin sentir cansancio ni aburrimiento.
+
+Por supuesto, la presentación no fue muy informativa, pero supongamos que haciendo los mismos pasos, el profesor se hubiera dedicado a enseñarle a sus alumnos cómo es el manejo básico de Windows.
+
+(A partir de aquí voy a contar cosas del video, no lo lean si prefieren ver la sorpresa ustedes mismos.)
+
+El profesor podría haber dicho cosas como "Está borrando mis documentos dejándolo en la papelera!" o "Ahora desde aquí apagaré el sistema para que no moleste más", o "Quizá si minimizo una ventana ya no la verá y no podrá usarla" (este último es hipotético). Si ese hubiera sido el caso, el profesor estaría enseñando su manejo básico de Windows, orientado a lo práctico, y en una situación tal que los alumnos agudizaran la atención dirigida para asimilar más rápidamente lo dicho.
+
+ ¿No es eso, acaso, lo importante de una buena presentación?
+
+_Soy un zorrinito sorprendido._

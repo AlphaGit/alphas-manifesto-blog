@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Simulador de iPad'
+title: 'Link del día: Simulador de iPad'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2765
 date: '2011-01-05 11:34:03 +0000'
 date_gmt: '2011-01-05 13:34:03 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - JavaScript
 - HTML
@@ -28,26 +28,29 @@ tags:
 - iPad
 comments:
 - id: 7109
-  author: 'Tweets that mention Link del d&iacute;a: Simulador de iPad | Alpha''s Manifesto
+  author: 'Tweets that mention Link del día: Simulador de iPad | Alpha''s Manifesto
     -- Topsy.com'
   author_email: ''
   author_url: http://topsy.com/blog.alphasmanifesto.com/2011/01/05/link-del-dia-simulador-de-ipad/?utm_source=pingback&amp;utm_campaign=L2
   date: '2011-01-05 16:30:50 +0000'
   date_gmt: '2011-01-05 18:30:50 +0000'
   content: "[...] This post was mentioned on Twitter by Jonathan Baldovino and Alpha.
-    Alpha said: Link del d&iacute;a: Simulador de iPad - http://ow.ly/3yC42 [...]"
+    Alpha said: Link del día: Simulador de iPad - http://ow.ly/3yC42 [...]"
 ---
-<p style="text-align: justify;">Gracias a <a href="http://twitter.com/Woork/status/22338930942672896">@Woork</a> me enter&eacute; de este <a href="http://alexw.me/ipad/">Simulador de iPad</a> totalmente hecho en CSS y JS. Si lo prueban un poco se dar&aacute;n cuenta que la mayor&iacute;a de las aplicaciones no est&aacute;n implementadas todav&iacute;a, pero hay cosas que s&iacute; est&aacute;n implementadas y pueden probarse hoy, por supuesto, de la misma forma que funcionar&iacute;a en un iPad real:</p>
-<ul style="text-align: justify;">
-<li>Moverse sobre las distintas pantallas (pueden usar el mouse o las teclas de direcci&oacute;n del teclado)</li>
-<li>El bot&oacute;n de Sleep</li>
-<li>El bot&oacute;n de Power</li>
-<li>Sostener los iconos y cambiar su posici&oacute;n</li>
-<li>Borrar aplicaciones</li>
-<li>Safari</li>
-<li>Lock/Unlock</li>
-<li>B&uacute;squeda</li>
-</ul>
-<p style="text-align: justify;">Es mucho y anda muy bien para ser un poco de JavaScript.</p>
-<p style="text-align: justify;">Fuera de eso, cabe aclarar que el creador de este simulador, <a href="http://twitter.com/altryne">Altyrne</a>, tiene un <a href="http://alexw.me/">blog</a> en donde actualiza muy regularmente sobre sus experimentos con navegadores, JavaScript, HTML5 y CSS3, aparte de jQuery, animaciones, etc.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito JavaScript.</em></p>
+
+Gracias a <a href="http://twitter.com/Woork/status/22338930942672896">@Woork</a> me enteré de este <a href="http://alexw.me/ipad/">Simulador de iPad</a> totalmente hecho en CSS y JS. Si lo prueban un poco se darán cuenta que la mayoría de las aplicaciones no están implementadas todavía, pero hay cosas que sí están implementadas y pueden probarse hoy, por supuesto, de la misma forma que funcionaría en un iPad real:
+
+- Moverse sobre las distintas pantallas (pueden usar el mouse o las teclas de dirección del teclado)
+- El botón de Sleep
+- El botón de Power
+- Sostener los iconos y cambiar su posición
+- Borrar aplicaciones
+- Safari
+- Lock/Unlock
+- Búsqueda
+
+Es mucho y anda muy bien para ser un poco de JavaScript.
+
+Fuera de eso, cabe aclarar que el creador de este simulador, <a href="http://twitter.com/altryne">Altyrne</a>, tiene un <a href="http://alexw.me/">blog</a> en donde actualiza muy regularmente sobre sus experimentos con navegadores, JavaScript, HTML5 y CSS3, aparte de jQuery, animaciones, etc.
+
+_Soy un zorrinito JavaScript._

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Seguridad, de verdad'
+title: 'Link del día: Seguridad, de verdad'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,11 +16,11 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3236
 date: '2011-08-30 10:22:38 +0000'
 date_gmt: '2011-08-30 15:22:38 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - seguridad
 - ataques
-- encriptaci&oacute;n
+- encriptación
 - permisos
 comments:
 - id: 8671
@@ -37,13 +37,18 @@ comments:
   author_url: http://www.alphasmanifesto.com.ar/
   date: '2011-08-31 10:04:41 +0000'
   date_gmt: '2011-08-31 15:04:41 +0000'
-  content: Gracias doctor! S&iacute;, hay cosas que yo ni me habr&iacute;a imaginado,
-    y este muchacho dice que todav&iacute;a sigue estando vulnerable... no quiero
-    imaginarme lo que ser&aacute; un sistema seguro de verdad. Con qu&eacute; trabajar&aacute;n
+  content: Gracias doctor! Sí, hay cosas que yo ni me habría imaginado,
+    y este muchacho dice que todavía sigue estando vulnerable... no quiero
+    imaginarme lo que será un sistema seguro de verdad. Con qué trabajarán
     los altos mandos del gobierno? Uuh!
 ---
-<p style="text-align: justify;">Seguramente nosotros nos sentimos protegidos porque tenemos... qu&eacute;? Un antivirus y un firewall? Muchos de nosotros ni eso debemos tener.</p>
-<p style="text-align: justify;">Sin embargo hay gente que se toma la seguridad en serio, y est&aacute; muy interesante analizar esos casos para aprender qu&eacute; hacen y por qu&eacute;. Y creanm&eacute;, que las posibilidades que se pueden abordar son enormes y extra&ntilde;amente complejas. &iquest;Has pensado que podr&iacute;as encriptar todo lo que se almacena en tu RAM? &iquest;Has pensado en llevar contigo tu partici&oacute;n de booteo para que nadie pueda encender tu m&aacute;quina? &iquest;Has pensado en usar Windows como honeypot para que alguien lo use y puedas detectar en donde est&aacute; tu m&aacute;quina? &iquest;Restringir los permisos del navegador?</p>
-<p style="text-align: justify;">Y la lista contin&uacute;a. Por supuesto, seg&uacute;n dice el autor de este art&iacute;culo, se puede hacer mucho m&aacute;s, y no estoy realmente seguro, pero por lo menos lo hice un poco m&aacute;s dif&iacute;cil.</p>
-<p style="text-align: justify;">El art&iacute;culo en cuesti&oacute;n es <a href="https://grepular.com/Protecting_a_Laptop_from_Simple_and_Sophisticated_Attacks">Protecting a laptop from Simple and Sophisticated Attacks</a>, de <a href="https://grepular.com/">Mike Cardwell</a>.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito inseguro.</em></p>
+
+Seguramente nosotros nos sentimos protegidos porque tenemos... qué? Un antivirus y un firewall? Muchos de nosotros ni eso debemos tener.
+
+Sin embargo hay gente que se toma la seguridad en serio, y está muy interesante analizar esos casos para aprender qué hacen y por qué. Y creanmé, que las posibilidades que se pueden abordar son enormes y extrañamente complejas.  ¿Has pensado que podrías encriptar todo lo que se almacena en tu RAM?  ¿Has pensado en llevar contigo tu partición de booteo para que nadie pueda encender tu máquina?  ¿Has pensado en usar Windows como honeypot para que alguien lo use y puedas detectar en donde está tu máquina?  ¿Restringir los permisos del navegador?
+
+Y la lista continúa. Por supuesto, según dice el autor de este artículo, se puede hacer mucho más, y no estoy realmente seguro, pero por lo menos lo hice un poco más difícil.
+
+El artículo en cuestión es <a href="https://grepular.com/Protecting_a_Laptop_from_Simple_and_Sophisticated_Attacks">Protecting a laptop from Simple and Sophisticated Attacks</a>, de <a href="https://grepular.com/">Mike Cardwell</a>.
+
+_Soy un zorrinito inseguro._

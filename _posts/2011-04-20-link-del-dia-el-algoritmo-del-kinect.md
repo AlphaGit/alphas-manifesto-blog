@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: El algoritmo del Kinect'
+title: 'Link del día: El algoritmo del Kinect'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2908
 date: '2011-04-20 11:59:13 +0000'
 date_gmt: '2011-04-20 13:59:13 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 - Technology
 tags:
 - Microsoft
@@ -25,7 +25,11 @@ tags:
 - paper
 comments: []
 ---
-<p style="text-align: justify;">Si es que han visto demos, publicidades, o han jugado personalmente con el Kinect, probablemente se habr&aacute;n dado cuenta que tiene mucho trabajo volcado en ese producto, y mucha tecnolog&iacute;a novedosa sobre la forma en la que se pueden reconocer los cuerpos, las caras y los movimientos. Simplemente, una forma que result&oacute; ser viable de utilizar el reconocimiento de gestos de una forma muy amplia.</p>
-<p style="text-align: justify;">Hace no mucho tiempo <a href="http://www.developerfusion.com/news/116479/microsoft-paper-reveals-kinect-body-tracking-algorithm/">Microsoft revel&oacute; p&uacute;blicamente el algoritmo que utiliza Kinect</a> para hacer estos reconocimientos. Toda esa informaci&oacute;n est&aacute; presente en un paper publicado bajo el nombre de <a href="http://research.microsoft.com/pubs/145347/BodyPartRecognition.pdf">Real-Time Human Pose Recognition in Parts from Single Depth Images</a>. El paper es bastante conciso y no muy largo, pero claro, hay que tener ciertos conocimientos de probabilidad, grafos y procesamiento de im&aacute;genes para poder apreciarlo en su totalidad.</p>
-<p style="text-align: justify;">Siendo esto p&uacute;blico ahora, &iquest;qui&eacute;n de nosotros ser&aacute; el pr&oacute;ximo en armar su aplicaci&oacute;n Kinect-like?</p>
-<p style="text-align: justify;"><em>Soy un zorrinito en movimiento.</em></p>
+
+Si es que han visto demos, publicidades, o han jugado personalmente con el Kinect, probablemente se habrán dado cuenta que tiene mucho trabajo volcado en ese producto, y mucha tecnología novedosa sobre la forma en la que se pueden reconocer los cuerpos, las caras y los movimientos. Simplemente, una forma que resultó ser viable de utilizar el reconocimiento de gestos de una forma muy amplia.
+
+Hace no mucho tiempo <a href="http://www.developerfusion.com/news/116479/microsoft-paper-reveals-kinect-body-tracking-algorithm/">Microsoft reveló públicamente el algoritmo que utiliza Kinect</a> para hacer estos reconocimientos. Toda esa información está presente en un paper publicado bajo el nombre de <a href="http://research.microsoft.com/pubs/145347/BodyPartRecognition.pdf">Real-Time Human Pose Recognition in Parts from Single Depth Images</a>. El paper es bastante conciso y no muy largo, pero claro, hay que tener ciertos conocimientos de probabilidad, grafos y procesamiento de imágenes para poder apreciarlo en su totalidad.
+
+Siendo esto público ahora,  ¿quién de nosotros será el próximo en armar su aplicación Kinect-like?
+
+_Soy un zorrinito en movimiento._

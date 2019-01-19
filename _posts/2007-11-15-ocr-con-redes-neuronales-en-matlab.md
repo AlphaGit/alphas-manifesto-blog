@@ -21,9 +21,14 @@ categories:
 tags: []
 comments: []
 ---
-<div style="text-align:justify;">Esta es una investigaci&oacute;n, a modo de trabajo pr&aacute;ctico que me pidieron para la universidad en la que estoy. La idea b&aacute;sica es construir un OCR en MatLab, utilizando redes neuronales. Ac&aacute; est&aacute; hecho de una determinada manera, que en conjunto con Thot, se logr&oacute; un error de alrededor del 56%. Obviamente, no es nada bueno ni aceptable para una aplicaci&oacute;n real, pero al menos funciona. Es el comienzo de algo.</p>
-<p>Reci&eacute;n hoy que el trabajo fue presentado puedo mostrarlo p&uacute;blicamente. El c&oacute;digo es s&oacute;lo para MatLab 2007. Lo lamento gente, es eso o nada.</p>
-<p>Pueden revisar el c&oacute;digo o la documentaci&oacute;n (a la vez de las diapositivas para las explicaciones que d&iacute; de esto) en <a href="http://alphagma.googlepages.com/">http://alphagma.googlepages.com/</a>.</p>
-<p>Dicho sea de paso, ya se vienen varias mejoras. Pero no digo nada al respecto para que no me apuren. Hoy por hoy es 56% de error y punto.</p>
-<p><span style="font-style:italic;">Soy un zorrinito neuronal.</span></p>
-</div>
+
+Esta es una investigación, a modo de trabajo práctico que me pidieron para la universidad en la que estoy. La idea básica es construir un OCR en MatLab, utilizando redes neuronales. Acá está hecho de una determinada manera, que en conjunto con Thot, se logró un error de alrededor del 56%. Obviamente, no es nada bueno ni aceptable para una aplicación real, pero al menos funciona. Es el comienzo de algo.
+
+Recién hoy que el trabajo fue presentado puedo mostrarlo públicamente. El código es sólo para MatLab 2007. Lo lamento gente, es eso o nada.
+
+Pueden revisar el código o la documentación (a la vez de las diapositivas para las explicaciones que dí de esto) en <a href="http://alphagma.googlepages.com/">http://alphagma.googlepages.com/</a>.
+
+Dicho sea de paso, ya se vienen varias mejoras. Pero no digo nada al respecto para que no me apuren. Hoy por hoy es 56% de error y punto.
+
+_Soy un zorrinito neuronal._
+

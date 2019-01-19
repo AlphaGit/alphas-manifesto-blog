@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Optimizar tu m&aacute;quina, sin saber nada'
+title: 'Link del día: Optimizar tu máquina, sin saber nada'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,19 +16,26 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2186
 date: '2010-06-23 10:08:20 +0000'
 date_gmt: '2010-06-23 12:08:20 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - ".NET"
 - design
 - Windows
-- presentaci&oacute;n
-- aplicaci&oacute;n de escritorio
+- presentación
+- aplicación de escritorio
 comments: []
 ---
-<p style="text-align: justify;">Me gusta cuando las aplicaciones son capaces de encerrar mucha complejidad detr&aacute;s de algo simple de entender y f&aacute;cil de usar. Este es uno de esos casos. La finalidad de esta aplicaci&oacute;n, llamada <a href="http://www.soluto.com/">Soluto</a> ("Anti-Frustration Software"), es de permitir monitorear el inicio de las distintas aplicaciones (s&oacute;lo Windows por ahora), elegir cu&aacute;les deben cargar y cu&aacute;les no, cu&aacute;les deben ser demoradas para un momento posterior y de esa forma mejorar el tiempo de inicio.</p>
-<p style="text-align: justify;">La interfaz es totalmente intuitiva, y muy atractiva. Aviso que para lograr esto hacen uso de la tecnolog&iacute;a .NET (dependencia que debemos de tener instalada, o ser&aacute; instalada por nosotros). Tras instalarlo vamos a reiniciar y ver c&oacute;mo Soluto monitorea nuestro inicio. Luego podremos verificar cu&aacute;les son los programas o servicios que est&aacute;n cargando al inicio y que podr&iacute;an removerse para mejorar esta velocidad.</p>
-<p style="text-align: justify;">Y c&oacute;mo saber cu&aacute;l remover y cu&aacute;l no? Soluto lo muestra claramente en dos formas distintas. La primera forma es una clasificaci&oacute;n que hace, en donde existen tres grandes categor&iacute;as: lo que sin duda podemos remover, lo que podemos dudar o debemos ser m&aacute;s interiorizados como para decidir, y los que son requeridos y no podemos tocar.</p>
-<p style="text-align: justify;">En el fondo todo se basa en la segunda forma de clasificaci&oacute;n, que es a trav&eacute;s de la configuraci&oacute;n de los distintos usuarios. Soluto nos va a mostrar qu&eacute; porcentaje de usuarios ha hecho qu&eacute; cosa con cada uno de los programas. Nosotros tambi&eacute;n podemos brindar nuestras sugerencias.</p>
-<p style="text-align: justify;">Por &uacute;ltimo, Soluto tambi&eacute;n nos muestra un historial de "velocidades" de inicio, para que podamos ver de qu&eacute; forma ha mejorado o empeorado nuestra performance de booteo desde que lo hemos instalado y a trav&eacute;s de las distintas configuraciones e instalaciones.</p>
-<p style="text-align: justify;">La web: <a href="http://www.soluto.com/">http://www.soluto.com/</a></p>
-<p style="text-align: justify;"><em>Soy un zorrinito optimizado.</em></p>
+
+Me gusta cuando las aplicaciones son capaces de encerrar mucha complejidad detrás de algo simple de entender y fácil de usar. Este es uno de esos casos. La finalidad de esta aplicación, llamada <a href="http://www.soluto.com/">Soluto</a> ("Anti-Frustration Software"), es de permitir monitorear el inicio de las distintas aplicaciones (sólo Windows por ahora), elegir cuáles deben cargar y cuáles no, cuáles deben ser demoradas para un momento posterior y de esa forma mejorar el tiempo de inicio.
+
+La interfaz es totalmente intuitiva, y muy atractiva. Aviso que para lograr esto hacen uso de la tecnología .NET (dependencia que debemos de tener instalada, o será instalada por nosotros). Tras instalarlo vamos a reiniciar y ver cómo Soluto monitorea nuestro inicio. Luego podremos verificar cuáles son los programas o servicios que están cargando al inicio y que podrían removerse para mejorar esta velocidad.
+
+Y cómo saber cuál remover y cuál no? Soluto lo muestra claramente en dos formas distintas. La primera forma es una clasificación que hace, en donde existen tres grandes categorías: lo que sin duda podemos remover, lo que podemos dudar o debemos ser más interiorizados como para decidir, y los que son requeridos y no podemos tocar.
+
+En el fondo todo se basa en la segunda forma de clasificación, que es a través de la configuración de los distintos usuarios. Soluto nos va a mostrar qué porcentaje de usuarios ha hecho qué cosa con cada uno de los programas. Nosotros también podemos brindar nuestras sugerencias.
+
+Por último, Soluto también nos muestra un historial de "velocidades" de inicio, para que podamos ver de qué forma ha mejorado o empeorado nuestra performance de booteo desde que lo hemos instalado y a través de las distintas configuraciones e instalaciones.
+
+La web: <a href="http://www.soluto.com/">http://www.soluto.com/</a>
+
+_Soy un zorrinito optimizado._

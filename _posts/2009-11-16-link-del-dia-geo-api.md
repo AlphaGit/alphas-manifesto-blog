@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Geo-API'
+title: 'Link del día: Geo-API'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,11 +16,15 @@ wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1626
 date: '2009-11-16 11:11:40 +0000'
 date_gmt: '2009-11-16 13:11:40 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags: []
 comments: []
 ---
-<p style="text-align: justify;"><a href="http://geoapi.com/">Geo-API</a> es un servicio (por ahora gratuito) que se encuentra en estado alpha de desarollo, que b&aacute;sicamente nos permite obtener informaci&oacute;n geolocalizada bas&aacute;ndose en un punto de latitud y longitud y cosas de inter&eacute;s que puedan estar a su alrededor. Esto incluye negocios, lugares tur&iacute;sticos, atracciones, etc. Podemos entonces obtener informaci&oacute;n que puede ser muy &uacute;til para el usuario de alguna aplicaci&oacute;n (o para nosotros mismos) solo desde el punto en donde est&eacute; parado este usuario. Algo totalmente valioso para aplicaciones m&oacute;viles.</p>
-<p style="text-align: justify;">Como si fuera poco, el proyecto del SDK (no el fuente) se encuentra en <a href="http://code.google.com/p/geo-api/">Google Code</a>, que incluye el c&oacute;digo de varios demos y de un SDK para programar en iPhone. Tambi&eacute;n hay algo de documentaci&oacute;n <a href="http://code.google.com/p/geo-api/w/list">all&iacute;</a> sobre el uso que se le puede dar.</p>
-<p style="text-align: justify;">Por &uacute;ltimo, tambi&eacute;n tenemos varios demos online funcionando, en la secci&oacute;n <a href="http://geoapi.com/product.html">Product &amp; Demos</a> del sitio oficial.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito geolocalizado.</em></p>
+
+<a href="http://geoapi.com/">Geo-API</a> es un servicio (por ahora gratuito) que se encuentra en estado alpha de desarollo, que básicamente nos permite obtener información geolocalizada basándose en un punto de latitud y longitud y cosas de interés que puedan estar a su alrededor. Esto incluye negocios, lugares turísticos, atracciones, etc. Podemos entonces obtener información que puede ser muy útil para el usuario de alguna aplicación (o para nosotros mismos) solo desde el punto en donde esté parado este usuario. Algo totalmente valioso para aplicaciones móviles.
+
+Como si fuera poco, el proyecto del SDK (no el fuente) se encuentra en <a href="http://code.google.com/p/geo-api/">Google Code</a>, que incluye el código de varios demos y de un SDK para programar en iPhone. También hay algo de documentación <a href="http://code.google.com/p/geo-api/w/list">allí</a> sobre el uso que se le puede dar.
+
+Por último, también tenemos varios demos online funcionando, en la sección <a href="http://geoapi.com/product.html">Product &amp; Demos</a> del sitio oficial.
+
+_Soy un zorrinito geolocalizado._

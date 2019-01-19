@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: BrowserShots'
+title: 'Link del día: BrowserShots'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,13 +16,17 @@ wordpress_url: http://zorri2.wordpress.com/2007/10/31/link-del-dia-browsershots/
 date: '2007-10-31 12:29:00 +0000'
 date_gmt: '2007-10-31 12:29:00 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags: []
 comments: []
 ---
-<div style="text-align:justify;">El site al que puede acceder <a href="http://browsershots.org/">aqu&iacute;</a>, es relativamente conocido.</p>
-<p>Lo que hace b&aacute;sicamente es visitar un mismo site con distintos navegadores y distintas opciones (ej: Javascript, Java, Flash activado/desactivado, etc), que permite a un desarrollador web ver qu&eacute; tan bien o qu&eacute; tan mal est&aacute;n saliendo sus dise&ntilde;os para otros navegadores aparte de los que dispone &eacute;l.</p>
-<p>Si bien est&aacute; muy buena la idea, este site anda a medias (s&iacute;, lo lamento, si quieren que hable mejor de &eacute;l tendr&aacute;n que pagar su cuota), porque a veces las sesiones expiran antes de que salgan las im&aacute;genes para todos los navegadores que uno eligi&oacute;, y al final, tiene que volver a hacerlo.</p>
-<p>Pero, en fin, sigue siendo novedoso.</p>
-</div>
-<p><span style="font-style:italic;">Soy un zorrinito fotografiado.</span></p>
+
+El site al que puede acceder <a href="http://browsershots.org/">aquí</a>, es relativamente conocido.
+
+Lo que hace básicamente es visitar un mismo site con distintos navegadores y distintas opciones (ej: Javascript, Java, Flash activado/desactivado, etc), que permite a un desarrollador web ver qué tan bien o qué tan mal están saliendo sus diseños para otros navegadores aparte de los que dispone él.
+
+Si bien está muy buena la idea, este site anda a medias (sí, lo lamento, si quieren que hable mejor de él tendrán que pagar su cuota), porque a veces las sesiones expiran antes de que salgan las imágenes para todos los navegadores que uno eligió, y al final, tiene que volver a hacerlo.
+
+Pero, en fin, sigue siendo novedoso.
+
+_Soy un zorrinito fotografiado._

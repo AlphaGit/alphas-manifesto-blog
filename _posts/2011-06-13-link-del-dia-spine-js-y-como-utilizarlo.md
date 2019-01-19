@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Spine.js y c&oacute;mo utilizarlo'
+title: 'Link del día: Spine.js y cómo utilizarlo'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,15 +16,19 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3052
 date: '2011-06-13 12:12:03 +0000'
 date_gmt: '2011-06-13 14:12:03 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - JavaScript
 - desarrollo web
-- art&iacute;culo
+- artículo
 - MVC
 comments: []
 ---
-<p style="text-align: justify;"><a href="http://addyosmani.com/blog/building-apps-spinejs/">Building JavaScript Web Apps with MVC and Spine.js</a> es un art&iacute;culo muy explicativo de c&oacute;mo debe ser la estructura de una aplicaci&oacute;n MVC junto con herramientas de <a href="http://maccman.github.com/spine/">Spine.js</a> que nos permitir&aacute;n hacer m&aacute;s s&oacute;lidas nuestras aplicaciones. Para aquellos que no sepan qu&eacute; es MVC, aqu&iacute; tienen una corta y buena explicaci&oacute;n, y para los que no sepan c&oacute;mo se usa Spine.js, tambi&eacute;n tienen un buen ejemplo.</p>
-<p style="text-align: justify;">Personalmente me gusta que la aproximaci&oacute;n presentada es bastante limpia y lo suficientemente simple como para ser entendible sin confundir distintos conceptos. Recordemos que, aunque poco funcional, es un ejemplo para aprender de qu&eacute; se trata.</p>
-<p style="text-align: justify;">Como extra, y para los m&aacute;s interesados, el art&iacute;culo incluye una entrevista con uno de los desarrolladores de Spine y varios otros ejemplos.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito MVC.</em></p>
+
+<a href="http://addyosmani.com/blog/building-apps-spinejs/">Building JavaScript Web Apps with MVC and Spine.js</a> es un artículo muy explicativo de cómo debe ser la estructura de una aplicación MVC junto con herramientas de <a href="http://maccman.github.com/spine/">Spine.js</a> que nos permitirán hacer más sólidas nuestras aplicaciones. Para aquellos que no sepan qué es MVC, aquí tienen una corta y buena explicación, y para los que no sepan cómo se usa Spine.js, también tienen un buen ejemplo.
+
+Personalmente me gusta que la aproximación presentada es bastante limpia y lo suficientemente simple como para ser entendible sin confundir distintos conceptos. Recordemos que, aunque poco funcional, es un ejemplo para aprender de qué se trata.
+
+Como extra, y para los más interesados, el artículo incluye una entrevista con uno de los desarrolladores de Spine y varios otros ejemplos.
+
+_Soy un zorrinito MVC._

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "&iexcl;Nuevo dise&ntilde;o!"
+title: "¡Nuevo diseño!"
 author:
   display_name: Alpha
   login: Alpha
@@ -26,15 +26,19 @@ comments: []
 
 Empezando un blog más ordenado y limpio
 
-<p>Allo, me pegu&eacute; una terrible actualizaci&oacute;n de estilos. Como ven, la p&aacute;gina est&aacute; mucho m&aacute;s limpia, y desde mi punto de vista, un poco m&aacute;s legible y elegante. Se aceptan sugerencias.</p>
-<p>Notar&aacute;n que no todo est&aacute; disponible como antes, muchas cosas desaparecieron. Algunas volver&aacute;n a aparecer, otras quedar&aacute;n en el olvido.</p>
-<p>Las cosas que deber&iacute;an volver a aparecer y/o que no est&aacute;n funcionando bien (y debo arreglar) son</p>
-<ul>
-<li>La b&uacute;squeda</li>
-<li>Distintos niveles de encabezados (hoy no tienen estilos distinctivos)</li>
-<li>La caja de comentarios ya no est&aacute;</li>
-<li>No hay links a las p&aacute;ginas del blog</li>
-<li>No hay sidebars (no habr&aacute;, pero en alg&uacute;n lado deber&iacute;a poner otras cosas)</li>
-</ul>
-<p>En fin, acepto tanto cr&iacute;ticas como sugerencias, y por supuesto, halagos. No hay comentarios as&iacute; que no podr&aacute;n hacerlo por ac&aacute;, si quieren hacerlo en otro lado son bienvenidos a mi Twitter: <a href="https://twitter.com/#!/AlphaTwi">@AlphaTwi</a>.</p>
-<p><strong>UPDATE</strong>: Este dise&ntilde;o es mobile friendly. Navegadores del pulgar, sientans&eacute; libres de disfrutar de algo mucho m&aacute;s legible.</p>
+
+Allo, me pegué una terrible actualización de estilos. Como ven, la página está mucho más limpia, y desde mi punto de vista, un poco más legible y elegante. Se aceptan sugerencias.
+
+Notarán que no todo está disponible como antes, muchas cosas desaparecieron. Algunas volverán a aparecer, otras quedarán en el olvido.
+
+Las cosas que deberían volver a aparecer y/o que no están funcionando bien (y debo arreglar) son
+
+- La búsqueda
+- Distintos niveles de encabezados (hoy no tienen estilos distinctivos)
+- La caja de comentarios ya no está
+- No hay links a las páginas del blog
+- No hay sidebars (no habrá, pero en algún lado debería poner otras cosas)
+
+En fin, acepto tanto críticas como sugerencias, y por supuesto, halagos. No hay comentarios así que no podrán hacerlo por acá, si quieren hacerlo en otro lado son bienvenidos a mi Twitter: <a href="https://twitter.com/#!/AlphaTwi">@AlphaTwi</a>.
+
+**UPDATE**: Este diseño es mobile friendly. Navegadores del pulgar, sientansé libres de disfrutar de algo mucho más legible.

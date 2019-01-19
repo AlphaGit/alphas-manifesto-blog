@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: The Database Programmer'
+title: 'Link del día: The Database Programmer'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,7 +16,7 @@ wordpress_url: http://blog.alphasmanifesto.com.ar/?p=991
 date: '2009-02-16 09:56:36 +0000'
 date_gmt: '2009-02-16 11:56:36 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 - Technology
 tags: []
 comments:
@@ -36,11 +36,14 @@ comments:
   author_url: http://www.alphasmanifesto.com.ar/
   date: '2009-02-16 10:34:03 +0000'
   date_gmt: '2009-02-16 12:34:03 +0000'
-  content: No s&oacute;lo eso, est&aacute;n los que reinventan la rueda y he visto
-    cosas como prohibir palabras. La t&iacute;pica era filtrar palabras claves SQL...
-    as&iacute; que por ejemplo, para algunas aplicaciones web, no pod&eacute;s llamarte
-    ANDr&eacute;s.
+  content: No sólo eso, están los que reinventan la rueda y he visto
+    cosas como prohibir palabras. La típica era filtrar palabras claves SQL...
+    así que por ejemplo, para algunas aplicaciones web, no podés llamarte
+    ANDrés.
 ---
-<p style="text-align: justify;">El d&iacute;a de ayer me cruc&eacute; con un post sobre <a href="http://database-programmer.blogspot.com/2009/02/comprehensive-database-security-model.html">c&oacute;mo hacer un dise&ntilde;o de base de datos inmune a SQL Injection</a> (o en su t&iacute;tulo original: <a href="http://database-programmer.blogspot.com/2009/02/comprehensive-database-security-model.html">A comprehensive database security model</a>). La idea resumida de este tipo es hacer un dise&ntilde;o de base de datos orientado completamente a la seguridad, por lo cual, incluso aunque el supuesto atacante lograra acceso directo a la base de datos, no podr&iacute;a hacer m&aacute;s que acceder a los datos que podr&iacute;a desde la aplicaci&oacute;n en cuesti&oacute;n.</p>
-<p style="text-align: justify;">La idea est&aacute; buena, pero en algunos puntos me parece impracticable, aunque s&iacute; me hizo surgir ideas parecidas mucho menos complejas que podr&iacute;an utilizarse... pero eso ser&aacute; motivo de alg&uacute;n post extra o taller. En fin... dicho sea de paso, dejo el link direct al blog de ese art&iacute;culo, llamado <a href="http://database-programmer.blogspot.com/">The Database Programmer</a>, que conforma una serie de posts dedicados a cuestiones sobre la programaci&oacute;n de base de datos, pero desde un punto de vista algo m&aacute;s abstracto. No tanto el "como", sino el "qu&eacute;", lo cual lo vuelve m&aacute;s interesante.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito de datos.</em></p>
+
+El día de ayer me crucé con un post sobre <a href="http://database-programmer.blogspot.com/2009/02/comprehensive-database-security-model.html">cómo hacer un diseño de base de datos inmune a SQL Injection</a> (o en su título original: <a href="http://database-programmer.blogspot.com/2009/02/comprehensive-database-security-model.html">A comprehensive database security model</a>). La idea resumida de este tipo es hacer un diseño de base de datos orientado completamente a la seguridad, por lo cual, incluso aunque el supuesto atacante lograra acceso directo a la base de datos, no podría hacer más que acceder a los datos que podría desde la aplicación en cuestión.
+
+La idea está buena, pero en algunos puntos me parece impracticable, aunque sí me hizo surgir ideas parecidas mucho menos complejas que podrían utilizarse... pero eso será motivo de algún post extra o taller. En fin... dicho sea de paso, dejo el link direct al blog de ese artículo, llamado <a href="http://database-programmer.blogspot.com/">The Database Programmer</a>, que conforma una serie de posts dedicados a cuestiones sobre la programación de base de datos, pero desde un punto de vista algo más abstracto. No tanto el "como", sino el "qué", lo cual lo vuelve más interesante.
+
+_Soy un zorrinito de datos._

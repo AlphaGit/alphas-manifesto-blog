@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Software de sincronizaci&oacute;n'
+title: 'Link del día: Software de sincronización'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,13 +16,15 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3444
 date: '2012-01-04 12:46:07 +0000'
 date_gmt: '2012-01-04 17:46:07 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - internet
 - datos
-- sincronizaci&oacute;n
+- sincronización
 - Dropbox
 comments: []
 ---
-<p style="text-align: justify;">A esta altura ya todos conocemos Dropbox, y quiz&aacute; varias otras alternativas similares (como Live Mesh, Sugarsync, etc). En este caso alguien pregunt&oacute; <a href="http://superuser.com/questions/372066/alternative-to-dropbox-sugarsync-spideroak-wuala-that-only-sync-to-my-devices">qu&eacute; servicios similares existen que no suban su informaci&oacute;n a internet</a>, y obtuvo una buena variedad de respuestas. Es &uacute;til cuando la privacidad es un problema o la legalidad de la informaci&oacute;n tambi&eacute;n lo es (por ejemplo, que cierta informaci&oacute;n no pueda alojarse fuera de los servidores de una determinada empresa). En casos as&iacute;, estos otros servicios pueden ser muy &uacute;tiles.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito sincronizado.</em></p>
+
+A esta altura ya todos conocemos Dropbox, y quizá varias otras alternativas similares (como Live Mesh, Sugarsync, etc). En este caso alguien preguntó <a href="http://superuser.com/questions/372066/alternative-to-dropbox-sugarsync-spideroak-wuala-that-only-sync-to-my-devices">qué servicios similares existen que no suban su información a internet</a>, y obtuvo una buena variedad de respuestas. Es útil cuando la privacidad es un problema o la legalidad de la información también lo es (por ejemplo, que cierta información no pueda alojarse fuera de los servidores de una determinada empresa). En casos así, estos otros servicios pueden ser muy útiles.
+
+_Soy un zorrinito sincronizado._

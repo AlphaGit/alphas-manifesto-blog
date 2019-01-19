@@ -20,8 +20,13 @@ categories:
 tags: []
 comments: []
 ---
-<div style="text-align:justify;">Ahhhhhhhhhhhh! Esto de las redes neuronales es medio m&aacute;gico, porque hay cosas que las produce la gracia de la diosa fortuna y otras que son pura intuici&oacute;n y nadie nunca te habr&iacute;a sabido decir si te serv&iacute;a o no (hay un tercer grupo catalogado como "calculable"... pero a nadie le importa, ya hay f&oacute;rmulas para eso).</p>
-<p>Le implement&eacute; a Thot un escalado y centrado de las im&aacute;genes en el entorno a ser dibujadas... y mi red baj&oacute; el error de pruebas desde un 90% a un 70%.</p>
-<p>La magia, la magia.</p>
-<p>Download de Thot <a href="http://alphagma.googlepages.com/">aqu&iacute;</a>.</p>
-<p><span style="font-style:italic;">Soy un zorrinito m&aacute;gico.</span></div>
+
+Ahhhhhhhhhhhh! Esto de las redes neuronales es medio mágico, porque hay cosas que las produce la gracia de la diosa fortuna y otras que son pura intuición y nadie nunca te habría sabido decir si te servía o no (hay un tercer grupo catalogado como "calculable"... pero a nadie le importa, ya hay fórmulas para eso).
+
+Le implementé a Thot un escalado y centrado de las imágenes en el entorno a ser dibujadas... y mi red bajó el error de pruebas desde un 90% a un 70%.
+
+La magia, la magia.
+
+Download de Thot <a href="http://alphagma.googlepages.com/">aquí</a>.
+
+_Soy un zorrinito mágico._

@@ -20,14 +20,22 @@ categories:
 tags:
 - blog
 - productividad
-- motivaci&oacute;n
+- motivación
 comments: []
 ---
-<p>Del blog de <a href="http://sethgodin.typepad.com/seths_blog/2011/09/run-your-own-race.html">Seth Godin</a>:</p>
-<p style="padding-left: 30px;"><strong>Corre tu propia carrera</strong></p>
-<p style="padding-left: 30px;">El espejo retrovisor es una de las herramientas motivacionales m&aacute;s efectivas jam&aacute;s creadas.</p>
-<p style="padding-left: 30px;">No hay duda que mucha gente acelera en el rostro de la competencia. Preguntamos "c&oacute;mo le fue al resto de la clase?" Escuchamos a qui&eacute;n respira en nuestras nucas. Y descubrimos que la competencia a veces saca lo mejor de nosotros.</p>
-<p style="padding-left: 30px;">Pero hay una desventaja. A&ntilde;os atr&aacute;s, durante mi nado de larga distancia (por Long Island Sound... agua fr&iacute;a, medusas, en todo el trayecto), la competencia estaba bastante dura. Desde el bote hasta la l&iacute;nea de comienzo hab&iacute;a cientos de nadadores, estir&aacute;ndose, presumiendo, pavone&aacute;ndose y calentandos&eacute;. Para el momento en donde tocamos el agua, todos estaban corriendo la carrera de los dem&aacute;s. El comienzo fue una explosi&oacute;n de ego y adrenalina. Veinte minutos despu&eacute;s, la mitad de los participantes estaban exhaustos, con tres horas faltando.</p>
-<p style="padding-left: 30px;">Si vas a contar con la competencia para sacar tu mejor trabajo, entregaste el control sobre tu objeto m&aacute;s preciado. El verdadero logro viene de correr hacia adelante cuando nadie m&aacute;s ve un camino-- y detenerse cuando la aceleraci&oacute;n no te llevar&aacute; a donde quieras ir.</p>
-<p style="padding-left: 30px;">Si eres dependiente de la competencia entonces est&aacute;s contado con la calidad de esos que se muestran a s&iacute; mismo para determinar qu&eacute; tan bien lo har&aacute;s t&uacute;. Peor a&uacute;n, te has inscripto para una carrera de empates terribles y falsos como la mejor forma de hacer tu trabajo.</p>
-<p style="padding-left: 30px;">La auto-motivaci&oacute;n es y siempre ser&aacute; la forma de motivaci&oacute;n m&aacute;s importante. Conducir con tus ojos en el espejo retrovisor es agotador. Es m&aacute;s f&aacute;cil que nada medir tu performance contra la de los dem&aacute;s, pero si no te est&aacute; ayudando con tu misi&oacute;n, detente.</p>
+
+Del blog de <a href="http://sethgodin.typepad.com/seths_blog/2011/09/run-your-own-race.html">Seth Godin</a>:
+
+> **Corre tu propia carrera**
+> 
+> El espejo retrovisor es una de las herramientas motivacionales más efectivas jamás creadas.
+>
+> No hay duda que mucha gente acelera en el rostro de la competencia. Preguntamos "cómo le fue al resto de la clase?" Escuchamos a quién respira en nuestras nucas. Y descubrimos que la competencia a veces saca lo mejor de nosotros.
+>
+> Pero hay una desventaja. Años atrás, durante mi nado de larga distancia (por Long Island Sound... agua fría, medusas, en todo el trayecto), la competencia estaba bastante dura. Desde el bote hasta la línea de comienzo había cientos de nadadores, estirándose, presumiendo, pavoneándose y calentandosé. Para el momento en donde tocamos el agua, todos estaban corriendo la carrera de los demás. El comienzo fue una explosión de ego y adrenalina. Veinte minutos después, la mitad de los participantes estaban exhaustos, con tres horas faltando.
+>
+> Si vas a contar con la competencia para sacar tu mejor trabajo, entregaste el control sobre tu objeto más preciado. El verdadero logro viene de correr hacia adelante cuando nadie más ve un camino-- y detenerse cuando la aceleración no te llevará a donde quieras ir.
+>
+> Si eres dependiente de la competencia entonces estás contado con la calidad de esos que se muestran a sí mismo para determinar qué tan bien lo harás tú. Peor aún, te has inscripto para una carrera de empates terribles y falsos como la mejor forma de hacer tu trabajo.
+>
+> La auto-motivación es y siempre será la forma de motivación más importante. Conducir con tus ojos en el espejo retrovisor es agotador. Es más fácil que nada medir tu performance contra la de los demás, pero si no te está ayudando con tu misión, detente.

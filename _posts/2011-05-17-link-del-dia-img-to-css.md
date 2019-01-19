@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'Link del d&iacute;a: Img to CSS'
+title: 'Link del día: Img to CSS'
 author:
   display_name: Alpha
   login: Alpha
@@ -16,14 +16,17 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=2992
 date: '2011-05-17 12:15:51 +0000'
 date_gmt: '2011-05-17 14:15:51 +0000'
 categories:
-- Link del d&iacute;a
+- Link del día
 tags:
 - web application
 - CSS
-- Im&aacute;genes
+- Imágenes
 - email
 comments: []
 ---
-<p style="text-align: justify;">Del caj&oacute;n de las utilidades curiosas y t&eacute;cnicas que alg&uacute;n d&iacute;a puede que utilicemos, llega la aplicaci&oacute;n web llamada <a href="http://www.imgtocss.com/">Img to CSS</a>, que, como su nombre lo indica, transforma im&aacute;genes en CSS.</p>
-<p style="text-align: justify;">En el fondo no es taaaaaaaan verdad, porque termina generando tablas con celdas de un p&iacute;xel (o m&aacute;s, si se trata del mismo color) que con CSS inline genera los colores para la imagen. Esto puede ser interesante para enviar en mails, y que los destinatarios puedan ver im&aacute;genes sin necesidad de aceptar la bajada de im&aacute;genes. Sin embargo, no se puede utilizar en todas las formas que usamos las im&aacute;genes comunes.</p>
-<p style="text-align: justify;"><em>Soy un zorrinito curioso.</em></p>
+
+Del cajón de las utilidades curiosas y técnicas que algún día puede que utilicemos, llega la aplicación web llamada <a href="http://www.imgtocss.com/">Img to CSS</a>, que, como su nombre lo indica, transforma imágenes en CSS.
+
+En el fondo no es taaaaaaaan verdad, porque termina generando tablas con celdas de un píxel (o más, si se trata del mismo color) que con CSS inline genera los colores para la imagen. Esto puede ser interesante para enviar en mails, y que los destinatarios puedan ver imágenes sin necesidad de aceptar la bajada de imágenes. Sin embargo, no se puede utilizar en todas las formas que usamos las imágenes comunes.
+
+_Soy un zorrinito curioso._
