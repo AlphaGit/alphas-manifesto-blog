@@ -11,4 +11,4 @@ disqus:
   shortname: alphasmanifestoblog
 google_analytics: UA-367009-7
 timezone: America/Toronto
-baseurl: https://alphagit.github.io/alphas-manifesto-blog/
+baseurl: alphas-manifesto-blog/
