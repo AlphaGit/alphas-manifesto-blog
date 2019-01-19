@@ -21,7 +21,6 @@ tags:
 - design
 - email
 - web
-comments: []
 ---
 
 ... te permite hacer este tipo de cosas:

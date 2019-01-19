@@ -31,7 +31,6 @@ tags:
 - race condition
 - evil
 - convention
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/Singleton.png)

@@ -30,7 +30,6 @@ tags:
 - paranormal
 - ocultismo
 - alucinación
-comments: []
 ---
 
 <figure class="align-center">

@@ -23,7 +23,6 @@ tags:
 - artículo
 - css4
 - draft
-comments: []
 ---
 
 No está el 3, vamos por el 4!

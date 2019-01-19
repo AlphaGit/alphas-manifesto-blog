@@ -29,7 +29,6 @@ tags:
 - algoritmos
 - Sugiyama
 - what-now
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/what-now-dependencies.png)

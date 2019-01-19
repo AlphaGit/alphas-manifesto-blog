@@ -22,7 +22,6 @@ tags:
 - ASP.NET
 - referencia
 - feo
-comments: []
 ---
 
 8 formas comunes, en ASP.NET

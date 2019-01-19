@@ -29,7 +29,6 @@ tags:
 - entrepeneurship
 - método científico
 - empresas
-comments: []
 ---
 
 Cómo los entrepeneurs de hoy usan la innovación continua para crear negocios exitosos

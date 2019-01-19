@@ -21,7 +21,6 @@ tags:
 - desarrollo web
 - URL
 - planificación
-comments: []
 ---
 
 El diseño de URLs es lo que primero se ve de una aplicación web. Es prácticamente nuestro punto de entrada a la misma, y de alguna forma nuestro mapa mental del sitio fuera del sitio.

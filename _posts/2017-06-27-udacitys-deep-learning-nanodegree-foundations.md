@@ -25,7 +25,6 @@ tags:
 - deep learning
 - tensorflow
 - machine learning
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/nd101.png)

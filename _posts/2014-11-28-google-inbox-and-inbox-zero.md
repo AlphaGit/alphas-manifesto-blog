@@ -24,7 +24,6 @@ tags:
 - inbox zero
 - Google Inbox
 - methodologies
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/Inbox.png)

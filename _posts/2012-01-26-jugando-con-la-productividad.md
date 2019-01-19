@@ -26,7 +26,6 @@ tags:
 - inbox zero
 - wishlist
 - gamification
-comments: []
 ---
 
 Conseguí una lapicera dorada +20!

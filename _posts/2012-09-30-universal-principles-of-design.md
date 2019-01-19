@@ -24,7 +24,6 @@ tags:
 - referencia
 - book
 - concepto
-comments: []
 ---
 Referencia de conceptos básicos de diseño
 

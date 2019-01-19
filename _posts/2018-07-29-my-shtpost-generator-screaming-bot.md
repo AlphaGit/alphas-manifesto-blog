@@ -30,7 +30,6 @@ tags:
 - markov chain
 - Tumblr API
 - shitpost
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/20120227-robotthatscreams-1.png)

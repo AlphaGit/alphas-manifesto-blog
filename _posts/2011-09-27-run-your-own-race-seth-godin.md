@@ -20,7 +20,6 @@ tags:
 - blog
 - productividad
 - motivación
-comments: []
 ---
 
 Del blog de [Seth Godin](http://sethgodin.typepad.com/seths_blog/2011/09/run-your-own-race.html):

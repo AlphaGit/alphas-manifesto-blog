@@ -25,7 +25,6 @@ tags:
 - dispositivos móviles
 - pantalla
 - tablet
-comments: []
 ---
 El mundo microscópico de los píxels
 

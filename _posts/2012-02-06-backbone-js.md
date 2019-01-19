@@ -23,7 +23,6 @@ tags:
 - patterns
 - complejidad
 - BackboneJS
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/backbone.png)

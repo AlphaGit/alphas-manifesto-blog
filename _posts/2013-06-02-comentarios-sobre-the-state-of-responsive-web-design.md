@@ -31,7 +31,6 @@ tags:
 - opinión
 - solución
 - píxel
-comments: []
 ---
 Opiniones propias sobre muchos problemas mencionados
 

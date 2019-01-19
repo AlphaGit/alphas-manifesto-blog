@@ -21,7 +21,6 @@ tags:
 - CSS
 - desarrollo web
 - herramientas
-comments: []
 ---
 
 Siguiendo con la seguidilla de implementos JavaScript, hoy tenemos a [Adapt.js](http://adapt.960.gs/), un archivo javascript que nos permite condicionalmente cargar uno u otro CSS de acuerdo a valores del navegador. No se trata solamente de variar las versiones del navegador como podemos hacer con HTML condicional, sino a condiciones como el tamaño de la pantalla, y de hecho, ese es el uso principal que se le da a esta herramienta.

@@ -23,7 +23,6 @@ tags:
 - librería
 - principios
 - DRY
-comments: []
 ---
 Don't repeat yourself
 

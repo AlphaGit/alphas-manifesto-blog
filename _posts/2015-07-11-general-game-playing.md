@@ -26,7 +26,6 @@ tags:
 - course
 - MOOC
 - artificial intelligence
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/mechaskunky.png)

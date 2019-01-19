@@ -21,7 +21,6 @@ tags:
 - redes sociales
 - seguridad
 - manual
-comments: []
 ---
 
 Las redes sociales siempre fueron una preocupación en cuanto a la privacidad de los datos y la forma en la que fácilmente otras personas nos pueden engañar. De hecho, mientras mejor cumplan su trabajo, más peligrosas van a ser en este sentido.

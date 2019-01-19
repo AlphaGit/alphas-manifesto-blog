@@ -22,7 +22,6 @@ tags:
 - experiencia del usuario
 - user experience
 - cross-browser
-comments: []
 ---
 
 A pesar de lo que parece, [Normalize CSS](http://necolas.github.com/normalize.css/) no es lo mismo que reset CSS. El reset común vuelve todos los valores que los navegadores por defecto tienen distinto a 0, para que cualquier cambio que hagamos tenga el valor que nosotros asignemos.

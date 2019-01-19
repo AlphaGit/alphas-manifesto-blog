@@ -17,7 +17,6 @@ date_gmt: '2009-02-24 02:19:26 +0000'
 categories:
 - Technology
 tags: []
-comments: []
 ---
 <div>
 

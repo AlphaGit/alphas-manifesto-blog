@@ -28,7 +28,6 @@ tags:
 - CSS3
 - best practices
 - estándares
-comments: []
 ---
 Una aproximación de best practices
 

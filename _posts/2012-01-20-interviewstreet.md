@@ -21,7 +21,6 @@ tags:
 - empresa
 - problemas
 - programming
-comments: []
 ---
 
 Contratar programadores según su capacidad para resolver problemas

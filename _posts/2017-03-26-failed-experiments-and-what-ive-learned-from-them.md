@@ -29,7 +29,6 @@ tags:
 - development
 - strong typed languages
 - data structures
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/Experiment.png)

@@ -26,7 +26,6 @@ tags:
 - neural network
 - research
 - reference
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/deep-learning.jpg)

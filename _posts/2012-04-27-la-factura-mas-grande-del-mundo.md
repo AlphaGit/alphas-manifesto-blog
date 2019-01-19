@@ -21,7 +21,6 @@ tags:
 - freelancer
 - iniciativa
 - ley
-comments: []
 ---
 ¡Que alguien pague lo que nunca se pagó!
 

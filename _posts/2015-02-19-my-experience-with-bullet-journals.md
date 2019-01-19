@@ -22,13 +22,6 @@ tags:
 - bullet journal
 - productivity
 - experiences
-comments:
-- id: 25398
-  author: Britney
-  author_url: http://goolg
-  date: '2015-05-21 11:37:57 +0000'
-  date_gmt: '2015-05-21 16:37:57 +0000'
-  content: that was a good Journal writing
 ---
 
 ![]({{ site.baseurl }}/assets/Journal.gif)

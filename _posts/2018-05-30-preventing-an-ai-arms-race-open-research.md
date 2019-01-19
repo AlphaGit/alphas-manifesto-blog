@@ -24,7 +24,6 @@ tags:
 - research
 - AI
 - open research
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/papers.png)

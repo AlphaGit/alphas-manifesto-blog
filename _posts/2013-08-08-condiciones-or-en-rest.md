@@ -28,7 +28,6 @@ tags:
 - operaciones
 - sintaxis
 - GET
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/ToRestOrNotToRest.jpg)

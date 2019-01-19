@@ -23,7 +23,6 @@ tags:
 - experiencia de usuario
 - consecuencias
 - mal ejemplo
-comments: []
 ---
 Are you sure you want to cancel explosion? [Ok] [Cancel]
 

@@ -23,7 +23,6 @@ tags:
 - ASP.NET
 - ASP.NET MVC
 - participación
-comments: []
 ---
 Para que la comunidad se construya a sí misma
 

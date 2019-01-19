@@ -28,7 +28,6 @@ tags:
 - rebase
 - merge
 - historial de cambios
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/gitTree.png)

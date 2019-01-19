@@ -24,7 +24,6 @@ tags:
 - artículo
 - estadística
 - probabilidad
-comments: []
 ---
 Pasos para crear una buena estrategia
 

@@ -34,7 +34,6 @@ tags:
 - SASS
 - Travis CI
 - what-now
-comments: []
 ---
 
 A todo-list with a twist

@@ -24,7 +24,6 @@ tags:
 - librería
 - unit testing
 - headless browser
-comments: []
 ---
 Unit testing para web frontends
 

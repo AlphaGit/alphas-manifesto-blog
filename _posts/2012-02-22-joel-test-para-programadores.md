@@ -22,13 +22,6 @@ tags:
 - respuestas
 - competencia
 - indicadores
-comments:
-- id: 35924
-  author: clarisa
-  author_url: ''
-  date: '2016-10-27 18:35:26 +0000'
-  date_gmt: '2016-10-27 23:35:26 +0000'
-  content: jajajaja
 ---
 
 Simpleza autocrítica

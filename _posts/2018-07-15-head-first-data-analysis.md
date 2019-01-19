@@ -23,7 +23,6 @@ tags:
 - data analysis
 - data science
 - head first series
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/headfirstdataanalysis.jpg)

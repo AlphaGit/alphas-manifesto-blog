@@ -24,7 +24,6 @@ tags:
 - conversación
 - brevedad
 - precisión
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/Respuesta.png)

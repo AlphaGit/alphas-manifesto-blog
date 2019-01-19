@@ -18,7 +18,6 @@ categories:
 - Books
 - Technology
 tags: []
-comments: []
 ---
 <div>
 

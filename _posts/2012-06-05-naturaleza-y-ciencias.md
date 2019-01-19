@@ -26,7 +26,6 @@ tags:
 - algoritmos de búsqueda
 - Fibonacci
 - relámpagos
-comments: []
 ---
 Sobre el punto en donde dos mundos se tocan
 

@@ -24,7 +24,6 @@ tags:
 - Spanish
 - udemy
 - agile
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/7puentes.jpg)

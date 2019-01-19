@@ -21,7 +21,6 @@ tags:
 - desarrollo web
 - herramientas
 - StackExchange
-comments: []
 ---
 De forma casi automatizada
 

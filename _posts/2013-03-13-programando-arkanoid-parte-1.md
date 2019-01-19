@@ -26,15 +26,6 @@ tags:
 - CSS3
 - Canvas
 - código
-comments:
-- id: 8975
-  author: Programando Arkanoid &#8211; Parte 2 | Alpha&#039;s Manifesto
-  author_url: http://blog.alphasmanifesto.com/2013/04/01/programando-arkanoid-parte-2/
-  date: '2013-04-01 20:24:19 +0000'
-  date_gmt: '2013-04-02 01:24:19 +0000'
-  content: "[...] En la entrega pasada hablamos sobre cómo comenzó el
-    juego de Arkanoid, ahora continuaremos ese camino sobre la construcción
-    del escenario de juego. [...]"
 ---
 
 ![]({{ site.baseurl }}/assets/arkanoid.jpg)

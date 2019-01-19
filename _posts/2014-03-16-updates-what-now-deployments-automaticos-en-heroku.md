@@ -32,7 +32,6 @@ tags:
 - node
 - test
 - what-now
-comments: []
 ---
 La travesía y el resultado final
 

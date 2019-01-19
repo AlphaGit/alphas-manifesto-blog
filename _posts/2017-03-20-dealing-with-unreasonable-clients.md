@@ -26,7 +26,6 @@ tags:
 - customer
 - client
 - money
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/StickFigure.png)

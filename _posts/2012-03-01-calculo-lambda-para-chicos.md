@@ -22,7 +22,6 @@ tags:
 - didáctica
 - cálculo lambda
 - ciencia de la computación
-comments: []
 ---
 Con cocodrilos y huevos
 

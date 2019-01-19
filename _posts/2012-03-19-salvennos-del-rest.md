@@ -23,7 +23,6 @@ tags:
 - web
 - complejidad
 - semántica
-comments: []
 ---
 RESTful thinking
 

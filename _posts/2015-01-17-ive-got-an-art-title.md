@@ -25,7 +25,6 @@ tags:
 - Processing
 - portfolio
 - certificate
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/Art.png)

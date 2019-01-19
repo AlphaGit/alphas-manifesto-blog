@@ -28,7 +28,6 @@ tags:
 - licencias
 - Creative Commoms
 - SaaS
-comments: []
 ---
 
 El problema es la receta, no la sopa.

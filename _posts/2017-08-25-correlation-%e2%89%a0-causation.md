@@ -26,7 +26,6 @@ tags:
 - correlation
 - data science
 - statistics
-comments: []
 ---
 
 ![]({{ site.baseurl }}/assets/AB.jpg)
