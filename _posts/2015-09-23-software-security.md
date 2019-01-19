@@ -63,7 +63,7 @@ comments:
     at the beginning. Total newbie here.
 ---
 
-![](/assets/candado.png)
+![]({{ site.url }}/assets/candado.png)
 
 MOOC by the University of Maryland
 

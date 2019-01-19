@@ -41,7 +41,7 @@ comments:
     por los reverse [&#8230;]"
 ---
 
-![](/assets/ProxyLove.png)
+![]({{ site.url }}/assets/ProxyLove.png)
 
 Desarrollando en localhost, same-origin policy & REST APIs
 

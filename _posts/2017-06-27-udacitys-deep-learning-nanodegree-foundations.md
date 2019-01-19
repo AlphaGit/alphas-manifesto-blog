@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-![](/assets/nd101.png)
+![]({{ site.url }}/assets/nd101.png)
 
 Course contents and structure
 

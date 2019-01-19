@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-![](/assets/deep-learning.jpg)
+![]({{ site.url }}/assets/deep-learning.jpg)
 
 by Goodfellow, Bengio and Courville
 

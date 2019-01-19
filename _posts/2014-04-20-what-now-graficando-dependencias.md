@@ -32,7 +32,7 @@ tags:
 comments: []
 ---
 
-![](/assets/what-now-dependencies.png)
+![]({{ site.url }}/assets/what-now-dependencies.png)
 
 No se resuelve con un par de líneas
 
@@ -117,7 +117,7 @@ Como ya lo mencioné antes, el objetivo de este paso es poder simplificar los c�
 
 Cuando se generaron las capas, es posible haya nodos en la capa _n_ que no tengan ningún nodo siguiente en la capa _n+1_. Esto es porque los nodos siguientes pueden a su vez tener dependencias en la capa _n+1_, lo que los habría colocado en la capa _n+2_. Por ejemplo: A1 y A2 no dependen de ningún nodo, con lo que se posicionan en la capa 1. B depende de A1, con lo que se posiciona en la capa 2. C depende de A2 y de B. Por su dependencia con B, C será posicionado en la capa 3, pero los nodos siguientes de A2 no se encuentran en la capa siguiente a la suya.
 
-![](/assets/Graph-dependencies-next-nodes-not-in-next-layer.png)
+![]({{ site.url }}/assets/Graph-dependencies-next-nodes-not-in-next-layer.png)
 
 
 En un caso así, insertar un nodo ficticio en la capa 2 nos permitirá poder evaluar cruces entre esa capa y la anterior sin necesidad de evaluar ángulos de inclinación, o sin tener en cuenta nodos siguientes que puedan estar en capas totalmente separadas, haciendo nuestras comparaciones mucho más simples.

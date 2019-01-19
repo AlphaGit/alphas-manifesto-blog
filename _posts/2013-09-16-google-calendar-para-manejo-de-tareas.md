@@ -36,7 +36,7 @@ comments:
     The idea seemed good, and after months of making it my bread and [&#8230;]"
 ---
 
-![](/assets/calendar.png)
+![]({{ site.url }}/assets/calendar.png)
 
 Una aproximación simple a un problema complejo
 

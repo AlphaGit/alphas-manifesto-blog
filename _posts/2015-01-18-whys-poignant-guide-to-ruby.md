@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-![](/assets/WhysFox.png)
+![]({{ site.url }}/assets/WhysFox.png)
 
 I love chunky bacon
 

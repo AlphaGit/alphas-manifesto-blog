@@ -46,7 +46,7 @@ comments:
     that has a copy of it.
 ---
 
-![](/assets/juggling.png)
+![]({{ site.url }}/assets/juggling.png)
 
 Quick guide to get these bad boys cooperating
 
@@ -120,7 +120,7 @@ Don't be scared by its size, it is pretty much what we did for our local configu
 
 At this point, SauceLabs will correctly execute our tests and provide feedback back to Travis.
 
-![](/assets/sauceLabsRun.png)
+![]({{ site.url }}/assets/sauceLabsRun.png)
 
 
 Now, getting your stuff to pass all the tests is up to you. ;)

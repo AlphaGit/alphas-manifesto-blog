@@ -91,7 +91,7 @@ comments:
     Band"
 ---
 
-![](/assets/the-clean-coder-cover.jpg)
+![]({{ site.url }}/assets/the-clean-coder-cover.jpg)
 
 a.k.a. "Software Professionalism"
 

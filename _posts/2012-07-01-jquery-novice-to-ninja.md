@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![](/assets/jqueryNoviceToNinja.jpg)
+![]({{ site.url }}/assets/jqueryNoviceToNinja.jpg)
 
 Manos a la obra desde lo más básico
 
