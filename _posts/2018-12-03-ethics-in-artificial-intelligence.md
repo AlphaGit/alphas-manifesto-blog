@@ -22,7 +22,7 @@ I recently participated in a meetup with the promising title "Ethics in AI". Dr.
 
 Her exposition started with the hype around AI and how everyone's talking about it, and how news love to discuss how we're soon close to having a Terminator on our streets, but that's very far from where we are. She explained that this kind of hype really doesn't help, bust just generates an image that helps tilt public opinion with unrealistic expectations and pseudo-scientific facts, which are a good recipe for a disaster policy taking.
 
-From there we jumped to the responsibility that people have when working on AI. A wonderful point she made here is that everything we do, whether we want it or not, has an impact on the world around us. So, <a href="https://en.wikipedia.org/wiki/Sophia_(robot)">Sophia the robot</a> is an example of people being misdirected by what they think is strong AI when they're talking to a pre-programmed chatbot. She compared it to the original <a href="https://en.wikipedia.org/wiki/The_Turk">Mechanical Turk</a>, where people would be really scared of it without knowing what it really was (a well-pulled ruse).
+From there we jumped to the responsibility that people have when working on AI. A wonderful point she made here is that everything we do, whether we want it or not, has an impact on the world around us. So, [Sophia the robot](https://en.wikipedia.org/wiki/Sophia_(robot)) is an example of people being misdirected by what they think is strong AI when they're talking to a pre-programmed chatbot. She compared it to the original [Mechanical Turk](https://en.wikipedia.org/wiki/The_Turk), where people would be really scared of it without knowing what it really was (a well-pulled ruse).
 
 And Sophia's approach to winning us is to appear friendly. I find this... debatable, I think she falls on the creepy side... but this same approach turned backwards is what we get from the Boston Dynamics team, McKillop explained. Their robots are not designed to appear friendly, but rather to inspire fear. And that might not be a conscious decision made by someone, but **those decisions do have an impact on the public about the technology involved**.
 
@@ -30,7 +30,7 @@ Then we took a turn on ethics itself, starting with the well-known trolley dilem
 
 ![]({{ site.baseurl }}/assets/sparing.jpg)
 
-Did you know, in the average persons' point of view, a criminal's life is worth more than a cat's life? But less than a dog's life? No? <a href="https://www.nature.com/articles/s41586-018-0637-6/">Check The Moral Machine experiment</a>, by Awad et al. Did you know that people are more likely to save men than women? Does it surprise you?
+Did you know, in the average persons' point of view, a criminal's life is worth more than a cat's life? But less than a dog's life? No? [Check The Moral Machine experiment](https://www.nature.com/articles/s41586-018-0637-6/), by Awad et al. Did you know that people are more likely to save men than women? Does it surprise you?
 
 This is a very good point that McKillop made -- AI is not only good as a tool but it also reflects part of our humanity in it. Our virtues and our flaws. As the technology gets better, we will learn more about us with it.
 

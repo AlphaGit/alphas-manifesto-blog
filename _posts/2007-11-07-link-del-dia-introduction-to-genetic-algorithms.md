@@ -20,7 +20,7 @@ tags: []
 comments: []
 ---
 
-Link <a href="http://www.rennard.org/alife/english/gavintrgb.html">aquí</a>.
+Link [aquí](http://www.rennard.org/alife/english/gavintrgb.html).
 
 No se fijen en la página pedorra. :P
 
