@@ -11,11 +11,14 @@ tags:
     - html
     - docker
     - networking
+excerpt_separator: <!--more-->
 ---
 
 I just exported my Wordpress blog by using the [jekyll-import](https://import.jekyllrb.com/docs/wordpress/) tool. This is my first post in this new tool. I very much like the simplified approach of writing markdown and having a static site rather than running a server and a database on my own.
 
 Not all things were entirely straightforward, so here's a quick list of the steps I took, which might be helfpul to others.
+
+<!--more-->
 
 ## Docker
 
