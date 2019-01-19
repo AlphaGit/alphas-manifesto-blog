@@ -78,7 +78,7 @@ Finalmente logré que todo funcionara de la forma esperada, pero no todo quedó 
 
 El resultado final de los cambios que hacen esto posible, como ejemplo para otros proyectos, <a href="https://github.com/AlphaGit/what-now/pull/15/files">puede verse en el pull request de Heroku deployment</a>.
 
-![](/assets/What-now-Heroku-deployment.png)
+![]({{ site.url }}/assets/What-now-Heroku-deployment.png)
 
 
 ### GitHub: push to master

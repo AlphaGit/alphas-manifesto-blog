@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![](/assets/StickFigure.png)
+![]({{ site.url }}/assets/StickFigure.png)
 
 Customer management
 

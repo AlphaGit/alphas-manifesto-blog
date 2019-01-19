@@ -338,7 +338,7 @@ Trello se compone de _boards_ (pizarras) que a su vez se componen _lists_ (lista
 
 Cuando crean un board por primera vez, verán esto como su contenido.
 
-![Trello default lists](/assets/trelloDefault.png)
+![Trello default lists]({{ site.url }}/assets/trelloDefault.png)
 
 (Puede que se vea distinto si su resolución de pantalla es menor, en ese caso pasará al modo mobile.)
 
@@ -370,7 +370,7 @@ Mis cambios a ese esquema por default no han sido radicalmente distintos, pero l
 
 Este es un ejemplo con mi día de hoy (exitosamente cerrando la semana):
 
-![My Work Today in Trello](/assets/MyWork.png)
+![My Work Today in Trello]({{ site.url }}/assets/MyWork.png)
 
 Probablemente lean mis ítems y no entiendan en qué estoy trabajando, porque los títulos no son muy explicativos. Ese es otro beneficio: no tienen que serlo. Sólo tienen que decir lo suficiente como para que yo recuerde de qué se trataba todo. Si necesito más detalles uso los comentarios o las descripciones de las tarjetas (que, dicho sea de paso, soporta <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a>). Si necesito varios puntos intermedios agrego una checklist (como el primer item en la imagen), y es todo a gusto.
 

@@ -58,7 +58,7 @@ Recomiendo usar la última versión disponible <a href="https://github.com/manag
 
 En la página principal del repositorio, utilicen la opción de download zip. También pueden clonar el repositorio con su cliente git favorito, pero eso requiere que conozcan la utilización de git y quiero dejar esta guía en lo básico posible.
 
-![](/assets/ManagedFusionRewriter-downloadZip.png)
+![]({{ site.url }}/assets/ManagedFusionRewriter-downloadZip.png)
 
 
 ### 2. Compilar el proyecto y obtener el binario
@@ -67,12 +67,12 @@ Luego de descomprimir el archivo bajado, podrán abrir el proyecto desde Visual 
 
 Incluso pueden correr los unit tests solo para asegurarse de tener una versión consistente.
 
-![](/assets/ManagedFusionRewriter-runningTests.png)
+![]({{ site.url }}/assets/ManagedFusionRewriter-runningTests.png)
 
 
 Ahora navegando a la carpeta del proyecto, sub carpeta `src/bin/Release` encontrarán la librería `ManagedFusion.Rewriter.dll`.
 
-![](/assets/ManagedFusionRewriter-files.png)
+![]({{ site.url }}/assets/ManagedFusionRewriter-files.png)
 
 
 ### 3. Agregar la librería a nuestro proyecto
@@ -81,7 +81,7 @@ Ahora procederemos a agregar esta librería a nuestro proyecto. Describiré cóm
 
  Recomiendo también agregar la librería a la solución para que todo pueda ser versionado junto.
 
-![](/assets/ManagedFusionRewriter-references.png)
+![]({{ site.url }}/assets/ManagedFusionRewriter-references.png)
 
 
 ### 4. Configurar el servidor ASP.NET para que Rewriter funcione
@@ -100,7 +100,7 @@ Para esto crearemos un archivo en la raíz de nuestro proyecto, lo llamaremos `M
 
 Con la segunda línea, puedo probar fácilmente que el proxy se encuentra funcionando:
 
-![](/assets/ManagedFusionRewriter-testingProxy.png)
+![]({{ site.url }}/assets/ManagedFusionRewriter-testingProxy.png)
 
 
 Cuando tengamos problemas, siempre podemos descomentar las líneas de `RewriteLog` y `RewriteLogLevel` para encontrar un archivo de log con el nombre indicado y verificar qué problema está ocurriendo.

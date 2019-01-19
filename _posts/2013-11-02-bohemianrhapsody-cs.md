@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 
-![](/assets/posterBohemianRhapsodyCS.png)
+![]({{ site.url }}/assets/posterBohemianRhapsodyCS.png)
 
 using Queen.GreatestHits;
 

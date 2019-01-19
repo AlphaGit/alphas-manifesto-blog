@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-![](/assets/backbone.png)
+![]({{ site.url }}/assets/backbone.png)
 
 Hace un tiempo ya que en nuestro equipo estamos integrando <a href="http://backbonejs.org/">Backbone.js</a> a nuestros proyectos. La idea tras backbone.js es, como su nombre lo indica, ser la columna vertebral del código javascript frontend, de forma que todo trabaje sobre una estructura centralizada y permita al código no ser un desastre auto-destructivo o conflictivo cuando los proyectos crecen. Esto se da mucho en aplicaciones con mucha interacción de usuario, y es importante para una aplicación compleja poder tener el código organizado. Backbone le da una estructura al código del tipo MVC en donde podemos diferenciar datos, de presentación de los mismos y de elementos que controlan la interacción entre ambos.
 

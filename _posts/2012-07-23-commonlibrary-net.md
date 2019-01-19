@@ -37,7 +37,7 @@ Está claro que muchas características internas de los sistemas serán comunes 
 
 <a href="http://commonlibrarynet.codeplex.com/">CommonLibrary.NET</a> es un proyecto con una serie de clases encargadas de muchos de estos problemas. Es un proyecto relativamente activo, con lo cual esperamos ver más adiciones y mejoras en un futuro no muy lejano. Copiando de su página principal de Codeplex, este es el conjunto de características para el que lo podemos aprovechar:
 
-![](/assets/commonParts.png)
+![]({{ site.url }}/assets/commonParts.png)
 
 - Manejo de cuentas de usuario
 - Patrón Active Record

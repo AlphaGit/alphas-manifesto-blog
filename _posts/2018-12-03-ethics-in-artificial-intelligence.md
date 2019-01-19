@@ -29,7 +29,7 @@ And Sophia's approach to winning us is to appear friendly. I find this... debata
 
 Then we took a turn on ethics itself, starting with the well-known trolley dilemma and some very interesting facts about us with it.
 
-![](/assets/sparing.jpg)
+![]({{ site.url }}/assets/sparing.jpg)
 
 Did you know, in the average persons' point of view, a criminal's life is worth more than a cat's life? But less than a dog's life? No? <a href="https://www.nature.com/articles/s41586-018-0637-6/">Check The Moral Machine experiment</a>, by Awad et al. Did you know that people are more likely to save men than women? Does it surprise you?
 

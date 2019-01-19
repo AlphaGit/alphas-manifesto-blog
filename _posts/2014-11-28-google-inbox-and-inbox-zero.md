@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-![](/assets/Inbox.png)
+![]({{ site.url }}/assets/Inbox.png)
 
 I'm so on board, this is why
 
@@ -61,7 +61,7 @@ The second benefit to this is that it forces you to get rid of the waste. If you
 
 Google Inbox is a new service provided by Google which sits on top of GMail, which basically displays your inbox as a set of task lists. Each email in your inbox may be classified according to different rules and filters that you have setup in your account, and presented to you in a nice, minimalistic way.
 
-![](/assets/googleInbox.png)
+![]({{ site.url }}/assets/googleInbox.png)
 
 ### New features
 

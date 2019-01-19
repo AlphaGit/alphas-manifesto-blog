@@ -64,7 +64,7 @@ comments:
     is supported [&#8230;]"
 ---
 
-![](/assets/Calendar_marked.png)
+![]({{ site.url }}/assets/Calendar_marked.png)
 
 Boxes and colors, what's left to ask?
 
@@ -90,7 +90,7 @@ Why a calendar for task planning?
 
 With this said, it looks pretty good since you can have nice control of your day, and with Google Calendar's ability to create calendars and see calendars from different accounts, you can even find a personal life-work life balance.
 
-![](/assets/CalendarTracking.png)
+![]({{ site.url }}/assets/CalendarTracking.png)
 
 
 ## Setting it up

@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![](/assets/SkunkBalls.jpg)
+![]({{ site.url }}/assets/SkunkBalls.jpg)
 
 A simple explanation on the basis of neural network learning
 
@@ -84,7 +84,7 @@ Mathematically speaking, what we need to do for our function approximation to be
 
 These non-linearities, in neural networks are called _activation functions_. There are a bunch of <a href="https://en.wikipedia.org/wiki/Activation_function">activation functions</a>, but one of the most popular today can be even done in our head: Leaky ReLU (stands for Leaky Rectified Linear Unit -- a story for another day). It goes like this: if the variable is lower than zero, we multiply it with a small value (like 0.1). If the variable is higher than zero, we leave it as it is.
 
-![](/assets/lrelu.png)
+![]({{ site.url }}/assets/lrelu.png)
 
 
 This is enough that our approximation to our function can be achieved.
@@ -116,7 +116,7 @@ By stacking more and more of these "little functions" we can create more complex
 
 In network architecture, we say that the network will have _input nodes_, that operate directly on our input values, _hidden nodes_, that operate on values that are not inputs to the network, but rather created by the network itself, and _output nodes_, for which the result will be used as the prediction of the entire network.
 
-![](/assets/Colored_neural_network.svg_-1.png)
+![]({{ site.url }}/assets/Colored_neural_network.svg_-1.png)
 
 
 ## Actual learning

@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![](/assets/batchfile.png)
+![]({{ site.url }}/assets/batchfile.png)
 
 Unleash the power of .bat!
 

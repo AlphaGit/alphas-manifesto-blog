@@ -32,7 +32,7 @@ tags:
 comments: []
 ---
 
-![](/assets/ToRestOrNotToRest.jpg)
+![]({{ site.url }}/assets/ToRestOrNotToRest.jpg)
 
 Aplicando condiciones complejas a requests HTTP REST
 

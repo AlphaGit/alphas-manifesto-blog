@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-![](/assets/Respuesta.png)
+![]({{ site.url }}/assets/Respuesta.png)
 
 Ser conciso y no-ambiguo
 

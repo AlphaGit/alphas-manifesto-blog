@@ -30,7 +30,7 @@ tags:
 comments: []
 ---
 
-![](/assets/BeeDrones.jpg)
+![]({{ site.url }}/assets/BeeDrones.jpg)
 
 How machine learning algorithms may take on our work
 
@@ -63,7 +63,7 @@ The article explores this in the example of a font-transformation algorithm. The
 
 Here's where things get interesting: the algorithm will apply the transformation of "boldness" or "italicness" to the input variables, having found a mathematical representation of a property that exists in the real world. The machine has learned an internal vectorial representation of "boldness" or "italicness" (with a certain amount of error, of course).
 
-![](/assets/bolding-vector.png)
+![]({{ site.url }}/assets/bolding-vector.png)
 
 ### Emergent properties as domain-specific heuristics
 
@@ -91,12 +91,12 @@ What if we allowed our algorithms to deviate from the pre-provided assumptions t
 
 If you haven't played before with <a href="https://affinelayer.com/pixsrv/">pix2pix</a> you can give it a try now. It's an image generator that takes images (sketches) as input and provides more complex images (full-color) as output.
 
-![](/assets/traditionalcat.png)
+![]({{ site.url }}/assets/traditionalcat.png)
 
 
 In this example, you can clearly see that the algorithm learnt to relate a cat-shape to a cat-full-color representation. However, what if we just stopped assuming what a cat-shape is?
 
-![](/assets/bread-cat.png)
+![]({{ site.url }}/assets/bread-cat.png)
 
 
 Is this just an algorithm-failure, or creative work? Debatable. What about fauvism and dadaism? What about rock and roll or electronic music? You get the idea.
@@ -107,4 +107,4 @@ The article concludes that the aid to creative of work is one of the features th
 
 > We&rsquo;ve described a third view, in which AIs actually change humanity, helping us invent new cognitive technologies, which expand the range of human thought. Perhaps one day those cognitive technologies will, in turn, speed up the development of AI, in a virtuous feedback cycle:
 > 
-> ![](/assets/ai-ia-cycle-1.png)
+> ![]({{ site.url }}/assets/ai-ia-cycle-1.png)

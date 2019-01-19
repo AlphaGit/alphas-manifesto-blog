@@ -39,7 +39,7 @@ comments:
     del escenario de juego. [...]"
 ---
 
-![](/assets/arkanoid.jpg)
+![]({{ site.url }}/assets/arkanoid.jpg)
 
 Cómo hacer un pequeño juego en JavaScript y HTML5 canvas
 

@@ -35,7 +35,7 @@ tags:
 comments: []
 ---
 
-![](/assets/commonJobs.png)
+![]({{ site.url }}/assets/commonJobs.png)
 
 Proyecto final y producto real
 

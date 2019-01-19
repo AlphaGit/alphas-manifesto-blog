@@ -26,7 +26,7 @@ tags:
 comments: []
 ---
 
-![](/assets/headfirstdataanalysis.jpg)
+![]({{ site.url }}/assets/headfirstdataanalysis.jpg)
 
 Introductory solid book on Data Analysis
 

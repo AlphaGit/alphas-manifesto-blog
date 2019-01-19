@@ -117,7 +117,7 @@ comments:
     que esto haya sido de utilidad."
 ---
 
-![](/assets/ng-pattern-restrict.png)
+![]({{ site.url }}/assets/ng-pattern-restrict.png)
 
 Limitando la entrada del usuario según una RegEx, AngularJS style
 

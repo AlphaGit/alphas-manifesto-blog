@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-![](/assets/illegalfry.jpg)
+![]({{ site.url }}/assets/illegalfry.jpg)
 
 O "shenanigams para que nadie use nuestro sistema"
 

@@ -39,7 +39,7 @@ comments:
     going to talk [&#8230;]"
 ---
 
-![](/assets/CodeReviewFilter1.jpg)
+![]({{ site.url }}/assets/CodeReviewFilter1.jpg)
 
 A meta-guide for creating easy to review requests
 

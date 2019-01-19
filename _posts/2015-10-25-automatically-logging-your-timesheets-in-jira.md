@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-![](/assets/GCalToJira.png)
+![]({{ site.url }}/assets/GCalToJira.png)
 
 Having the tedious work done for you
 
@@ -58,7 +58,7 @@ Both documents and spreadsheets have everything needed to set this up, but I fou
 
 **Take the first spreadsheet and rename it to "Setup", then fill in the values below. **This will be the configuration that the script will use to know where to load data from, how to authenticate to JIRA, and where to log hours. It should end up looking something like this:
 
-![](/assets/TimetrackerSetupSheet.png)
+![]({{ site.url }}/assets/TimetrackerSetupSheet.png)
 
 
 This is what you'll enter in each of these cells:
@@ -130,7 +130,7 @@ In the script editor, go to Resources &rarr; Current project triggers. Add a new
     - daily
     - around 9pm
 
-![](/assets/triggers.png)
+![]({{ site.url }}/assets/triggers.png)
 
 
 Of course, you can change the times up to a point where you'll be comfortable having the system run these scripts. If you have emails enabled in JIRA, you may as well be receiving notification of the logged times. If any error occurs, you should get an email, although it will not have much detail and it is up to you to find the problem.

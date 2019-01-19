@@ -31,7 +31,7 @@ tags:
 comments: []
 ---
 
-![](/assets/Favorites.jpg)
+![]({{ site.url }}/assets/Favorites.jpg)
 
 El fenómeno 2.0 del soporte y el gusto personal
 

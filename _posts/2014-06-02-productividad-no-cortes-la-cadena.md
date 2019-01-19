@@ -49,7 +49,7 @@ comments:
     personal. ¡Saludos!"
 ---
 
-![](/assets/Calendar_marked.png)
+![]({{ site.url }}/assets/Calendar_marked.png)
 
 Las técnicas de John Resig y mis resultados
 

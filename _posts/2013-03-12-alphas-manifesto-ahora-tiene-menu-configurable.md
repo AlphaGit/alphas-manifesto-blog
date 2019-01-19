@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![](/assets/configurableMenu.jpg)
+![]({{ site.url }}/assets/configurableMenu.jpg)
 
 Y cómo agregar propiedades a menús
 
@@ -57,7 +57,7 @@ Con los cambios introducidos, esto se solucionó.
 
 Hoy se usa la característica de Menus expuesta por Wordpress, en donde uno puede configurar menús personalizados y asignarlos a secciones que el theme soporte.
 
-![](/assets/alphasManifestoCurrentMenuConfiguration.jpg)
+![]({{ site.url }}/assets/alphasManifestoCurrentMenuConfiguration.jpg)
 
 En la configuración actual, el theme dispone de una localización llamada _Menu al pie_, para el cual uno puede definir el menú a utilizar, de entre el listado de menúes particulares que uno haya generado en la sección de administración. Como extra, cada item debe actualizarse para que tenga incluida la imagen que se usará en la representación del menú. Esto es, simple y llanamente, la URL de esa imagen en particular.
 

@@ -50,7 +50,7 @@ comments:
     But in all, it may be that I just want to justify that I want more time for coding, right? ;)
 ---
 
-![](/assets/ForgottenKeyboard.png)
+![]({{ site.url }}/assets/ForgottenKeyboard.png)
 
 And here's why
 

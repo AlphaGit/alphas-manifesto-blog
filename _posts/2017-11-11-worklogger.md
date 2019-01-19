@@ -29,7 +29,7 @@ tags:
 comments: []
 ---
 
-![](/assets/time.jpg)
+![]({{ site.url }}/assets/time.jpg)
 
 Automatic timesheet entry
 

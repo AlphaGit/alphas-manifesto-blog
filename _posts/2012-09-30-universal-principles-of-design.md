@@ -34,7 +34,7 @@ _Universal Principles of Design_ es un libro más que recomendable sobre concept
 
 <!--more-->
 
-![](/assets/universalprinicplesofdesign.jpg)
+![]({{ site.url }}/assets/universalprinicplesofdesign.jpg)
 
 Siendo más de referencia que de introducción, recorre alfabéticamente 125 conceptos básicos que dan los sustentos necesarios para muchas de las buenas prácticas y técnicas que se han desarrollado en esa disciplina. Cada uno de ellos tiene una introducción, una breve explicación de qué consiste y cómo afecta al proceso o al resultado del producto en general. También incluye una recomendación de cómo debería ser aplicado en la tarea de producción.
 

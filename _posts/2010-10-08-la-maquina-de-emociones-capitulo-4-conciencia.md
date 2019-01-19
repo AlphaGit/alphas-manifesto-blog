@@ -29,7 +29,7 @@ Continuando con mi lectura del <a href="https://blog.alphasmanifesto.com/2009/09
 
 La primera sección del capítulo intenta definir lo que la conciencia _es_, por supuesto, fallando por el hecho de que "conciencia" no es más que una palabra describiendo algo que somos capaces de percibir. Al igual que nuestra mente, no puede ser lo suficientemente simple como para ser definidia por solo una palabra (o solo un proceso), de modo que Minsky deduce que la conciencia es de hecho la interacción de diferentes recursos mentales. él propone la idea de que nuestras mentes tienen un _detector de conciencia_ que se activa cuando ciertos recursos están involucrados o activados. En esta idea podemos explicar comportamientos complejos inconscientes a la vez de comportamientos simples conscientes (y por supuesto, los opuestos también.)
 
-![](/assets/minskys-consciousness-detector.gif)
+![]({{ site.url }}/assets/minskys-consciousness-detector.gif)
 
 Minsky también describe cómo las redes de conectividad o redes neurales no pueden describir completamente los secretos de nuestra conciencia, pero las redes semánticas sí. ( ¿Qué tan de acuerdo se encuentra esto con la neurobiología?) Esto se debe a que nuestros procesos de conciencia deben tener al menos cuatro características:
 

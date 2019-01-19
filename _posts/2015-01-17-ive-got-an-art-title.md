@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 
-![](/assets/Art.png)
+![]({{ site.url }}/assets/Art.png)
 
 Well, sort of...
 

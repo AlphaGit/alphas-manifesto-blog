@@ -27,7 +27,7 @@ tags:
 comments: []
 ---
 
-![](/assets/7puentes.jpg)
+![]({{ site.url }}/assets/7puentes.jpg)
 
 Curso de Ernesto Mislej
 
