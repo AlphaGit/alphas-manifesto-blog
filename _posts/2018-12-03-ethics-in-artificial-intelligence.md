@@ -1,32 +1,16 @@
 ---
-layout: post
-status: publish
-published: true
 title: Ethics in Artificial Intelligence
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6543
-wordpress_url: https://blog.alphasmanifesto.com/?p=6543
-date: '2018-12-03 21:56:38 +0000'
-date_gmt: '2018-12-04 02:56:38 +0000'
 categories:
-- AI
+- ai
 tags:
 - artificial intelligence
 - ethics
-- AI
+- ai
 - Sophia the robot
 - meetup
 - Mechanical Turk
 - trolley problem
 - studies
-comments: []
 ---
 
 Review of a very interesting meetup by Dr McKillop
