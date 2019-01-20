@@ -2,22 +2,34 @@ title: Alpha's Manifesto
 description: A black and white figure's thought-hive
 locale: en
 remote_theme: mmistakes/so-simple-theme
+timezone: America/Toronto
+
+author:
+  name: Juan Diego Raimondi
+  twitter: AlphasManifesto
+
 read_time: true
 words_per_minute: 150
 mathjax: true
 search_full_content: true
+
 category_archive_path: /categories/#
 tag_archive_path: /tags/#
-disqus:
-  shortname: alphasmanifestoblog
-google_analytics: UA-367009-7
-timezone: America/Toronto
 baseurl: /alphas-manifesto-blog
 permalink: /:year/:month/:day/:slug/
+paginate_path: /page/:num/
+feed:
+  path: atom.xml
+
+disqus:
+  shortname: alphasmanifestoblog
+
 logo: images/headerAlpha.png
+
+google_analytics: UA-367009-7
+
 plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-paginate
 paginate: 10
-paginate_path: /page/:num/
