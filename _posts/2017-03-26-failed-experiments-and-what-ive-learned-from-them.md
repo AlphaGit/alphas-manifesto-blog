@@ -44,7 +44,7 @@ In a preparation for a post that I'm going to write, I've prepared some code exa
 
 ## Test your crap
 
-If I wasn't convincing enough with my [How TDD pays off](https://blog.alphasmanifesto.com/2015/03/30/how-tdd-pays-off/) post, here's another reason to test your stuff: you may make the smallest of mistakes and just not realize it until it's too late. Why didn't I test myself, being such a huge proponent? Well, I was going to do a quick-and-dirty work, maybe just 5-10 lines of code, that turned into 100 or 200 for debugging purposes. And I didn't want to spend any time on tests that wouldn't even see the light of day.
+If I wasn't convincing enough with my [How TDD pays off]({{ site.baseUrl }}{% link _posts/2015-03-30-how-tdd-pays-off.md %}) post, here's another reason to test your stuff: you may make the smallest of mistakes and just not realize it until it's too late. Why didn't I test myself, being such a huge proponent? Well, I was going to do a quick-and-dirty work, maybe just 5-10 lines of code, that turned into 100 or 200 for debugging purposes. And I didn't want to spend any time on tests that wouldn't even see the light of day.
 
 And here I am, one week later, wishing I did because I wouldn't have wasted a week troubleshooting a very minor indexing operation.
 

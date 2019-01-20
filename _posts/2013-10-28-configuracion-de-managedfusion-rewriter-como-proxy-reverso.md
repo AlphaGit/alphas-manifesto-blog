@@ -29,7 +29,7 @@ tags:
 Guía rápida para tener un proxy reverso en 5 pasos
 
 
-En mi post anterior de [alternativas para superar la limitación de la Same Origin Policy](https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/), expliqué brevemente el por qué de mi preferencia por los reverse proxy.
+En mi post anterior de [alternativas para superar la limitación de la Same Origin Policy]({{ site.baseUrl }}{% link _posts/2013-10-13-amar-al-proxy-mo.md %}), expliqué brevemente el por qué de mi preferencia por los reverse proxy.
 
 Aquí quiero contar un poco más al respecto y contar, con lujo de detalles, cómo configurar un proxy reverso gratuito para proyectos .NET.
 
@@ -37,7 +37,7 @@ Aquí quiero contar un poco más al respecto y contar, con lujo de detalles, có
 
 ##  ¿Por qué un proxy reverso?
 
-Entre todas las opciones mencionadas en [el post anterior](https://blog.alphasmanifesto.com/2013/10/13/amar-al-proxy-mo/) se destacaba al proxy reverso como una de mis opciones preferidas, por las siguientes razones:
+Entre todas las opciones mencionadas en [el post anterior]({{ site.baseUrl }}{% link _posts/2013-10-13-amar-al-proxy-mo.md %}) se destacaba al proxy reverso como una de mis opciones preferidas, por las siguientes razones:
 
 1. **Se puede configurar y versionar como parte del proyecto.** Esto significa que personas que se sumen al equipo no tienen más que actualizar el código y ejecutarlo para que la aplicación les funcione. Puede que esto varíe según el proxy elegido, pero si podemos usar componentes que nos permita esto, es definitivamente una ventaja no menor.
 1. **Es totalmente transparente para la aplicación.** Esta ventaja se da sobre supuestos en donde tenemos dos equipos distintos trabajando en una aplicación, o mientras unos están desarrollando el frontend, otros trabajan con el backend y deben exponer una API para que el frontend consuma. Por otro lado, no se debe ensuciar el código de la aplicación con mecanismos innecesarios que eviten las limitaciones del navegador cuando esta complejidad no es necesaria en un ambiente real.

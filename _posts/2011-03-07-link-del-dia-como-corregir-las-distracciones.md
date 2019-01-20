@@ -23,7 +23,7 @@ tags:
 - work
 ---
 
-Algún tiempo atrás hablamos sobre [la naturaleza de las distracciones](https://blog.alphasmanifesto.com/2010/08/19/link-del-dia-%C2%BFcomo-trabajar-con-distracciones/) y si realmente eran un problema o no. Más allá de eso, sabemos que si no se mantienen controladas, son definitivamente contraproducentes.
+Algún tiempo atrás hablamos sobre [la naturaleza de las distracciones]({{ site.baseUrl }}{% link _posts/2010-08-19-link-del-dia-como-trabajar-con-distracciones.md %}) y si realmente eran un problema o no. Más allá de eso, sabemos que si no se mantienen controladas, son definitivamente contraproducentes.
 
 Más allá del problema de identificar cuáles son y si son realmente productivas o no, el segundo problema es saber cómo atacarlas. Randall Munroe, a quién conocerán mejor como XKCD, desarrolló una regla para su propia máquina que mantenía a control sus propias distracciones a través del control de la dopamina en el sistema de refuerzo de conducta del cuerpo humano. Todo se dio a conocer en [la tira cómica](http://xkcd.com/862/), aunque [la explicación completa](http://blog.xkcd.com/2011/02/18/distraction-affliction-correction-extensio/) de la situación la dio él en su blog.
 

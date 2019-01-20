@@ -25,7 +25,7 @@ tags:
 - simpleza
 ---
 
-Acordándome de cuando hablé de [Create Free iPhone Apps](https://blog.alphasmanifesto.com/2010/04/08/link-del-dia-1-2-3-iphone-app/), quería charlar sobre esta aplicación web llamada [Mokk.me](http://mokk.me/), una aplicación que nos permite visualmente construir elementos de un diseño gráfico para iPhone y personalizar esos elementos a gusto.
+Acordándome de cuando hablé de _Create Free iPhone Apps_, quería charlar sobre esta aplicación web llamada [Mokk.me](http://mokk.me/), una aplicación que nos permite visualmente construir elementos de un diseño gráfico para iPhone y personalizar esos elementos a gusto.
 
 Cabe aclarar que todo este sistema funciona en nuestra máquina, quizá la única funcionalidad del servidor es guardar URLs de diseños en particular para luego poder modificarlos. El UI es bastante completo y fácil de utilizar, prácticamente todo se puede hacer con un click, así que es una experiencia muy intuitiva.
 

@@ -27,7 +27,7 @@ tags:
 - programming
 ---
 
-Remember that [link where I spoke about different algorithms](https://blog.alphasmanifesto.com/2010/08/24/link-del-dia-la-belleza-de-los-algoritmos/)? I made a quick reference to [Pixel City](http://www.youtube.com/watch?v=-d2-PtK4F6Y). If you had the chance to see it, and furthermore, if you have had the chance to download it and test it yourself, you might have seen that for a really little binary executable we can get really great things.
+Remember that [link where I spoke about different algorithms]({{ site.baseUrl }}{% link _posts/2010-08-24-link-del-dia-la-belleza-de-los-algoritmos.md %})? I made a quick reference to [Pixel City](http://www.youtube.com/watch?v=-d2-PtK4F6Y). If you had the chance to see it, and furthermore, if you have had the chance to download it and test it yourself, you might have seen that for a really little binary executable we can get really great things.
 
 That's because of content [procedural generation](http://en.wikipedia.org/wiki/Procedural_generation), this means that the data you see is not configured or saved anywhere, it is just created in the moment that it is needed, with a set of rules that make sure that the result is close as expected.
 

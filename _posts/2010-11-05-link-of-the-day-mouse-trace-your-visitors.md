@@ -26,7 +26,7 @@ tags:
 - user testing
 ---
 
-We've already presented some tools ([[1]](https://blog.alphasmanifesto.com/2010/10/04/link-del-dia-que-recuerdan-los-usuarios-de-tu-sitio/), [[2]](https://blog.alphasmanifesto.com/2010/01/29/link-del-dia-testeo-de-usabilidad/), [[3]](https://blog.alphasmanifesto.com/2009/10/16/link-del-dia-woopra/)) that allows you to easily have some feedback of what the users do at your site or web application, or how do you need to improve it to make it better for their user experience.
+We've already presented some tools ([[1]]({{ site.baseUrl }}{% link _posts/2010-10-04-link-del-dia-que-recuerdan-los-usuarios-de-tu-sitio.md %}), [[2]]({{ site.baseUrl }}{% link _posts/2010-01-29-link-del-dia-testeo-de-usabilidad.md %}), _[3]_) that allows you to easily have some feedback of what the users do at your site or web application, or how do you need to improve it to make it better for their user experience.
 
 So, here is another tool that will help us measure that bit of the user that's not so easy to see: [MouseTrace](http://mousetrace.com/) is a tool that being installed on our website will track exactly what the user does with it's mouse. Even if they don't click, it is a good idea to keep track of it so that we can find out if our layout is somehow confusing the users.
 

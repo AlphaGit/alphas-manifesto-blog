@@ -26,7 +26,7 @@ tags:
 - videogame
 ---
 
-Como ya había  contado en unos links anteriores que ando siguiendo una serie de videos llamados Extra Credits, de parte de [The Escapist](http://www.escapistmagazine.com/) ([[1]](https://blog.alphasmanifesto.com/2010/11/12/link-of-the-day-symbolism-101-for-extra-credits/), [[2]](https://blog.alphasmanifesto.com/2011/01/03/link-del-dia-juegos-elecciones-y-moral/)), unos videos sobre diseño y análisis de video juegos extremadamente interesante. Más interesante que los videojuegos (desde mi punto de vista), es todo lo que se puede aprender sobre diseño, psicología, sociología y marketing. Pero todo eso es otra historia.
+Como ya había  contado en unos links anteriores que ando siguiendo una serie de videos llamados Extra Credits, de parte de [The Escapist](http://www.escapistmagazine.com/) (_[1]_, _[2]_), unos videos sobre diseño y análisis de video juegos extremadamente interesante. Más interesante que los videojuegos (desde mi punto de vista), es todo lo que se puede aprender sobre diseño, psicología, sociología y marketing. Pero todo eso es otra historia.
 
 Un punto clave de muchos juegos es el tutorial, aquella parte que nos enseña las reglas por las cuales el juego se desarrolla. Ahí es en donde estos muchachos hicieron el video llamado [Tutorials 101](http://www.escapistmagazine.com/videos/view/extra-credits/2921-Tutorials-101). En este video nos enseñan muchas características que un buen tutorial debería tener, pero no puedo dejar de pensar que este mismo concepto aplicaría a tutoriales de casi cualquier otro tipo. Aparatos electrónicos, software de escritorio, aplicaciones web... todo debería seguir los mismos conceptos porque la razón que tienen es mucho más profunda.
 

@@ -109,7 +109,7 @@ En el futuro hablaré más sobre lo que d3 propone y cómo lo hace, pero por lo 
 
 ### Travis-CI
 
-Ya había utilizado Travis en un proyecto anterior, en [ng-pattern-restrict](https://blog.alphasmanifesto.com/2014/02/17/ng-pattern-restrict/), pero gracias a la ayuda de Yeoman, esta vez fue mucho más fácil lograr la integración y tenerlo andando. Desafortunadamente no fue automático, y tuve que hacer un par de ajustes para lograr que los tests pudieran correr, nuevamente relacionados con Ruby y SASS.
+Ya había utilizado Travis en un proyecto anterior, en [ng-pattern-restrict]({{ site.baseUrl }}{% link _posts/2014-02-17-ng-pattern-restrict.md %}), pero gracias a la ayuda de Yeoman, esta vez fue mucho más fácil lograr la integración y tenerlo andando. Desafortunadamente no fue automático, y tuve que hacer un par de ajustes para lograr que los tests pudieran correr, nuevamente relacionados con Ruby y SASS.
 
 En el futuro, usaré Travis para el auto-deployment en heroku, lo que será ir un paso más allá de lo que he hecho con él en el pasado. Veremos cómo resulta eso.
 

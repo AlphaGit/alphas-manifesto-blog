@@ -26,7 +26,7 @@ tags:
 - user experience
 ---
 
-Alguna vez hablamos de [dos sistemas (Uservoice y Votebox)](https://blog.alphasmanifesto.com/2010/09/13/link-del-dia-feedback-2-0/) que nos permitían obtener información de parte del usuario como ideas o propuestas para continuar con el desarrollo de nuestro sistema y entender sus necesidades. Sin embargo, quizá no sea del todo buena idea utilizar estos mismos para el reporte de problemas o para un feedback algo negativo sobre lo que los usuarios están encontrando. Ese tipo de cosas que _"son como no deberían ser"_.
+Alguna vez hablamos de [dos sistemas (Uservoice y Votebox)]({{ site.baseUrl }}{% link _posts/2010-09-13-link-del-dia-feedback-2-0.md %}) que nos permitían obtener información de parte del usuario como ideas o propuestas para continuar con el desarrollo de nuestro sistema y entender sus necesidades. Sin embargo, quizá no sea del todo buena idea utilizar estos mismos para el reporte de problemas o para un feedback algo negativo sobre lo que los usuarios están encontrando. Ese tipo de cosas que _"son como no deberían ser"_.
 
 [GetSatisfaction](http://getsatisfaction.com/) es un sistema del mismo tipo, integrable desde su propio website, en donde los usuarios pueden loggearse de distintas formas (perfil de Google, Facebook, Twitter, etc.) para reportar problemas que estén encontrando en la aplicación. Más allá, podemos darles un feedback al respecto y que ellos continúen esa discusión basándose en nuestras respuestas. No hace falta que se dupliquen las respuestas innecesariamente, ya que un usuario distinto puede elegir la opción "Estoy teniendo el mismo problema" y automáticamente podremos ver cuántos son los usuarios afectados que están involucrados en este problema en particular.
 

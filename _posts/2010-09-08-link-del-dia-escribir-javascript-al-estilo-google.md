@@ -25,7 +25,7 @@ tags:
 - coding
 ---
 
-Dejando de lado a [Google Closure](https://blog.alphasmanifesto.com/2009/12/16/link-del-dia-google-closure/), una herramienta de la que hablamos hace tiempo, hay algo que a muchos otros nos interesa al momento de programar: la forma en la que el código _se ve_. Por supuesto, más allá de ese extraño gusto por un código artísticamente elaborado, hay ciertas líneas que podemos seguir para que no sólo sea más bonito, sino más fácil de leer, interpretar y más eficaz.
+Dejando de lado a [Google Closure]({{ site.baseUrl }}{% link _posts/2009-12-16-link-del-dia-google-closure.md %}), una herramienta de la que hablamos hace tiempo, hay algo que a muchos otros nos interesa al momento de programar: la forma en la que el código _se ve_. Por supuesto, más allá de ese extraño gusto por un código artísticamente elaborado, hay ciertas líneas que podemos seguir para que no sólo sea más bonito, sino más fácil de leer, interpretar y más eficaz.
 
 Google vuelve al rescate como más de una vez lo hace, compilando públicamente su manual de estilo para codificación JavaScript. Este manual, llamado [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml), nos provee de información extra sobre cada punto. Por ejemplo, sabían que además de ser más difícil, si  una variable no está declarada con var, es puesta en el scope global? [[link](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml?showone=var#var)] Yo no. O cómo utilizar [la clausuras de funciones](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml?showone=Closures#Closures) para evitar memory leaks.
 

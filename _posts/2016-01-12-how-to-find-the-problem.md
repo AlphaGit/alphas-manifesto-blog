@@ -50,7 +50,7 @@ And asking yourself what's wrong is the best thing you can do.
 
 You've done something which is, to the best of your knowledge perfect. But it is not. Where are you wrong?
 
-A while ago I made a post about knowledge management ("[Consejos para un no-programador](https://blog.alphasmanifesto.com/2013/06/22/consejos-para-un-no-programador/)", _Advice for a non-developer_, Spanish only for now). I mentioned that it is important to have and recognize levels of beliefs on your assumptions. Let's follow on an actual example:
+A while ago I made a post about knowledge management ("[Consejos para un no-programador]({{ site.baseUrl }}{% link _posts/2013-06-22-consejos-para-un-no-programador.md %})", _Advice for a non-developer_, Spanish only for now). I mentioned that it is important to have and recognize levels of beliefs on your assumptions. Let's follow on an actual example:
 
 <script src="https://gist.github.com/AlphaGit/5b7ca1d64d482ce7a472.js"></script>
 

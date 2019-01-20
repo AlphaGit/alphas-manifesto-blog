@@ -25,7 +25,7 @@ tags:
 - herramientas
 ---
 
-Hace poco hablábamos de determinadas [herramientas de seguridad](https://blog.alphasmanifesto.com/2010/12/07/link-del-dia-herramientas-de-seguridad/) que están disponibles para nosotros a lo largo y lo ancho de la internet. Pero además de eso, debemos saber utilizarlas.
+Hace poco hablábamos de determinadas [herramientas de seguridad]({{ site.baseUrl }}{% link _posts/2010-12-07-link-del-dia-herramientas-de-seguridad.md %}) que están disponibles para nosotros a lo largo y lo ancho de la internet. Pero además de eso, debemos saber utilizarlas.
 
 Una de las herramientas de seguridad más potentes que hay es [Metasploit](http://www.metasploit.com/), que como toda herramienta poderosa, es lo suficientemente compleja como para que no cualquiera la sepa manejar. Es por eso que la gente de DragonJar nuevamente hace su aparición, esta vez ofreciéndonos un [Curso Completo de Metasploit en Video](http://www.dragonjar.org/completo-curso-de-metasploit-en-video.xhtml). Sin duda un must-watch para cualquier persona que quiera dedicarse o interiorizarse en la seguridad de sistemas informáticos.
 

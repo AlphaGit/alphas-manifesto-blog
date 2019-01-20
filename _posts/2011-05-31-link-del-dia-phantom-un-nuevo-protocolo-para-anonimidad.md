@@ -27,7 +27,7 @@ tags:
 - redes
 ---
 
-Recuerdan [Freenet](https://blog.alphasmanifesto.com/2009/11/27/link-del-dia-freenet/) y cómo se basaba en el concepto de crear una internet paralela, totalmente descentralizada e indetectable? La idea sigue creciendo y el proyecto sigue obteniendo sus aportes, pero también han surgido esfuerzos paralelos, que también intentan solucionar alguno de los problemas que este proyecto tuvo.
+Recuerdan [Freenet]({{ site.baseUrl }}{% link _posts/2009-11-27-link-del-dia-freenet.md %}) y cómo se basaba en el concepto de crear una internet paralela, totalmente descentralizada e indetectable? La idea sigue creciendo y el proyecto sigue obteniendo sus aportes, pero también han surgido esfuerzos paralelos, que también intentan solucionar alguno de los problemas que este proyecto tuvo.
 
 [Phantom](http://code.google.com/p/phantom/) es un proyecto similar. Básicamente plantea los mismos estándares y, para ser más precisos, lo indico desde la página de su proyecto:
 

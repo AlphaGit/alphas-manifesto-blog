@@ -43,7 +43,7 @@ Este es el listado de libros, según la cantidad de votos de la respuesta que lo
 - [Designing Interfaces: Patterns for Effective Interaction Design](http://www.amazon.com/dp/0596008031/), por Jenifer Tidwell
 - [About Face](http://www.amazon.com/dp/0470084111/), por Alan Cooper
 - [The Smashing Book](https://shop.smashingmagazine.com/smashing-book-intl.html), por Smashing Magazine
-- [Universal Principles of Design](http://stuffcreators.com/upod/), del cual [ya habíamos hablado antes](https://blog.alphasmanifesto.com/2012/02/03/principios-universales-del-diseno/).
+- [Universal Principles of Design](http://stuffcreators.com/upod/), del cual [ya habíamos hablado antes]({{ site.baseUrl }}{% link _posts/2012-02-03-principios-universales-del-diseno.md %}).
 - [The Visual Display of Quantitative Information](http://www.amazon.com/dp/096139210X/), por Edward R. Tufte
 - [User Interface Design for Programmers](http://www.amazon.com/dp/1893115941/), de Joel Sposky. También hay una [versión online](http://www.joelonsoftware.com/uibook/chapters/fog0000000057.html), pero parece no estar tan completa.
 - [Web Form Design: Filling in the Blanks](http://www.amazon.com/dp/1933820241/), por Luke Wroblewski

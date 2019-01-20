@@ -36,7 +36,7 @@ Manejo del conocimiento, parte 2
 > 
 > -- Cecil, Pilot (Welcome to Night Vale)
 
-Tiempo atrás hice un post sobre consejos que yo tenía para iniciarse en la práctica de la programación, pero sobre aspectos que no tenían que ver con la tecnología. ("[Consejos para un no-programador](https://blog.alphasmanifesto.com/2013/06/22/consejos-para-un-no-programador/)"). Hoy, uno de esos conceptos volvió a mi recargado, y quisiera elaborar sobre él: no saber que no se sabe.
+Tiempo atrás hice un post sobre consejos que yo tenía para iniciarse en la práctica de la programación, pero sobre aspectos que no tenían que ver con la tecnología. ("[Consejos para un no-programador]({{ site.baseUrl }}{% link _posts/2013-06-22-consejos-para-un-no-programador.md %})"). Hoy, uno de esos conceptos volvió a mi recargado, y quisiera elaborar sobre él: no saber que no se sabe.
 
 <!--more-->
 

@@ -31,7 +31,7 @@ tags:
 async y await
 
 
-Continuando con mi serie de posts e investigación sobre lo que VS11 ofrece ([Parte 1](https://blog.alphasmanifesto.com/2012/05/11/pruebas-con-vs11-dia-uno/)), quisiera tomar una aproximación separada. Si bien la exploración es interesante, es poco apropiada cuando uno quiere aprovechar el tiempo.
+Continuando con mi serie de posts e investigación sobre lo que VS11 ofrece ([Parte 1]({{ site.baseUrl }}{% link _posts/2012-05-11-pruebas-con-vs11-dia-uno.md %})), quisiera tomar una aproximación separada. Si bien la exploración es interesante, es poco apropiada cuando uno quiere aprovechar el tiempo.
 
 Es por eso que comencé con las referencias en MSDN sobre [qué hay de nuevo en VS11](http://msdn.microsoft.com/en-us/library/bb386063(v=vs.110).aspx), que seguiremos de a partes. Pero a la vez quiero cumplir con mi promesa, por lo cual, si comenzamos sobre qué hay de nuevo en el lenguaje C# (lo siento VB, lo siento C++, soy del bando de C#), nos encontramos con la excusa para cumplir lo prometido.
 

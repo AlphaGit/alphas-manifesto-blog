@@ -24,7 +24,7 @@ tags:
 - user experience
 ---
 
-Tanto para probar un diseño o como para probar un website o aplicación web, ya hemos hablado de varios sistemas que nos permiten evaluar qué tan eficiente es nuestro diseño (recuerdan el link de [Usabilia](https://blog.alphasmanifesto.com/2010/01/29/link-del-dia-testeo-de-usabilidad/)?). Hoy tenemos dos más muy similares, basados en la prueba de los cincos segundos.
+Tanto para probar un diseño o como para probar un website o aplicación web, ya hemos hablado de varios sistemas que nos permiten evaluar qué tan eficiente es nuestro diseño (recuerdan el link de [Usabilia]({{ site.baseUrl }}{% link _posts/2010-01-29-link-del-dia-testeo-de-usabilidad.md %})?). Hoy tenemos dos más muy similares, basados en la prueba de los cincos segundos.
 
 Al usuario que va a efectuar la prueba, se le muestra un screenshot de nuestro website o nuestro diseño, y luego de eso él tiene que escribir las 5 primeras cosas que recuerde haber visto. Por supuesto, nos permitirá identificar fácilmente así qué elementos son los que realmente llaman la atención del visitante al primer momento. Y sabemos que si ganamos la atención en ese primer momento, hemos tenido éxito.
 

@@ -28,6 +28,6 @@ Contratar programadores según su capacidad para resolver problemas
 
 [Interviewstreet](http://www.interviewstreet.com/) es una tentativa de cambiar la forma en la que las empresas contratan a sus programadores. En lugar de hacer evaluaciones en el lugar, o inventar evaluaciones propias, pueden servirse de las que están aquí, y los programadores pueden utilizar el sitio para probarlas, enviarlas, obtener un puntaje y exhibir su perfil de logros en el mismo sitio. De esa forma, las empresas pueden verificar cuál es el desempeño de cada perfil.
 
-Personalmente no me parece una buena aproximación, pero es un sitio con desafíos a resolver. Siempre hay algo interesante que probar. Me recuerda a [Project Euler](https://blog.alphasmanifesto.com/2008/01/16/link-del-dia-project-euler/) pero sin la parte empresarial.
+Personalmente no me parece una buena aproximación, pero es un sitio con desafíos a resolver. Siempre hay algo interesante que probar. Me recuerda a _Project Euler_ pero sin la parte empresarial.
 
 _Soy un zorrinito problemático._

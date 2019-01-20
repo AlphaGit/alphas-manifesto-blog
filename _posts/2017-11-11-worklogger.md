@@ -76,7 +76,7 @@ If you could read this, you've already been introduced to several concepts that 
 
 ### Inputs
 
-Inputs are where the worklogs originate from. After all, you need to start somewhere, right? It might be a JIRA worklog, a timetracker output file, or a manual input. I currently use [Google Calendar as my timetracker](https://blog.alphasmanifesto.com/2015/05/19/my-time-tracker-google-calendar/), and that is supported too.
+Inputs are where the worklogs originate from. After all, you need to start somewhere, right? It might be a JIRA worklog, a timetracker output file, or a manual input. I currently use [Google Calendar as my timetracker]({{ site.baseUrl }}{% link _posts/2015-05-19-my-time-tracker-google-calendar.md %}), and that is supported too.
 
 Currently supported:
 

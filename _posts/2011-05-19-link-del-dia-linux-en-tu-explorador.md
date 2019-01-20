@@ -27,7 +27,7 @@ tags:
 - emulador
 ---
 
-De los creadores de [Compiladores en línea](https://blog.alphasmanifesto.com/2008/03/28/link-del-dia-compiladores-en-linea/) y de [Más compiladores online](https://blog.alphasmanifesto.com/2009/09/10/link-del-dia-mas-compiladores-online/) y compitiendo con [Máquinas virtuales en la web](https://blog.alphasmanifesto.com/2010/07/21/link-del-dia-maquinas-virtuales-en-la-web/) nos llega un linux que podemos correr en nuestro navegador. Emulado. En JavaScript.
+De los creadores de _Compiladores en línea_ y de _Más compiladores online_ y compitiendo con [Máquinas virtuales en la web]({{ site.baseUrl }}{% link _posts/2010-07-21-link-del-dia-maquinas-virtuales-en-la-web.md %}) nos llega un linux que podemos correr en nuestro navegador. Emulado. En JavaScript.
 
 Así como suena, este logro interesante llamado [JavaScript PC Emulator](http://bellard.org/jslinux/) parece correr totalmente del lado del cliente, con unos 150 Ks de memoria (aunque no lo he verificado).
 

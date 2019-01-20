@@ -75,5 +75,5 @@ En la cultura popular, se cuenta que  Tesla mismo tenía una habilidad especial 
 - World of Lucid Dreaming: [How to Visualize](http://www.world-of-lucid-dreaming.com/how-to-visualize.html)
 - Simon Jester's Rituals: [Performing the Qabalistic Cross](http://anubis4_2000.tripod.com/Symbolicon/Rituals/QabalisticCross1.htm)
 - Wonder How To: [How to Visualize auras](http://new-age.wonderhowto.com/how-to/visualize-auras-340676/)
-- Diego Golombek: [Las Neuronas de Dios](https://vimeo.com/15994164) - [Segundo Congreso de Ateísmo](https://blog.alphasmanifesto.com/2010/04/05/2do-congreso-de-ateismo/), Mar del Plata, Abril 2010
+- Diego Golombek: [Las Neuronas de Dios](https://vimeo.com/15994164) - _Segundo Congreso de Ateísmo_, Mar del Plata, Abril 2010
 - R. (Chandra) Chandrasekhar: [Reflections on the Mind of Tesla](http://www.ee.uwa.edu.au/~chandra/Downloads/Tesla/MindOfTesla.html)

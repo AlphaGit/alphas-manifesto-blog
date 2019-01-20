@@ -21,7 +21,7 @@ categories:
 tags: []
 ---
 
- ¿Recuerdan los posts viejos sobre cómo convertir un texto en una expresión regular acorde ([Text2RE](https://blog.alphasmanifesto.com/2008/05/19/link-del-dia-text2re/)), y sobre cómo visualizar las expresiones regulares ([ReAnimator](https://blog.alphasmanifesto.com/2008/01/23/link-del-dia-visualizing-regular-expressions/))?
+ ¿Recuerdan los posts viejos sobre cómo convertir un texto en una expresión regular acorde (_Text2RE_), y sobre cómo visualizar las expresiones regulares (_ReAnimator_)?
 
 Bueno, si esas les gustaron o les fueron útiles, vamos a dar dos nuevas utilidades para trabajar con expresiones regulares.
 

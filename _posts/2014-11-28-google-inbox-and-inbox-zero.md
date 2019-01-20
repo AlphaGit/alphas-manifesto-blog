@@ -40,7 +40,7 @@ Here I'm going to tell you why I love it so much, why it suits perfectly into my
 
 ## What is Inbox Zero?
 
-Long time ago [I mentioned Inbox Zero](https://blog.alphasmanifesto.com/2011/09/13/link-del-dia-100-formas-de-hacer-que-las-cosas-se-hagan/) and that I would try applying it to my email management techniques. Once I tried it, I never looked back. There are mainly two reasons I believe [Inbox Zero](http://www.43folders.com/izero) is a great email management technique:
+Long time ago [I mentioned Inbox Zero]({{ site.baseUrl }}{% link _posts/2011-09-13-link-del-dia-100-formas-de-hacer-que-las-cosas-se-hagan.md %}) and that I would try applying it to my email management techniques. Once I tried it, I never looked back. There are mainly two reasons I believe [Inbox Zero](http://www.43folders.com/izero) is a great email management technique:
 
 - It forces you to focus and get stuff done and out of the way
 - It rewards you by decluttering your task-inbox

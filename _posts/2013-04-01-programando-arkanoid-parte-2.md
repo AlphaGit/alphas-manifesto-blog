@@ -37,11 +37,11 @@ tags:
 El escenario de juego y el jugador en él
 
 
-[En la entrega pasada](https://blog.alphasmanifesto.com/2013/03/13/programando-arkanoid-parte-1/) hablamos sobre cómo comenzó el <a title="Arkanoid" href="http://randomjs.alphasmanifesto.com/arkanoid-canvas/arkanoid.html">juego de Arkanoid</a>, ahora continuaremos ese camino sobre la construcción del escenario de juego.
+[En la entrega pasada]({{ site.baseUrl }}{% link _posts/2013-03-13-programando-arkanoid-parte-1.md %}) hablamos sobre cómo comenzó el <a title="Arkanoid" href="http://randomjs.alphasmanifesto.com/arkanoid-canvas/arkanoid.html">juego de Arkanoid</a>, ahora continuaremos ese camino sobre la construcción del escenario de juego.
 
 <!--more-->
 
-En <a title="Programando Arkanoid - Parte 1" href="https://blog.alphasmanifesto.com/2013/03/13/programando-arkanoid-parte-1/">esa instancia</a> cubrimos la estructura general de los archivos, la inicialización del objeto `canvas`, los estilos a usar y la inicialización de las opciones. Dejamos algo pendiente, que era el escenario, en un objeto `ArkanoidStage`. En ese post no expliqué qué hacía este objeto o como trabajaba. Hoy comenzaremos por ahí. Lo que describiremos en este post está cubierto en el commit [90e6...abd9](https://github.com/AlphaGit/random-javascript/commit/90e6540100631e1a3ae590c3bde4a21b74f7abd9).
+En <a title="Programando Arkanoid - Parte 1" href="{{ site.baseUrl }}{% link _posts/2013-03-13-programando-arkanoid-parte-1.md %}">esa instancia</a> cubrimos la estructura general de los archivos, la inicialización del objeto `canvas`, los estilos a usar y la inicialización de las opciones. Dejamos algo pendiente, que era el escenario, en un objeto `ArkanoidStage`. En ese post no expliqué qué hacía este objeto o como trabajaba. Hoy comenzaremos por ahí. Lo que describiremos en este post está cubierto en el commit [90e6...abd9](https://github.com/AlphaGit/random-javascript/commit/90e6540100631e1a3ae590c3bde4a21b74f7abd9).
 
 <script src="https://gist.github.com/AlphaGit/5158029.js"></script>
 

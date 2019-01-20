@@ -32,7 +32,7 @@ tags:
 Cambios a mi flujo de trabajo para más productividad
 
 
-En un post de enero del año pasado, titulado [Cómo uso Trello para trabajar](https://blog.alphasmanifesto.com/2012/01/20/como-uso-trello-para-trabajar/), expliqué de qué forma organizo mi trabajo para saber qué tengo pendiente y qué hice para poder reportar a mis superiores. En el transcurso del año pasado y de este año, mucho ha ocurrido y mis obligaciones me han llevado a mejorar un poco ese flujo de trabajo.
+En un post de enero del año pasado, titulado [Cómo uso Trello para trabajar]({{ site.baseUrl }}{% link _posts/2012-01-20-como-uso-trello-para-trabajar.md %}), expliqué de qué forma organizo mi trabajo para saber qué tengo pendiente y qué hice para poder reportar a mis superiores. En el transcurso del año pasado y de este año, mucho ha ocurrido y mis obligaciones me han llevado a mejorar un poco ese flujo de trabajo.
 
 Aquí les presento, mi nueva estrategia de uso de Trello.
 

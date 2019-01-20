@@ -29,7 +29,7 @@ tags:
 - udacity
 ---
 
-Hace unos días me llegó un email sobre Udacity (del cual [yo ya había hablado](https://blog.alphasmanifesto.com/2012/01/31/udacity/)) avisando que hay nuevas clases disponibles allí.
+Hace unos días me llegó un email sobre Udacity (del cual [yo ya había hablado]({{ site.baseUrl }}{% link _posts/2012-01-31-udacity.md %})) avisando que hay nuevas clases disponibles allí.
 
 Ahora el listado es:
 

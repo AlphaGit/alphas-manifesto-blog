@@ -144,7 +144,7 @@ In my current team, we came up with the following template (just use it as an ex
 
 ### 3.1. Do not include garbage
 
-I covered a little bit of this idea in my previous post, [Taming your tools](https://blog.alphasmanifesto.com/2016/02/28/taming-your-tools/). Every content of the pull request that is not helping to achieve the goal is helping to hide it. This usually goes against the tendency of opportunistic refactoring and adjusting styles.
+I covered a little bit of this idea in my previous post, [Taming your tools]({{ site.baseUrl }}{% link _posts/2016-02-28-taming-your-tools.md %}). Every content of the pull request that is not helping to achieve the goal is helping to hide it. This usually goes against the tendency of opportunistic refactoring and adjusting styles.
 
 I personally prefer to leave them for subsequent PRs, but use your judgment. If your opportunistic refactor is a variable name change that affects only two lines, yeah, go ahead. If completely changes the design of an approach for greater flexibility, you may want to give it a PR of its own.
 

@@ -29,6 +29,6 @@ El listado está aquí: [List of Current and Upcoming Cloud Platforms](http://bl
 
 El listado de la categoría [Cloud Platforms](http://en.wikipedia.org/wiki/Category:Cloud_platforms) de Wikipedia provee algunos nombres más. Y por si no les alcanza todavía, acá tienen el [List of Cloud Platfrms](http://www.cloudtweaks.com/2010/02/list-of-cloud-platforms-providers-and-enablers-2010/) de CloudTweaks (2010).
 
-Tampoco se olviden de checkear [Cloud Computing Ecosystem](http://appirio.force.com/cloudecosystem/CloudEcosystemMap), que lo mantienen actualizado desde [aquél post en diciembre del 2009](https://blog.alphasmanifesto.com/2009/12/21/link-del-dia-cloud-computing-ecosystem/).
+Tampoco se olviden de checkear [Cloud Computing Ecosystem](http://appirio.force.com/cloudecosystem/CloudEcosystemMap), que lo mantienen actualizado desde [aquél post en diciembre del 2009]({{ site.baseUrl }}{% link _posts/2009-12-21-link-del-dia-cloud-computing-ecosystem.md %}).
 
 _Soy un zorrinito en las nubes._

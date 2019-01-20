@@ -49,7 +49,7 @@ Herramientas relacionadas: [Improving the performance of your HTML5 App](http://
 Herramientas relacionadas:  [WebGL Field](http://webglsamples.googlecode.com/hg/field/field.html) (demo)
 - **Benchmarking**: relacionado a todo lo anterior, necesitamos de una forma objetiva y poderosa de poder probar qué elementos son mejores. El ejemplo que Paul menciona es: realmente es más performante usar el === en lugar del == en JavaScript? Ahora tenemos la forma de probarlo fácilmente.<br />
 Herramientas relacionadas: [jsPerf](http://jsperf.com/) (herramienta de test cases para benchmarking), [BrowserScope](http://www.browserscope.org/) (versión colectiva de pruebas en browsers), [Benchmark.js](http://benchmarkjs.com/) (librería JavaScript para benchmarking y testing).
-- **Build scripts**: la posibilidad de automatizar el generado de los sitios puede ahorrar muchos problemas en la performance. Así como alguna vez hablamos de [mod_pagespeed](https://blog.alphasmanifesto.com/2010/11/08/link-del-dia-optimizacion-web-vs-desarrollo-prolijo/), Paul menciona otras alternativas.<br />
+- **Build scripts**: la posibilidad de automatizar el generado de los sitios puede ahorrar muchos problemas en la performance. Así como alguna vez hablamos de [mod_pagespeed]({{ site.baseUrl }}{% link _posts/2010-11-08-link-del-dia-optimizacion-web-vs-desarrollo-prolijo.md %}), Paul menciona otras alternativas.<br />
 Herramientas relacionadas: [HTML5 BoilerPlate](http://html5boilerplate.com/) (librería de startup para generar aplicaciones bajo buenas prácticas).
 
 Espero poder ahondar en cada uno de estos en el futuro. Estén atentos!
