@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Pro ASP.NET MVC3 Framework
 author:

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Jobeet - symfony en 24 horas
 author:

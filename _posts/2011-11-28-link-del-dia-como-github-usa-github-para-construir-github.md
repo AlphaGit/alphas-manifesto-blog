@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Cómo GitHub usa GitHub para construir GitHub'
 author:

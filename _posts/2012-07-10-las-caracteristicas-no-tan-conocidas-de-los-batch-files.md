@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Las características no tan conocidas de los batch files
 author:

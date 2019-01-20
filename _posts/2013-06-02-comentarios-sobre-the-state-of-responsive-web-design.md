@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Comentarios sobre The State of Responsive Web Design
 author:

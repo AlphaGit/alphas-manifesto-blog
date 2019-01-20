@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: La factura más grande del mundo
 author:

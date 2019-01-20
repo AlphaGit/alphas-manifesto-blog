@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'La máquina de emociones - Capítulo 4: Conciencia'
 author:

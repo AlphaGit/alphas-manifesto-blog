@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: " ¿Es el desarrollo de software un arte?"
 author:

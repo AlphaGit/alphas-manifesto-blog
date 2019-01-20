@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Pruebas con VS11: Día dos'
 author:

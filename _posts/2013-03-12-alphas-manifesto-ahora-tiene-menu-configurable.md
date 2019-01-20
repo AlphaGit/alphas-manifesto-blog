@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Alpha's Manifesto ahora tiene menú configurable
 author:

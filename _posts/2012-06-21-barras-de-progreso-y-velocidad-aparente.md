@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Barras de progreso y velocidad aparente
 author:

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Bugs con el manejo de fechas
 author:

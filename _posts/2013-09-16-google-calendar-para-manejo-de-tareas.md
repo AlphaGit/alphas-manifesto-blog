@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: " ¿Google Calendar para manejo de tareas?"
 author:

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Responsive Web vs. Mobile Web
 author:

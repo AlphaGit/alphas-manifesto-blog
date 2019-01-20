@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'CommonJobs: el fin de una etapa'
 author:

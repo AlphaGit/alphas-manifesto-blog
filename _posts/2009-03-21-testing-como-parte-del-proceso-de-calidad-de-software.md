@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Testing como parte del proceso de calidad de software
 author:

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: StackOverflow me hizo replantear mis actitudes
 author:

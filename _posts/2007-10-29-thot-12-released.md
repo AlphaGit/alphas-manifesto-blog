@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Thot 1.2 Released
 author:

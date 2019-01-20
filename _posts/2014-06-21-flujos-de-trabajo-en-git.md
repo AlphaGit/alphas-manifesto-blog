@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Flujos de trabajo en git
 author:

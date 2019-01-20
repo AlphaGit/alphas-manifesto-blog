@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: ' ¿Por qué usamos la imagen del floppy para la acción de
   "guardar"?'

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Consejos de comunicación, parte 2: No eludas la pregunta'
 author:

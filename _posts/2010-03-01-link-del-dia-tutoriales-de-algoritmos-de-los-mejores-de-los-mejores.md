@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Tutoriales de algoritmos de los mejores de los mejores'
 author:

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Updates what-now: deployments automáticos en Heroku'
 author:

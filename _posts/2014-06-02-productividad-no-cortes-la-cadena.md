@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Productividad: no cortes la cadena'
 author:

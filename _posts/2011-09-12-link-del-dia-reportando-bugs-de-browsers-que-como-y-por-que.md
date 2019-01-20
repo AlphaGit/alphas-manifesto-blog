@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Reportando bugs de browsers: qué, cómo
   y por qué'

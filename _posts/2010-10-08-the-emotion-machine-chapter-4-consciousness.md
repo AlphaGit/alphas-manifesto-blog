@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'The Emotion Machine - Chapter 4: Consciousness'
 author:

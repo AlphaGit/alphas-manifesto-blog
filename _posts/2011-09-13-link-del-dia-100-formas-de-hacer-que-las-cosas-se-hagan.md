@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: 100 formas de hacer que las cosas se hagan'
 author:

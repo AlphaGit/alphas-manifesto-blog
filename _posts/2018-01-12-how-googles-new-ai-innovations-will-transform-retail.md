@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-status: publish
 published: true
 title: How Google&rsquo;s New AI Innovations Will Transform Retail
 author:

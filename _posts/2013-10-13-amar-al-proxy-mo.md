@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Amar al proxy-mo
 author:

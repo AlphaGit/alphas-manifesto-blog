@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Capacitación VS2008 & Framework .NET 3.5
 author:

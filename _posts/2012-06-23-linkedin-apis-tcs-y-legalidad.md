@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: LinkedIn APIs T&Cs y legalidad
 author:

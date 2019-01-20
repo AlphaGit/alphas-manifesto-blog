@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Colección de libros sobre UX
 author:

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Qué debería saber todo programador JavaScript'
 author:
