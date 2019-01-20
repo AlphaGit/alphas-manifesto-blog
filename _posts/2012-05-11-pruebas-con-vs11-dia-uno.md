@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Pruebas con VS11: Día uno'
 author:
   display_name: Alpha

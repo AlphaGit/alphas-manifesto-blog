@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Aprendan estadística o los mato a todos'
 author:
   display_name: Alpha

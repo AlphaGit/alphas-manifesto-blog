@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Sistemas Jenga
 author:
   display_name: Alpha

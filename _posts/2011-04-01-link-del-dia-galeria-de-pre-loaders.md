@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Galería de pre-loaders'
 author:
   display_name: Alpha

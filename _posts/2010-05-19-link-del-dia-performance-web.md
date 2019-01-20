@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Performance Web'
 author:
   display_name: Alpha

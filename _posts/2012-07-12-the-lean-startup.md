@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: The Lean Startup
 author:
   display_name: Alpha

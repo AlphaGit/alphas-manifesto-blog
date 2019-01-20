@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Windows Azure
 author:
   display_name: Alpha

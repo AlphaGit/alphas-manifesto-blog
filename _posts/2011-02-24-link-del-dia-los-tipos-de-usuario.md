@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Los tipos de usuario'
 author:
   display_name: Alpha

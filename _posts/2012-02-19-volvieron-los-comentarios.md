@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: "¡Volvieron los comentarios!"
 author:
   display_name: Alpha

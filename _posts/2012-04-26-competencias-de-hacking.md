@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Competencias de hacking
 author:
   display_name: Alpha

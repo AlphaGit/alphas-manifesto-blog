@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: SiteCake'
 author:
   display_name: Alpha

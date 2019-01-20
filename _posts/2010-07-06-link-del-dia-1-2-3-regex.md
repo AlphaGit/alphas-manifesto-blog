@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: 1, 2, 3... Regex!'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: SVG y aplicaciones prácticas'
 author:
   display_name: Alpha

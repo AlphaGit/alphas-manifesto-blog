@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Faceted searches with MongoDB and mongoose
 author:
   display_name: Alpha

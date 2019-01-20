@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Windows Metro explicado
 author:
   display_name: Alpha

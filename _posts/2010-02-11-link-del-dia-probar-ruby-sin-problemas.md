@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Probar ruby sin problemas'
 author:
   display_name: Alpha

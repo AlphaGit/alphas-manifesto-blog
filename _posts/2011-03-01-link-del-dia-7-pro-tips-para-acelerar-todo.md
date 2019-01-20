@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: 7 pro-tips para acelerar todo'
 author:
   display_name: Alpha

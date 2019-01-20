@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Jobeet - symfony en 24 horas
 author:
   display_name: Alpha

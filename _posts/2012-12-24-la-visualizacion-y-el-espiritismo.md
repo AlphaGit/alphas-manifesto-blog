@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: La visualización y el espiritismo
 author:
   display_name: Alpha

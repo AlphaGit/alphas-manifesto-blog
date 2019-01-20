@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Write it down!
 author:
   display_name: Alpha

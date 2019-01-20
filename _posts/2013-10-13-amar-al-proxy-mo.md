@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Amar al proxy-mo
 author:
   display_name: Alpha

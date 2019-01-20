@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: IE6 Upgrade Warning'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Mejorando un poquito esa programación'
 author:
   display_name: Alpha

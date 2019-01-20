@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Code Complete, Second Edition
 author:
   display_name: Alpha

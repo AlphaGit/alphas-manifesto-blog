@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the day: Writing Testable Code'
 author:
   display_name: Alpha

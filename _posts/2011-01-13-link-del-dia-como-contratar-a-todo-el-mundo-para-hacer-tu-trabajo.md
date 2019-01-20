@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Cómo contratar a todo el mundo para hacer tu trabajo'
 author:
   display_name: Alpha

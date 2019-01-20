@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Firefox 4 + Mozilla demos'
 author:
   display_name: Alpha

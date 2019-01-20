@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Buscar imágenes desde imágenes'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Schema.org
 author:
   display_name: Alpha

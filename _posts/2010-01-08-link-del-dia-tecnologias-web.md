@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Tecnologías Web'
 author:
   display_name: Alpha

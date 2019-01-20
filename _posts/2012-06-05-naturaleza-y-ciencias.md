@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Naturaleza y ciencias
 author:
   display_name: Alpha

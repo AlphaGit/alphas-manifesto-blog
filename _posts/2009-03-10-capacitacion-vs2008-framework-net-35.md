@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Capacitación VS2008 & Framework .NET 3.5
 author:
   display_name: Alpha

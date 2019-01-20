@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Pro ASP.NET MVC3 Framework
 author:
   display_name: Alpha

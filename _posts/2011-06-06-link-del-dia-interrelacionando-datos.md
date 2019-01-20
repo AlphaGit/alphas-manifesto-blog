@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Interrelacionando datos'
 author:
   display_name: Alpha

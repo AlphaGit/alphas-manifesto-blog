@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: One password to rule them all...'
 author:
   display_name: Alpha

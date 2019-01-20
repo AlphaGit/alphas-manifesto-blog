@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Front-end code standards
 author:
   display_name: Alpha

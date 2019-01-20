@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Google Closure'
 author:
   display_name: Alpha

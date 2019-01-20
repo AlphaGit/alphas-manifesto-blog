@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: consejitos de jQuery para pr0s'
 author:
   display_name: Alpha

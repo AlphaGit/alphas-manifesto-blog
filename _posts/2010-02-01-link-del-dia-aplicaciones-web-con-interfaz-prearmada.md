@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Aplicaciones web, con interfaz prearmada'
 author:
   display_name: Alpha

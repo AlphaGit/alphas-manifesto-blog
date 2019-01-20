@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: StackOverflow me hizo replantear mis actitudes
 author:
   display_name: Alpha

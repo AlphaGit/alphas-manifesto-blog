@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: ASP.NET MVC 1.0 Release Candidate
 author:
   display_name: Alpha

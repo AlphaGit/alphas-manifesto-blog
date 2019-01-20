@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: La ley de Benford y el mundo de los negocios'
 author:
   display_name: Alpha

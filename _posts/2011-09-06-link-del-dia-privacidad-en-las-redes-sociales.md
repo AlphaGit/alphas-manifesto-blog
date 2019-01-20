@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Privacidad en las redes sociales'
 author:
   display_name: Alpha

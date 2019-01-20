@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Flujos de trabajo en git
 author:
   display_name: Alpha

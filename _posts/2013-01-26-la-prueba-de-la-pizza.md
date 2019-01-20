@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: La prueba de la pizza
 author:
   display_name: Alpha

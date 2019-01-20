@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Escribir JavaScript, al estilo Google'
 author:
   display_name: Alpha

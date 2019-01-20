@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Simulador de iPad'
 author:
   display_name: Alpha

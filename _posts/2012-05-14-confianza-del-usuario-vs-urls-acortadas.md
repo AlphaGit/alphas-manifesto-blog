@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: " ¿Confianza del usuario vs. URLs acortadas?"
 author:
   display_name: Alpha

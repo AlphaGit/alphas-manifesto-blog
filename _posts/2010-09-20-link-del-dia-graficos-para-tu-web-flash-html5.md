@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Gráficos para tu web, Flash + HTML5'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: jQuery Novice to Ninja
 author:
   display_name: Alpha

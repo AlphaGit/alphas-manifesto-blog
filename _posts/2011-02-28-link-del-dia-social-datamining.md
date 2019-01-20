@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Social Datamining'
 author:
   display_name: Alpha

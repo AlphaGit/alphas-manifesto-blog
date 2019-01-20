@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Gerenciamiento difuso
 author:
   display_name: Alpha

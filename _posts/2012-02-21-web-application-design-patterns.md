@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Web Application Design Patterns
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: The Creation of a Conscious Machine
 author:
   display_name: Alpha

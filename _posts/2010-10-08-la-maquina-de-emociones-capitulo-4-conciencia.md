@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'La máquina de emociones - Capítulo 4: Conciencia'
 author:
   display_name: Alpha

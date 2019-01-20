@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Typography Deconstructed'
 author:
   display_name: Alpha

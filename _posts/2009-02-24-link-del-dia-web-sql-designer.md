@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Web SQL Designer'
 author:
   display_name: Alpha

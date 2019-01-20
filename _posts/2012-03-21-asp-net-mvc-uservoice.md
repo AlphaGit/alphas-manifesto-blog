@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: ASP.NET MVC UserVoice
 author:
   display_name: Alpha

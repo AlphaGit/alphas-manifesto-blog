@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Dealing with "unreasonable" clients
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Cómo corregir las distracciones'
 author:
   display_name: Alpha

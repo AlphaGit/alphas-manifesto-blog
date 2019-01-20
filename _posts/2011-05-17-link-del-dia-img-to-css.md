@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Img to CSS'
 author:
   display_name: Alpha

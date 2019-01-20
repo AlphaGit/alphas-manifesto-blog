@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Consejos para un no-programador
 author:
   display_name: Alpha

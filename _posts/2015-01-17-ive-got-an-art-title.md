@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: I've got an art degree!
 author:
   display_name: Alpha

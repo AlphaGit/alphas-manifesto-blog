@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the day: Open Source Project Management'
 author:
   display_name: Alpha

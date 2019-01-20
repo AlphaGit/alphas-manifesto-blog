@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Sinfonías algorítmicas'
 author:
   display_name: Alpha

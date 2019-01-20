@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: MakingSense blog
 author:
   display_name: Alpha

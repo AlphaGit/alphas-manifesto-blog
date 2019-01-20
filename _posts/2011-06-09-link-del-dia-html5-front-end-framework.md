@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: HTML5 Front End Framework'
 author:
   display_name: Alpha

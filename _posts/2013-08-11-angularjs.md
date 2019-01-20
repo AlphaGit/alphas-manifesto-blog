@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: AngularJS
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Universal Principles of Design
 author:
   display_name: Alpha

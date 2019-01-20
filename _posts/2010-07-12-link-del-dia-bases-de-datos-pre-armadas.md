@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Bases de datos pre-armadas'
 author:
   display_name: Alpha

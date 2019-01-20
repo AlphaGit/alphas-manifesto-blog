@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Licencias de software'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: " ¿Es el desarrollo de software un arte?"
 author:
   display_name: Alpha

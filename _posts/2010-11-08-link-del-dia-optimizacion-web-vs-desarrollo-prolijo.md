@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Optimización web vs. desarrollo prolijo'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Configuración de ManagedFusion.Rewriter como proxy reverso
 author:
   display_name: Alpha

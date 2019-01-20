@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Seminario ASP.NET con VS 2008
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Tener una web minimalista...
 author:
   display_name: Alpha

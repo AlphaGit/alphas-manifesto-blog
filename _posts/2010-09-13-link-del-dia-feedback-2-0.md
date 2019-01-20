@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Feedback 2.0'
 author:
   display_name: Alpha

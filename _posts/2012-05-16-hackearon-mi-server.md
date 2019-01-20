@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: '"Hackearon mi server"'
 author:
   display_name: Alpha

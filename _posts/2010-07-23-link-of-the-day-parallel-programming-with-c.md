@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the day: Parallel programming with C#'
 author:
   display_name: Alpha

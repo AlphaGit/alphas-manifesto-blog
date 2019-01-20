@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Jugando con la productividad
 author:
   display_name: Alpha

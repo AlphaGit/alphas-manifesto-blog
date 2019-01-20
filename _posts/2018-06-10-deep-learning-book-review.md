@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Deep Learning (book review)
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Naked password
 author:
   display_name: Alpha

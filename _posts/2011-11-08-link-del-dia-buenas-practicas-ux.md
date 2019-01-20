@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Buenas Prácticas UX'
 author:
   display_name: Alpha

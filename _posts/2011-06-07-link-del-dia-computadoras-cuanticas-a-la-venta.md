@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Computadoras cuánticas, a la venta'
 author:
   display_name: Alpha

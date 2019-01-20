@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Hacker Books'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: La transición a IPv6'
 author:
   display_name: Alpha

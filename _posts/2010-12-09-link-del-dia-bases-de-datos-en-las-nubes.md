@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Bases de datos en las nubes'
 author:
   display_name: Alpha

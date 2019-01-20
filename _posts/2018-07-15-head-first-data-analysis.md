@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Head First Data Analysis
 author:
   display_name: Alpha

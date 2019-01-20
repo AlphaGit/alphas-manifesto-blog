@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Selectores CSS4
 author:
   display_name: Alpha

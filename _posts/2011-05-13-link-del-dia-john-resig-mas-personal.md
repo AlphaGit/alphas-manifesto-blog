@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: John Resig, más personal'
 author:
   display_name: Alpha

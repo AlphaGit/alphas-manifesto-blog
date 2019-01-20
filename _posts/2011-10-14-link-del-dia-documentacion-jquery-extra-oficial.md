@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Documentación jQuery extra-oficial'
 author:
   display_name: Alpha

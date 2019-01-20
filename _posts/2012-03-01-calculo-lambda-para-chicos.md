@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Cálculo lambda para chicos
 author:
   display_name: Alpha

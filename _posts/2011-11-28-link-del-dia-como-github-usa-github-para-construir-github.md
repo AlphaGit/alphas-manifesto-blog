@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Cómo GitHub usa GitHub para construir GitHub'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Locura por los datos
 author:
   display_name: Alpha

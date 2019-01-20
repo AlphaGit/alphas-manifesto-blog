@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Consejos de base de datos'
 author:
   display_name: Alpha

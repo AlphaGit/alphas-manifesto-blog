@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Visualizar las estructuras'
 author:
   display_name: Alpha

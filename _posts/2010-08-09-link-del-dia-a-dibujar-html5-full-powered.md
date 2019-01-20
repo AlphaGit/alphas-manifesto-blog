@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: A dibujar, HTML5 full powered'
 author:
   display_name: Alpha

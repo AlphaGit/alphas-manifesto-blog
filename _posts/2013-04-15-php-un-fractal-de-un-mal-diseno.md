@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'PHP: Un fractal de mal diseño'
 author:
   display_name: Alpha

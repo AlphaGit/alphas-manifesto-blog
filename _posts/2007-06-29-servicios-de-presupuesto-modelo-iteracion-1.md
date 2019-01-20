@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Servicios de Presupuesto - Modelo Iteración 1
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Máquinas Virtuales'
 author:
   display_name: Alpha

@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Testability vs. simple design
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Linux en tu explorador'
 author:
   display_name: Alpha

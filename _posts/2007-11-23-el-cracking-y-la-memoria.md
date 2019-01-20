@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: El cracking y la memoria
 author:
   display_name: Alpha

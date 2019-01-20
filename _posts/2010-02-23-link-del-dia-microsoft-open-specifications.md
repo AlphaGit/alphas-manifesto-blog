@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Microsoft Open Specifications'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the day: Google Security'
 author:
   display_name: Alpha

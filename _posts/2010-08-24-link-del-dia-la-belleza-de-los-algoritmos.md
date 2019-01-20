@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: La belleza de los algoritmos'
 author:
   display_name: Alpha

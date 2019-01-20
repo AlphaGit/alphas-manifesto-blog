@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Code Katas
 author:
   display_name: Alpha

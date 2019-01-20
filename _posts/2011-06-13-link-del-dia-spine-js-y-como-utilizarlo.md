@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Spine.js y cómo utilizarlo'
 author:
   display_name: Alpha

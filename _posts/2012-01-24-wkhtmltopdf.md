@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: wkhtmltopdf
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the day: Mouse trace your visitors'
 author:
   display_name: Alpha

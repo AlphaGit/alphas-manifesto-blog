@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Some best practices for HTML Canvas
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the day: Google''s beggining & PageRank'
 author:
   display_name: Alpha

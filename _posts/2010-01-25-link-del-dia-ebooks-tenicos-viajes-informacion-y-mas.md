@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: eBooks ténicos, viajes, información y más'
 author:
   display_name: Alpha

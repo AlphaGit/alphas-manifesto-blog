@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Comentarios
 author:
   display_name: Alpha

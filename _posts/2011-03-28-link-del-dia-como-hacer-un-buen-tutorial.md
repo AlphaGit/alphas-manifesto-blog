@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Cómo hacer un buen tutorial'
 author:
   display_name: Alpha

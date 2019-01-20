@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Misceláneos del fin de semana
 author:
   display_name: Alpha

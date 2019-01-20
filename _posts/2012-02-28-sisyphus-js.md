@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Sisyphus.js
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: El castor ocupado'
 author:
   display_name: Alpha

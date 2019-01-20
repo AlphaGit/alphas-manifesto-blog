@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: La confianza por el equipo
 author:
   display_name: Alpha

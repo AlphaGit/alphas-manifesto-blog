@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Los favoritos
 author:
   display_name: Alpha

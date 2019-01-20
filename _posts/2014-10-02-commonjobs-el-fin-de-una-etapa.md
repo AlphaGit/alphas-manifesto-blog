@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'CommonJobs: el fin de una etapa'
 author:
   display_name: Alpha

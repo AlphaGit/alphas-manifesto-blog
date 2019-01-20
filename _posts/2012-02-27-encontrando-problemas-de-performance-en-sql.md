@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Encontrando problemas de performance en SQL
 author:
   display_name: Alpha

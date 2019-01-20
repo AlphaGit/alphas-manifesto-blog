@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Framework de Ingeniería Social'
 author:
   display_name: Alpha

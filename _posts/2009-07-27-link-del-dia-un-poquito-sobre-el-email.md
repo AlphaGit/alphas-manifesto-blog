@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Un poquito sobre el email'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Software de sincronización'
 author:
   display_name: Alpha

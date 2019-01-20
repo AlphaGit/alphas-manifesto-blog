@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Code review guidelines
 author:
   display_name: Alpha

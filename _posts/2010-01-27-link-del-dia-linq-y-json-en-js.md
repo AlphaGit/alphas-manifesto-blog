@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: LINQ y JSON en JS'
 author:
   display_name: Alpha

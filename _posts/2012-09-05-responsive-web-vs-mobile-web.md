@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Responsive Web vs. Mobile Web
 author:
   display_name: Alpha

@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: 'Preventing an AI arms race: open research'
 author:
   display_name: Alpha

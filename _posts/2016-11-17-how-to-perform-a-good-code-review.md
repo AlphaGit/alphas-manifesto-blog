@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: How to perform a good code review
 author:
   display_name: Alpha

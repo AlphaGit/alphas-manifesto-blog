@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: My experience with bullet journals
 author:
   display_name: Alpha

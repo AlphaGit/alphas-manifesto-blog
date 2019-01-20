@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Tabla periódica de HTML'
 author:
   display_name: Alpha

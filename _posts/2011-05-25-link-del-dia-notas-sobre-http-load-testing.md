@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Notas sobre HTTP Load testing'
 author:
   display_name: Alpha
