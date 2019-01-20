@@ -24,6 +24,14 @@ tags:
 - web development
 ---
 
+by Colin Cieloha from Skilled.co
+
+This is a guest post submitted by Colin Cieloha, who is an American author and content marketer at [Skilled.co](https://skilled.co/). He writes about everything that will draw his attention with a focus on the mobile and e-commerce space. When he is not writing he is spending his time traveling the globe and snowboarding. You can follow him on his Twitter at [@ColinCieloha](https://twitter.com/ColinCieloha) or on [Linkedin](https://www.linkedin.com/in/colin-cieloha-7a01ab55).
+
+His post focuses on performance tips regarding the use of HTML Canvas, and general best practices. Thanks Colin for this content!
+
+---
+
 So you&rsquo;ve started using your canvas cheat sheet to acclimatize yourself to all the various uses of the canvas element. In the beginning you were working on some simple 2D drawings and objects, but now you&rsquo;re looking to become proficient with the canvas element and see what it is capable of.
 
 Finding a set of best practices for the canvas element isn&rsquo;t always easy, since the element has been evolving for some time, and will continue to evolve. But there are a few great habits that have emerged which will help you achieve a higher level of efficiency with the element than you already have.
