@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Optimizar tu máquina, sin saber nada'
 author:

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link of the Day: How to effectively take notes in a meeting / course'
 author:

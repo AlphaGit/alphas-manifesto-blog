@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Front-end code standards
 author:

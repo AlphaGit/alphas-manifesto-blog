@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Web Application Design Patterns
 author:

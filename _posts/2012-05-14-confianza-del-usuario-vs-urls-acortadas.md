@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: " ¿Confianza del usuario vs. URLs acortadas?"
 author:

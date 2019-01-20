@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: OCR con Redes Neuronales en MatLab
 author:

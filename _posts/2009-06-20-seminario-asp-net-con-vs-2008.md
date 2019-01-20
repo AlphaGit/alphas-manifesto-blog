@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Seminario ASP.NET con VS 2008
 author:

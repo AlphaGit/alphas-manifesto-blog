@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Metro UI design guidelines
 author:

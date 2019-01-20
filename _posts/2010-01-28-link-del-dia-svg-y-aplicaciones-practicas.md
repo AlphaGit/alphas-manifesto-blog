@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: SVG y aplicaciones prácticas'
 author:

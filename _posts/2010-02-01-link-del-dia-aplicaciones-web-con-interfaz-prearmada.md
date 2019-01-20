@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Aplicaciones web, con interfaz prearmada'
 author:

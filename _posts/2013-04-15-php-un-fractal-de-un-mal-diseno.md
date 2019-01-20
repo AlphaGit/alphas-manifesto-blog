@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'PHP: Un fractal de mal diseño'
 author:

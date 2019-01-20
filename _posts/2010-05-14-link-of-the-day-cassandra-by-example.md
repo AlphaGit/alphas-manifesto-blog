@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link of the Day: Cassandra by example'
 author:

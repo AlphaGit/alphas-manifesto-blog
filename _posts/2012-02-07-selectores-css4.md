@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Selectores CSS4
 author:

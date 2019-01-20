@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Misceláneos del fin de semana
 author:

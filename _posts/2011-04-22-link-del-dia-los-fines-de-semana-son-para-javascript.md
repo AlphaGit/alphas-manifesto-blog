@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Los fines de semana son para JavaScript'
 author:

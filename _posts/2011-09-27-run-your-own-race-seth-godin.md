@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: '"Run your own race" (Seth Godin)'
 author:

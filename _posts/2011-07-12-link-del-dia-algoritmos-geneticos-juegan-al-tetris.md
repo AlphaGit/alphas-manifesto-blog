@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Algoritmos genéticos juegan al Tetris'
 author:

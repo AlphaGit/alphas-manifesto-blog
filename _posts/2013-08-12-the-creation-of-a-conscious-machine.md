@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: The Creation of a Conscious Machine
 author:

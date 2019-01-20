@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Algunas reseñas de libros
 author:

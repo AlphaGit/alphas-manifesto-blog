@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Mobile:  ¿Web o lenguajes nativos?'
 author:

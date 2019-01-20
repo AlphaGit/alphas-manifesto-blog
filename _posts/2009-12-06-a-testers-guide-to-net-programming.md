@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: A Tester's Guide to .NET Programming
 author:

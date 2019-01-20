@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-status: publish
 published: true
 title: Ciencia de datos ágil
 author:

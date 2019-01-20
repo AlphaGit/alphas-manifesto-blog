@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Servicios de Presupuesto - Modelo Iteración 1
 author:

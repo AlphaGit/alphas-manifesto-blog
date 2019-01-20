@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Análisis de la Batalla Naval
 author:

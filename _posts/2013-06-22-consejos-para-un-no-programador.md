@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Consejos para un no-programador
 author:

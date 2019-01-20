@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: La clave de una presentación: la sorpresa'
 author:

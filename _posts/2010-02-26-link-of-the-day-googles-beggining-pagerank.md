@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link of the day: Google''s beggining & PageRank'
 author:

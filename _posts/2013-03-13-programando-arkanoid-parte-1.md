@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Programando Arkanoid - Parte 1
 author:

@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-status: publish
 published: true
 title: Faceted searches with MongoDB and mongoose
 author:

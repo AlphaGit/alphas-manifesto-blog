@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: " ¿Por qué distintos dominios para recursos estáticos?"
 author:

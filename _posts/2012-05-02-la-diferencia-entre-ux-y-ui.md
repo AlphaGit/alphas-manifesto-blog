@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: La diferencia entre UX y UI
 author:

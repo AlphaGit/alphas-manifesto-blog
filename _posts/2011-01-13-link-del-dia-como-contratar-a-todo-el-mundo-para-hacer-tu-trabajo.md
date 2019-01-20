@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Cómo contratar a todo el mundo para hacer tu trabajo'
 author:

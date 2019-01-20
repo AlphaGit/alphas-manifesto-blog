@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Mitigando ataques de ingeniería social
 author:

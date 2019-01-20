@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 'Link del día: Gráficos para tu web, Flash + HTML5'
 author:

@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Problemas con el feed
 author:

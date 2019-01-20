@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: 22 herramientas para probar usabilidad
 author:

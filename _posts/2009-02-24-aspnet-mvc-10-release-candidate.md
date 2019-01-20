@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: ASP.NET MVC 1.0 Release Candidate
 author:

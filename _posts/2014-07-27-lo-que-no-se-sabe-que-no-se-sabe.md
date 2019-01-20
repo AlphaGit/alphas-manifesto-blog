@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Lo que no se sabe que no se sabe
 author:

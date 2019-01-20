@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Auriculares y conversores digitales-analógicos
 author:

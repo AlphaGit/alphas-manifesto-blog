@@ -1,6 +1,5 @@
 ---
 layout: post
-status: publish
 published: true
 title: Validating for real alphabetic
 author:
