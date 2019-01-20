@@ -7,6 +7,8 @@ timezone: America/Toronto
 author:
   name: Juan Diego Raimondi
   twitter: AlphasManifesto
+  email: raimondijuan@gmail.com
+  picture: /images/avatarJD.jpg
 
 read_time: true
 words_per_minute: 150
