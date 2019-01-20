@@ -14,7 +14,6 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=3818
 date: '2012-04-25 02:03:02 +0000'
 date_gmt: '2012-04-25 07:03:02 +0000'
 categories:
-- Películas
 - Technology
 tags:
 - Technology

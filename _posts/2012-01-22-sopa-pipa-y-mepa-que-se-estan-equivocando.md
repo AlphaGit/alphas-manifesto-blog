@@ -15,7 +15,6 @@ date: '2012-01-22 00:16:44 +0000'
 date_gmt: '2012-01-22 05:16:44 +0000'
 categories:
 - Miscelaneous
-- Manifiestos
 tags:
 - creatividad
 - open source

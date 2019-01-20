@@ -15,9 +15,6 @@ date: '2014-07-27 11:14:43 +0000'
 date_gmt: '2014-07-27 16:14:43 +0000'
 categories:
 - Miscelaneous
-- Life
-- Videos
-- Tumblr
 tags:
 - Youtube
 - ciencia

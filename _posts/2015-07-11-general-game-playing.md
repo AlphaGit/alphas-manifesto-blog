@@ -15,9 +15,7 @@ wordpress_url: http://blog.alphasmanifesto.com/?p=5298
 date: '2015-07-11 15:41:41 +0000'
 date_gmt: '2015-07-11 20:41:41 +0000'
 categories:
-- Juegos
-- Projects
-- Technology
+- AI
 tags:
 - Stanford
 - general game playing

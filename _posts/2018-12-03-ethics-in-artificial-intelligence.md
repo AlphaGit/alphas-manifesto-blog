@@ -1,7 +1,7 @@
 ---
 title: Ethics in Artificial Intelligence
 categories:
-- ai
+- AI
 tags:
 - artificial intelligence
 - ethics
