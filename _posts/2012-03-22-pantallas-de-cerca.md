@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Pantallas, de cerca
 author:
   display_name: Alpha

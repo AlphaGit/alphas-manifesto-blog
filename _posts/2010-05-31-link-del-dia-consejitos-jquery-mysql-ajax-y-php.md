@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Consejitos jQuery, MySQL, AJAX y PHP'
 author:
   display_name: Alpha

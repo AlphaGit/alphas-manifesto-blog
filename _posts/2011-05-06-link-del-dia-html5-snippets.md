@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: HTML5 Snippets'
 author:
   display_name: Alpha

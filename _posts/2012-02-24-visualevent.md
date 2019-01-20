@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: VisualEvent
 author:
   display_name: Alpha

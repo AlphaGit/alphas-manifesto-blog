@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Autenticación cognoscitiva
 author:
   display_name: Alpha

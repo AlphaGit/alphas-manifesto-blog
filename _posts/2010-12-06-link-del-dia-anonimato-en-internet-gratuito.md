@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Anonimato en internet gratuito'
 author:
   display_name: Alpha

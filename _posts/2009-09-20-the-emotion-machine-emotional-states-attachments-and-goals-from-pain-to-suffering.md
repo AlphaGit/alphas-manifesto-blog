@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'The Emotion Machine: Emotional States, Attachments and Goals, From Pain to
   Suffering'
 author:

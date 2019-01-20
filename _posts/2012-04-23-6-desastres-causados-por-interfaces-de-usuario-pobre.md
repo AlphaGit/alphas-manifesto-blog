@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 6 desastres causados por interfaces de usuario pobre
 author:
   display_name: Alpha

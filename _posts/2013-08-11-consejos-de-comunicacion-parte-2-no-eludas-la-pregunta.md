@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Consejos de comunicación, parte 2: No eludas la pregunta'
 author:
   display_name: Alpha

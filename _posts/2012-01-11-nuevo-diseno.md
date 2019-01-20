@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: "¡Nuevo diseño!"
 author:
   display_name: Alpha

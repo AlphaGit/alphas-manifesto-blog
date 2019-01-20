@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: A Tester's Guide to .NET Programming
 author:
   display_name: Alpha

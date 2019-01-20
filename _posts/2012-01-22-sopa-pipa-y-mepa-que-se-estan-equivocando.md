@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: SOPA, PIPA, y MEPA que se están equivocando
 author:
   display_name: Alpha

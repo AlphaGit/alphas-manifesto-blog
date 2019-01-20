@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Software libre y gratuito para todo'
 author:
   display_name: Alpha

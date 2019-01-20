@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Lineamientos de seguridad'
 author:
   display_name: Alpha

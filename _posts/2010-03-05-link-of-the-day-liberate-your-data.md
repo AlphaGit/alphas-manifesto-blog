@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the Day: Liberate your data!'
 author:
   display_name: Alpha

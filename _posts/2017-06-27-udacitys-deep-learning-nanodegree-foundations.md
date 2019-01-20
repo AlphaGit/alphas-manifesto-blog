@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Udacity's Deep Learning Nanodegree Foundations
 author:
   display_name: Alpha

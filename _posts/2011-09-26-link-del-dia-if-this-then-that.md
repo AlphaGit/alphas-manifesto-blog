@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: If This Then That'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: CSS Dinámico
 author:
   display_name: Alpha

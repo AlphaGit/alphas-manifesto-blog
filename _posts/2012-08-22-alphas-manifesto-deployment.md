@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Alpha's Manifesto deployment
 author:
   display_name: Alpha

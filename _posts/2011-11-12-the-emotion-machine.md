@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: The Emotion Machine
 author:
   display_name: Alpha

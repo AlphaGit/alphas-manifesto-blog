@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Algunas reseñas de libros
 author:
   display_name: Alpha

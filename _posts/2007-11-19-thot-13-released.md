@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Thot 1.3 Released
 author:
   display_name: Alpha

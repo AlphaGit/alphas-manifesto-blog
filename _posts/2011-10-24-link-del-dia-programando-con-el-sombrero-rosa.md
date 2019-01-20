@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Programando con el sombrero rosa'
 author:
   display_name: Alpha

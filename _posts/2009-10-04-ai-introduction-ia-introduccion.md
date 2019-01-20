@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'AI: Introduction | IA: Introducción'
 author:
   display_name: Alpha

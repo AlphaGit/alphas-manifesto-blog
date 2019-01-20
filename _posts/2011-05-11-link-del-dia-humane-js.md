@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Humane.js'
 author:
   display_name: Alpha

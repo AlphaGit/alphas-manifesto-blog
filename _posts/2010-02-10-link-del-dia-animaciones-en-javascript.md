@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Animaciones en JavaScript'
 author:
   display_name: Alpha

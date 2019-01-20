@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Adapt.js'
 author:
   display_name: Alpha

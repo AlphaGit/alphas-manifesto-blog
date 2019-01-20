@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: " ¿Qué loggear de los usuarios?"
 author:
   display_name: Alpha

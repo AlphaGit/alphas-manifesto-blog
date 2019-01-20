@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Métricas de code review
 author:
   display_name: Alpha

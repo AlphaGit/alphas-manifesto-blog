@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: AngularJS'
 author:
   display_name: Alpha

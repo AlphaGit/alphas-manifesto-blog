@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'The Emotion Machine - Chapter 4: Consciousness'
 author:
   display_name: Alpha

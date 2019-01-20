@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Generación de código'
 author:
   display_name: Alpha

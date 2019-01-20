@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: HtmlUnit en .NET
 author:
   display_name: Alpha

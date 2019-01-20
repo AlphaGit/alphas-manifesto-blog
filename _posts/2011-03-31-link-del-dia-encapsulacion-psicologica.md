@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Encapsulación psicológica'
 author:
   display_name: Alpha

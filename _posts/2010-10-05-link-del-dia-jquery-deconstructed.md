@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: jQuery deconstructed'
 author:
   display_name: Alpha

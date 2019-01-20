@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Proyectos ágiles de verdad'
 author:
   display_name: Alpha

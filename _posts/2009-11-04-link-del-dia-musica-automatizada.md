@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Música automatizada'
 author:
   display_name: Alpha

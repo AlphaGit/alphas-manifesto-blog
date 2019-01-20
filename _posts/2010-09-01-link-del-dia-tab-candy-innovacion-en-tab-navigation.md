@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Tab Candy, innovación en tab navigation'
 author:
   display_name: Alpha

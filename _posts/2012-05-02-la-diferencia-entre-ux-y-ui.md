@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: La diferencia entre UX y UI
 author:
   display_name: Alpha

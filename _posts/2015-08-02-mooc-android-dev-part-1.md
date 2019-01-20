@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: 'MOOC: Android Dev Part 1'
 author:
   display_name: Alpha

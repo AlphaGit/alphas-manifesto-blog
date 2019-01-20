@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Análisis forense'
 author:
   display_name: Alpha

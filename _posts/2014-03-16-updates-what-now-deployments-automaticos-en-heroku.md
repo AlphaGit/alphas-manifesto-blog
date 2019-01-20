@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Updates what-now: deployments automáticos en Heroku'
 author:
   display_name: Alpha

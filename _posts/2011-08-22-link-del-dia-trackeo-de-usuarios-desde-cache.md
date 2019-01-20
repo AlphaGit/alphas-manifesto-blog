@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Trackeo de usuarios, desde caché'
 author:
   display_name: Alpha

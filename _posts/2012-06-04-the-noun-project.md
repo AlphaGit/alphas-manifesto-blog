@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: The Noun Project
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: URLs cortas de verdad'
 author:
   display_name: Alpha

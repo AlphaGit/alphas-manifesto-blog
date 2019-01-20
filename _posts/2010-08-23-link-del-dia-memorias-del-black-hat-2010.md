@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Memorias del Black Hat 2010'
 author:
   display_name: Alpha

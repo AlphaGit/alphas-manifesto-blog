@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: 100 formas de hacer que las cosas se hagan'
 author:
   display_name: Alpha

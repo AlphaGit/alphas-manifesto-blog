@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: ng-pattern-restrict
 author:
   display_name: Alpha

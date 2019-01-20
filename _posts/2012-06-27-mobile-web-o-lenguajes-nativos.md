@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Mobile:  ¿Web o lenguajes nativos?'
 author:
   display_name: Alpha

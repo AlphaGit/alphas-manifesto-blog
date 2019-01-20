@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Plataformas de Cloud presentes y por venir'
 author:
   display_name: Alpha

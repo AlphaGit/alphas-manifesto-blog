@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Bytecode for Dummies'
 author:
   display_name: Alpha

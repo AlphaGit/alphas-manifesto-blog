@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Arquitectura Modular JavaScript'
 author:
   display_name: Alpha

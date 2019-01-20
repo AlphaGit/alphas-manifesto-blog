@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: CSS3 para navegadores viejos'
 author:
   display_name: Alpha

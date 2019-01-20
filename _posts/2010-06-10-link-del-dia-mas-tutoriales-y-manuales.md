@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Más tutoriales y manuales'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: " ¿Google Calendar para manejo de tareas?"
 author:
   display_name: Alpha

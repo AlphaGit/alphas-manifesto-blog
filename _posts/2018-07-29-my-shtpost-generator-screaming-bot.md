@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: 'My sh*tpost generator: screaming-bot'
 author:
   display_name: Alpha

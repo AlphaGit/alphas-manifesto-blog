@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: " ¿Por qué distintos dominios para recursos estáticos?"
 author:
   display_name: Alpha

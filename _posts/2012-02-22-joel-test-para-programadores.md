@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Joel Test para programadores
 author:
   display_name: Alpha

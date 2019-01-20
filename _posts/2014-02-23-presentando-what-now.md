@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Presentando: What now?'
 author:
   display_name: Alpha

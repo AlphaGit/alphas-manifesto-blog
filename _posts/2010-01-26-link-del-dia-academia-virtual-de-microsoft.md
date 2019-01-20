@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Academia Virtual de Microsoft'
 author:
   display_name: Alpha

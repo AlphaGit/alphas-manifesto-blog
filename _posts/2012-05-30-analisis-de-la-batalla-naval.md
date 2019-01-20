@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Análisis de la Batalla Naval
 author:
   display_name: Alpha

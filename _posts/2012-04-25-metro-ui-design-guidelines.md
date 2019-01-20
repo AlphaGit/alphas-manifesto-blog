@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Metro UI design guidelines
 author:
   display_name: Alpha

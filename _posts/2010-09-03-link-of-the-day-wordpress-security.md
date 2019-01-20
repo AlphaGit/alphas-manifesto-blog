@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the day: WordPress security'
 author:
   display_name: Alpha

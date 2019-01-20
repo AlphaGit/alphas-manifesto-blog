@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: BohemianRhapsody.cs
 author:
   display_name: Alpha

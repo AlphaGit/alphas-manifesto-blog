@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Multiversiones IE'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: JavaScript IDE para iPhone'
 author:
   display_name: Alpha

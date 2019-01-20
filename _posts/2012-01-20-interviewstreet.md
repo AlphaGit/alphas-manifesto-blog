@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Interviewstreet
 author:
   display_name: Alpha

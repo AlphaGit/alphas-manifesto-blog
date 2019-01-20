@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: El juego del test-driven-design'
 author:
   display_name: Alpha

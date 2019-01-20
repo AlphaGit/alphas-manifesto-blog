@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: La ciencia de la actualización'
 author:
   display_name: Alpha

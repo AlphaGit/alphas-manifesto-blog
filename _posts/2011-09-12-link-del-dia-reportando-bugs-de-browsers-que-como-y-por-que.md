@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Reportando bugs de browsers: qué, cómo
   y por qué'
 author:

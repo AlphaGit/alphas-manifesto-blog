@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: La usabilidad ha muerto!'
 author:
   display_name: Alpha

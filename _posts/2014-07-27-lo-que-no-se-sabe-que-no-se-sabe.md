@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Lo que no se sabe que no se sabe
 author:
   display_name: Alpha

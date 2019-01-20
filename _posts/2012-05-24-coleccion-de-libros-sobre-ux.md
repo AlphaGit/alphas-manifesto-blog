@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Colección de libros sobre UX
 author:
   display_name: Alpha

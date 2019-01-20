@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Crear sitios de SharePoint programáticamente
 author:
   display_name: Alpha

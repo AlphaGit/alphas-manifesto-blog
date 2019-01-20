@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: OCR con Redes Neuronales en MatLab
 author:
   display_name: Alpha

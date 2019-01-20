@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Patrones CSS3'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Mobile UI Patterns
 author:
   display_name: Alpha

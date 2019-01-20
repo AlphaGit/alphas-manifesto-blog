@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Correlation &ne; causation
 author:
   display_name: Alpha

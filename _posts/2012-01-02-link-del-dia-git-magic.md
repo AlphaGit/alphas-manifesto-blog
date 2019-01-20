@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Git Magic'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Condiciones OR en REST
 author:
   display_name: Alpha

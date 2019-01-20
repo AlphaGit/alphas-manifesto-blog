@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Comentarios sobre The State of Responsive Web Design
 author:
   display_name: Alpha

@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Technical Leaders **must** write code
 author:
   display_name: Alpha

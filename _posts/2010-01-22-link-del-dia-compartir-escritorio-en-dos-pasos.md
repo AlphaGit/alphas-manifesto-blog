@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Compartir escritorio en dos pasos'
 author:
   display_name: Alpha

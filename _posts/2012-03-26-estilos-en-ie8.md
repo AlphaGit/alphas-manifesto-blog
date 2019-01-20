@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Estilos en IE8-
 author:
   display_name: Alpha

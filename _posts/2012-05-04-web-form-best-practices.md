@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Web Form Best Practices
 author:
   display_name: Alpha

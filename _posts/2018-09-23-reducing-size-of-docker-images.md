@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Reducing size of Docker images
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'ASP.NET: Transfiriendo información entre páginas'
 author:
   display_name: Alpha

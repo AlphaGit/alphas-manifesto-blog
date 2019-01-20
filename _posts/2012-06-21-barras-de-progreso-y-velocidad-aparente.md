@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Barras de progreso y velocidad aparente
 author:
   display_name: Alpha

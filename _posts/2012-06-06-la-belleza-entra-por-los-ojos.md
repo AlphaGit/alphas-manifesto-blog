@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: La belleza entra por los ojos
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Sálvenos del REST!
 author:
   display_name: Alpha

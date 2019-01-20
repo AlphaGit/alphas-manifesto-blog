@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Cómo atacar un problema de performance'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Consejos de comunicación, parte 1: Palabras clave'
 author:
   display_name: Alpha

@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Failed experiments and what I've learned from them
 author:
   display_name: Alpha

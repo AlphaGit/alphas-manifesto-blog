@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: '"Run your own race" (Seth Godin)'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Performance HTML5, CSS3 y DOM, Parte 2: Performance HTML5'
 author:
   display_name: Alpha

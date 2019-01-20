@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día:  ¿Qué es el A/B Testing?'
 author:
   display_name: Alpha

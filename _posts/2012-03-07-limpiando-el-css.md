@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Limpiando el CSS
 author:
   display_name: Alpha

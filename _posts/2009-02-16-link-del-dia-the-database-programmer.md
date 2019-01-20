@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: The Database Programmer'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Backbone.js
 author:
   display_name: Alpha

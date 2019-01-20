@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Gráficos con Google'
 author:
   display_name: Alpha

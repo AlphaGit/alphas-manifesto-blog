@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Lavé mi pendrive
 author:
   display_name: Alpha

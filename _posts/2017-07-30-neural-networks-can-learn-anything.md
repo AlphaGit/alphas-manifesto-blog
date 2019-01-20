@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Neural Networks can learn anything
 author:
   display_name: Alpha

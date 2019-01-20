@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Cómo uso Trello para trabajar
 author:
   display_name: Alpha

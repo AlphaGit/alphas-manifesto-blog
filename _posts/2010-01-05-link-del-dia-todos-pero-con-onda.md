@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: TODOs pero con onda'
 author:
   display_name: Alpha

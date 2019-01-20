@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Combres, optimización ASP.NET'
 author:
   display_name: Alpha

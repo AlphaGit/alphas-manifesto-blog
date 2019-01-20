@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Qué debería saber todo programador JavaScript'
 author:
   display_name: Alpha

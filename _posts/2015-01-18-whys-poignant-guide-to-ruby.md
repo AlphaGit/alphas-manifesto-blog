@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Why's (poignant) guide to Ruby
 author:
   display_name: Alpha

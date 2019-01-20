@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Nuevas clases en Udacity
 author:
   display_name: Alpha

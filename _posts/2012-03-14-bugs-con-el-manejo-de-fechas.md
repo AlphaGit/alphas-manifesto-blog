@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Bugs con el manejo de fechas
 author:
   display_name: Alpha

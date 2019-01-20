@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Aprovechar las entidades HTML'
 author:
   display_name: Alpha

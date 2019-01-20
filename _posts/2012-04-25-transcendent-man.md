@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Transcendent Man
 author:
   display_name: Alpha

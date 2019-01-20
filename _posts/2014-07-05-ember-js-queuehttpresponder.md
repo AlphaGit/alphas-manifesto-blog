@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Ember.js: queueHttpResponder'
 author:
   display_name: Alpha

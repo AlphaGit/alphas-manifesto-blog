@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Programando Arkanoid - Parte 1
 author:
   display_name: Alpha

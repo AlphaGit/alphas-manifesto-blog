@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: The Clean Coder
 author:
   display_name: Alpha

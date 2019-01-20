@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: The Hello World Collection'
 author:
   display_name: Alpha

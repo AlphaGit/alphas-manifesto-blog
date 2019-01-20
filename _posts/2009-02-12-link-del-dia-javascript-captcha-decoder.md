@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Javascript CAPTCHA Decoder'
 author:
   display_name: Alpha

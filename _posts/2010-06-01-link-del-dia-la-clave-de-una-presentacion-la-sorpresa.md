@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: La clave de una presentación: la sorpresa'
 author:
   display_name: Alpha

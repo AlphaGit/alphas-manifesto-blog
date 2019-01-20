@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Principios Universales del Diseño
 author:
   display_name: Alpha

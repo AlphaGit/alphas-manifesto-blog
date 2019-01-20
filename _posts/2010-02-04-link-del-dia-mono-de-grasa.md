@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Mono de grasa'
 author:
   display_name: Alpha

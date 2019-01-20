@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Validating for real alphabetic
 author:
   display_name: Alpha

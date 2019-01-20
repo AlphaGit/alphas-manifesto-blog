@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Trucos de consola de Chrome'
 author:
   display_name: Alpha

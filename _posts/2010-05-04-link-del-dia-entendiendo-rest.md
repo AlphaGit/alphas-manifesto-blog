@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Entendiendo REST'
 author:
   display_name: Alpha

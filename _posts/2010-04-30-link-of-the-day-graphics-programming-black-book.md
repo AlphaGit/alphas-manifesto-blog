@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the day: Graphics Programming Black Book'
 author:
   display_name: Alpha

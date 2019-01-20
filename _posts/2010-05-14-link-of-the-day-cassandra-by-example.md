@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link of the Day: Cassandra by example'
 author:
   display_name: Alpha

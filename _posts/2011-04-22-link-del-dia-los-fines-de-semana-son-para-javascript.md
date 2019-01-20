@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Los fines de semana son para JavaScript'
 author:
   display_name: Alpha

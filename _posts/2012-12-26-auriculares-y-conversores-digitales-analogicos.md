@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Auriculares y conversores digitales-analógicos
 author:
   display_name: Alpha

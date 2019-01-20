@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Doppler Reports (Español)
 author:
   display_name: Alpha

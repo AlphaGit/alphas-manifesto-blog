@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Qué recuerdan los usuarios de tu sitio?'
 author:
   display_name: Alpha

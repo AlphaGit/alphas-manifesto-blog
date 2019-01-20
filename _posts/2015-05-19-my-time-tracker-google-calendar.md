@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: 'My time tracker: Google Calendar'
 author:
   display_name: Alpha

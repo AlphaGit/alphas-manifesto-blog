@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: A Novice's Introduction to Data Science
 author:
   display_name: Alpha

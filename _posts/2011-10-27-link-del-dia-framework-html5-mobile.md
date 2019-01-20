@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Framework HTML5 Mobile'
 author:
   display_name: Alpha

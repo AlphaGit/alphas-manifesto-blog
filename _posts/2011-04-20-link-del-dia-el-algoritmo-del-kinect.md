@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: El algoritmo del Kinect'
 author:
   display_name: Alpha

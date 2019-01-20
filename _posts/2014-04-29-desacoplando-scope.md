@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Desacoplando $scope
 author:
   display_name: Alpha

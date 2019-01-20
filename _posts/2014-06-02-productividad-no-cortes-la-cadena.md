@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Productividad: no cortes la cadena'
 author:
   display_name: Alpha

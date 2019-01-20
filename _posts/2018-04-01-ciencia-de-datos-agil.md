@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Ciencia de datos ágil
 author:
   display_name: Alpha

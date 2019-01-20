@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Mitigando ataques de ingeniería social
 author:
   display_name: Alpha

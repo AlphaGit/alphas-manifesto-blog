@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Unicode Table For You'
 author:
   display_name: Alpha

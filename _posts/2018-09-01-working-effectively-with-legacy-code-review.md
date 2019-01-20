@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: Working effectively with legacy code (review)
 author:
   display_name: Alpha

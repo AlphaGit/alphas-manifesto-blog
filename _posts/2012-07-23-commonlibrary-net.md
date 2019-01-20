@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: CommonLibrary.NET
 author:
   display_name: Alpha

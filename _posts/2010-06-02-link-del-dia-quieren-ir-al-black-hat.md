@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Quieren ir al Black Hat?'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Tareas para publicar un website'
 author:
   display_name: Alpha

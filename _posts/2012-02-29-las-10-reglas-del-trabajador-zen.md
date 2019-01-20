@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Las 10 reglas del trabajador Zen
 author:
   display_name: Alpha

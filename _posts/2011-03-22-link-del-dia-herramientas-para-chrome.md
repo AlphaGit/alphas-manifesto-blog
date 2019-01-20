@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Herramientas para Chrome'
 author:
   display_name: Alpha

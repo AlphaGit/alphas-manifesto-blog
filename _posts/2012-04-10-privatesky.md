@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: PrivateSky
 author:
   display_name: Alpha

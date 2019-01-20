@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Laboratorio de Seguridad'
 author:
   display_name: Alpha

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Problemas con el feed
 author:
   display_name: Alpha

@@ -1,7 +1,6 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-published: true
 title: How to create a good pull request
 author:
   display_name: Alpha

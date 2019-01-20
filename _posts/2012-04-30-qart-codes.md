@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: QArt Codes
 author:
   display_name: Alpha

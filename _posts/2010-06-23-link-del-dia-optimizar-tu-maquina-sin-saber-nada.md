@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: 'Link del día: Optimizar tu máquina, sin saber nada'
 author:
   display_name: Alpha
