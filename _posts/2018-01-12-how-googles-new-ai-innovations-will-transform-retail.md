@@ -4,8 +4,13 @@ excerpt_separator: <!--more-->
 title: How Google&rsquo;s New AI Innovations Will Transform Retail
 author:
   name: Rae Steinbach
-  twitter: araesininthesun
-  url: https://ymedialabs.com/
+  links:
+    - title: Twitter
+      url: https://twitter.com/araesininthesun
+      icon: fab fa-twitter
+    - title: Y Media Labs
+      url: https://ymedialabs.com/
+      icon: fab fa-link
 date: '2018-01-12 20:19:58 +0000'
 date_gmt: '2018-01-13 01:19:58 +0000'
 categories:
