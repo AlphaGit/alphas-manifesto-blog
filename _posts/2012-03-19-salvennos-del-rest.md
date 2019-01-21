@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sálvenos del REST!
-wordpress_url: http://blog.alphasmanifesto.com/?p=3722
 date: '2012-03-19 13:25:02 +0000'
 date_gmt: '2012-03-19 18:25:02 +0000'
 categories:

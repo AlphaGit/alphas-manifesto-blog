@@ -1,7 +1,6 @@
 ---
 layout: post
 title: La diferencia entre UX y UI
-wordpress_url: http://blog.alphasmanifesto.com/?p=3852
 date: '2012-05-02 10:48:42 +0000'
 date_gmt: '2012-05-02 15:48:42 +0000'
 categories:

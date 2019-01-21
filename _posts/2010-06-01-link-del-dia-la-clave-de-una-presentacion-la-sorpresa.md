@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: La clave de una presentación: la sorpresa'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2143
 date: '2010-06-01 11:03:07 +0000'
 date_gmt: '2010-06-01 13:03:07 +0000'
 categories:

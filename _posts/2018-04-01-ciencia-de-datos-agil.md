@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Ciencia de datos ágil
-wordpress_url: https://blog.alphasmanifesto.com/?p=6471
 date: '2018-04-01 11:48:41 +0000'
 date_gmt: '2018-04-01 15:48:41 +0000'
 categories:

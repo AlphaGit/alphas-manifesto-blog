@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Chrome Inspector'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1646
 date: '2009-11-25 11:30:32 +0000'
 date_gmt: '2009-11-25 13:30:32 +0000'
 categories:

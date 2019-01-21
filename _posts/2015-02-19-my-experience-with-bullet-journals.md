@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: My experience with bullet journals
-wordpress_url: http://blog.alphasmanifesto.com/?p=5256
 date: '2015-02-19 17:35:46 +0000'
 date_gmt: '2015-02-19 23:35:46 +0000'
 categories:

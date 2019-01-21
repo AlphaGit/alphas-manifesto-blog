@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Qué recuerdan los usuarios de tu sitio?'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2571
 date: '2010-10-04 11:28:06 +0000'
 date_gmt: '2010-10-04 13:28:06 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Noun Project
-wordpress_url: http://blog.alphasmanifesto.com/?p=3943
 date: '2012-06-04 08:50:43 +0000'
 date_gmt: '2012-06-04 13:50:43 +0000'
 categories:

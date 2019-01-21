@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Procedurally speaking...'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2513
 date: '2010-09-10 10:51:26 +0000'
 date_gmt: '2010-09-10 12:51:26 +0000'
 categories:

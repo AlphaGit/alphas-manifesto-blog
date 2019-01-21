@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Encapsulación psicológica'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2876
 date: '2011-03-31 13:15:46 +0000'
 date_gmt: '2011-03-31 15:15:46 +0000'
 categories:

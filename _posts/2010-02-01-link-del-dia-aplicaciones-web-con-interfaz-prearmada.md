@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Aplicaciones web, con interfaz prearmada'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1822
 date: '2010-02-01 13:43:43 +0000'
 date_gmt: '2010-02-01 15:43:43 +0000'
 categories:

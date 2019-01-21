@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Metro UI design guidelines
-wordpress_url: http://blog.alphasmanifesto.com/?p=3826
 date: '2012-04-25 10:35:00 +0000'
 date_gmt: '2012-04-25 15:35:00 +0000'
 categories:

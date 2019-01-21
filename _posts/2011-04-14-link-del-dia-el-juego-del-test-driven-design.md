@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: El juego del test-driven-design'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2894
 date: '2011-04-14 02:11:00 +0000'
 date_gmt: '2011-04-14 04:11:00 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Lineamientos de seguridad'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3309
 date: '2011-10-05 09:45:49 +0000'
 date_gmt: '2011-10-05 14:45:49 +0000'
 categories:

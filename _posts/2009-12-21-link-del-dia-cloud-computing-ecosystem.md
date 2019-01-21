@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cloud Computing Ecosystem'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1708
 date: '2009-12-21 11:17:08 +0000'
 date_gmt: '2009-12-21 13:17:08 +0000'
 categories:

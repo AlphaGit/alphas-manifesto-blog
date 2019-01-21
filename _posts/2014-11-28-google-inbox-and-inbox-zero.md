@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Google Inbox and Inbox Zero
-wordpress_url: http://blog.alphasmanifesto.com/?p=5193
 date: '2014-11-28 18:53:10 +0000'
 date_gmt: '2014-11-28 23:53:10 +0000'
 categories:

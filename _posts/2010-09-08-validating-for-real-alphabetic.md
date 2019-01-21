@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Validating for real alphabetic
-wordpress_url: http://blog.alphasmanifesto.com/?p=2506
 date: '2010-09-08 15:50:14 +0000'
 date_gmt: '2010-09-08 17:50:14 +0000'
 categories:

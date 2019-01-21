@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Go'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1620
 date: '2009-11-12 11:04:37 +0000'
 date_gmt: '2009-11-12 13:04:37 +0000'
 categories:

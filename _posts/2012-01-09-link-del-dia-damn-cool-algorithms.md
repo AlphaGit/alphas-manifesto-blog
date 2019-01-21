@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Damn Cool Algorithms'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3453
 date: '2012-01-09 18:30:52 +0000'
 date_gmt: '2012-01-09 23:30:52 +0000'
 categories:

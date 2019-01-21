@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Amar al proxy-mo
-wordpress_url: http://blog.alphasmanifesto.com/?p=4968
 date: '2013-10-13 18:01:45 +0000'
 date_gmt: '2013-10-13 23:01:45 +0000'
 categories:

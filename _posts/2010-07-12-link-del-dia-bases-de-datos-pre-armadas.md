@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Bases de datos pre-armadas'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2214
 date: '2010-07-12 10:13:30 +0000'
 date_gmt: '2010-07-12 12:13:30 +0000'
 categories:

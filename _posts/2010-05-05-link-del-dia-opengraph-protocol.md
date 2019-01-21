@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: OpenGraph Protocol'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2094
 date: '2010-05-05 09:51:33 +0000'
 date_gmt: '2010-05-05 11:51:33 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML Code Quality'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3221
 date: '2011-08-25 12:26:20 +0000'
 date_gmt: '2011-08-25 14:26:20 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Img to CSS'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2992
 date: '2011-05-17 12:15:51 +0000'
 date_gmt: '2011-05-17 14:15:51 +0000'
 categories:

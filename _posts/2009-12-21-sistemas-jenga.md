@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sistemas Jenga
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1711
 date: '2009-12-21 19:20:09 +0000'
 date_gmt: '2009-12-21 21:20:09 +0000'
 categories:

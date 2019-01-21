@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ASP.NET MVC UserVoice
-wordpress_url: http://blog.alphasmanifesto.com/?p=3727
 date: '2012-03-21 11:09:18 +0000'
 date_gmt: '2012-03-21 16:09:18 +0000'
 categories:

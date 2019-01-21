@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Música automatizada'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1603
 date: '2009-11-04 18:19:49 +0000'
 date_gmt: '2009-11-04 20:19:49 +0000'
 categories:

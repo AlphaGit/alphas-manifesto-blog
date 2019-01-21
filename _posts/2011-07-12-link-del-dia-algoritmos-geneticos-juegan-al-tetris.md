@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Algoritmos genéticos juegan al Tetris'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3119
 date: '2011-07-12 13:24:24 +0000'
 date_gmt: '2011-07-12 15:24:24 +0000'
 categories:

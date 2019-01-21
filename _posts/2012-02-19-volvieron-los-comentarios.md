@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "¡Volvieron los comentarios!"
-wordpress_url: http://blog.alphasmanifesto.com/?p=3634
 date: '2012-02-19 20:18:56 +0000'
 date_gmt: '2012-02-20 01:18:56 +0000'
 categories:

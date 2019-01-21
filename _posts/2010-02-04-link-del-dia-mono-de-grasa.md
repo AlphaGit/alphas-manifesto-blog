@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Mono de grasa'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1836
 date: '2010-02-04 11:20:45 +0000'
 date_gmt: '2010-02-04 13:20:45 +0000'
 categories:

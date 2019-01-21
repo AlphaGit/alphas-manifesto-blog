@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VisualEvent
-wordpress_url: http://blog.alphasmanifesto.com/?p=3655
 date: '2012-02-24 10:59:23 +0000'
 date_gmt: '2012-02-24 15:59:23 +0000'
 categories:

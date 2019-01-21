@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Live.js'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2897
 date: '2011-04-15 12:50:04 +0000'
 date_gmt: '2011-04-15 14:50:04 +0000'
 categories:

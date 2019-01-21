@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bugs con el manejo de fechas
-wordpress_url: http://blog.alphasmanifesto.com/?p=3718
 date: '2012-03-14 08:56:58 +0000'
 date_gmt: '2012-03-14 13:56:58 +0000'
 categories:

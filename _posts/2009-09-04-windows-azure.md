@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Windows Azure
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1469
 date: '2009-09-04 22:01:57 +0000'
 date_gmt: '2009-09-05 00:01:57 +0000'
 categories:

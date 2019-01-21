@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: 1, 2, 3... Regex!'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2203
 date: '2010-07-06 10:22:28 +0000'
 date_gmt: '2010-07-06 12:22:28 +0000'
 categories:

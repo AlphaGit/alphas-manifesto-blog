@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LinkedIn APIs T&Cs y legalidad
-wordpress_url: http://blog.alphasmanifesto.com/?p=4007
 date: '2012-06-23 18:20:28 +0000'
 date_gmt: '2012-06-23 23:20:28 +0000'
 categories:

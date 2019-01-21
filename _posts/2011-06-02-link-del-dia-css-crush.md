@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: CSS Crush'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3026
 date: '2011-06-02 11:28:29 +0000'
 date_gmt: '2011-06-02 13:28:29 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Seminario ASP.NET con VS 2008
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1307
 date: '2009-06-20 21:46:36 +0000'
 date_gmt: '2009-06-20 23:46:36 +0000'
 categories:

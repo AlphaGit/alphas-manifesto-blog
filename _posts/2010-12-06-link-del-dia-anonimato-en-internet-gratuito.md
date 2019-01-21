@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Anonimato en internet gratuito'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2701
 date: '2010-12-06 11:10:04 +0000'
 date_gmt: '2010-12-06 13:10:04 +0000'
 categories:

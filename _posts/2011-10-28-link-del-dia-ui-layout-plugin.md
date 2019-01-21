@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: UI Layout Plugin'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3347
 date: '2011-10-28 10:36:51 +0000'
 date_gmt: '2011-10-28 15:36:51 +0000'
 categories:

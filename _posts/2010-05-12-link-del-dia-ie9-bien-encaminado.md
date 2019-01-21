@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: IE9, bien encaminado'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2109
 date: '2010-05-12 10:46:22 +0000'
 date_gmt: '2010-05-12 12:46:22 +0000'
 categories:

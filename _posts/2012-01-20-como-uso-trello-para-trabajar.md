@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Cómo uso Trello para trabajar
-wordpress_url: http://blog.alphasmanifesto.com/?p=3508
 date: '2012-01-20 18:31:00 +0000'
 date_gmt: '2012-01-20 23:31:00 +0000'
 categories:

@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: How to perform a good code review
-wordpress_url: https://blog.alphasmanifesto.com/?p=5613
 date: '2016-11-17 14:23:22 +0000'
 date_gmt: '2016-11-17 20:23:22 +0000'
 categories:

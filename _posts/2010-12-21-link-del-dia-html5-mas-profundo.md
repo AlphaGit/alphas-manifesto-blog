@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML5 más profundo'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2733
 date: '2010-12-21 13:41:27 +0000'
 date_gmt: '2010-12-21 15:41:27 +0000'
 categories:

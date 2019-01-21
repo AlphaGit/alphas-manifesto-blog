@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: 'ATPS: Angular, Protractor, Travis, SauceLabs'
-wordpress_url: http://blog.alphasmanifesto.com/?p=5322
 date: '2015-09-06 14:01:23 +0000'
 date_gmt: '2015-09-06 19:01:23 +0000'
 categories:

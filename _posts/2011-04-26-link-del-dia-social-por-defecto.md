@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Social por defecto'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2918
 date: '2011-04-26 22:10:24 +0000'
 date_gmt: '2011-04-27 00:10:24 +0000'
 categories:

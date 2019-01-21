@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'AI: Introduction | IA: Introducción'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1534
 date: '2009-10-04 03:43:17 +0000'
 date_gmt: '2009-10-04 05:43:17 +0000'
 categories:

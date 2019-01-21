@@ -1,7 +1,6 @@
 ---
 layout: post
 title: " ¿Confianza del usuario vs. URLs acortadas?"
-wordpress_url: http://blog.alphasmanifesto.com/?p=3898
 date: '2012-05-14 08:43:24 +0000'
 date_gmt: '2012-05-14 13:43:24 +0000'
 categories:

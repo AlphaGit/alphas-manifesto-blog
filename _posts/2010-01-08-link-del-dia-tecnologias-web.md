@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Tecnologías Web'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1747
 date: '2010-01-08 13:13:18 +0000'
 date_gmt: '2010-01-08 15:13:18 +0000'
 categories:

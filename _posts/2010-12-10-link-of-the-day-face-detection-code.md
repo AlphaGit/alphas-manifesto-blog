@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Face detection code'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2708
 date: '2010-12-10 11:34:26 +0000'
 date_gmt: '2010-12-10 13:34:26 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Firefox 4 + Mozilla demos'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2860
 date: '2011-03-23 11:41:11 +0000'
 date_gmt: '2011-03-23 13:41:11 +0000'
 categories:

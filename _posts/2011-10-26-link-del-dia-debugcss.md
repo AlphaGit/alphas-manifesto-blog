@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: debugCSS'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3337
 date: '2011-10-26 09:46:00 +0000'
 date_gmt: '2011-10-26 14:46:00 +0000'
 categories:

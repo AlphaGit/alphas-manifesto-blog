@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Google''s beggining & PageRank'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1907
 date: '2010-02-26 11:52:56 +0000'
 date_gmt: '2010-02-26 13:52:56 +0000'
 categories:

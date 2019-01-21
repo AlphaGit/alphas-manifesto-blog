@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: How to create a good pull request
-wordpress_url: https://blog.alphasmanifesto.com/?p=5600
 date: '2016-07-11 22:33:07 +0000'
 date_gmt: '2016-07-12 03:33:07 +0000'
 categories:

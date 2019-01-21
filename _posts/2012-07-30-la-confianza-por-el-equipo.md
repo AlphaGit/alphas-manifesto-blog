@@ -1,7 +1,6 @@
 ---
 layout: post
 title: La confianza por el equipo
-wordpress_url: http://blog.alphasmanifesto.com/?p=4219
 date: '2012-07-30 08:59:31 +0000'
 date_gmt: '2012-07-30 13:59:31 +0000'
 categories:

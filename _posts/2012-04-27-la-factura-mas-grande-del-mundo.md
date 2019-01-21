@@ -1,7 +1,6 @@
 ---
 layout: post
 title: La factura más grande del mundo
-wordpress_url: http://blog.alphasmanifesto.com/?p=3836
 date: '2012-04-27 12:09:08 +0000'
 date_gmt: '2012-04-27 17:09:08 +0000'
 categories:

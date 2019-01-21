@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Graphics Programming Black Book'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2078
 date: '2010-04-30 10:45:06 +0000'
 date_gmt: '2010-04-30 12:45:06 +0000'
 categories:

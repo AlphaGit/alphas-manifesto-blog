@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cómo corregir las distracciones'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2827
 date: '2011-03-07 15:33:31 +0000'
 date_gmt: '2011-03-07 17:33:31 +0000'
 categories:

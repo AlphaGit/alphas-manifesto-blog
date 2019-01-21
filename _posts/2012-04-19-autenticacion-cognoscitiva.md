@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Autenticación cognoscitiva
-wordpress_url: http://blog.alphasmanifesto.com/?p=3799
 date: '2012-04-19 11:12:20 +0000'
 date_gmt: '2012-04-19 16:12:20 +0000'
 categories:

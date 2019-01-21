@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Limpiando el CSS
-wordpress_url: http://blog.alphasmanifesto.com/?p=3681
 date: '2012-03-07 09:57:57 +0000'
 date_gmt: '2012-03-07 14:57:57 +0000'
 categories:

@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Death to Singletons!
-wordpress_url: https://blog.alphasmanifesto.com/?p=5585
 date: '2016-05-13 20:08:44 +0000'
 date_gmt: '2016-05-14 01:08:44 +0000'
 categories:

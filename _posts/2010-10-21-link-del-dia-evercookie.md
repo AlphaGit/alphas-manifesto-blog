@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Evercookie'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2609
 date: '2010-10-21 11:16:11 +0000'
 date_gmt: '2010-10-21 13:16:11 +0000'
 categories:

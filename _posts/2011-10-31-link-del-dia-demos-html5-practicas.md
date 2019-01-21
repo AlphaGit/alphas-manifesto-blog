@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Demos HTML5 prácticas'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3350
 date: '2011-10-31 07:05:24 +0000'
 date_gmt: '2011-10-31 12:05:24 +0000'
 categories:

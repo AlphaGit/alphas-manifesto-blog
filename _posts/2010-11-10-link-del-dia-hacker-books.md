@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Hacker Books'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2647
 date: '2010-11-10 11:22:37 +0000'
 date_gmt: '2010-11-10 13:22:37 +0000'
 categories:

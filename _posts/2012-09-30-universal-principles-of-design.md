@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Universal Principles of Design
-wordpress_url: http://blog.alphasmanifesto.com/?p=4450
 date: '2012-09-30 18:12:00 +0000'
 date_gmt: '2012-09-30 23:12:00 +0000'
 categories:

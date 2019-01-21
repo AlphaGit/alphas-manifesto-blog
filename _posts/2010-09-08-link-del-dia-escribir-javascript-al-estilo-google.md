@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Escribir JavaScript, al estilo Google'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2508
 date: '2010-09-08 16:02:31 +0000'
 date_gmt: '2010-09-08 18:02:31 +0000'
 categories:

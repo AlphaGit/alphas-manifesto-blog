@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Métricas de code review
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1018
 date: '2009-02-24 22:03:53 +0000'
 date_gmt: '2009-02-25 00:03:53 +0000'
 categories:

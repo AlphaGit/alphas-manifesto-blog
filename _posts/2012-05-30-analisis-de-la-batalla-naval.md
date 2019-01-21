@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Análisis de la Batalla Naval
-wordpress_url: http://blog.alphasmanifesto.com/?p=3922
 date: '2012-05-30 11:23:10 +0000'
 date_gmt: '2012-05-30 16:23:10 +0000'
 categories:

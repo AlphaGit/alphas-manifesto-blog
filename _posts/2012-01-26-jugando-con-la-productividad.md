@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jugando con la productividad
-wordpress_url: http://blog.alphasmanifesto.com/?p=3551
 date: '2012-01-26 11:50:08 +0000'
 date_gmt: '2012-01-26 16:50:08 +0000'
 categories:

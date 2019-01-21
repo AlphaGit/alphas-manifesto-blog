@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Google Tech Talks'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1581
 date: '2009-10-23 10:47:33 +0000'
 date_gmt: '2009-10-23 15:47:33 +0000'
 categories:

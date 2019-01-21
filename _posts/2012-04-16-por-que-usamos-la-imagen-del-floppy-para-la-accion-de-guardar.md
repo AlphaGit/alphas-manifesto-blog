@@ -2,7 +2,6 @@
 layout: post
 title: ' ¿Por qué usamos la imagen del floppy para la acción de
   "guardar"?'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3785
 date: '2012-04-16 10:16:12 +0000'
 date_gmt: '2012-04-16 15:16:12 +0000'
 categories:

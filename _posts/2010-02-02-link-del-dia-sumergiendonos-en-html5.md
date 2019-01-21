@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Sumergiéndonos en HTML5'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1826
 date: '2010-02-02 13:14:24 +0000'
 date_gmt: '2010-02-02 15:14:24 +0000'
 categories:

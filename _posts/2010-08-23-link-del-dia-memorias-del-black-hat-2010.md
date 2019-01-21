@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Memorias del Black Hat 2010'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2291
 date: '2010-08-23 14:36:50 +0000'
 date_gmt: '2010-08-23 16:36:50 +0000'
 categories:

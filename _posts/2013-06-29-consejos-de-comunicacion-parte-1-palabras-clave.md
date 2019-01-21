@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Consejos de comunicación, parte 1: Palabras clave'
-wordpress_url: http://blog.alphasmanifesto.com/?p=4870
 date: '2013-06-29 10:50:34 +0000'
 date_gmt: '2013-06-29 15:50:34 +0000'
 categories:

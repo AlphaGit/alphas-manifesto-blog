@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 22 herramientas para probar usabilidad
-wordpress_url: http://blog.alphasmanifesto.com/?p=3621
 date: '2012-02-14 12:57:36 +0000'
 date_gmt: '2012-02-14 17:57:36 +0000'
 categories:

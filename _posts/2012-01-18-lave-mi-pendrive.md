@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lavé mi pendrive
-wordpress_url: http://blog.alphasmanifesto.com/?p=3503
 date: '2012-01-18 12:45:24 +0000'
 date_gmt: '2012-01-18 17:45:24 +0000'
 categories:

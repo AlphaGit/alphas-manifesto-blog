@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pantallas, de cerca
-wordpress_url: http://blog.alphasmanifesto.com/?p=3730
 date: '2012-03-22 10:55:10 +0000'
 date_gmt: '2012-03-22 15:55:10 +0000'
 categories:

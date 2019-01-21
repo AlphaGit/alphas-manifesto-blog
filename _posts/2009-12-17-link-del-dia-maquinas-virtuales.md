@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Máquinas Virtuales'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1685
 date: '2009-12-17 12:15:40 +0000'
 date_gmt: '2009-12-17 14:15:40 +0000'
 categories:

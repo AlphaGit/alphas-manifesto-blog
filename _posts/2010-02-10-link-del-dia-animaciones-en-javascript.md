@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Animaciones en JavaScript'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1851
 date: '2010-02-10 14:10:58 +0000'
 date_gmt: '2010-02-10 16:10:58 +0000'
 categories:

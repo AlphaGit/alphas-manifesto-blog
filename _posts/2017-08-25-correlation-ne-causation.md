@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Correlation &ne; causation
-wordpress_url: https://blog.alphasmanifesto.com/?p=5719
 date: '2017-08-25 16:29:36 +0000'
 date_gmt: '2017-08-25 21:29:36 +0000'
 categories:

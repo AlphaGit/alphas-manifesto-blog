@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Consejitos jQuery, MySQL, AJAX y PHP'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2145
 date: '2010-05-31 11:18:14 +0000'
 date_gmt: '2010-05-31 13:18:14 +0000'
 categories:

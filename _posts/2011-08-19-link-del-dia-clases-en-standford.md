@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Clases en Stanford'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3197
 date: '2011-08-19 12:19:08 +0000'
 date_gmt: '2011-08-19 14:19:08 +0000'
 categories:

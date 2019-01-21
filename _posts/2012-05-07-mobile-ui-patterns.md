@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mobile UI Patterns
-wordpress_url: http://blog.alphasmanifesto.com/?p=3866
 date: '2012-05-07 09:14:52 +0000'
 date_gmt: '2012-05-07 14:14:52 +0000'
 categories:

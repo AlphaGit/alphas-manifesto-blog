@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Crear sitios de SharePoint programáticamente
-wordpress_url: http://blog.alphasmanifesto.com/?p=2972
 date: '2011-05-11 03:19:26 +0000'
 date_gmt: '2011-05-11 05:19:26 +0000'
 categories:

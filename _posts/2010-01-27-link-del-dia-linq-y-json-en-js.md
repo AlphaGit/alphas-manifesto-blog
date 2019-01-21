@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: LINQ y JSON en JS'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1807
 date: '2010-01-27 17:31:20 +0000'
 date_gmt: '2010-01-27 19:31:20 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Front-end code standards
-wordpress_url: http://blog.alphasmanifesto.com/?p=3939
 date: '2012-06-01 11:40:54 +0000'
 date_gmt: '2012-06-01 16:40:54 +0000'
 categories:

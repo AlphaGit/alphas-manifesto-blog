@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cosmos (C# OS)'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3440
 date: '2012-01-03 10:55:16 +0000'
 date_gmt: '2012-01-03 15:55:16 +0000'
 categories:

@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Write it down!
-wordpress_url: http://blog.alphasmanifesto.com/?p=5214
 date: '2014-12-22 05:57:29 +0000'
 date_gmt: '2014-12-22 11:57:29 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: " ¿Por qué HTML5?"
-wordpress_url: http://blog.alphasmanifesto.com/?p=3381
 date: '2011-11-17 21:30:09 +0000'
 date_gmt: '2011-11-18 02:30:09 +0000'
 categories:

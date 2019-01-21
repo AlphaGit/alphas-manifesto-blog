@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: La transición a IPv6'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2808
 date: '2011-02-09 13:05:26 +0000'
 date_gmt: '2011-02-09 15:05:26 +0000'
 categories:

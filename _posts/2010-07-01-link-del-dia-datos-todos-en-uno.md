@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Datos, todos en uno'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2195
 date: '2010-07-01 16:46:58 +0000'
 date_gmt: '2010-07-01 18:46:58 +0000'
 categories:

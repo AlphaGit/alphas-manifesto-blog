@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Productividad: no cortes la cadena'
-wordpress_url: http://blog.alphasmanifesto.com/?p=5101
 date: '2014-06-02 21:46:22 +0000'
 date_gmt: '2014-06-03 02:46:22 +0000'
 categories:

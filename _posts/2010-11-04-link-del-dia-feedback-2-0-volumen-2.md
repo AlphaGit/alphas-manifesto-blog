@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Feedback 2.0, volumen 2'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2630
 date: '2010-11-04 11:45:24 +0000'
 date_gmt: '2010-11-04 13:45:24 +0000'
 categories:

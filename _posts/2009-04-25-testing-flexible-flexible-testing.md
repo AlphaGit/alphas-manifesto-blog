@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Testing Flexible | Flexible Testing
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1195
 date: '2009-04-25 19:06:11 +0000'
 date_gmt: '2009-04-25 21:06:11 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Colaboración sin comunicación'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2511
 date: '2010-09-09 14:56:54 +0000'
 date_gmt: '2010-09-09 16:56:54 +0000'
 categories:

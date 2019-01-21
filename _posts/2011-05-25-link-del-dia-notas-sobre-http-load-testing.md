@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Notas sobre HTTP Load testing'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3011
 date: '2011-05-25 02:53:17 +0000'
 date_gmt: '2011-05-25 04:53:17 +0000'
 categories:

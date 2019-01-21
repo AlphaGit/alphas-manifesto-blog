@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Open Source Project Management'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2101
 date: '2010-05-07 11:25:46 +0000'
 date_gmt: '2010-05-07 13:25:46 +0000'
 categories:

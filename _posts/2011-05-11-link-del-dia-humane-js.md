@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Humane.js'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2975
 date: '2011-05-11 13:03:10 +0000'
 date_gmt: '2011-05-11 15:03:10 +0000'
 categories:

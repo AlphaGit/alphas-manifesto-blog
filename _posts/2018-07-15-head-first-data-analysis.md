@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Head First Data Analysis
-wordpress_url: https://blog.alphasmanifesto.com/?p=6496
 date: '2018-07-15 10:20:48 +0000'
 date_gmt: '2018-07-15 14:20:48 +0000'
 categories:

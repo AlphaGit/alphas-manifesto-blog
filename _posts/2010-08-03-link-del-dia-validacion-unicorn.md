@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Validación Unicorn'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2263
 date: '2010-08-03 14:01:12 +0000'
 date_gmt: '2010-08-03 16:01:12 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Presentaciones JavaScript'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3232
 date: '2011-08-29 12:00:59 +0000'
 date_gmt: '2011-08-29 17:00:59 +0000'
 categories:

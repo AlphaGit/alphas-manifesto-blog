@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: WordPress security'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2495
 date: '2010-09-03 11:50:55 +0000'
 date_gmt: '2010-09-03 13:50:55 +0000'
 categories:

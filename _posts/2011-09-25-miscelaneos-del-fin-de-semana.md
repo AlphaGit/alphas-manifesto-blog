@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Misceláneos del fin de semana
-wordpress_url: http://blog.alphasmanifesto.com/?p=3280
 date: '2011-09-25 22:06:08 +0000'
 date_gmt: '2011-09-26 03:06:08 +0000'
 categories:

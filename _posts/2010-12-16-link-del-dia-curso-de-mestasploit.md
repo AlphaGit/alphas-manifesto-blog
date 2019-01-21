@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Curso de Metasploit'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2721
 date: '2010-12-16 13:42:56 +0000'
 date_gmt: '2010-12-16 15:42:56 +0000'
 categories:

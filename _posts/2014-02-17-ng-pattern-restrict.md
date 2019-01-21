@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ng-pattern-restrict
-wordpress_url: http://blog.alphasmanifesto.com/?p=5022
 date: '2014-02-17 21:12:11 +0000'
 date_gmt: '2014-02-18 02:12:11 +0000'
 categories:

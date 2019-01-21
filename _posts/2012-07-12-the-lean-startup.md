@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Lean Startup
-wordpress_url: http://blog.alphasmanifesto.com/?p=4103
 date: '2012-07-12 20:47:11 +0000'
 date_gmt: '2012-07-13 01:47:11 +0000'
 categories:

@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: How TDD pays off
-wordpress_url: http://blog.alphasmanifesto.com/?p=5272
 date: '2015-03-30 22:34:26 +0000'
 date_gmt: '2015-03-31 03:34:26 +0000'
 categories:

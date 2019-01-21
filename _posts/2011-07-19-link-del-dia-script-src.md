@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Script Src'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3139
 date: '2011-07-19 13:02:14 +0000'
 date_gmt: '2011-07-19 15:02:14 +0000'
 categories:

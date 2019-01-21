@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: La ciencia de la actualización'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2874
 date: '2011-03-29 12:12:49 +0000'
 date_gmt: '2011-03-29 14:12:49 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "¡Nuevo diseño!"
-wordpress_url: http://blog.alphasmanifesto.com/?p=3467
 date: '2012-01-11 22:18:06 +0000'
 date_gmt: '2012-01-12 03:18:06 +0000'
 categories:

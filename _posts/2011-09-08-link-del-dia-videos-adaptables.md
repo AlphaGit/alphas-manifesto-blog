@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Videos Adaptables'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3250
 date: '2011-09-08 09:22:10 +0000'
 date_gmt: '2011-09-08 14:22:10 +0000'
 categories:

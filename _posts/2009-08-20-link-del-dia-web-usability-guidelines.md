@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Web Usability Guidelines'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1438
 date: '2009-08-20 11:26:46 +0000'
 date_gmt: '2009-08-20 13:26:46 +0000'
 categories:

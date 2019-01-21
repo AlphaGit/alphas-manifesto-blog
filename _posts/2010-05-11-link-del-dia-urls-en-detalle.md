@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: URLs en detalle'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2106
 date: '2010-05-11 11:17:07 +0000'
 date_gmt: '2010-05-11 13:17:07 +0000'
 categories:

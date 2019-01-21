@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Software Security
-wordpress_url: http://blog.alphasmanifesto.com/?p=5312
 date: '2015-09-23 07:08:27 +0000'
 date_gmt: '2015-09-23 12:08:27 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ASP.NET MVC 1.0 Release Candidate
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1014
 date: '2009-02-24 00:19:26 +0000'
 date_gmt: '2009-02-24 02:19:26 +0000'
 categories:

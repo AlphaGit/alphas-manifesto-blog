@@ -2,7 +2,6 @@
 layout: post
 title: 'The Emotion Machine: Emotional States, Attachments and Goals, From Pain to
   Suffering'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1482
 date: '2009-09-20 02:21:17 +0000'
 date_gmt: '2009-09-20 04:21:17 +0000'
 categories:

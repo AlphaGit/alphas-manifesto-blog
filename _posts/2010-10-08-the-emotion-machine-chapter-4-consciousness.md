@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'The Emotion Machine - Chapter 4: Consciousness'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2555
 date: '2010-10-08 14:51:12 +0000'
 date_gmt: '2010-10-08 16:51:12 +0000'
 categories:

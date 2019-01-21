@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML Instant'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2619
 date: '2010-10-28 16:30:56 +0000'
 date_gmt: '2010-10-28 18:30:56 +0000'
 categories:

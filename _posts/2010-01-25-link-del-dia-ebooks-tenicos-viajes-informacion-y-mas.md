@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: eBooks ténicos, viajes, información y más'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1800
 date: '2010-01-25 10:58:43 +0000'
 date_gmt: '2010-01-25 12:58:43 +0000'
 categories:

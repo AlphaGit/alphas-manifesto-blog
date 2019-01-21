@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Live Mesh'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2275
 date: '2010-08-11 19:43:56 +0000'
 date_gmt: '2010-08-11 21:43:56 +0000'
 categories:

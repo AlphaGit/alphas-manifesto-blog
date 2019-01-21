@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: The Database Programmer'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=991
 date: '2009-02-16 09:56:36 +0000'
 date_gmt: '2009-02-16 11:56:36 +0000'
 categories:

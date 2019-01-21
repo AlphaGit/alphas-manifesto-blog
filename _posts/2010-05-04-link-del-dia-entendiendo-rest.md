@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Entendiendo REST'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2087
 date: '2010-05-04 11:45:17 +0000'
 date_gmt: '2010-05-04 13:45:17 +0000'
 categories:

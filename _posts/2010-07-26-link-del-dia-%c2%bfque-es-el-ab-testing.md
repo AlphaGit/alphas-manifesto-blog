@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día:  ¿Qué es el A/B Testing?'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2237
 date: '2010-07-26 11:21:38 +0000'
 date_gmt: '2010-07-26 13:21:38 +0000'
 categories:

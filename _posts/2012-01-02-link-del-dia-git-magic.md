@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Git Magic'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3436
 date: '2012-01-02 09:39:21 +0000'
 date_gmt: '2012-01-02 14:39:21 +0000'
 categories:

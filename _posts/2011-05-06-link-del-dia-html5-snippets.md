@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML5 Snippets'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2958
 date: '2011-05-06 12:36:52 +0000'
 date_gmt: '2011-05-06 14:36:52 +0000'
 categories:

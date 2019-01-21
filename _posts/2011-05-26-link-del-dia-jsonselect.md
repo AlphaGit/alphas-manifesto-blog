@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: JSONSelect'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3014
 date: '2011-05-26 12:05:07 +0000'
 date_gmt: '2011-05-26 14:05:07 +0000'
 categories:

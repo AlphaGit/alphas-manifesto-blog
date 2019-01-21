@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Alpha's Manifesto ahora tiene menú configurable
-wordpress_url: http://blog.alphasmanifesto.com/?p=4675
 date: '2013-03-12 23:24:53 +0000'
 date_gmt: '2013-03-13 04:24:53 +0000'
 categories:

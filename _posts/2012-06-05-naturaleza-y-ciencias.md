@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Naturaleza y ciencias
-wordpress_url: http://blog.alphasmanifesto.com/?p=3952
 date: '2012-06-05 08:54:13 +0000'
 date_gmt: '2012-06-05 13:54:13 +0000'
 categories:

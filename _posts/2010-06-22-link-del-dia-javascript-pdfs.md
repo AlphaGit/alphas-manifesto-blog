@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Javascript PDFs'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2184
 date: '2010-06-22 10:14:30 +0000'
 date_gmt: '2010-06-22 12:14:30 +0000'
 categories:

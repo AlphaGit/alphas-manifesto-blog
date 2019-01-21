@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: SMShing'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2750
 date: '2010-12-30 12:18:29 +0000'
 date_gmt: '2010-12-30 14:18:29 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Configuración de ManagedFusion.Rewriter como proxy reverso
-wordpress_url: http://blog.alphasmanifesto.com/?p=4991
 date: '2013-10-28 21:43:25 +0000'
 date_gmt: '2013-10-29 02:43:25 +0000'
 categories:

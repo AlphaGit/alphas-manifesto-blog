@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Web SQL Designer'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1016
 date: '2009-02-24 09:48:39 +0000'
 date_gmt: '2009-02-24 11:48:39 +0000'
 categories:

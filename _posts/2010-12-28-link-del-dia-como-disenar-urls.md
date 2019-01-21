@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cómo diseñar URLs'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2748
 date: '2010-12-28 11:52:10 +0000'
 date_gmt: '2010-12-28 13:52:10 +0000'
 categories:

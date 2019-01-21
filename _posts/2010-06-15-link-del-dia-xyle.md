@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Xyle'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2171
 date: '2010-06-15 09:45:50 +0000'
 date_gmt: '2010-06-15 11:45:50 +0000'
 categories:

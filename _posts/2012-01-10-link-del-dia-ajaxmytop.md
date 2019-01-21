@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: AjaxMyTop'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3460
 date: '2012-01-10 13:09:14 +0000'
 date_gmt: '2012-01-10 18:09:14 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the Day: Liberate your data!'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1927
 date: '2010-03-05 11:26:24 +0000'
 date_gmt: '2010-03-05 13:26:24 +0000'
 categories:

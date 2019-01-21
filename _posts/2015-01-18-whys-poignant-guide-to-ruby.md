@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Why's (poignant) guide to Ruby
-wordpress_url: http://blog.alphasmanifesto.com/?p=5248
 date: '2015-01-18 12:44:50 +0000'
 date_gmt: '2015-01-18 18:44:50 +0000'
 categories:

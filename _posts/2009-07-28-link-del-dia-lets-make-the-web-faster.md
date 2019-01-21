@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Let''s Make the Web Faster'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1390
 date: '2009-07-28 10:58:25 +0000'
 date_gmt: '2009-07-28 12:58:25 +0000'
 categories:

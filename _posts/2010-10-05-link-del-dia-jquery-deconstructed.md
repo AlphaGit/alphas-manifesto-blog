@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: jQuery deconstructed'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2574
 date: '2010-10-05 12:22:27 +0000'
 date_gmt: '2010-10-05 14:22:27 +0000'
 categories:

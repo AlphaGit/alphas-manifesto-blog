@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Take 2 minutes
-wordpress_url: http://blog.alphasmanifesto.com/?p=3733
 date: '2012-03-26 11:31:56 +0000'
 date_gmt: '2012-03-26 16:31:56 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Hermoso JavaScript!'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2540
 date: '2010-09-16 14:59:29 +0000'
 date_gmt: '2010-09-16 16:59:29 +0000'
 categories:

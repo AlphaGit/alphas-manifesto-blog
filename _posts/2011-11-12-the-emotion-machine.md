@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Emotion Machine
-wordpress_url: http://blog.alphasmanifesto.com/?p=3375
 date: '2011-11-12 22:18:55 +0000'
 date_gmt: '2011-11-13 03:18:55 +0000'
 categories:

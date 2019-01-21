@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: SVG y aplicaciones prácticas'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1811
 date: '2010-01-28 11:12:03 +0000'
 date_gmt: '2010-01-28 13:12:03 +0000'
 categories:
