@@ -4,12 +4,16 @@ excerpt_separator: <!--more-->
 title: Some best practices for HTML Canvas
 author:
   name: Colin Cieloha
-  twitter: ColinCieloha
   links:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/colin-cieloha-7a01ab55
-    icon: fab fa-linkedin
-  url: https://skilled.co/
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/colin-cieloha-7a01ab55
+      icon: fab fa-linkedin
+    - title: Twitter
+      url: https://twitter.com/ColinCieloha
+      icon: fab fa-twitter
+    - title: Skilled.co
+      url: https://skilled.co/
+      icon: fab fab-link
 date: '2017-04-30 13:57:05 +0000'
 date_gmt: '2017-04-30 18:57:05 +0000'
 categories:

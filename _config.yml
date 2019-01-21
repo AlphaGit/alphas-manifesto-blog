@@ -9,6 +9,13 @@ author:
   twitter: AlphasManifesto
   email: raimondijuan@gmail.com
   picture: /images/avatarJD.jpg
+  links:
+    - title: Twitter
+      url: https://twitter.com/AlphasManifesto
+      icon: fab fa-twitter
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/raimondijuan/
+      icon: fab fa-linkedin
 
 read_time: true
 words_per_minute: 150
