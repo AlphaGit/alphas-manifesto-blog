@@ -24,6 +24,7 @@ tags:
 - leadership
 - practice
 - TL
+sub_title: And here's why
 ---
 
 ![]({{ site.baseurl }}/assets/ForgottenKeyboard.png)

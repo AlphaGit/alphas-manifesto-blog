@@ -24,6 +24,7 @@ tags:
 - neural network
 - research
 - reference
+sub_title: by Goodfellow, Bengio and Courville
 ---
 
 ![]({{ site.baseurl }}/assets/deep-learning.jpg)

@@ -24,6 +24,7 @@ tags:
 - task automation
 - project
 - worklogger
+sub_title: Automatic timesheet entry
 ---
 
 ![]({{ site.baseurl }}/assets/time.jpg)

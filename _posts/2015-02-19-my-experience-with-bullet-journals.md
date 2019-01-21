@@ -20,6 +20,7 @@ tags:
 - bullet journal
 - productivity
 - experiences
+sub_title: "Spoiler: not a journal about guns"
 ---
 
 ![]({{ site.baseurl }}/assets/Journal.gif)

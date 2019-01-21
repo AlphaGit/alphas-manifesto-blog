@@ -25,6 +25,7 @@ tags:
 - software engineerng
 - developing
 - ethics
+sub_title: a.k.a. "Software Professionalism"
 ---
 
 ![]({{ site.baseurl }}/assets/the-clean-coder-cover.jpg)

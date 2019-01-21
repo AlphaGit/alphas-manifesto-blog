@@ -23,8 +23,8 @@ tags:
 - management
 - IT
 - webinar
+sub_title: Posts being featured in MakingSense's blog
 ---
-Posts being featured in MakingSense's blog
 
 ## Español
 

@@ -24,6 +24,7 @@ tags:
 - correlation
 - data science
 - statistics
+sub_title: But causation ⇒ correlation|
 ---
 
 ![]({{ site.baseurl }}/assets/AB.jpg)

@@ -25,6 +25,7 @@ tags:
 - string format attack
 - static analysis
 - introduction
+sub_title: MOOC by the University of Maryland
 ---
 
 ![]({{ site.baseurl }}/assets/candado.png)
