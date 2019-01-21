@@ -31,11 +31,11 @@ tags:
 
 Acabo de ver dos videos de Paul Irish, del grupo de Google Chrome. Uno de ellos era [Google Chrome Developer Tools: 12 Tricks to Develop Quicker](http://www.youtube.com/watch?v=nOEw9iiopwI). Aquí básicamente nos da una explicación de los Chrome Developer Tools con algunos trucos que no son tan sabidos. Interesante y útil.
 
-[youtube]nOEw9iiopwI[/youtube]
+{% include responsive-embed url="https://www.youtube.com/watch?v=nOEw9iiopwI" %}
 
 Sin embargo, el video que más interesante me resultó es uno de media hora llamado [HTML5, CSS3 and DOM Performance](http://www.youtube.com/watch?v=q_O9_C2ZjoA).
 
-[youtube]q_O9_C2ZjoA[/youtube]
+{% include responsive-embed url="https://www.youtube.com/watch?v=q_O9_C2ZjoA" %}
 
 Este video es terriblemente informativo sobre varias temáticas. Quiero en el futuro poder dedicarle un poco más de tiempo a cada una, pero mientras tanto, dejenmé hacer un resumen de las cosas que se tratan en el video:
 
