@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Animaciones en JavaScript'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1851
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1851
 date: '2010-02-10 14:10:58 +0000'
 date_gmt: '2010-02-10 16:10:58 +0000'

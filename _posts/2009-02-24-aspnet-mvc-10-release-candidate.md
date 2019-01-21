@@ -1,15 +1,6 @@
 ---
 layout: post
 title: ASP.NET MVC 1.0 Release Candidate
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1014
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1014
 date: '2009-02-24 00:19:26 +0000'
 date_gmt: '2009-02-24 02:19:26 +0000'

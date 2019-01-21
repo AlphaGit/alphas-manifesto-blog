@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Tener una web minimalista...
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3019
 wordpress_url: http://blog.alphasmanifesto.com/?p=3019
 date: '2011-05-31 21:58:45 +0000'
 date_gmt: '2011-05-31 23:58:45 +0000'

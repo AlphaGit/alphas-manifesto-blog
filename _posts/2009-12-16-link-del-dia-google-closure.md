@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Google Closure'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1682
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1682
 date: '2009-12-16 12:28:36 +0000'
 date_gmt: '2009-12-16 14:28:36 +0000'

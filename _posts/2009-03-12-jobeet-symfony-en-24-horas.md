@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Jobeet - symfony en 24 horas
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1066
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1066
 date: '2009-03-12 10:55:20 +0000'
 date_gmt: '2009-03-12 12:55:20 +0000'

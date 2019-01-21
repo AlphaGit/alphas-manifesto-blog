@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Hacker Books'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2647
 wordpress_url: http://blog.alphasmanifesto.com/?p=2647
 date: '2010-11-10 11:22:37 +0000'
 date_gmt: '2010-11-10 13:22:37 +0000'

@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: How TDD pays off
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5272
 wordpress_url: http://blog.alphasmanifesto.com/?p=5272
 date: '2015-03-30 22:34:26 +0000'
 date_gmt: '2015-03-31 03:34:26 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: La confianza por el equipo
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4219
 wordpress_url: http://blog.alphasmanifesto.com/?p=4219
 date: '2012-07-30 08:59:31 +0000'
 date_gmt: '2012-07-30 13:59:31 +0000'

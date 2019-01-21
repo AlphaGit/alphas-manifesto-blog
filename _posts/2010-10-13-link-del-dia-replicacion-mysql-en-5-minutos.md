@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Replicación MySQL en 5 minutos'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2593
 wordpress_url: http://blog.alphasmanifesto.com/?p=2593
 date: '2010-10-13 11:19:22 +0000'
 date_gmt: '2010-10-13 13:19:22 +0000'

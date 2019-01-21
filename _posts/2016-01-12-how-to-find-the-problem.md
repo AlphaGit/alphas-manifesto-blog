@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: How to find the problem
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5556
 wordpress_url: http://blog.alphasmanifesto.com/?p=5556
 date: '2016-01-12 22:36:05 +0000'
 date_gmt: '2016-01-13 04:36:05 +0000'

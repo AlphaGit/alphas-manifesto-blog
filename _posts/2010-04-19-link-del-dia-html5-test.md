@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML5 Test'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2044
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2044
 date: '2010-04-19 11:54:45 +0000'
 date_gmt: '2010-04-19 13:54:45 +0000'

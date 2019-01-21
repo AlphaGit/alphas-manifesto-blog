@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: 100 formas de hacer que las cosas se hagan'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3262
 wordpress_url: http://blog.alphasmanifesto.com/?p=3262
 date: '2011-09-13 10:15:30 +0000'
 date_gmt: '2011-09-13 15:15:30 +0000'

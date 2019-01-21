@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Sleep time
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5267
 wordpress_url: http://blog.alphasmanifesto.com/?p=5267
 date: '2015-03-17 17:23:19 +0000'
 date_gmt: '2015-03-17 22:23:19 +0000'

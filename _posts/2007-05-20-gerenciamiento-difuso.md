@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Gerenciamiento difuso
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 76
-wordpress_url: http://zorri2.wordpress.com/2007/05/20/gerenciamiento-difuso/
 date: '2007-05-20 20:40:00 +0000'
 date_gmt: '2007-05-20 20:40:00 +0000'
 categories:

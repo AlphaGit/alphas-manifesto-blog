@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Máquinas virtuales en la web'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2231
 wordpress_url: http://blog.alphasmanifesto.com/?p=2231
 date: '2010-07-21 12:05:17 +0000'
 date_gmt: '2010-07-21 14:05:17 +0000'

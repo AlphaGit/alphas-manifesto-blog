@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: JavaScript IDE para iPhone'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2645
 wordpress_url: http://blog.alphasmanifesto.com/?p=2645
 date: '2010-11-09 12:22:00 +0000'
 date_gmt: '2010-11-09 14:22:00 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: AjaxMyTop'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3460
 wordpress_url: http://blog.alphasmanifesto.com/?p=3460
 date: '2012-01-10 13:09:14 +0000'
 date_gmt: '2012-01-10 18:09:14 +0000'

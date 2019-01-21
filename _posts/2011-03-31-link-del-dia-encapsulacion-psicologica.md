@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Encapsulación psicológica'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2876
 wordpress_url: http://blog.alphasmanifesto.com/?p=2876
 date: '2011-03-31 13:15:46 +0000'
 date_gmt: '2011-03-31 15:15:46 +0000'

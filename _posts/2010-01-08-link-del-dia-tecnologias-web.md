@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Tecnologías Web'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1747
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1747
 date: '2010-01-08 13:13:18 +0000'
 date_gmt: '2010-01-08 15:13:18 +0000'

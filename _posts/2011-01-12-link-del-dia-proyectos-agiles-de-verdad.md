@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Proyectos ágiles de verdad'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2777
 wordpress_url: http://blog.alphasmanifesto.com/?p=2777
 date: '2011-01-12 10:55:28 +0000'
 date_gmt: '2011-01-12 12:55:28 +0000'

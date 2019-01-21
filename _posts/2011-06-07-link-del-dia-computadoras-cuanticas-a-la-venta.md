@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Computadoras cuánticas, a la venta'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3044
 wordpress_url: http://blog.alphasmanifesto.com/?p=3044
 date: '2011-06-07 12:35:16 +0000'
 date_gmt: '2011-06-07 14:35:16 +0000'

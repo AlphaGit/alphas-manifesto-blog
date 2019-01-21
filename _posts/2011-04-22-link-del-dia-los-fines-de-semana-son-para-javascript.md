@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Los fines de semana son para JavaScript'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2913
 wordpress_url: http://blog.alphasmanifesto.com/?p=2913
 date: '2011-04-22 15:14:55 +0000'
 date_gmt: '2011-04-22 17:14:55 +0000'

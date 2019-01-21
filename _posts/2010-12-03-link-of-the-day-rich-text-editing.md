@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Rich text editing'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2698
 wordpress_url: http://blog.alphasmanifesto.com/?p=2698
 date: '2010-12-03 13:06:25 +0000'
 date_gmt: '2010-12-03 15:06:25 +0000'

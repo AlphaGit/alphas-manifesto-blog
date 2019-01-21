@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: La clave de una presentación: la sorpresa'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2143
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2143
 date: '2010-06-01 11:03:07 +0000'
 date_gmt: '2010-06-01 13:03:07 +0000'

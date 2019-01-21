@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Servicios de Presupuesto - Modelo Iteración 1
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 84
-wordpress_url: http://zorri2.wordpress.com/2007/06/29/servicios-de-presupuesto-modelo-iteracion-1/
 date: '2007-06-29 01:19:00 +0000'
 date_gmt: '2007-06-29 01:19:00 +0000'
 categories:

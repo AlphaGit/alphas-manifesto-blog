@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Interviewstreet
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3510
 wordpress_url: http://blog.alphasmanifesto.com/?p=3510
 date: '2012-01-20 14:05:23 +0000'
 date_gmt: '2012-01-20 19:05:23 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: " ¿Qué loggear de los usuarios?"
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3631
 wordpress_url: http://blog.alphasmanifesto.com/?p=3631
 date: '2012-02-17 11:55:25 +0000'
 date_gmt: '2012-02-17 16:55:25 +0000'

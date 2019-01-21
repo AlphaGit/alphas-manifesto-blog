@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Cálculo lambda para chicos
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3675
 wordpress_url: http://blog.alphasmanifesto.com/?p=3675
 date: '2012-03-01 12:59:09 +0000'
 date_gmt: '2012-03-01 17:59:09 +0000'

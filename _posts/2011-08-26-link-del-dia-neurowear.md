@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Neurowear'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3224
 wordpress_url: http://blog.alphasmanifesto.com/?p=3224
 date: '2011-08-26 13:03:41 +0000'
 date_gmt: '2011-08-26 15:03:41 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: " ¿Por qué distintos dominios para recursos estáticos?"
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3740
 wordpress_url: http://blog.alphasmanifesto.com/?p=3740
 date: '2012-03-28 08:39:50 +0000'
 date_gmt: '2012-03-28 13:39:50 +0000'

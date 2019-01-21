@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Updates what-now: deployments automáticos en Heroku'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5043
 wordpress_url: http://blog.alphasmanifesto.com/?p=5043
 date: '2014-03-16 15:49:22 +0000'
 date_gmt: '2014-03-16 20:49:22 +0000'

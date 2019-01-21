@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Dealing with "unreasonable" clients
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5650
 wordpress_url: https://blog.alphasmanifesto.com/?p=5650
 date: '2017-03-20 20:26:33 +0000'
 date_gmt: '2017-03-21 01:26:33 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Tareas para publicar un website'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2676
 wordpress_url: http://blog.alphasmanifesto.com/?p=2676
 date: '2010-11-24 11:23:01 +0000'
 date_gmt: '2010-11-24 13:23:01 +0000'

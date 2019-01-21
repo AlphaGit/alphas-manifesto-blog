@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: General Game Playing
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5298
 wordpress_url: http://blog.alphasmanifesto.com/?p=5298
 date: '2015-07-11 15:41:41 +0000'
 date_gmt: '2015-07-11 20:41:41 +0000'

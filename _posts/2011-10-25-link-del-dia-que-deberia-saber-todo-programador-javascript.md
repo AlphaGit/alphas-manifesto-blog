@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Qué debería saber todo programador JavaScript'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3335
 wordpress_url: http://blog.alphasmanifesto.com/?p=3335
 date: '2011-10-25 07:56:44 +0000'
 date_gmt: '2011-10-25 12:56:44 +0000'

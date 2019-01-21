@@ -1,15 +1,6 @@
 ---
 layout: post
 title: A Novice's Introduction to Data Science
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6464
 wordpress_url: https://blog.alphasmanifesto.com/?p=6464
 date: '2018-02-10 17:31:04 +0000'
 date_gmt: '2018-02-10 22:31:04 +0000'

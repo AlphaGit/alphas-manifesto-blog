@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Feedback 2.0'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2526
 wordpress_url: http://blog.alphasmanifesto.com/?p=2526
 date: '2010-09-13 10:31:27 +0000'
 date_gmt: '2010-09-13 12:31:27 +0000'

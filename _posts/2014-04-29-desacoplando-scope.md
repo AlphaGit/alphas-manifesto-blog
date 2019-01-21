@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Desacoplando $scope
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5077
 wordpress_url: http://blog.alphasmanifesto.com/?p=5077
 date: '2014-04-29 23:36:42 +0000'
 date_gmt: '2014-04-30 04:36:42 +0000'

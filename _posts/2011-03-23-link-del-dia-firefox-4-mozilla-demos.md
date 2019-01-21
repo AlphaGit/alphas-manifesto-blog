@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Firefox 4 + Mozilla demos'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2860
 wordpress_url: http://blog.alphasmanifesto.com/?p=2860
 date: '2011-03-23 11:41:11 +0000'
 date_gmt: '2011-03-23 13:41:11 +0000'

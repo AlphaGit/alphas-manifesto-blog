@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Live Mesh'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2275
 wordpress_url: http://blog.alphasmanifesto.com/?p=2275
 date: '2010-08-11 19:43:56 +0000'
 date_gmt: '2010-08-11 21:43:56 +0000'

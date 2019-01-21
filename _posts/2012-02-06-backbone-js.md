@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Backbone.js
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3592
 wordpress_url: http://blog.alphasmanifesto.com/?p=3592
 date: '2012-02-06 10:40:14 +0000'
 date_gmt: '2012-02-06 15:40:14 +0000'

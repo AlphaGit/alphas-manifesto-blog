@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Multiversiones IE'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3253
 wordpress_url: http://blog.alphasmanifesto.com/?p=3253
 date: '2011-09-09 08:59:30 +0000'
 date_gmt: '2011-09-09 13:59:30 +0000'

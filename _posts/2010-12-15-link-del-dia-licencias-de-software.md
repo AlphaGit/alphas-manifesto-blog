@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Licencias de software'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2718
 wordpress_url: http://blog.alphasmanifesto.com/?p=2718
 date: '2010-12-15 12:46:03 +0000'
 date_gmt: '2010-12-15 14:46:03 +0000'

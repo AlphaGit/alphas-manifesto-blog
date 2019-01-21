@@ -1,15 +1,6 @@
 ---
 layout: post
 title: CommonLibrary.NET
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4209
 wordpress_url: http://blog.alphasmanifesto.com/?p=4209
 date: '2012-07-23 10:31:15 +0000'
 date_gmt: '2012-07-23 15:31:15 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Colaboración sin comunicación'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2511
 wordpress_url: http://blog.alphasmanifesto.com/?p=2511
 date: '2010-09-09 14:56:54 +0000'
 date_gmt: '2010-09-09 16:56:54 +0000'

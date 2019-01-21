@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Genetic Algorithms'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1297
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1297
 date: '2009-06-17 10:49:38 +0000'
 date_gmt: '2009-06-17 12:49:38 +0000'

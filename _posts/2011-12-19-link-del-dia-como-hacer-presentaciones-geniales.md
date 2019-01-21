@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cómo hacer presentaciones geniales'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3419
 wordpress_url: http://blog.alphasmanifesto.com/?p=3419
 date: '2011-12-19 09:53:57 +0000'
 date_gmt: '2011-12-19 14:53:57 +0000'

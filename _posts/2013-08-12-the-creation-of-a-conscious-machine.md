@@ -1,15 +1,6 @@
 ---
 layout: post
 title: The Creation of a Conscious Machine
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4936
 wordpress_url: http://blog.alphasmanifesto.com/?p=4936
 date: '2013-08-12 21:08:35 +0000'
 date_gmt: '2013-08-13 02:08:35 +0000'

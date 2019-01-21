@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: BigQuery'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2746
 wordpress_url: http://blog.alphasmanifesto.com/?p=2746
 date: '2010-12-27 13:19:29 +0000'
 date_gmt: '2010-12-27 15:19:29 +0000'

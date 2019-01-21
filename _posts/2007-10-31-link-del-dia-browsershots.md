@@ -1,16 +1,6 @@
 ---
 layout: post
 title: 'Link del día: BrowserShots'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 143
-wordpress_url: http://zorri2.wordpress.com/2007/10/31/link-del-dia-browsershots/
 date: '2007-10-31 12:29:00 +0000'
 date_gmt: '2007-10-31 12:29:00 +0000'
 categories:

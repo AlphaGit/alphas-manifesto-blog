@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Damn Cool Algorithms'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3453
 wordpress_url: http://blog.alphasmanifesto.com/?p=3453
 date: '2012-01-09 18:30:52 +0000'
 date_gmt: '2012-01-09 23:30:52 +0000'

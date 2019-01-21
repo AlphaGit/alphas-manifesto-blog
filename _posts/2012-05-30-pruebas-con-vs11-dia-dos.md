@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Pruebas con VS11: Día dos'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3932
 wordpress_url: http://blog.alphasmanifesto.com/?p=3932
 date: '2012-05-30 16:37:08 +0000'
 date_gmt: '2012-05-30 21:37:08 +0000'

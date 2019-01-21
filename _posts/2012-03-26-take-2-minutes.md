@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Take 2 minutes
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3733
 wordpress_url: http://blog.alphasmanifesto.com/?p=3733
 date: '2012-03-26 11:31:56 +0000'
 date_gmt: '2012-03-26 16:31:56 +0000'

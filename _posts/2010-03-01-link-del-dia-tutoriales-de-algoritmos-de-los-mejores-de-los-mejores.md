@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Tutoriales de algoritmos de los mejores de los mejores'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1913
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1913
 date: '2010-03-01 13:36:58 +0000'
 date_gmt: '2010-03-01 15:36:58 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: La diferencia entre UX y UI
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3852
 wordpress_url: http://blog.alphasmanifesto.com/?p=3852
 date: '2012-05-02 10:48:42 +0000'
 date_gmt: '2012-05-02 15:48:42 +0000'

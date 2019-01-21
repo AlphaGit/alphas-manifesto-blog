@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Javascript CAPTCHA Decoder'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 985
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=985
 date: '2009-02-12 09:50:29 +0000'
 date_gmt: '2009-02-12 11:50:29 +0000'

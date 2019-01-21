@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Ahora hay que reaprender PHP'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2218
 wordpress_url: http://blog.alphasmanifesto.com/?p=2218
 date: '2010-07-14 10:03:50 +0000'
 date_gmt: '2010-07-14 12:03:50 +0000'

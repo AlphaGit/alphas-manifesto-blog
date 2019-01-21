@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Udacity's Deep Learning Nanodegree Foundations
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5690
 wordpress_url: https://blog.alphasmanifesto.com/?p=5690
 date: '2017-06-27 20:28:32 +0000'
 date_gmt: '2017-06-28 01:28:32 +0000'

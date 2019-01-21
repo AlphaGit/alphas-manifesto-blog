@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Neural Networks can learn anything
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5706
 wordpress_url: https://blog.alphasmanifesto.com/?p=5706
 date: '2017-07-30 13:58:57 +0000'
 date_gmt: '2017-07-30 18:58:57 +0000'

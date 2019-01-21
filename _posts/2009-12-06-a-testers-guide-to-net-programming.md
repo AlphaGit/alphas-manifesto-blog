@@ -1,15 +1,6 @@
 ---
 layout: post
 title: A Tester's Guide to .NET Programming
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1657
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1657
 date: '2009-12-06 22:08:00 +0000'
 date_gmt: '2009-12-07 00:08:00 +0000'

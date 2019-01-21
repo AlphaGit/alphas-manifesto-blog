@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Métricas de code review
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1018
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1018
 date: '2009-02-24 22:03:53 +0000'
 date_gmt: '2009-02-25 00:03:53 +0000'

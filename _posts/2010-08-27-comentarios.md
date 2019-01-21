@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Comentarios
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2485
 wordpress_url: http://blog.alphasmanifesto.com/?p=2485
 date: '2010-08-27 19:51:47 +0000'
 date_gmt: '2010-08-27 21:51:47 +0000'

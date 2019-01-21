@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: 7 pro-tips para acelerar todo'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2825
 wordpress_url: http://blog.alphasmanifesto.com/?p=2825
 date: '2011-03-01 04:23:10 +0000'
 date_gmt: '2011-03-01 06:23:10 +0000'

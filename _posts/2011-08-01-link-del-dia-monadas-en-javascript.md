@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Mónadas en JavaScript'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3158
 wordpress_url: http://blog.alphasmanifesto.com/?p=3158
 date: '2011-08-01 12:31:03 +0000'
 date_gmt: '2011-08-01 14:31:03 +0000'

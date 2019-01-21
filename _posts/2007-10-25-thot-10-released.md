@@ -1,16 +1,6 @@
 ---
 layout: post
 title: Thot 1.0 Released
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 136
-wordpress_url: http://zorri2.wordpress.com/2007/10/25/thot-10-released/
 date: '2007-10-25 00:28:00 +0000'
 date_gmt: '2007-10-25 00:28:00 +0000'
 categories:

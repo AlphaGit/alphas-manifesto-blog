@@ -2,15 +2,6 @@
 layout: post
 title: 'Link del día: Reportando bugs de browsers: qué, cómo
   y por qué'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3259
 wordpress_url: http://blog.alphasmanifesto.com/?p=3259
 date: '2011-09-12 08:16:30 +0000'
 date_gmt: '2011-09-12 13:16:30 +0000'

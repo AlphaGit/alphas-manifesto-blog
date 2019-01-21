@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Joel Test para programadores
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3648
 wordpress_url: http://blog.alphasmanifesto.com/?p=3648
 date: '2012-02-22 11:38:03 +0000'
 date_gmt: '2012-02-22 16:38:03 +0000'

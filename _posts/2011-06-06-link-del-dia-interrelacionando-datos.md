@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Interrelacionando datos'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3040
 wordpress_url: http://blog.alphasmanifesto.com/?p=3040
 date: '2011-06-06 11:43:50 +0000'
 date_gmt: '2011-06-06 13:43:50 +0000'

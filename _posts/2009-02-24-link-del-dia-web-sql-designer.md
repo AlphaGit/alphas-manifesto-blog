@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Web SQL Designer'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1016
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1016
 date: '2009-02-24 09:48:39 +0000'
 date_gmt: '2009-02-24 11:48:39 +0000'

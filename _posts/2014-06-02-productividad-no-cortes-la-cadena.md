@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Productividad: no cortes la cadena'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5101
 wordpress_url: http://blog.alphasmanifesto.com/?p=5101
 date: '2014-06-02 21:46:22 +0000'
 date_gmt: '2014-06-03 02:46:22 +0000'

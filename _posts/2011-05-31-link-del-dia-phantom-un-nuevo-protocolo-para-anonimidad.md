@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Phantom, un nuevo protocolo para anonimidad'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3016
 wordpress_url: http://blog.alphasmanifesto.com/?p=3016
 date: '2011-05-31 13:16:05 +0000'
 date_gmt: '2011-05-31 15:16:05 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Mobile UI Patterns
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3866
 wordpress_url: http://blog.alphasmanifesto.com/?p=3866
 date: '2012-05-07 09:14:52 +0000'
 date_gmt: '2012-05-07 14:14:52 +0000'

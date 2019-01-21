@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Visualizar las estructuras'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2949
 wordpress_url: http://blog.alphasmanifesto.com/?p=2949
 date: '2011-05-03 12:48:24 +0000'
 date_gmt: '2011-05-03 14:48:24 +0000'

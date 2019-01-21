@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Presentando: What now?'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5039
 wordpress_url: http://blog.alphasmanifesto.com/?p=5039
 date: '2014-02-23 19:25:39 +0000'
 date_gmt: '2014-02-24 00:25:39 +0000'

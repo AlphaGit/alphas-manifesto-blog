@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Consejos para un no-programador
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4888
 wordpress_url: http://blog.alphasmanifesto.com/?p=4888
 date: '2013-06-22 21:18:32 +0000'
 date_gmt: '2013-06-23 02:18:32 +0000'

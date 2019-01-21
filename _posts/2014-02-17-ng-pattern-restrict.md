@@ -1,15 +1,6 @@
 ---
 layout: post
 title: ng-pattern-restrict
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5022
 wordpress_url: http://blog.alphasmanifesto.com/?p=5022
 date: '2014-02-17 21:12:11 +0000'
 date_gmt: '2014-02-18 02:12:11 +0000'

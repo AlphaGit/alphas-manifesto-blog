@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Nuevas clases en Udacity
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3793
 wordpress_url: http://blog.alphasmanifesto.com/?p=3793
 date: '2012-04-17 09:09:51 +0000'
 date_gmt: '2012-04-17 14:09:51 +0000'

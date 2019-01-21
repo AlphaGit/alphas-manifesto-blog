@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Condiciones OR en REST
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4780
 wordpress_url: http://blog.alphasmanifesto.com/?p=4780
 date: '2013-08-08 17:42:13 +0000'
 date_gmt: '2013-08-08 22:42:13 +0000'

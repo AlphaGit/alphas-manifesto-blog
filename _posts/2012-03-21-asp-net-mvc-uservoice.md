@@ -1,15 +1,6 @@
 ---
 layout: post
 title: ASP.NET MVC UserVoice
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3727
 wordpress_url: http://blog.alphasmanifesto.com/?p=3727
 date: '2012-03-21 11:09:18 +0000'
 date_gmt: '2012-03-21 16:09:18 +0000'

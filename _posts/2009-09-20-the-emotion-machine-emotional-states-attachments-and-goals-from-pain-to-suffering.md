@@ -2,15 +2,6 @@
 layout: post
 title: 'The Emotion Machine: Emotional States, Attachments and Goals, From Pain to
   Suffering'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1482
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1482
 date: '2009-09-20 02:21:17 +0000'
 date_gmt: '2009-09-20 04:21:17 +0000'

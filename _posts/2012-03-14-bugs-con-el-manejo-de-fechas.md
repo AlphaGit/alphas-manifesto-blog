@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Bugs con el manejo de fechas
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3718
 wordpress_url: http://blog.alphasmanifesto.com/?p=3718
 date: '2012-03-14 08:56:58 +0000'
 date_gmt: '2012-03-14 13:56:58 +0000'

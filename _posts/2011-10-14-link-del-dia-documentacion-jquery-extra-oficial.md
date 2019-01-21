@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Documentación jQuery extra-oficial'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3322
 wordpress_url: http://blog.alphasmanifesto.com/?p=3322
 date: '2011-10-14 06:57:16 +0000'
 date_gmt: '2011-10-14 11:57:16 +0000'

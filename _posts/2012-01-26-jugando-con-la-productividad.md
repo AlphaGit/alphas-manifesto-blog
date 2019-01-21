@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Jugando con la productividad
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3551
 wordpress_url: http://blog.alphasmanifesto.com/?p=3551
 date: '2012-01-26 11:50:08 +0000'
 date_gmt: '2012-01-26 16:50:08 +0000'

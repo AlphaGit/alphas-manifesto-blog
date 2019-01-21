@@ -1,15 +1,6 @@
 ---
 layout: post
 title: "¡Nuevo diseño!"
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3467
 wordpress_url: http://blog.alphasmanifesto.com/?p=3467
 date: '2012-01-11 22:18:06 +0000'
 date_gmt: '2012-01-12 03:18:06 +0000'

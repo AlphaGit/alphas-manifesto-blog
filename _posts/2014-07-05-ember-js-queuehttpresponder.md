@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Ember.js: queueHttpResponder'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5129
 wordpress_url: http://blog.alphasmanifesto.com/?p=5129
 date: '2014-07-05 18:50:06 +0000'
 date_gmt: '2014-07-05 23:50:06 +0000'

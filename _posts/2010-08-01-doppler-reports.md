@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Doppler Reports
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2252
 wordpress_url: http://blog.alphasmanifesto.com/?p=2252
 date: '2010-08-01 05:02:44 +0000'
 date_gmt: '2010-08-01 07:02:44 +0000'

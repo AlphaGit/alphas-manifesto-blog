@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Ciencia de datos ágil
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6471
 wordpress_url: https://blog.alphasmanifesto.com/?p=6471
 date: '2018-04-01 11:48:41 +0000'
 date_gmt: '2018-04-01 15:48:41 +0000'

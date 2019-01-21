@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Preloaders, botones y DOM'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1024
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1024
 date: '2009-02-25 10:05:22 +0000'
 date_gmt: '2009-02-25 12:05:22 +0000'

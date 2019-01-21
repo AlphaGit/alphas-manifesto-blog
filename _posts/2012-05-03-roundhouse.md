@@ -1,15 +1,6 @@
 ---
 layout: post
 title: RoundhousE
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3858
 wordpress_url: http://blog.alphasmanifesto.com/?p=3858
 date: '2012-05-03 11:43:39 +0000'
 date_gmt: '2012-05-03 16:43:39 +0000'

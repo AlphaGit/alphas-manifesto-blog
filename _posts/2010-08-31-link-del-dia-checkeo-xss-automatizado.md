@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Checkeo XSS automatizado'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2488
 wordpress_url: http://blog.alphasmanifesto.com/?p=2488
 date: '2010-08-31 15:56:53 +0000'
 date_gmt: '2010-08-31 17:56:53 +0000'

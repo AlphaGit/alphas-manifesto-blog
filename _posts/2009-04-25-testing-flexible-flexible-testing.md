@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Testing Flexible | Flexible Testing
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1195
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1195
 date: '2009-04-25 19:06:11 +0000'
 date_gmt: '2009-04-25 21:06:11 +0000'

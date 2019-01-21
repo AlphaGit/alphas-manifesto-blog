@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Normalize CSS'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3030
 wordpress_url: http://blog.alphasmanifesto.com/?p=3030
 date: '2011-06-03 13:55:30 +0000'
 date_gmt: '2011-06-03 15:55:30 +0000'

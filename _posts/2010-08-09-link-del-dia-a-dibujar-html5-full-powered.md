@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: A dibujar, HTML5 full powered'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2271
 wordpress_url: http://blog.alphasmanifesto.com/?p=2271
 date: '2010-08-09 11:13:54 +0000'
 date_gmt: '2010-08-09 13:13:54 +0000'

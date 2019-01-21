@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Alpha's Manifesto ahora tiene menú configurable
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4675
 wordpress_url: http://blog.alphasmanifesto.com/?p=4675
 date: '2013-03-12 23:24:53 +0000'
 date_gmt: '2013-03-13 04:24:53 +0000'

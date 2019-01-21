@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Herramientas de seguridad'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2703
 wordpress_url: http://blog.alphasmanifesto.com/?p=2703
 date: '2010-12-07 10:49:11 +0000'
 date_gmt: '2010-12-07 12:49:11 +0000'

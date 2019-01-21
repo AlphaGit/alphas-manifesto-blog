@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: El bug tracker más simple'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3303
 wordpress_url: http://blog.alphasmanifesto.com/?p=3303
 date: '2011-10-03 08:28:22 +0000'
 date_gmt: '2011-10-03 13:28:22 +0000'

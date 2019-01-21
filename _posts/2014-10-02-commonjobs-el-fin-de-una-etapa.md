@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'CommonJobs: el fin de una etapa'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5180
 wordpress_url: http://blog.alphasmanifesto.com/?p=5180
 date: '2014-10-02 18:20:54 +0000'
 date_gmt: '2014-10-02 23:20:54 +0000'

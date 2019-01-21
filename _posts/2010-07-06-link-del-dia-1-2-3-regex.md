@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: 1, 2, 3... Regex!'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2203
 wordpress_url: http://blog.alphasmanifesto.com/?p=2203
 date: '2010-07-06 10:22:28 +0000'
 date_gmt: '2010-07-06 12:22:28 +0000'

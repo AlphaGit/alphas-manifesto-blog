@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: 'My sh*tpost generator: screaming-bot'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6506
 wordpress_url: https://blog.alphasmanifesto.com/?p=6506
 date: '2018-07-29 14:53:11 +0000'
 date_gmt: '2018-07-29 18:53:11 +0000'

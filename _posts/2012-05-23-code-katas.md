@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Code Katas
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3907
 wordpress_url: http://blog.alphasmanifesto.com/?p=3907
 date: '2012-05-23 09:16:30 +0000'
 date_gmt: '2012-05-23 14:16:30 +0000'

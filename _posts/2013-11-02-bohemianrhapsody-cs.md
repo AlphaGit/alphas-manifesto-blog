@@ -1,15 +1,6 @@
 ---
 layout: post
 title: BohemianRhapsody.cs
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5006
 wordpress_url: http://blog.alphasmanifesto.com/?p=5006
 date: '2013-11-02 19:50:41 +0000'
 date_gmt: '2013-11-03 00:50:41 +0000'

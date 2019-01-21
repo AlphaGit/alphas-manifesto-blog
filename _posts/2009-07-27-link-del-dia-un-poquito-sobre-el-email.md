@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Un poquito sobre el email'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1388
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1388
 date: '2009-07-27 10:53:34 +0000'
 date_gmt: '2009-07-27 12:53:34 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Performance HTML5, CSS3 y DOM, Parte 2: Performance HTML5'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2988
 wordpress_url: http://blog.alphasmanifesto.com/?p=2988
 date: '2011-05-16 12:42:28 +0000'
 date_gmt: '2011-05-16 14:42:28 +0000'

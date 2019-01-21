@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Aprendan estadística o los mato a todos'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3319
 wordpress_url: http://blog.alphasmanifesto.com/?p=3319
 date: '2011-10-13 08:17:46 +0000'
 date_gmt: '2011-10-13 13:17:46 +0000'

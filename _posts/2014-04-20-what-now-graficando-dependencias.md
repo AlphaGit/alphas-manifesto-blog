@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'What-now: graficando dependencias'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5064
 wordpress_url: http://blog.alphasmanifesto.com/?p=5064
 date: '2014-04-20 17:23:34 +0000'
 date_gmt: '2014-04-20 22:23:34 +0000'

@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: The Clean Coder
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5635
 wordpress_url: https://blog.alphasmanifesto.com/?p=5635
 date: '2016-11-20 18:01:46 +0000'
 date_gmt: '2016-11-21 00:01:46 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Recursivi(recursivi(recursivi.dad)dad)dad'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2210
 wordpress_url: http://blog.alphasmanifesto.com/?p=2210
 date: '2010-07-07 14:13:37 +0000'
 date_gmt: '2010-07-07 16:13:37 +0000'

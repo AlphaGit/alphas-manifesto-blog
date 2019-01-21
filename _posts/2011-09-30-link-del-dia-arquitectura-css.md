@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Arquitectura CSS'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3297
 wordpress_url: http://blog.alphasmanifesto.com/?p=3297
 date: '2011-09-30 08:18:05 +0000'
 date_gmt: '2011-09-30 13:18:05 +0000'

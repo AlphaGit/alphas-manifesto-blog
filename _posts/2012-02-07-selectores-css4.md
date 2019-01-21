@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Selectores CSS4
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3595
 wordpress_url: http://blog.alphasmanifesto.com/?p=3595
 date: '2012-02-07 11:50:23 +0000'
 date_gmt: '2012-02-07 16:50:23 +0000'

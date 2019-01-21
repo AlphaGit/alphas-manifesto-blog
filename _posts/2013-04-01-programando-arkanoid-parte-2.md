@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Programando Arkanoid - Parte 2
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4718
 wordpress_url: http://blog.alphasmanifesto.com/?p=4718
 date: '2013-04-01 20:23:58 +0000'
 date_gmt: '2013-04-02 01:23:58 +0000'

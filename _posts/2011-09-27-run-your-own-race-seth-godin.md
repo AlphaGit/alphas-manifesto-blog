@@ -1,15 +1,6 @@
 ---
 layout: post
 title: '"Run your own race" (Seth Godin)'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3291
 wordpress_url: http://blog.alphasmanifesto.com/?p=3291
 date: '2011-09-27 21:50:14 +0000'
 date_gmt: '2011-09-28 02:50:14 +0000'

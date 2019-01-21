@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'ASP.NET: Transfiriendo información entre páginas'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3597
 wordpress_url: http://blog.alphasmanifesto.com/?p=3597
 date: '2012-02-08 09:51:05 +0000'
 date_gmt: '2012-02-08 14:51:05 +0000'

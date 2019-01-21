@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Privacidad en las redes sociales'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3245
 wordpress_url: http://blog.alphasmanifesto.com/?p=3245
 date: '2011-09-06 08:33:50 +0000'
 date_gmt: '2011-09-06 13:33:50 +0000'

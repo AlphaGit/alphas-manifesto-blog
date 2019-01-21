@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Web Application Design Patterns
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3641
 wordpress_url: http://blog.alphasmanifesto.com/?p=3641
 date: '2012-02-21 05:06:17 +0000'
 date_gmt: '2012-02-21 10:06:17 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Texto y Javascript'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1421
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1421
 date: '2009-08-07 11:05:25 +0000'
 date_gmt: '2009-08-07 13:05:25 +0000'

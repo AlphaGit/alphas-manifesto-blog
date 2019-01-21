@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Comentarios sobre The State of Responsive Web Design
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4876
 wordpress_url: http://blog.alphasmanifesto.com/?p=4876
 date: '2013-06-02 16:32:34 +0000'
 date_gmt: '2013-06-02 21:32:34 +0000'

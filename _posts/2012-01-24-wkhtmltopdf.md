@@ -1,15 +1,6 @@
 ---
 layout: post
 title: wkhtmltopdf
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3540
 wordpress_url: http://blog.alphasmanifesto.com/?p=3540
 date: '2012-01-24 12:53:53 +0000'
 date_gmt: '2012-01-24 17:53:53 +0000'

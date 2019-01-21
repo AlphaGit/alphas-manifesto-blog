@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Patrones CSS3'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2906
 wordpress_url: http://blog.alphasmanifesto.com/?p=2906
 date: '2011-04-19 13:02:46 +0000'
 date_gmt: '2011-04-19 15:02:46 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Quieren ir al Black Hat?'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2149
 wordpress_url: http://blog.alphasmanifesto.com/?p=2149
 date: '2010-06-02 10:57:17 +0000'
 date_gmt: '2010-06-02 12:57:17 +0000'

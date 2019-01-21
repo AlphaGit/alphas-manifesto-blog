@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Escribir JavaScript, al estilo Google'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2508
 wordpress_url: http://blog.alphasmanifesto.com/?p=2508
 date: '2010-09-08 16:02:31 +0000'
 date_gmt: '2010-09-08 18:02:31 +0000'

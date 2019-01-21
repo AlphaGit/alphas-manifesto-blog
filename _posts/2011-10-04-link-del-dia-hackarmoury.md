@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HackArmoury'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3306
 wordpress_url: http://blog.alphasmanifesto.com/?p=3306
 date: '2011-10-04 09:28:43 +0000'
 date_gmt: '2011-10-04 14:28:43 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Software de sincronización'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3444
 wordpress_url: http://blog.alphasmanifesto.com/?p=3444
 date: '2012-01-04 12:46:07 +0000'
 date_gmt: '2012-01-04 17:46:07 +0000'

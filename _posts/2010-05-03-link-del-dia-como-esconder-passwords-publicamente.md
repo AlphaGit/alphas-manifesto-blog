@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cómo esconder passwords públicamente'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2084
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2084
 date: '2010-05-03 11:04:49 +0000'
 date_gmt: '2010-05-03 13:04:49 +0000'

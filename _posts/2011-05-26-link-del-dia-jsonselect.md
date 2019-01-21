@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: JSONSelect'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3014
 wordpress_url: http://blog.alphasmanifesto.com/?p=3014
 date: '2011-05-26 12:05:07 +0000'
 date_gmt: '2011-05-26 14:05:07 +0000'

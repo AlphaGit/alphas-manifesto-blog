@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Gráficos para tu web, Flash + HTML5'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2543
 wordpress_url: http://blog.alphasmanifesto.com/?p=2543
 date: '2010-09-20 10:54:35 +0000'
 date_gmt: '2010-09-20 12:54:35 +0000'

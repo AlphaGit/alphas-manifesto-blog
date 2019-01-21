@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Las características no tan conocidas de los batch files
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4085
 wordpress_url: http://blog.alphasmanifesto.com/?p=4085
 date: '2012-07-10 09:24:36 +0000'
 date_gmt: '2012-07-10 14:24:36 +0000'

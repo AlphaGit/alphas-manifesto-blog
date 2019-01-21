@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'The Emotion Machine - Chapter 4: Consciousness'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2555
 wordpress_url: http://blog.alphasmanifesto.com/?p=2555
 date: '2010-10-08 14:51:12 +0000'
 date_gmt: '2010-10-08 16:51:12 +0000'

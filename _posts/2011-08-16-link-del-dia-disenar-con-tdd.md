@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Diseñar con TDD'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3188
 wordpress_url: http://blog.alphasmanifesto.com/?p=3188
 date: '2011-08-16 13:58:06 +0000'
 date_gmt: '2011-08-16 15:58:06 +0000'

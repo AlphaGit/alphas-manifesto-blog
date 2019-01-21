@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Transcendent Man
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3818
 wordpress_url: http://blog.alphasmanifesto.com/?p=3818
 date: '2012-04-25 02:03:02 +0000'
 date_gmt: '2012-04-25 07:03:02 +0000'

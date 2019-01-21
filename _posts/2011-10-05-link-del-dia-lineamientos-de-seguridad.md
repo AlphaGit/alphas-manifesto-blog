@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Lineamientos de seguridad'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3309
 wordpress_url: http://blog.alphasmanifesto.com/?p=3309
 date: '2011-10-05 09:45:49 +0000'
 date_gmt: '2011-10-05 14:45:49 +0000'

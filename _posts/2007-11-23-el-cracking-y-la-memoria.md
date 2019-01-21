@@ -1,16 +1,6 @@
 ---
 layout: post
 title: El cracking y la memoria
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 170
-wordpress_url: http://zorri2.wordpress.com/2007/11/23/el-cracking-y-la-memoria/
 date: '2007-11-23 13:00:00 +0000'
 date_gmt: '2007-11-23 13:00:00 +0000'
 categories:

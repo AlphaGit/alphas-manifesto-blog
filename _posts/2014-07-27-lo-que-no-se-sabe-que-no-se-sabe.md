@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Lo que no se sabe que no se sabe
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5153
 wordpress_url: http://blog.alphasmanifesto.com/?p=5153
 date: '2014-07-27 11:14:43 +0000'
 date_gmt: '2014-07-27 16:14:43 +0000'

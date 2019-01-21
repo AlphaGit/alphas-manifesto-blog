@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Algunas reseñas de libros
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4800
 wordpress_url: http://blog.alphasmanifesto.com/?p=4800
 date: '2013-05-12 13:02:06 +0000'
 date_gmt: '2013-05-12 18:02:06 +0000'

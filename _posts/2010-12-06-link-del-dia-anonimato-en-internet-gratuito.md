@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Anonimato en internet gratuito'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2701
 wordpress_url: http://blog.alphasmanifesto.com/?p=2701
 date: '2010-12-06 11:10:04 +0000'
 date_gmt: '2010-12-06 13:10:04 +0000'

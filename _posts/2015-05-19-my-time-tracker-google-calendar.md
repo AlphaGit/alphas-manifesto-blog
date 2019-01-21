@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: 'My time tracker: Google Calendar'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5290
 wordpress_url: http://blog.alphasmanifesto.com/?p=5290
 date: '2015-05-19 23:30:42 +0000'
 date_gmt: '2015-05-20 04:30:42 +0000'

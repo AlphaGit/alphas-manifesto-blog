@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: 'Preventing an AI arms race: open research'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6482
 wordpress_url: https://blog.alphasmanifesto.com/?p=6482
 date: '2018-05-30 19:58:57 +0000'
 date_gmt: '2018-05-30 23:58:57 +0000'

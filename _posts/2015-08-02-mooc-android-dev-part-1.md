@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: 'MOOC: Android Dev Part 1'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5314
 wordpress_url: http://blog.alphasmanifesto.com/?p=5314
 date: '2015-08-02 15:14:17 +0000'
 date_gmt: '2015-08-02 20:14:17 +0000'

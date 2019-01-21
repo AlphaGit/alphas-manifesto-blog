@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Working effectively with legacy code (review)
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6517
 wordpress_url: https://blog.alphasmanifesto.com/?p=6517
 date: '2018-09-01 16:32:24 +0000'
 date_gmt: '2018-09-01 20:32:24 +0000'

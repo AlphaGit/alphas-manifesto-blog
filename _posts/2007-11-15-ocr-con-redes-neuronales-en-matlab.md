@@ -1,16 +1,6 @@
 ---
 layout: post
 title: OCR con Redes Neuronales en MatLab
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 156
-wordpress_url: http://zorri2.wordpress.com/2007/11/15/ocr-con-redes-neuronales-en-matlab/
 date: '2007-11-15 02:57:00 +0000'
 date_gmt: '2007-11-15 02:57:00 +0000'
 categories:

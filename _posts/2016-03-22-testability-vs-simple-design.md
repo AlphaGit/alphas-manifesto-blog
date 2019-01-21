@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Testability vs. simple design
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5574
 wordpress_url: https://blog.alphasmanifesto.com/?p=5574
 date: '2016-03-22 20:21:31 +0000'
 date_gmt: '2016-03-23 01:21:31 +0000'

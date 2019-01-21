@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Social por defecto'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2918
 wordpress_url: http://blog.alphasmanifesto.com/?p=2918
 date: '2011-04-26 22:10:24 +0000'
 date_gmt: '2011-04-27 00:10:24 +0000'

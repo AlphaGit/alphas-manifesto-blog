@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Testing como parte del proceso de calidad de software
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1086
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1086
 date: '2009-03-21 22:24:30 +0000'
 date_gmt: '2009-03-22 00:24:30 +0000'

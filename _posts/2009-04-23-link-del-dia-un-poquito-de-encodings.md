@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Un poquito de Encodings'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1189
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1189
 date: '2009-04-23 10:59:05 +0000'
 date_gmt: '2009-04-23 12:59:05 +0000'

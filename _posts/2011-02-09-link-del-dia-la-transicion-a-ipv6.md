@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: La transición a IPv6'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2808
 wordpress_url: http://blog.alphasmanifesto.com/?p=2808
 date: '2011-02-09 13:05:26 +0000'
 date_gmt: '2011-02-09 15:05:26 +0000'

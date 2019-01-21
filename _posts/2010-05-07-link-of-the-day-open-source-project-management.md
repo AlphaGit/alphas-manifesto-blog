@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Open Source Project Management'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2101
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2101
 date: '2010-05-07 11:25:46 +0000'
 date_gmt: '2010-05-07 13:25:46 +0000'

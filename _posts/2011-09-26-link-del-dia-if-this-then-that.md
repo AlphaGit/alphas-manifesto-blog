@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: If This Then That'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3284
 wordpress_url: http://blog.alphasmanifesto.com/?p=3284
 date: '2011-09-26 12:40:23 +0000'
 date_gmt: '2011-09-26 17:40:23 +0000'

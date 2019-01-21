@@ -1,15 +1,6 @@
 ---
 layout: post
 title: La prueba de la pizza
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 4575
 wordpress_url: http://blog.alphasmanifesto.com/?p=4575
 date: '2013-01-26 18:04:06 +0000'
 date_gmt: '2013-01-26 23:04:06 +0000'

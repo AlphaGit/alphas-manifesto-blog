@@ -1,16 +1,6 @@
 ---
 layout: post
 title: 'Link del día: La máquina de emociones'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 429
-wordpress_url: http://zorri2.wordpress.com/2008/08/05/link-del-dia-la-maquina-de-emociones/
 date: '2008-08-05 11:54:00 +0000'
 date_gmt: '2008-08-05 11:54:00 +0000'
 categories:

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Web Usability Guidelines'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1438
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1438
 date: '2009-08-20 11:26:46 +0000'
 date_gmt: '2009-08-20 13:26:46 +0000'

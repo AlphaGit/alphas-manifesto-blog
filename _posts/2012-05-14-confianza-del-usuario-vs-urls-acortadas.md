@@ -1,15 +1,6 @@
 ---
 layout: post
 title: " ¿Confianza del usuario vs. URLs acortadas?"
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3898
 wordpress_url: http://blog.alphasmanifesto.com/?p=3898
 date: '2012-05-14 08:43:24 +0000'
 date_gmt: '2012-05-14 13:43:24 +0000'

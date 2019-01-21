@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Optimización web vs. desarrollo prolijo'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2636
 wordpress_url: http://blog.alphasmanifesto.com/?p=2636
 date: '2010-11-08 11:23:28 +0000'
 date_gmt: '2010-11-08 13:23:28 +0000'

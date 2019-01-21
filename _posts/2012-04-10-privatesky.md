@@ -1,15 +1,6 @@
 ---
 layout: post
 title: PrivateSky
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3772
 wordpress_url: http://blog.alphasmanifesto.com/?p=3772
 date: '2012-04-10 09:27:34 +0000'
 date_gmt: '2012-04-10 14:27:34 +0000'

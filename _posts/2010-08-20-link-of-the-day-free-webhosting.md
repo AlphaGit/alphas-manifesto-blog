@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Free webhosting'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2289
 wordpress_url: http://blog.alphasmanifesto.com/?p=2289
 date: '2010-08-20 15:03:27 +0000'
 date_gmt: '2010-08-20 17:03:27 +0000'

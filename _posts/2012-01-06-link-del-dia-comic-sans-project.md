@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Comic Sans Project'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3449
 wordpress_url: http://blog.alphasmanifesto.com/?p=3449
 date: '2012-01-06 12:08:48 +0000'
 date_gmt: '2012-01-06 17:08:48 +0000'

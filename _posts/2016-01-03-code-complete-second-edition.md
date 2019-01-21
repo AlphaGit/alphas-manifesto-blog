@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Code Complete, Second Edition
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5551
 wordpress_url: http://blog.alphasmanifesto.com/?p=5551
 date: '2016-01-03 22:03:45 +0000'
 date_gmt: '2016-01-04 04:03:45 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: UI Layout Plugin'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3347
 wordpress_url: http://blog.alphasmanifesto.com/?p=3347
 date: '2011-10-28 10:36:51 +0000'
 date_gmt: '2011-10-28 15:36:51 +0000'

@@ -2,15 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Head First Data Analysis
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6496
 wordpress_url: https://blog.alphasmanifesto.com/?p=6496
 date: '2018-07-15 10:20:48 +0000'
 date_gmt: '2018-07-15 14:20:48 +0000'

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cómo hacer un buen tutorial'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2866
 wordpress_url: http://blog.alphasmanifesto.com/?p=2866
 date: '2011-03-28 12:23:21 +0000'
 date_gmt: '2011-03-28 14:23:21 +0000'

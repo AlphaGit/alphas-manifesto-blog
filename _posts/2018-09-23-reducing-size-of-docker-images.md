@@ -2,16 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Reducing size of Docker images
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6533
-wordpress_url: https://blog.alphasmanifesto.com/?p=6533
 date: '2018-09-23 20:16:19 +0000'
 date_gmt: '2018-09-24 00:16:19 +0000'
 categories:

@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link of the Day: Cassandra by example'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2116
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2116
 date: '2010-05-14 11:26:23 +0000'
 date_gmt: '2010-05-14 13:26:23 +0000'

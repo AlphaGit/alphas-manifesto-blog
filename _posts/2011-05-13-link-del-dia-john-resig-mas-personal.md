@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: John Resig, más personal'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2982
 wordpress_url: http://blog.alphasmanifesto.com/?p=2982
 date: '2011-05-13 13:29:19 +0000'
 date_gmt: '2011-05-13 15:29:19 +0000'

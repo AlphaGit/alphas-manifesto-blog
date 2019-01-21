@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Hermoso JavaScript!'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2540
 wordpress_url: http://blog.alphasmanifesto.com/?p=2540
 date: '2010-09-16 14:59:29 +0000'
 date_gmt: '2010-09-16 16:59:29 +0000'

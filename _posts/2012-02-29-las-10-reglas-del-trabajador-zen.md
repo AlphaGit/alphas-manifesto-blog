@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Las 10 reglas del trabajador Zen
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3672
 wordpress_url: http://blog.alphasmanifesto.com/?p=3672
 date: '2012-02-29 10:17:37 +0000'
 date_gmt: '2012-02-29 15:17:37 +0000'

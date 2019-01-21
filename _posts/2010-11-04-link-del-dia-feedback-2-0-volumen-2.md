@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Feedback 2.0, volumen 2'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2630
 wordpress_url: http://blog.alphasmanifesto.com/?p=2630
 date: '2010-11-04 11:45:24 +0000'
 date_gmt: '2010-11-04 13:45:24 +0000'
