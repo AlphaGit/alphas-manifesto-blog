@@ -13,7 +13,7 @@ author:
       icon: fab fa-twitter
     - title: Skilled.co
       url: https://skilled.co/
-      icon: fab fab-link
+      icon: fas fa-link
 date: '2017-04-30 13:57:05 +0000'
 date_gmt: '2017-04-30 18:57:05 +0000'
 categories:
