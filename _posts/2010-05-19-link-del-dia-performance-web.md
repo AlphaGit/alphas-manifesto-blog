@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Performance Web'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2125
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2125
 date: '2010-05-19 14:17:35 +0000'
 date_gmt: '2010-05-19 16:17:35 +0000'

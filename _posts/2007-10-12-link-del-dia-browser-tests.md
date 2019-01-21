@@ -1,15 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Browser Tests'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 128
-wordpress_url: http://zorri2.wordpress.com/2007/10/12/link-del-dia-browser-tests/
 date: '2007-10-12 13:40:00 +0000'
 date_gmt: '2007-10-12 13:40:00 +0000'
 categories:

@@ -1,14 +1,6 @@
 ---
 layout: post
 title: CSS Dinámico
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3757
 wordpress_url: http://blog.alphasmanifesto.com/?p=3757
 date: '2012-04-03 08:51:43 +0000'
 date_gmt: '2012-04-03 13:51:43 +0000'

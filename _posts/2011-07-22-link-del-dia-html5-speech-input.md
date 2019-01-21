@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML5 Speech input'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3148
 wordpress_url: http://blog.alphasmanifesto.com/?p=3148
 date: '2011-07-22 14:28:29 +0000'
 date_gmt: '2011-07-22 16:28:29 +0000'

@@ -1,14 +1,6 @@
 ---
 layout: post
 title: Misceláneos del fin de semana
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3280
 wordpress_url: http://blog.alphasmanifesto.com/?p=3280
 date: '2011-09-25 22:06:08 +0000'
 date_gmt: '2011-09-26 03:06:08 +0000'

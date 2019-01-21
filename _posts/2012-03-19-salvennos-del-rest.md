@@ -1,14 +1,6 @@
 ---
 layout: post
 title: Sálvenos del REST!
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3722
 wordpress_url: http://blog.alphasmanifesto.com/?p=3722
 date: '2012-03-19 13:25:02 +0000'
 date_gmt: '2012-03-19 18:25:02 +0000'

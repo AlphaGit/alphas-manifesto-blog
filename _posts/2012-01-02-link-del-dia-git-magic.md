@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Git Magic'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3436
 wordpress_url: http://blog.alphasmanifesto.com/?p=3436
 date: '2012-01-02 09:39:21 +0000'
 date_gmt: '2012-01-02 14:39:21 +0000'

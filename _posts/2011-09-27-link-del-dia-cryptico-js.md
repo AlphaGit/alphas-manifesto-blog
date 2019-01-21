@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cryptico.js'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3287
 wordpress_url: http://blog.alphasmanifesto.com/?p=3287
 date: '2011-09-27 10:11:39 +0000'
 date_gmt: '2011-09-27 15:11:39 +0000'

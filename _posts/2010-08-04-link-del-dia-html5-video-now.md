@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML5 video now!'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2266
 wordpress_url: http://blog.alphasmanifesto.com/?p=2266
 date: '2010-08-04 11:38:29 +0000'
 date_gmt: '2010-08-04 13:38:29 +0000'

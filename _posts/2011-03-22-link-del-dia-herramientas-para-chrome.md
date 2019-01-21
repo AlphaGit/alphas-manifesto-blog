@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Herramientas para Chrome'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2857
 wordpress_url: http://blog.alphasmanifesto.com/?p=2857
 date: '2011-03-22 10:44:21 +0000'
 date_gmt: '2011-03-22 12:44:21 +0000'

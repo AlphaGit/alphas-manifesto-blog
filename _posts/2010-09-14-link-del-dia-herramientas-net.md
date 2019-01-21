@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Herramientas .NET'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2533
 wordpress_url: http://blog.alphasmanifesto.com/?p=2533
 date: '2010-09-14 11:12:42 +0000'
 date_gmt: '2010-09-14 13:12:42 +0000'

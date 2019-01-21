@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Scrollability'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3146
 wordpress_url: http://blog.alphasmanifesto.com/?p=3146
 date: '2011-07-21 13:01:26 +0000'
 date_gmt: '2011-07-21 15:01:26 +0000'

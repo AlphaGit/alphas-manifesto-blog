@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Videos Adaptables'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3250
 wordpress_url: http://blog.alphasmanifesto.com/?p=3250
 date: '2011-09-08 09:22:10 +0000'
 date_gmt: '2011-09-08 14:22:10 +0000'

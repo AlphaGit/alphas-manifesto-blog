@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Clases en Stanford'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3197
 wordpress_url: http://blog.alphasmanifesto.com/?p=3197
 date: '2011-08-19 12:19:08 +0000'
 date_gmt: '2011-08-19 14:19:08 +0000'

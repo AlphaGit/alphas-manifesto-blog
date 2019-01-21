@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Software libre y gratuito para todo'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1924
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1924
 date: '2010-03-04 11:19:09 +0000'
 date_gmt: '2010-03-04 13:19:09 +0000'

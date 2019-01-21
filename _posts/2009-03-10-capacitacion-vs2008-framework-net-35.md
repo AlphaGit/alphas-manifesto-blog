@@ -1,15 +1,6 @@
 ---
 layout: post
 title: Capacitación VS2008 & Framework .NET 3.5
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1057
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1057
 date: '2009-03-10 21:00:54 +0000'
 date_gmt: '2009-03-10 23:00:54 +0000'
 categories:

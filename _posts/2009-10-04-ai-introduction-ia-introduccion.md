@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'AI: Introduction | IA: Introducción'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1534
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1534
 date: '2009-10-04 03:43:17 +0000'
 date_gmt: '2009-10-04 05:43:17 +0000'

@@ -1,14 +1,6 @@
 ---
 layout: post
 title: SOPA, PIPA, y MEPA que se están equivocando
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3529
 wordpress_url: http://blog.alphasmanifesto.com/?p=3529
 date: '2012-01-22 00:16:44 +0000'
 date_gmt: '2012-01-22 05:16:44 +0000'

@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Social Datamining'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2823
 wordpress_url: http://blog.alphasmanifesto.com/?p=2823
 date: '2011-02-28 11:11:14 +0000'
 date_gmt: '2011-02-28 13:11:14 +0000'

@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Probar ruby sin problemas'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 1855
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1855
 date: '2010-02-11 11:56:03 +0000'
 date_gmt: '2010-02-11 13:56:03 +0000'

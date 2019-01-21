@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: jStorage'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2052
 wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2052
 date: '2010-04-21 09:53:56 +0000'
 date_gmt: '2010-04-21 11:53:56 +0000'

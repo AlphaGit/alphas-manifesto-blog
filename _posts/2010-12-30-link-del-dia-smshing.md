@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: SMShing'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2750
 wordpress_url: http://blog.alphasmanifesto.com/?p=2750
 date: '2010-12-30 12:18:29 +0000'
 date_gmt: '2010-12-30 14:18:29 +0000'

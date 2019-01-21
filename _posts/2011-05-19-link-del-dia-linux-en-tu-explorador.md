@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Linux en tu explorador'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 2998
 wordpress_url: http://blog.alphasmanifesto.com/?p=2998
 date: '2011-05-19 12:35:30 +0000'
 date_gmt: '2011-05-19 14:35:30 +0000'

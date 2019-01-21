@@ -1,14 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML Code Quality'
-author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 3221
 wordpress_url: http://blog.alphasmanifesto.com/?p=3221
 date: '2011-08-25 12:26:20 +0000'
 date_gmt: '2011-08-25 14:26:20 +0000'
