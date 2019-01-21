@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 title: Some best practices for HTML Canvas
 author:
-  display_name: Colin Cieloha
+  name: Colin Cieloha
   twitter: ColinCieloha
   links:
   - title: LinkedIn
