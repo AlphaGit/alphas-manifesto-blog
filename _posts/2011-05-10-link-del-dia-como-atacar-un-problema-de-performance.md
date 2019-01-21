@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cómo atacar un problema de performance'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2968
 date: '2011-05-10 12:59:52 +0000'
 date_gmt: '2011-05-10 14:59:52 +0000'
 categories:

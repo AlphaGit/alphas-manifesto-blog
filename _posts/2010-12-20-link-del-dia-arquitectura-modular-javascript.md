@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Arquitectura Modular JavaScript'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2729
 date: '2010-12-20 12:00:10 +0000'
 date_gmt: '2010-12-20 14:00:10 +0000'
 categories:

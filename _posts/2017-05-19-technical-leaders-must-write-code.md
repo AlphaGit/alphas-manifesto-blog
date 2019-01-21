@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Technical Leaders **must** write code
-wordpress_url: https://blog.alphasmanifesto.com/?p=5677
 date: '2017-05-19 19:11:30 +0000'
 date_gmt: '2017-05-20 00:11:30 +0000'
 categories:

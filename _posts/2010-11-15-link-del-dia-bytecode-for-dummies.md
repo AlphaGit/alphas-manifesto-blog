@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Bytecode for Dummies'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2654
 date: '2010-11-15 17:20:51 +0000'
 date_gmt: '2010-11-15 19:20:51 +0000'
 categories:

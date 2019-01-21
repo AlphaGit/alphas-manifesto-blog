@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Git#'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1560
 date: '2009-10-15 11:23:11 +0000'
 date_gmt: '2009-10-15 13:23:11 +0000'
 categories:

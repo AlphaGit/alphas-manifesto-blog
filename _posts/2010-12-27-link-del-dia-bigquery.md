@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: BigQuery'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2746
 date: '2010-12-27 13:19:29 +0000'
 date_gmt: '2010-12-27 15:19:29 +0000'
 categories:

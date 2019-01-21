@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: JavaScript IDE para iPhone'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2645
 date: '2010-11-09 12:22:00 +0000'
 date_gmt: '2010-11-09 14:22:00 +0000'
 categories:

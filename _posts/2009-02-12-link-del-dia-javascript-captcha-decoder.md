@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Javascript CAPTCHA Decoder'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=985
 date: '2009-02-12 09:50:29 +0000'
 date_gmt: '2009-02-12 11:50:29 +0000'
 categories:

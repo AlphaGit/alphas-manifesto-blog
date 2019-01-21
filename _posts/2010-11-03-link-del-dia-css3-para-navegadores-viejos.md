@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: CSS3 para navegadores viejos'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2628
 date: '2010-11-03 11:15:42 +0000'
 date_gmt: '2010-11-03 13:15:42 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Los favoritos
-wordpress_url: http://blog.alphasmanifesto.com/?p=4783
 date: '2013-05-12 10:16:43 +0000'
 date_gmt: '2013-05-12 15:16:43 +0000'
 categories:

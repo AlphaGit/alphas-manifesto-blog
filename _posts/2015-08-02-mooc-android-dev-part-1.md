@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: 'MOOC: Android Dev Part 1'
-wordpress_url: http://blog.alphasmanifesto.com/?p=5314
 date: '2015-08-02 15:14:17 +0000'
 date_gmt: '2015-08-02 20:14:17 +0000'
 categories:

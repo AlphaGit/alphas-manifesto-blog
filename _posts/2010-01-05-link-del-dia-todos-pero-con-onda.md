@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: TODOs pero con onda'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1741
 date: '2010-01-05 12:45:31 +0000'
 date_gmt: '2010-01-05 14:45:31 +0000'
 categories:

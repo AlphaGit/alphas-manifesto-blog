@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Principios Universales del Diseño
-wordpress_url: http://blog.alphasmanifesto.com/?p=3562
 date: '2012-02-03 10:44:27 +0000'
 date_gmt: '2012-02-03 15:44:27 +0000'
 categories:

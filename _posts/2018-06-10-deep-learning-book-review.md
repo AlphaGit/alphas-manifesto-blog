@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Deep Learning (book review)
-wordpress_url: https://blog.alphasmanifesto.com/?p=6490
 date: '2018-06-10 12:43:23 +0000'
 date_gmt: '2018-06-10 16:43:23 +0000'
 categories:

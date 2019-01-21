@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: La belleza de los algoritmos'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2294
 date: '2010-08-24 14:44:42 +0000'
 date_gmt: '2010-08-24 16:44:42 +0000'
 categories:

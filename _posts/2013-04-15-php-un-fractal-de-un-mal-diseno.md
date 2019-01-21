@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'PHP: Un fractal de mal diseño'
-wordpress_url: http://blog.alphasmanifesto.com/?p=4537
 date: '2013-04-15 21:53:23 +0000'
 date_gmt: '2013-04-16 02:53:23 +0000'
 categories:

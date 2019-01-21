@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Performance HTML5, CSS3 y DOM, Parte 1: Intro'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2960
 date: '2011-05-09 13:16:35 +0000'
 date_gmt: '2011-05-09 15:16:35 +0000'
 categories:

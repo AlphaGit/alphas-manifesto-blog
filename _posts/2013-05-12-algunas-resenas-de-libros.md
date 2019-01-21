@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Algunas reseñas de libros
-wordpress_url: http://blog.alphasmanifesto.com/?p=4800
 date: '2013-05-12 13:02:06 +0000'
 date_gmt: '2013-05-12 18:02:06 +0000'
 categories:

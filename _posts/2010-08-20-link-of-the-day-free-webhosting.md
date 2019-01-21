@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Free webhosting'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2289
 date: '2010-08-20 15:03:27 +0000'
 date_gmt: '2010-08-20 17:03:27 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: '"Hackearon mi server"'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3873
 date: '2012-05-16 09:47:32 +0000'
 date_gmt: '2012-05-16 14:47:32 +0000'
 categories:

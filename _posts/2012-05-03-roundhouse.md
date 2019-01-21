@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RoundhousE
-wordpress_url: http://blog.alphasmanifesto.com/?p=3858
 date: '2012-05-03 11:43:39 +0000'
 date_gmt: '2012-05-03 16:43:39 +0000'
 categories:

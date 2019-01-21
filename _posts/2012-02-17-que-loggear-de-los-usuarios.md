@@ -1,7 +1,6 @@
 ---
 layout: post
 title: " ¿Qué loggear de los usuarios?"
-wordpress_url: http://blog.alphasmanifesto.com/?p=3631
 date: '2012-02-17 11:55:25 +0000'
 date_gmt: '2012-02-17 16:55:25 +0000'
 categories:

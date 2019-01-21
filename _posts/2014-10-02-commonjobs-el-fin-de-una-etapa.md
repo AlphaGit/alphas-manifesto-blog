@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'CommonJobs: el fin de una etapa'
-wordpress_url: http://blog.alphasmanifesto.com/?p=5180
 date: '2014-10-02 18:20:54 +0000'
 date_gmt: '2014-10-02 23:20:54 +0000'
 categories:

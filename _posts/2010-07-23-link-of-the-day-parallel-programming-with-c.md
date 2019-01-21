@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Parallel programming with C#'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2234
 date: '2010-07-23 12:38:33 +0000'
 date_gmt: '2010-07-23 14:38:33 +0000'
 categories:

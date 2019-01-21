@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Minify'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3055
 date: '2011-06-20 11:36:47 +0000'
 date_gmt: '2011-06-20 13:36:47 +0000'
 categories:

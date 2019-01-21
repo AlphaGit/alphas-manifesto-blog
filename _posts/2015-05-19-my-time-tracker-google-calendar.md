@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: 'My time tracker: Google Calendar'
-wordpress_url: http://blog.alphasmanifesto.com/?p=5290
 date: '2015-05-19 23:30:42 +0000'
 date_gmt: '2015-05-20 04:30:42 +0000'
 categories:

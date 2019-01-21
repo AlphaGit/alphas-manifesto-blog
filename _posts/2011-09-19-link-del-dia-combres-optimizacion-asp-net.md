@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Combres, optimización ASP.NET'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3273
 date: '2011-09-19 10:48:45 +0000'
 date_gmt: '2011-09-19 15:48:45 +0000'
 categories:

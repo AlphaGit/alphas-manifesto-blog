@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: CrossBrowserTesting.com'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1425
 date: '2009-08-10 10:22:34 +0000'
 date_gmt: '2009-08-10 12:22:34 +0000'
 categories:

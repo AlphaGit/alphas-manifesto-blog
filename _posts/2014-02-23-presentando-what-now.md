@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Presentando: What now?'
-wordpress_url: http://blog.alphasmanifesto.com/?p=5039
 date: '2014-02-23 19:25:39 +0000'
 date_gmt: '2014-02-24 00:25:39 +0000'
 categories:

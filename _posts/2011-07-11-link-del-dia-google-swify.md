@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Google Swify'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3116
 date: '2011-07-11 11:21:36 +0000'
 date_gmt: '2011-07-11 13:21:36 +0000'
 categories:

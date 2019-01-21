@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Microsoft Open Specifications'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1898
 date: '2010-02-23 11:35:40 +0000'
 date_gmt: '2010-02-23 13:35:40 +0000'
 categories:

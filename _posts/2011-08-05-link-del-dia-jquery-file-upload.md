@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: jQuery File Upload'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3170
 date: '2011-08-05 13:28:07 +0000'
 date_gmt: '2011-08-05 15:28:07 +0000'
 categories:

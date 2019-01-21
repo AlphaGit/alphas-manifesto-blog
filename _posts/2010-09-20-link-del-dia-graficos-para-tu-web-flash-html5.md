@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Gráficos para tu web, Flash + HTML5'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2543
 date: '2010-09-20 10:54:35 +0000'
 date_gmt: '2010-09-20 12:54:35 +0000'
 categories:

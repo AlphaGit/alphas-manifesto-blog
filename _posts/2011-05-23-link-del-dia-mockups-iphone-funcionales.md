@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Mockups iPhone, funcionales!'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3007
 date: '2011-05-23 12:24:09 +0000'
 date_gmt: '2011-05-23 14:24:09 +0000'
 categories:

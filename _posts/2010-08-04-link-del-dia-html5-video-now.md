@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML5 video now!'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2266
 date: '2010-08-04 11:38:29 +0000'
 date_gmt: '2010-08-04 13:38:29 +0000'
 categories:

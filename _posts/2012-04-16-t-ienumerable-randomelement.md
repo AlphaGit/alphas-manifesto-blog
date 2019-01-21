@@ -1,7 +1,6 @@
 ---
 layout: post
 title: T IEnumerable.RandomElement()
-wordpress_url: http://blog.alphasmanifesto.com/?p=3781
 date: '2012-04-16 09:56:01 +0000'
 date_gmt: '2012-04-16 14:56:01 +0000'
 categories:

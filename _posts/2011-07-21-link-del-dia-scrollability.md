@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Scrollability'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3146
 date: '2011-07-21 13:01:26 +0000'
 date_gmt: '2011-07-21 15:01:26 +0000'
 categories:

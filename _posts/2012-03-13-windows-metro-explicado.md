@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Windows Metro explicado
-wordpress_url: http://blog.alphasmanifesto.com/?p=3715
 date: '2012-03-13 08:04:24 +0000'
 date_gmt: '2012-03-13 13:04:24 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Recursivi(recursivi(recursivi.dad)dad)dad'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2210
 date: '2010-07-07 14:13:37 +0000'
 date_gmt: '2010-07-07 16:13:37 +0000'
 categories:

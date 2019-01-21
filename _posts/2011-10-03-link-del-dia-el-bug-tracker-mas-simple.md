@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: El bug tracker más simple'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3303
 date: '2011-10-03 08:28:22 +0000'
 date_gmt: '2011-10-03 13:28:22 +0000'
 categories:

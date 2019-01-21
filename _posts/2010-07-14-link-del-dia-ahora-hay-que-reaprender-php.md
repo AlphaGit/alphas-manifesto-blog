@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Ahora hay que reaprender PHP'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2218
 date: '2010-07-14 10:03:50 +0000'
 date_gmt: '2010-07-14 12:03:50 +0000'
 categories:

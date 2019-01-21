@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MakingSense blog
-wordpress_url: http://blog.alphasmanifesto.com/?p=3831
 date: '2012-04-27 12:00:03 +0000'
 date_gmt: '2012-04-27 17:00:03 +0000'
 categories:

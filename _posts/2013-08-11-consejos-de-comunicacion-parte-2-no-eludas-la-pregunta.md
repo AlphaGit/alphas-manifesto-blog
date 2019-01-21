@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Consejos de comunicación, parte 2: No eludas la pregunta'
-wordpress_url: http://blog.alphasmanifesto.com/?p=4886
 date: '2013-08-11 19:58:51 +0000'
 date_gmt: '2013-08-12 00:58:51 +0000'
 categories:

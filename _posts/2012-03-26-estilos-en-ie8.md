@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Estilos en IE8-
-wordpress_url: http://blog.alphasmanifesto.com/?p=3736
 date: '2012-03-26 22:05:56 +0000'
 date_gmt: '2012-03-27 03:05:56 +0000'
 categories:

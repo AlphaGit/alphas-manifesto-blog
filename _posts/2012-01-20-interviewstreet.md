@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Interviewstreet
-wordpress_url: http://blog.alphasmanifesto.com/?p=3510
 date: '2012-01-20 14:05:23 +0000'
 date_gmt: '2012-01-20 19:05:23 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Herramientas de seguridad'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2703
 date: '2010-12-07 10:49:11 +0000'
 date_gmt: '2010-12-07 12:49:11 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: C# SQLite'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1543
 date: '2009-10-06 10:51:52 +0000'
 date_gmt: '2009-10-06 12:51:52 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Internet Safety'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2250
 date: '2010-07-30 10:25:01 +0000'
 date_gmt: '2010-07-30 12:25:01 +0000'
 categories:

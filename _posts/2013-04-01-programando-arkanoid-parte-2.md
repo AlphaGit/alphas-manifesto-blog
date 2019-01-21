@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Programando Arkanoid - Parte 2
-wordpress_url: http://blog.alphasmanifesto.com/?p=4718
 date: '2013-04-01 20:23:58 +0000'
 date_gmt: '2013-04-02 01:23:58 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Generación de código'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2797
 date: '2011-02-03 13:26:56 +0000'
 date_gmt: '2011-02-03 15:26:56 +0000'
 categories:

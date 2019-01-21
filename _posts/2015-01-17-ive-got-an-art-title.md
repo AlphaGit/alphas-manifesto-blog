@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: I've got an art degree!
-wordpress_url: http://blog.alphasmanifesto.com/?p=5243
 date: '2015-01-17 19:54:26 +0000'
 date_gmt: '2015-01-18 01:54:26 +0000'
 categories:

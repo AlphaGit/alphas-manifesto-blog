@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Usar código para interpretar código'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2243
 date: '2010-07-28 10:18:41 +0000'
 date_gmt: '2010-07-28 12:18:41 +0000'
 categories:

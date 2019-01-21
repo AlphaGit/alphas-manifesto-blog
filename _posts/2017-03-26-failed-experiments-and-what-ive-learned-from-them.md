@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Failed experiments and what I've learned from them
-wordpress_url: https://blog.alphasmanifesto.com/?p=5658
 date: '2017-03-26 21:54:14 +0000'
 date_gmt: '2017-03-27 02:54:14 +0000'
 categories:

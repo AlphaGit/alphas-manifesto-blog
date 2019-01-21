@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Nuevos status HTTP'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3353
 date: '2011-11-07 14:31:37 +0000'
 date_gmt: '2011-11-07 19:31:37 +0000'
 categories:

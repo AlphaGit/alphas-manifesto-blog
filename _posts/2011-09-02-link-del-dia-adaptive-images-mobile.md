@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Adaptive Images (mobile)'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3242
 date: '2011-09-02 09:52:16 +0000'
 date_gmt: '2011-09-02 14:52:16 +0000'
 categories:

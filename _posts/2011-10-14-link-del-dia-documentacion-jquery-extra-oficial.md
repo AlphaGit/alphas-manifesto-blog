@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Documentación jQuery extra-oficial'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3322
 date: '2011-10-14 06:57:16 +0000'
 date_gmt: '2011-10-14 11:57:16 +0000'
 categories:

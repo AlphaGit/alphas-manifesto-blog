@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Neural Networks can learn anything
-wordpress_url: https://blog.alphasmanifesto.com/?p=5706
 date: '2017-07-30 13:58:57 +0000'
 date_gmt: '2017-07-30 18:58:57 +0000'
 categories:

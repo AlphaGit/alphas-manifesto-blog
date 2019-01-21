@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: BuiltWith'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3329
 date: '2011-10-19 09:47:58 +0000'
 date_gmt: '2011-10-19 14:47:58 +0000'
 categories:

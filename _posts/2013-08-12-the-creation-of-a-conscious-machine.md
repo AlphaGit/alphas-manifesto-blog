@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Creation of a Conscious Machine
-wordpress_url: http://blog.alphasmanifesto.com/?p=4936
 date: '2013-08-12 21:08:35 +0000'
 date_gmt: '2013-08-13 02:08:35 +0000'
 categories:

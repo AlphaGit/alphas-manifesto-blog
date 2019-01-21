@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Cómo GitHub usa GitHub para construir GitHub'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3390
 date: '2011-11-28 08:58:42 +0000'
 date_gmt: '2011-11-28 13:58:42 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Compartir escritorio en dos pasos'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1790
 date: '2010-01-22 11:44:11 +0000'
 date_gmt: '2010-01-22 13:44:11 +0000'
 categories:

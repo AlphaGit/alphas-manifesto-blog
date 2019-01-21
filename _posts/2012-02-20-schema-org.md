@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Schema.org
-wordpress_url: http://blog.alphasmanifesto.com/?p=3637
 date: '2012-02-20 09:40:55 +0000'
 date_gmt: '2012-02-20 14:40:55 +0000'
 categories:

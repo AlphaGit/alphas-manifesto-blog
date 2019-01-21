@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Trucos de consola de Chrome'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3295
 date: '2011-09-29 09:00:49 +0000'
 date_gmt: '2011-09-29 14:00:49 +0000'
 categories:

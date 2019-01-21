@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Diseñar con TDD'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3188
 date: '2011-08-16 13:58:06 +0000'
 date_gmt: '2011-08-16 15:58:06 +0000'
 categories:

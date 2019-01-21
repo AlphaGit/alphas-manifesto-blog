@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Tareas para publicar un website'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2676
 date: '2010-11-24 11:23:01 +0000'
 date_gmt: '2010-11-24 13:23:01 +0000'
 categories:

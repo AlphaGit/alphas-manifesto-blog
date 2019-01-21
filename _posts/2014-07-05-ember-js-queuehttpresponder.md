@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Ember.js: queueHttpResponder'
-wordpress_url: http://blog.alphasmanifesto.com/?p=5129
 date: '2014-07-05 18:50:06 +0000'
 date_gmt: '2014-07-05 23:50:06 +0000'
 categories:

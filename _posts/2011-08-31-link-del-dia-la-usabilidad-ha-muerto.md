@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: La usabilidad ha muerto!'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3239
 date: '2011-08-31 10:26:57 +0000'
 date_gmt: '2011-08-31 15:26:57 +0000'
 categories:

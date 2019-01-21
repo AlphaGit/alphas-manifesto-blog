@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: SiteCake'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3180
 date: '2011-08-10 12:26:58 +0000'
 date_gmt: '2011-08-10 14:26:58 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: NoSQL'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1916
 date: '2010-03-02 11:38:44 +0000'
 date_gmt: '2010-03-02 13:38:44 +0000'
 categories:

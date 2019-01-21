@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Texto y Javascript'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1421
 date: '2009-08-07 11:05:25 +0000'
 date_gmt: '2009-08-07 13:05:25 +0000'
 categories:

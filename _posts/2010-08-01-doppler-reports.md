@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Doppler Reports
-wordpress_url: http://blog.alphasmanifesto.com/?p=2252
 date: '2010-08-01 05:02:44 +0000'
 date_gmt: '2010-08-01 07:02:44 +0000'
 categories:

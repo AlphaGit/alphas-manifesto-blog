@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: The Hello World Collection'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1587
 date: '2009-10-27 10:53:49 +0000'
 date_gmt: '2009-10-27 12:53:49 +0000'
 categories:

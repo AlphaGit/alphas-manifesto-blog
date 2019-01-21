@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Tutoriales de algoritmos de los mejores de los mejores'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1913
 date: '2010-03-01 13:36:58 +0000'
 date_gmt: '2010-03-01 15:36:58 +0000'
 categories:

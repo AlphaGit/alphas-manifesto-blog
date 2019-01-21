@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Unicode Table For You'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1512
 date: '2009-09-21 11:22:50 +0000'
 date_gmt: '2009-09-21 13:22:50 +0000'
 categories:

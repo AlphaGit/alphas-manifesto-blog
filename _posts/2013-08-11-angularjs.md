@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AngularJS
-wordpress_url: http://blog.alphasmanifesto.com/?p=4929
 date: '2013-08-11 20:28:53 +0000'
 date_gmt: '2013-08-12 01:28:53 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML5 Speech input'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3148
 date: '2011-07-22 14:28:29 +0000'
 date_gmt: '2011-07-22 16:28:29 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: wkhtmltopdf
-wordpress_url: http://blog.alphasmanifesto.com/?p=3540
 date: '2012-01-24 12:53:53 +0000'
 date_gmt: '2012-01-24 17:53:53 +0000'
 categories:

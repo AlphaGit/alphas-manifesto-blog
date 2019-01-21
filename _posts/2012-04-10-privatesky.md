@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PrivateSky
-wordpress_url: http://blog.alphasmanifesto.com/?p=3772
 date: '2012-04-10 09:27:34 +0000'
 date_gmt: '2012-04-10 14:27:34 +0000'
 categories:

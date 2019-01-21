@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Patrones CSS3'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2906
 date: '2011-04-19 13:02:46 +0000'
 date_gmt: '2011-04-19 15:02:46 +0000'
 categories:

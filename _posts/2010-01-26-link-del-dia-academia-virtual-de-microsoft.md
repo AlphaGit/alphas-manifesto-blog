@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Academia Virtual de Microsoft'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1803
 date: '2010-01-26 10:56:17 +0000'
 date_gmt: '2010-01-26 12:56:17 +0000'
 categories:

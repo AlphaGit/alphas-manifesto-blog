@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CommonLibrary.NET
-wordpress_url: http://blog.alphasmanifesto.com/?p=4209
 date: '2012-07-23 10:31:15 +0000'
 date_gmt: '2012-07-23 15:31:15 +0000'
 categories:

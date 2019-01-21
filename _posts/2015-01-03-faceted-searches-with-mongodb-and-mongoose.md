@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Faceted searches with MongoDB and mongoose
-wordpress_url: http://blog.alphasmanifesto.com/?p=5224
 date: '2015-01-03 17:13:04 +0000'
 date_gmt: '2015-01-03 23:13:04 +0000'
 categories:

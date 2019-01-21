@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Linux en tu explorador'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2998
 date: '2011-05-19 12:35:30 +0000'
 date_gmt: '2011-05-19 14:35:30 +0000'
 categories:

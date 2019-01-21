@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: HTML5 Ilustrado'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2065
 date: '2010-04-26 12:22:13 +0000'
 date_gmt: '2010-04-26 14:22:13 +0000'
 categories:

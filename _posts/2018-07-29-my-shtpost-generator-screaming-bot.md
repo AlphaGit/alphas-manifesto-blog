@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: 'My sh*tpost generator: screaming-bot'
-wordpress_url: https://blog.alphasmanifesto.com/?p=6506
 date: '2018-07-29 14:53:11 +0000'
 date_gmt: '2018-07-29 18:53:11 +0000'
 categories:

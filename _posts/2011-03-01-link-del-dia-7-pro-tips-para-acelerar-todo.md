@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: 7 pro-tips para acelerar todo'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2825
 date: '2011-03-01 04:23:10 +0000'
 date_gmt: '2011-03-01 06:23:10 +0000'
 categories:

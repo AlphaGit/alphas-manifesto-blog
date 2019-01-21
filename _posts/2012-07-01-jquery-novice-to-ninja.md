@@ -1,7 +1,6 @@
 ---
 layout: post
 title: jQuery Novice to Ninja
-wordpress_url: http://blog.alphasmanifesto.com/?p=4065
 date: '2012-07-01 23:27:13 +0000'
 date_gmt: '2012-07-02 04:27:13 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Comentarios sobre The State of Responsive Web Design
-wordpress_url: http://blog.alphasmanifesto.com/?p=4876
 date: '2013-06-02 16:32:34 +0000'
 date_gmt: '2013-06-02 21:32:34 +0000'
 categories:

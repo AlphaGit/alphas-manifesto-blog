@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Flash runtime en JavaScript'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2659
 date: '2010-11-17 11:36:14 +0000'
 date_gmt: '2010-11-17 13:36:14 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Phantom, un nuevo protocolo para anonimidad'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3016
 date: '2011-05-31 13:16:05 +0000'
 date_gmt: '2011-05-31 15:16:05 +0000'
 categories:

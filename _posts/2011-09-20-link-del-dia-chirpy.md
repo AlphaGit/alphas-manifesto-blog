@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Chirpy'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3277
 date: '2011-09-20 09:21:47 +0000'
 date_gmt: '2011-09-20 14:21:47 +0000'
 categories:

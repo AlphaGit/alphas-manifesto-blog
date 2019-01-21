@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sisyphus.js
-wordpress_url: http://blog.alphasmanifesto.com/?p=3667
 date: '2012-02-28 12:35:36 +0000'
 date_gmt: '2012-02-28 17:35:36 +0000'
 categories:

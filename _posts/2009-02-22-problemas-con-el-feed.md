@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Problemas con el feed
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1009
 date: '2009-02-22 18:26:20 +0000'
 date_gmt: '2009-02-22 20:26:20 +0000'
 categories:

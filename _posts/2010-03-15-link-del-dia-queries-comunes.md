@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Queries comunes'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1953
 date: '2010-03-15 15:06:53 +0000'
 date_gmt: '2010-03-15 17:06:53 +0000'
 categories:

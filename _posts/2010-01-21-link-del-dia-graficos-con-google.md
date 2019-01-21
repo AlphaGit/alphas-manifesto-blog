@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Gráficos con Google'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1787
 date: '2010-01-21 12:12:44 +0000'
 date_gmt: '2010-01-21 14:12:44 +0000'
 categories:

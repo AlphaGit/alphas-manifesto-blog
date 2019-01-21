@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Pruebas con VS11: Día uno'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3877
 date: '2012-05-11 15:11:03 +0000'
 date_gmt: '2012-05-11 20:11:03 +0000'
 categories:

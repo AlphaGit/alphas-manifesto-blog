@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Resolución de problemas'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2832
 date: '2011-03-02 11:58:19 +0000'
 date_gmt: '2011-03-02 13:58:19 +0000'
 categories:

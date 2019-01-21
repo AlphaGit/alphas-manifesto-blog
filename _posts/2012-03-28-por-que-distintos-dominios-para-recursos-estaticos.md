@@ -1,7 +1,6 @@
 ---
 layout: post
 title: " ¿Por qué distintos dominios para recursos estáticos?"
-wordpress_url: http://blog.alphasmanifesto.com/?p=3740
 date: '2012-03-28 08:39:50 +0000'
 date_gmt: '2012-03-28 13:39:50 +0000'
 categories:

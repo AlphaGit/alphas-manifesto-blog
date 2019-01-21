@@ -2,7 +2,6 @@
 layout: post
 title: 'Link del día: Reportando bugs de browsers: qué, cómo
   y por qué'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3259
 date: '2011-09-12 08:16:30 +0000'
 date_gmt: '2011-09-12 13:16:30 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Colaboración online'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2169
 date: '2010-06-14 10:41:35 +0000'
 date_gmt: '2010-06-14 12:41:35 +0000'
 categories:

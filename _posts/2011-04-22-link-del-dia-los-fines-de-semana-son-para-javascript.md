@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Los fines de semana son para JavaScript'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2913
 date: '2011-04-22 15:14:55 +0000'
 date_gmt: '2011-04-22 17:14:55 +0000'
 categories:

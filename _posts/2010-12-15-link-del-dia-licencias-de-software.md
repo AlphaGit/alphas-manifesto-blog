@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Licencias de software'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2718
 date: '2010-12-15 12:46:03 +0000'
 date_gmt: '2010-12-15 14:46:03 +0000'
 categories:

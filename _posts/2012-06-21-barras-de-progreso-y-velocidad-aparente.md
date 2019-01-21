@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Barras de progreso y velocidad aparente
-wordpress_url: http://blog.alphasmanifesto.com/?p=3992
 date: '2012-06-21 07:42:51 +0000'
 date_gmt: '2012-06-21 12:42:51 +0000'
 categories:

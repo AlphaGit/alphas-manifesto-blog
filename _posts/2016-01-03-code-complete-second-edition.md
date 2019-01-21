@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Code Complete, Second Edition
-wordpress_url: http://blog.alphasmanifesto.com/?p=5551
 date: '2016-01-03 22:03:45 +0000'
 date_gmt: '2016-01-04 04:03:45 +0000'
 categories:

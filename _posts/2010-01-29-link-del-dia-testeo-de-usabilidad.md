@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Testeo de usabilidad'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1815
 date: '2010-01-29 11:59:01 +0000'
 date_gmt: '2010-01-29 13:59:01 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Seguridad, de verdad'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3236
 date: '2011-08-30 10:22:38 +0000'
 date_gmt: '2011-08-30 15:22:38 +0000'
 categories:

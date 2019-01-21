@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: The future of work, aided by AI?
-wordpress_url: https://blog.alphasmanifesto.com/?p=6436
 date: '2018-01-01 11:21:41 +0000'
 date_gmt: '2018-01-01 16:21:41 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Competencias de hacking
-wordpress_url: http://blog.alphasmanifesto.com/?p=3828
 date: '2012-04-26 09:59:10 +0000'
 date_gmt: '2012-04-26 14:59:10 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Freenet'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1652
 date: '2009-11-27 12:52:52 +0000'
 date_gmt: '2009-11-27 14:52:52 +0000'
 categories:

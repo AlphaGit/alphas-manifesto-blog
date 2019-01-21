@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CSS Dinámico
-wordpress_url: http://blog.alphasmanifesto.com/?p=3757
 date: '2012-04-03 08:51:43 +0000'
 date_gmt: '2012-04-03 13:51:43 +0000'
 categories:

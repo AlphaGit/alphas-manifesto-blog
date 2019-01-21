@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Locura por los datos
-wordpress_url: http://blog.alphasmanifesto.com/?p=3693
 date: '2012-03-12 08:47:07 +0000'
 date_gmt: '2012-03-12 13:47:07 +0000'
 categories:

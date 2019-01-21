@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: En defensa de los hacks CSS'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3023
 date: '2011-06-01 13:47:07 +0000'
 date_gmt: '2011-06-01 15:47:07 +0000'
 categories:

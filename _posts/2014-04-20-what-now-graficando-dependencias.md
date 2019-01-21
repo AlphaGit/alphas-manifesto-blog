@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'What-now: graficando dependencias'
-wordpress_url: http://blog.alphasmanifesto.com/?p=5064
 date: '2014-04-20 17:23:34 +0000'
 date_gmt: '2014-04-20 22:23:34 +0000'
 categories:

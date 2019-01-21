@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: URLs cortas de verdad'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1760
 date: '2010-01-11 12:26:46 +0000'
 date_gmt: '2010-01-11 14:26:46 +0000'
 categories:

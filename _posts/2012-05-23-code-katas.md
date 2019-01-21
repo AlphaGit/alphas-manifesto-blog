@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Code Katas
-wordpress_url: http://blog.alphasmanifesto.com/?p=3907
 date: '2012-05-23 09:16:30 +0000'
 date_gmt: '2012-05-23 14:16:30 +0000'
 categories:

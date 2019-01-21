@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Auriculares y conversores digitales-analógicos
-wordpress_url: http://blog.alphasmanifesto.com/?p=4519
 date: '2012-12-26 19:06:12 +0000'
 date_gmt: '2012-12-27 00:06:12 +0000'
 categories:

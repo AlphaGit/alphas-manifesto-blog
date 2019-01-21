@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: A dibujar, HTML5 full powered'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2271
 date: '2010-08-09 11:13:54 +0000'
 date_gmt: '2010-08-09 13:13:54 +0000'
 categories:

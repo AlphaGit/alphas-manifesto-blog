@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Performance Web'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2125
 date: '2010-05-19 14:17:35 +0000'
 date_gmt: '2010-05-19 16:17:35 +0000'
 categories:

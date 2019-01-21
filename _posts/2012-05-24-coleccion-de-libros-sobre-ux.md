@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Colección de libros sobre UX
-wordpress_url: http://blog.alphasmanifesto.com/?p=3911
 date: '2012-05-24 11:44:30 +0000'
 date_gmt: '2012-05-24 16:44:30 +0000'
 categories:

@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Sleep time
-wordpress_url: http://blog.alphasmanifesto.com/?p=5267
 date: '2015-03-17 17:23:19 +0000'
 date_gmt: '2015-03-17 22:23:19 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Code review guidelines
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1032
 date: '2009-03-02 00:40:50 +0000'
 date_gmt: '2009-03-02 02:40:50 +0000'
 categories:

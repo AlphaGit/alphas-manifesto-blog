@@ -1,7 +1,6 @@
 ---
 layout: post
 title: La belleza entra por los ojos
-wordpress_url: http://blog.alphasmanifesto.com/?p=3947
 date: '2012-06-06 09:56:17 +0000'
 date_gmt: '2012-06-06 14:56:17 +0000'
 categories:

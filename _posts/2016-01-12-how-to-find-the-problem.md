@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: How to find the problem
-wordpress_url: http://blog.alphasmanifesto.com/?p=5556
 date: '2016-01-12 22:36:05 +0000'
 date_gmt: '2016-01-13 04:36:05 +0000'
 categories:

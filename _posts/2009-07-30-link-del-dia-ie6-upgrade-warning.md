@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: IE6 Upgrade Warning'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1395
 date: '2009-07-30 10:58:21 +0000'
 date_gmt: '2009-07-30 12:58:21 +0000'
 categories:

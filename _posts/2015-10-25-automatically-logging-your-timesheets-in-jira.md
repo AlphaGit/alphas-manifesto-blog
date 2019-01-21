@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Automatically logging your timesheets in JIRA
-wordpress_url: http://blog.alphasmanifesto.com/?p=5360
 date: '2015-10-25 16:22:17 +0000'
 date_gmt: '2015-10-25 21:22:17 +0000'
 categories:

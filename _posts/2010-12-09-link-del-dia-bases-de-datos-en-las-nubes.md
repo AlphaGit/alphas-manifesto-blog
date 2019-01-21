@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Bases de datos en las nubes'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2706
 date: '2010-12-09 11:29:02 +0000'
 date_gmt: '2010-12-09 13:29:02 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Un poquito sobre el email'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1388
 date: '2009-07-27 10:53:34 +0000'
 date_gmt: '2009-07-27 12:53:34 +0000'
 categories:

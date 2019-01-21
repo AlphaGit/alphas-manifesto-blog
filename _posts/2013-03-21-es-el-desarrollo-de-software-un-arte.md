@@ -1,7 +1,6 @@
 ---
 layout: post
 title: " ¿Es el desarrollo de software un arte?"
-wordpress_url: http://blog.alphasmanifesto.com/?p=4706
 date: '2013-03-21 13:56:03 +0000'
 date_gmt: '2013-03-21 18:56:03 +0000'
 categories:

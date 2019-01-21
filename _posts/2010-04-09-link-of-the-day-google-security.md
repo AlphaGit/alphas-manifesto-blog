@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Google Security'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=2020
 date: '2010-04-09 11:59:47 +0000'
 date_gmt: '2010-04-09 13:59:47 +0000'
 categories:

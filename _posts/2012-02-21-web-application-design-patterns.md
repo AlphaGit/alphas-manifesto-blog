@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Web Application Design Patterns
-wordpress_url: http://blog.alphasmanifesto.com/?p=3641
 date: '2012-02-21 05:06:17 +0000'
 date_gmt: '2012-02-21 10:06:17 +0000'
 categories:

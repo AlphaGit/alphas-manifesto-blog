@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Optimización web vs. desarrollo prolijo'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2636
 date: '2010-11-08 11:23:28 +0000'
 date_gmt: '2010-11-08 13:23:28 +0000'
 categories:

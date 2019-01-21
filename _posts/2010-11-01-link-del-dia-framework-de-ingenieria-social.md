@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Framework de Ingeniería Social'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2624
 date: '2010-11-01 11:06:55 +0000'
 date_gmt: '2010-11-01 13:06:55 +0000'
 categories:

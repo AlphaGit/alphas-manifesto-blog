@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Atributos .NET'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3365
 date: '2011-11-10 10:19:57 +0000'
 date_gmt: '2011-11-10 15:19:57 +0000'
 categories:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: consejitos de jQuery para pr0s'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1886
 date: '2010-02-18 11:39:04 +0000'
 date_gmt: '2010-02-18 13:39:04 +0000'
 categories:

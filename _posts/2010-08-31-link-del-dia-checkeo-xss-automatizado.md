@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Checkeo XSS automatizado'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2488
 date: '2010-08-31 15:56:53 +0000'
 date_gmt: '2010-08-31 17:56:53 +0000'
 categories:

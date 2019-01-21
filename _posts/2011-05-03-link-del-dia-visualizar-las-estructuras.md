@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Visualizar las estructuras'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2949
 date: '2011-05-03 12:48:24 +0000'
 date_gmt: '2011-05-03 14:48:24 +0000'
 categories:

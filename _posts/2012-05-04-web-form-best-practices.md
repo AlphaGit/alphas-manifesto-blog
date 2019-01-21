@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Web Form Best Practices
-wordpress_url: http://blog.alphasmanifesto.com/?p=3862
 date: '2012-05-04 07:58:36 +0000'
 date_gmt: '2012-05-04 12:58:36 +0000'
 categories:

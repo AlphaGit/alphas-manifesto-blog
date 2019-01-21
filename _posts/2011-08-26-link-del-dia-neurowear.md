@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Neurowear'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3224
 date: '2011-08-26 13:03:41 +0000'
 date_gmt: '2011-08-26 15:03:41 +0000'
 categories:

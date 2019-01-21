@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Tabla periódica de HTML'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2500
 date: '2010-09-06 13:38:02 +0000'
 date_gmt: '2010-09-06 15:38:02 +0000'
 categories:

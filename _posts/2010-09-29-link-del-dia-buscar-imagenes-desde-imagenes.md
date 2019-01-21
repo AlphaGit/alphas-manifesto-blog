@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Buscar imágenes desde imágenes'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2560
 date: '2010-09-29 14:50:03 +0000'
 date_gmt: '2010-09-29 16:50:03 +0000'
 categories:

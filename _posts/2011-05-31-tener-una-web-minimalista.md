@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tener una web minimalista...
-wordpress_url: http://blog.alphasmanifesto.com/?p=3019
 date: '2011-05-31 21:58:45 +0000'
 date_gmt: '2011-05-31 23:58:45 +0000'
 categories:

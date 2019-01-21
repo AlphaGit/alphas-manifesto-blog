@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link of the day: Rich text editing'
-wordpress_url: http://blog.alphasmanifesto.com/?p=2698
 date: '2010-12-03 13:06:25 +0000'
 date_gmt: '2010-12-03 15:06:25 +0000'
 categories:

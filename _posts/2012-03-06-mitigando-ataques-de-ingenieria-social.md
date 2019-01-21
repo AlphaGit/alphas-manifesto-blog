@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mitigando ataques de ingeniería social
-wordpress_url: http://blog.alphasmanifesto.com/?p=3678
 date: '2012-03-06 09:55:27 +0000'
 date_gmt: '2012-03-06 14:55:27 +0000'
 categories:

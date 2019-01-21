@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Java VisualVM'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1629
 date: '2009-11-17 11:38:46 +0000'
 date_gmt: '2009-11-17 13:38:46 +0000'
 categories:

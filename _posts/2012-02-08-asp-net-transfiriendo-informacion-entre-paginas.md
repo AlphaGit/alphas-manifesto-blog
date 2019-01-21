@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'ASP.NET: Transfiriendo información entre páginas'
-wordpress_url: http://blog.alphasmanifesto.com/?p=3597
 date: '2012-02-08 09:51:05 +0000'
 date_gmt: '2012-02-08 14:51:05 +0000'
 categories:

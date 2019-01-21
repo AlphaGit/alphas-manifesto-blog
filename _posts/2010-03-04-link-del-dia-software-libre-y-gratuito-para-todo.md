@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Link del día: Software libre y gratuito para todo'
-wordpress_url: http://blog.alphasmanifesto.com.ar/?p=1924
 date: '2010-03-04 11:19:09 +0000'
 date_gmt: '2010-03-04 13:19:09 +0000'
 categories:

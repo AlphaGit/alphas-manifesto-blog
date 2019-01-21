@@ -2,7 +2,6 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Taming your tools
-wordpress_url: http://blog.alphasmanifesto.com/?p=5564
 date: '2016-02-28 16:02:35 +0000'
 date_gmt: '2016-02-28 22:02:35 +0000'
 categories:
