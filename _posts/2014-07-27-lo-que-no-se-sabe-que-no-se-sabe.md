@@ -24,8 +24,8 @@ tags:
 - Hank Green
 - ignoracia
 - epistemología
+sub_title: Manejo del conocimiento, parte 2
 ---
-Manejo del conocimiento, parte 2
 
 > Temo por cualquiera atrapado entre lo que sabe y lo que todavía no sabe que no sabe.
 > 

@@ -22,9 +22,8 @@ tags:
 - snippet
 - unit testing
 - objeto
+sub_title: Seleccionar un elemento cualquiera de un conjunto
 ---
-Seleccionar un elemento cualquiera de un conjunto
-
 
 Otro de mis pequeños snippets, este es útil para unit testing.
 

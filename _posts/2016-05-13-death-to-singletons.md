@@ -30,6 +30,7 @@ tags:
 - race condition
 - evil
 - convention
+sub_title: Singleton.Instance.SelfDestruct();
 ---
 
 ![]({{ site.baseurl }}/assets/Singleton.png)

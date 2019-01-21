@@ -24,12 +24,10 @@ tags:
 - tareas
 - Stack Exchange
 - Google Calendar
+sub_title: Una aproximación simple a un problema complejo
 ---
 
 ![]({{ site.baseurl }}/assets/calendar.png)
-
-Una aproximación simple a un problema complejo
-
 
 Muchos conocen mis entradas en donde explico [Cómo uso Trello para Trabajar]({{ site.baseUrl }}{% link _posts/2012-01-20-como-uso-trello-para-trabajar.md %}), y [su versión actualizada]({{ site.baseUrl }}{% link _posts/2013-08-08-como-uso-trello-para-trabajar-actualizado.md %}). Aún así, me siento curioso de explorar otras alternativas al manejo de tareas, y hace poco, alguien explicó una aproximación que nunca había tenido en cuenta: Google Calendar.
 

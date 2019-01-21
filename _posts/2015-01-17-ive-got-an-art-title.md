@@ -24,11 +24,10 @@ tags:
 - Processing
 - portfolio
 - certificate
+sub_title: Well, sort of...
 ---
 
 ![]({{ site.baseurl }}/assets/Art.png)
-
-Well, sort of...
 
 I just finished an art course on an MOOC platform and got a certificate for it. Let me tell you how was it like.
 

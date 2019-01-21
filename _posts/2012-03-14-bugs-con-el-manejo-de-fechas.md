@@ -25,9 +25,8 @@ tags:
 - fecha
 - hora
 - zona horaria
+sub_title: ...it's more likely than you think.
 ---
-...it's more likely than you think.
-
 
 Muchos se habrán enterado del problema que tuvo Windows Azure con el día bisiesto del 29 de Febrero de 2012, el famoso [leap year bug](http://www.techweekeurope.co.uk/news/windows-azure-leap-year-glitch-takes-down-g-cloud-63920) que causó downtime en la nube por todo el día. En algún momento se dijo que el problema no estaba relacionado con las fechas sino que fue coincidente, pero explicaciones posteriores confirmaron que era un problema de generación de certificados en el día bisiesto. Las razones de por qué se hace y cuáles fueron los problemas están explicados detalladamente en el blog de Azure: [Summary of Windows Azure Service Disruption on Feb 29th, 2012](http://blogs.msdn.com/b/windowsazure/archive/2012/03/09/summary-of-windows-azure-service-disruption-on-feb-29th-2012.aspx).
 

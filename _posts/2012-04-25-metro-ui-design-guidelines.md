@@ -24,11 +24,8 @@ tags:
 - Metro
 - guidelines
 - guías
+sub_title: Recursos de UX y UI para Metro
 ---
-
-Recursos de UX y UI para Metro
-
-
 Sabemos que [Metro](http://en.wikipedia.org/wiki/Metro_(design_language)) es un nuevo estilo, una aproximación completamente distinta cuando se trata de interfaces. Como nuevo, muchos nosotros podemos encontrarnos confundidos al momento de querer aplicarlo. Es para eso que es necesaria alguna guía, alguna indicación que nos indicará si estamos en el camino correcto o no. Gracias a [una pregunta en los foros de User Experience](http://ux.stackexchange.com/questions/7219/where-can-i-find-style-guide-for-metro-ui-for-web-applications) encontré estos links, que pueden ser de mucha utilidad:`
 
 - [User Experience Design Guidelines for Windows Phone](http://msdn.microsoft.com/en-us/library/hh202915%28v=VS.92%29.aspx) (MSDN)

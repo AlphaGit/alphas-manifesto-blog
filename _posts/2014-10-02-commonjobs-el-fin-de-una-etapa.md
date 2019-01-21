@@ -30,12 +30,10 @@ tags:
 - RavenDB
 - proceso
 - Scrum
+sub_title: Proyecto final y producto real
 ---
 
 ![]({{ site.baseurl }}/assets/commonJobs.png)
-
-Proyecto final y producto real
-
 
 Como varios pueden haberse enterado, hace poco CommonJobs dio su etapa final como proyecto oficial que comprendía mi proyecto de tesis final. Voy a contar un poquito al respecto y qué fue lo que lo hizo destacar, si es que hubo algo al respecto.
 

@@ -23,11 +23,10 @@ tags:
 - everyday stuff
 - time management
 - delegating
+sub_title: Before it makes you frown
 ---
 
 ![]({{ site.baseurl }}/assets/multitasking.png)
-
-Before it makes you frown
 
 Not sure if this has happened to you, but sometimes there's just too much going on at the same time. Pretty much more that we can handle in our head.
 

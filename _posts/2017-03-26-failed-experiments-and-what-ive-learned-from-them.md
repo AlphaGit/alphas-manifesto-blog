@@ -28,6 +28,7 @@ tags:
 - development
 - strong typed languages
 - data structures
+sub_title: Hey, I messed up but at least I learnt from it!
 ---
 
 ![]({{ site.baseurl }}/assets/Experiment.png)

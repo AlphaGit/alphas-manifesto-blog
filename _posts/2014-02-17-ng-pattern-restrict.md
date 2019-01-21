@@ -23,12 +23,10 @@ tags:
 - open source
 - UX
 - AngularJS
+sub_title: Limitando la entrada del usuario según una RegEx, AngularJS style
 ---
 
 ![]({{ site.baseurl }}/assets/ng-pattern-restrict.png)
-
-Limitando la entrada del usuario según una RegEx, AngularJS style
-
 
 En una situación en particular, necesité limitar los valores que un usuario puede ingresar en un campo HTML, para evitar que pudieran ingresarse valores incorrectos. Si bien esto no es recomendable desde el punto de vista del UX, eso es lo que yo necesitaba (requerimiento). Pensé en desarrollar un componente genérico que hiciera esto por mí, y así nació _ng-pattern-restrict_, para AngularJS.
 

@@ -22,8 +22,8 @@ tags:
 - experiencia de usuario
 - Windows 8
 - Metro
+sub_title: Crítica criteriosa
 ---
-Crítica criteriosa
 
 > A menos que hayas estado viviendo bajo una roca por los últimos meses, deberías saber lo siguiente:
 > 

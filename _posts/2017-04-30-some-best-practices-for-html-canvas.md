@@ -22,9 +22,8 @@ tags:
 - best practices
 - Canvas
 - web development
+sub_title: by Colin Cieloha from Skilled.co
 ---
-
-by Colin Cieloha from Skilled.co
 
 This is a guest post submitted by Colin Cieloha, who is an American author and content marketer at [Skilled.co](https://skilled.co/). He writes about everything that will draw his attention with a focus on the mobile and e-commerce space. When he is not writing he is spending his time traveling the globe and snowboarding. You can follow him on his Twitter at [@ColinCieloha](https://twitter.com/ColinCieloha) or on [Linkedin](https://www.linkedin.com/in/colin-cieloha-7a01ab55).
 

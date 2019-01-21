@@ -21,9 +21,8 @@ tags:
 - didáctica
 - cálculo lambda
 - ciencia de la computación
+sub_title: Con cocodrilos y huevos
 ---
-Con cocodrilos y huevos
-
 
 Ayer encontré en el foro de Theoretical Computer Science una pregunta sobre [cómo aproximar la ciencia de la computación a chicos entre 8 y 14 años](http://cstheory.stackexchange.com/questions/10365/concepts-in-theoretical-cs-that-would-be-approachable-ages-8-14), muy apropiado también para alguien como yo que tiene muy poco conocimiento sólido de muchas de las estructuras y ciencias involucradas.
 

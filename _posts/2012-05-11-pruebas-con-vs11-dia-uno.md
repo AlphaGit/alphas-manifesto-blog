@@ -32,16 +32,14 @@ tags:
 - ".NET 4.5"
 - Beta
 - programming
+sub_title: Comenzando a explorar lo que la beta nos ofrece.
 ---
-Comenzando a explorar lo que la beta nos ofrece.
-
 
 Comencé como un proceso de autocapacitación mi investigación personal de las características que Visual Studio 11, todavía en Beta, nos ofrece. Pretendo documentar mi experiencia personal porque si bien no va a ser una buena indicación de cómo es el producto, puede que detecte muchos pequeños problemitas o cosas que estarían buenos tener en cuenta, al menos prepararse para ellos. Conociendo mi suerte, estoy seguro de que algo voy a romper.
 
 ## Instalación
 
 ![]({{ site.baseurl }}/assets/vs11installscreen.png){ :align-left }
-
 
 Lo primero que tengo que comentar es la instalación. La interfaz está mucho más refinada, pero más allá de eso, es un poco más oscura en el sentido en que no tenemos mucha información sobre qué está pasando. No he tenido problemas con la instalación, pero imagino que debe ser más complicado de hacer troubleshooting si ocurriera algún error. Por último, la instalación toma su buen par de horas, quizá extendiéndose hasta cuatro o cinco. Si tiene que bajar los updates de internet, es lo suficientemente inteligente como para hacerlo en paralelo mientras otra cosa se instala, así que tener una conexión pobre no debería ser un problema a menos que fuera muy acotada.
 

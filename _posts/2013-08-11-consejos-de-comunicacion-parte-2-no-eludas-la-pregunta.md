@@ -23,11 +23,10 @@ tags:
 - conversación
 - brevedad
 - precisión
+sub_title: Ser conciso y no-ambiguo
 ---
 
 ![]({{ site.baseurl }}/assets/Respuesta.png)
-
-Ser conciso y no-ambiguo
 
 ¿Les ha pasado esto alguna vez?
 

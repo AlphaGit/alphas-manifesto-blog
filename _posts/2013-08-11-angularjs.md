@@ -25,12 +25,10 @@ tags:
 - AngularJS
 - data binding
 - templating
+sub_title: Libro introductorio sobre AngularJS y sus prácticas
 ---
 
 ![]({{ site.baseurl }}/assets/angularjs.jpg)
-
-Libro introductorio sobre AngularJS y sus prácticas
-
 
 Hace ya algunos meses terminé de leer un libro que me sería útil para un proyecto en el que estoy involucrado, en el cual usamos [AngularJS](angularjs.org). La librería me encanta, pero me tomó un tiempo entender su filosofía, y ahí es en donde este libro hace su aparición.
 

@@ -24,9 +24,8 @@ tags:
 - dispositivos móviles
 - pantalla
 - tablet
+sub_title: El mundo microscópico de los píxels
 ---
-El mundo microscópico de los píxels
-
 
 Hace un par de días, [un artículo en MicroSiervos](http://www.microsiervos.com/archivo/gadgets/pantalla-ipad-3-comparada-ipad-2.html) mostraba una comparación de las pantallas del iPad 2 y el iPad 3 (que no se llama iPad 3). Más interesante aún, dejaron el link al blog de Lukas Mathis, que entre otras cosas escribió un artículo llamado [The New iPad's screen under the Microscope](http://ignorethecode.net/blog/2012/03/16/ipad_screen_microscope/).
 

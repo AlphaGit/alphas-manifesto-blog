@@ -24,11 +24,10 @@ tags:
 - weird
 - programming
 - books
+sub_title: I love chunky bacon
 ---
 
 ![]({{ site.baseurl }}/assets/WhysFox.png)
-
-I love chunky bacon
 
 A few of you may already know that I've started learning Ruby. I cannot tell at this moment if its going to be a huge career shift for me or not, but still, here I am. And I started with Why's Poignant Guide to Ruby, a definitely... unusual book.
 

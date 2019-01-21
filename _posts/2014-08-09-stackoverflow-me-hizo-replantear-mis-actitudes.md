@@ -20,9 +20,8 @@ tags:
 - StackOverflow
 - evaluación
 - moderación
+sub_title: "Resolviendo: quién vigila al vigilante"
 ---
-Resolviendo: "quién vigila al vigilante"
-
 
 Hace unos días me ocurrió algo genial: fui evaluado y mi evaluación fue mala. Como producto de eso tuve una pequeña epifanía.  ¿Cómo puede ser?
 

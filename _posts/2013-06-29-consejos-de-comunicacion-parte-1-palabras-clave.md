@@ -21,9 +21,8 @@ tags:
 - significado
 - conversación
 - geek
+sub_title: Las palabras clave y por qué son clave
 ---
-Las palabras clave y por qué son clave
-
 
 Estaba preparando un mega-post de tips y consejos de cómo creo que puede mejorarse algo esencial de nuestra vida cotidiana: la comunicación. El post original se hizo terriblemente largo por lo que decidí mejor hacer varias entregas. No soy un experto pero creo que estos consejos pueden ser útiles de todos modos -- y es una excusa para escuchar el feedback que ustedes tengan. Acepto ideas, sugerencias y críticas.
 

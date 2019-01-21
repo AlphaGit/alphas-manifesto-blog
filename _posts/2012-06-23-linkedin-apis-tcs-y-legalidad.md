@@ -22,11 +22,10 @@ tags:
 - LinkedIn
 - términos y condiciones
 - integración
+sub_title: O "shenanigams para que nadie use nuestro sistema"
 ---
 
 ![]({{ site.baseurl }}/assets/illegalfry.jpg)
-
-O "shenanigams para que nadie use nuestro sistema"
 
 Por un desarrollo propio me encuentro investigando las APIs de integración a LinkedIn, específicamente para buscar información de gente, publicar ofertas de trabajo y obtener información de las mismas. Por supuesto, me interesan las APIs porque la aplicación que estoy desarrollando involucra más que solo esas partes, y por tanto, la información debe estar correlacionada. Suena razonable,  ¿verdad?
 

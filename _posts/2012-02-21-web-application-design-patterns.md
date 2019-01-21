@@ -28,12 +28,10 @@ tags:
 - book
 - patterns
 - software engineering
+sub_title: Una librería de referencias de patrones de usabilidad
 ---
 
 ![]({{ site.baseurl }}/assets/web-application-design-patterns.jpg)
-
-Una librería de referencias de patrones de usabilidad
-
 
 Bueno, son las 4 AM y no puedo dormir. Acabo de terminar de leer el libro que venia leyendo lentamente desde hace tiempo ya, llamado _Web Application Design Patterns_, de Pawan Vora.
 

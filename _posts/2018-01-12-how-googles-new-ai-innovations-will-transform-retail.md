@@ -25,6 +25,7 @@ tags:
 - e-commerce
 - Google I/O
 - Google Lens
+sub_title: by Rae Steinbach, in cooperation with Y Media Labs
 ---
 
 ![]({{ site.baseurl }}/assets/googleimg.jpg)

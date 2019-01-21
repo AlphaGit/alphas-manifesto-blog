@@ -24,12 +24,10 @@ tags:
 - desarollo
 - theme
 - Alpha's Manifesto
+sub_title: Y cómo agregar propiedades a menús
 ---
 
 ![]({{ site.baseurl }}/assets/configurableMenu.jpg)
-
-Y cómo agregar propiedades a menús
-
 
 Como parte del proceso de dejar el theme listo para publicar, estuve trabajando en el <a title="Theme Testing Process, de Wordpress Codex" href="http://codex.wordpress.org/Theme_Development#Theme_Testing_Process">Wordpress Theme Testing</a>. El proceso es largo y detallado, y la documentación también, pero yo estoy trackeando mi progreso en <a title="Setup Wordpress Theme Testing" href="https://github.com/AlphaGit/alphasmanifesto/issues/10">este issue en Github</a>. Una de las partes es lograr que los menúes de navegación sean configurables, y es algo que se cumplió hoy para **Alpha's Manifesto**.
 

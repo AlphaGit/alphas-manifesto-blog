@@ -20,9 +20,8 @@ tags:
 - desarrollo web
 - herramientas
 - StackExchange
+sub_title: De forma casi automatizada
 ---
-De forma casi automatizada
-
 
 Como siempre, yo sacando cosas de los foros de StackExchange, en este caso de ProWebmasters. La pregunta fue: [Cómo trabajar con archivos CSS viejos?](http://webmasters.stackexchange.com/questions/26467/refactoring-large-old-css-files) Específicamente, cuando estos archivos se vuelven enormes, y cuando ya no estamos seguros de qué está en uso, qué quedó en desuso, qué está repetido, qué se puede resumir, etc. Cuando tenemos un proyecto de ya un par de años, esto se hace muy difícil de medir.
 

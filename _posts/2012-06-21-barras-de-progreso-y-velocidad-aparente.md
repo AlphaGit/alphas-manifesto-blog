@@ -25,9 +25,8 @@ tags:
 - progreso
 - barra de progreso
 - indicador de progreso
+sub_title: La gran diferencia del detalle
 ---
-
-La gran diferencia del detalle
 
 ## Indicando progreso
 

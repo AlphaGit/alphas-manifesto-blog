@@ -23,9 +23,8 @@ tags:
 - herramientas
 - configuración
 - proxy
+sub_title: Guía rápida para tener un proxy reverso en 5 pasos
 ---
-Guía rápida para tener un proxy reverso en 5 pasos
-
 
 En mi post anterior de [alternativas para superar la limitación de la Same Origin Policy]({{ site.baseUrl }}{% link _posts/2013-10-13-amar-al-proxy-mo.md %}), expliqué brevemente el por qué de mi preferencia por los reverse proxy.
 

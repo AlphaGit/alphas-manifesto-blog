@@ -27,12 +27,10 @@ tags:
 - operaciones
 - sintaxis
 - GET
+sub_title: Aplicando condiciones complejas a requests HTTP REST
 ---
 
 ![]({{ site.baseurl }}/assets/ToRestOrNotToRest.jpg)
-
-Aplicando condiciones complejas a requests HTTP REST
-
 
 Es muy común que en la especificación de condiciones a llamadas GET REST, la inclusión de diferentes parámetros indique una relación AND entre ambas condiciones.
 

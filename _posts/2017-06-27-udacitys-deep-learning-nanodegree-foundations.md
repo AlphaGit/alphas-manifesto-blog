@@ -24,6 +24,7 @@ tags:
 - deep learning
 - tensorflow
 - machine learning
+sub_title: Course contents and structure
 ---
 
 ![]({{ site.baseurl }}/assets/nd101.png)

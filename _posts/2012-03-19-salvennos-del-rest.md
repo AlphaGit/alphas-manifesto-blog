@@ -22,9 +22,8 @@ tags:
 - web
 - complejidad
 - semántica
+sub_title: RESTful thinking
 ---
-RESTful thinking
-
 
 [Someone save us from REST](http://wekeroad.com/2012/02/28/someone-save-us-from-rest/) es el título de un curioso artículo de Rob Connery. Lo curioso es que por lo general REST es una buena práctica y es muy popular y deseado en cuanto a la organización semántica de nuestras aplicaciones web (o de los servicios que estas expongan).
 

@@ -25,6 +25,7 @@ tags:
 - architecture
 - function approximator
 - variables
+sub_title: A simple explanation on the basis of neural network learning
 ---
 
 ![]({{ site.baseurl }}/assets/SkunkBalls.jpg)

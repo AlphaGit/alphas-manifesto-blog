@@ -23,9 +23,8 @@ tags:
 - URL
 - Stack Exchange
 - URI
+sub_title: Desmintiendo si las URLs acortadas afectan o no la confianza del usuario
 ---
-Desmintiendo si las URLs acortadas afectan o no la confianza del usuario
-
 
 Hoy voy a dejar un caso de una pregunta abierta, nuevamente, originada en los foros de [User Experience](http://ux.stackexchange.com/questions/20541/do-users-trust-shortened-urls). La pregunta es: _ ¿Los usuarios confían en URLs acortadas?_
 

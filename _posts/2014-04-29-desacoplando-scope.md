@@ -24,12 +24,10 @@ tags:
 - desacoplamiento
 - separación de responsabilidades
 - "$scope"
+sub_title: Tomando la sopa por el mango de la cuchara
 ---
 
 ![]({{ site.baseurl }}/assets/scopeSoupMin.png)
-
-Tomando la sopa por el mango de la cuchara
-
 
 Muchos desarrolladores de AngularJS dependen de $scope para la implementación y testing de la lógica de sus controladores. Esto genera problemas de performance y de diseño, pero gracias a una serie de artículos y una prueba de concepto, he puesto en práctica en [what-now](http://what-now.heroku.com) lo que podría ser la solución.
 

@@ -28,12 +28,10 @@ tags:
 - algoritmos
 - Sugiyama
 - what-now
+sub_title: No se resuelve con un par de líneas
 ---
 
 ![]({{ site.baseurl }}/assets/what-now-dependencies.png)
-
-No se resuelve con un par de líneas
-
 
 Desde hace un par de semanas estoy trabajando en lograr que el proyecto de [what-now](http://what-now.herokuapp.com/) grafique dependencias entre tareas: si  una tarea depende de otra, una línea debería conectarlos. Esta tarea básica fue muy simple, pero lo desafiante fue lograr que se graficaran de forma que las líneas se cruzaran entre ellas lo menos posible.
 

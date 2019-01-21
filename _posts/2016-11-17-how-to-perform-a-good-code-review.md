@@ -25,6 +25,7 @@ tags:
 - functional requirements
 - requirements
 - technical debt
+sub_title: Reaching agreement from a bunch of code
 ---
 
 ![]({{ site.baseurl }}/assets/CodeReviewFilter2.jpg)

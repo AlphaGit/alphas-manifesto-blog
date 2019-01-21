@@ -25,12 +25,10 @@ tags:
 - código
 - book
 - práctica
+sub_title: Manos a la obra desde lo más básico
 ---
 
 ![]({{ site.baseurl }}/assets/jqueryNoviceToNinja.jpg)
-
-Manos a la obra desde lo más básico
-
 
 Acabo de terminar de leer el libro [jQuery Novice to Ninja](http://www.sitepoint.com/books/jquery1/), de la editorial SitePoint y de los autores Earle Castledine y Craig Sharkie. Debo decir que el libro ha sido una buena elección de lectura.
 

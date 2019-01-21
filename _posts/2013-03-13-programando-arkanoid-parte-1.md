@@ -25,12 +25,10 @@ tags:
 - CSS3
 - Canvas
 - código
+sub_title: Cómo hacer un pequeño juego en JavaScript y HTML5 canvas
 ---
 
 ![]({{ site.baseurl }}/assets/arkanoid.jpg)
-
-Cómo hacer un pequeño juego en JavaScript y HTML5 canvas
-
 
 Haciendo ya mucho tiempo que no trabajaba en JavaScript sin la utilización de ningún framework, me propuse crear algo simple que a la vez fuera divertido. Pensé en algunas opciones y la ganadora fue un juego de [Arkanoid](http://en.wikipedia.org/wiki/Arkanoid) (que, ahora me entero, es [una de las tantas copias del Breakout](http://en.wikipedia.org/wiki/Breakout_clones), y para mi el nombre original siempre fue Arkanoid, en fin).
 

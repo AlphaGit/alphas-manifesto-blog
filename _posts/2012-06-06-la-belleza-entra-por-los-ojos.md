@@ -26,9 +26,8 @@ tags:
 - anécdota
 - screenshot
 - MakingSense
+sub_title: Una historia real
 ---
-Una historia real
-
 
 Una muy bonita anécdota que tenemos para contar cómo nuestro trabajo en User Experience comienza a dar sus frutos es una historia que a [César](https://twitter.com/#!/cesardonofrio) le gusta contar, específicamente por la fuerza que esta historia tiene.
 

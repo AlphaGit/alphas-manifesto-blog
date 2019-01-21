@@ -30,9 +30,8 @@ tags:
 - opinión
 - solución
 - píxel
+sub_title: Opiniones propias sobre muchos problemas mencionados
 ---
-Opiniones propias sobre muchos problemas mencionados
-
 
 Acabo de terminar de leer un artículo largo y genial de Smashing Magazine, llamado [The State of Responsive Web Design](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/). Como el título lo indica, habla sobre el estado actual del diseño de webs responsive y sus pros y contras. Mucho mejor aún, habla de los distintos problemas a superar y la forma en la que la tecnología de hoy nos permite hacerlo. Pero no es una introducción al tema, sino que abarca todos esos problemas que aún no tienen soluciones definitivas. Totalmente novedoso.
 

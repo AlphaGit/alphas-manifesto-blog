@@ -28,11 +28,10 @@ tags:
 - estándares
 - JSONP
 - proxy
+sub_title: Desarrollando en localhost, same-origin policy & REST APIs
 ---
 
 ![]({{ site.baseurl }}/assets/ProxyLove.png)
-
-Desarrollando en localhost, same-origin policy & REST APIs
 
 Hasta hace un tiempo estuve peleando con un problema particular, que en realidad es algo común. Desarrollando una aplicación en su entorno local, se encuentran con que tienen que interactuar con REST APIs de terceros, pero desde JavaScript no pueden llamadas directamente a este dominio porque el browser les impide hacer estas llamadas.  ¿Qué está pasando y cómo resolverlo?
 

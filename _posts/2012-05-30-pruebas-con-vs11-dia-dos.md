@@ -25,9 +25,8 @@ tags:
 - ".NET 4.5"
 - asíncrono
 - síncrono
+sub_title: async y await
 ---
-async y await
-
 
 Continuando con mi serie de posts e investigación sobre lo que VS11 ofrece ([Parte 1]({{ site.baseUrl }}{% link _posts/2012-05-11-pruebas-con-vs11-dia-uno.md %})), quisiera tomar una aproximación separada. Si bien la exploración es interesante, es poco apropiada cuando uno quiere aprovechar el tiempo.
 

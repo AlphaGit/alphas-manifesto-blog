@@ -29,6 +29,7 @@ tags:
 - markov chain
 - Tumblr API
 - shitpost
+sub_title: Text generation with nltk, markovify, Tumblr, docker
 ---
 
 ![]({{ site.baseurl }}/assets/20120227-robotthatscreams-1.png)

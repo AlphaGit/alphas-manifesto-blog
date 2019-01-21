@@ -29,15 +29,13 @@ tags:
 - paranormal
 - ocultismo
 - alucinación
+sub_title: ¿Por qué es tan importante visualizar?
 ---
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/perceptionsmall.jpg" />
   <figcaption>("Perception", imagen cortesía de <a title="Katarsium" href="http://katarsium.deviantart.com/art/Perception-326922394" target="_blank">Katarsium</a>)</figcaption>
 </figure> 
-
-¿Por qué es tan importante visualizar?
-
 
 Aparentemente, visualizar no es para todos. No me refiero a imaginar cosas, sino a literalmente poder visualizarlas, como si estuvieran frente a los ojos. Esta es una habilidad/fenómeno llamada [Closed-eye hallucination](http://en.wikipedia.org/wiki/Closed-eye_hallucination), o closed-eye visualization. Aparentemente, cuando llegan a ser lo suficientemente vívidos como para parecer objetos reales, reciben el nombre de [Remote Viewing](http://en.wikipedia.org/wiki/Remote_viewing), bajo la premisa que uno está en el plano espiritual interactuando con objetos que no están físicamente delante de uno.
 

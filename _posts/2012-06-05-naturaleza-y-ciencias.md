@@ -25,11 +25,10 @@ tags:
 - algoritmos de búsqueda
 - Fibonacci
 - relámpagos
+sub_title: Sobre el punto en donde dos mundos se tocan
 ---
-Sobre el punto en donde dos mundos se tocan
 
-
- ¿Puede la naturaleza ser un modelo de cómo resolver problemas de las ciencias? La pregunta tiene una respuesta obvia. Sabemos que sí, sabemos que muchos procesos pueden copiarse desde la naturaleza para mejorar la forma en la que resolvemos determinados problemas. Desafortunadamente, muchas veces, determinadas áreas de las ciencias quedan fuera porque la relación con el mundo natural está algo alejado. Por ejemplo, las ciencias de la computación o la aritmética.
+¿Puede la naturaleza ser un modelo de cómo resolver problemas de las ciencias? La pregunta tiene una respuesta obvia. Sabemos que sí, sabemos que muchos procesos pueden copiarse desde la naturaleza para mejorar la forma en la que resolvemos determinados problemas. Desafortunadamente, muchas veces, determinadas áreas de las ciencias quedan fuera porque la relación con el mundo natural está algo alejado. Por ejemplo, las ciencias de la computación o la aritmética.
 
 Sin embargo, hay gente que sabe ver ese tipo de relaciones. Por ejemplo, el caso de micahoover, quién se preguntaba [qué algoritmo de búsqueda realizan los relámpagos al caer](http://physics.stackexchange.com/questions/28311/can-lightning-be-used-to-solve-np-complete-problems). Y parecería que, curiosamente, es una búsqueda de tipo simulación Monte Carlo ([Monte Carlo Search: A New Framework for Game UI](http://www.aaai.org/Papers/AIIDE/2008/AIIDE08-036.pdf) [PDF]).
 

@@ -22,6 +22,7 @@ tags:
 - coursera
 - course
 - development
+sub_title: That little green trash can
 ---
 
 ![]({{ site.baseurl }}/assets/android.png)

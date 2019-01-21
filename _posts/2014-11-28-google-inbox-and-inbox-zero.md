@@ -23,12 +23,10 @@ tags:
 - inbox zero
 - Google Inbox
 - methodologies
+sub_title: I'm so on board, this is why
 ---
 
 ![]({{ site.baseurl }}/assets/Inbox.png)
-
-I'm so on board, this is why
-
 
 I recently received a Google Inbox invitation, after requesting it three weeks ago. And after trying it out... boy, I love it.
 

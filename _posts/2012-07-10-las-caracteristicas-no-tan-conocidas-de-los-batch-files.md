@@ -24,12 +24,10 @@ tags:
 - batch
 - script
 - DOS
+sub_title: Unleash the power of .bat!
 ---
 
 ![]({{ site.baseurl }}/assets/batchfile.png)
-
-Unleash the power of .bat!
-
 
 Para los que trabajamos en Windows, es bastante común que en algún momento u otro terminemos automatizando alguna tarea a través de batch files. Por supuesto, aquellos que también trabajamos con Windows desde hace tiempo (incluso desde los tiempos de DOS) seguramente no les tengamos mucha confianza por que estaban bastante limitados.
 

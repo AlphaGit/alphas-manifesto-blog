@@ -26,6 +26,7 @@ tags:
 - search algorithms
 - font design
 - heuristics
+sub_title: How machine learning algorithms may take on our work
 ---
 
 ![]({{ site.baseurl }}/assets/BeeDrones.jpg)

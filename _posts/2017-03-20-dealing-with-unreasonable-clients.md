@@ -25,6 +25,7 @@ tags:
 - customer
 - client
 - money
+sub_title: Customer management
 ---
 
 ![]({{ site.baseurl }}/assets/StickFigure.png)

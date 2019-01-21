@@ -25,6 +25,7 @@ tags:
 - faceted search
 - design patterns
 - filters
+sub_title: Generating facet search results
 ---
 
 ![]({{ site.baseurl }}/assets/mongo-faceted-logo-300x290.png)

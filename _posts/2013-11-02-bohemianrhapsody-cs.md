@@ -19,11 +19,10 @@ tags:
 - C#
 - Música
 - poster
+sub_title: using Queen.GreatestHits;
 ---
 
 ![]({{ site.baseurl }}/assets/posterBohemianRhapsodyCS.png)
-
-using Queen.GreatestHits;
 
 Hey everyone! I just made a poster of [likely_an_impostor's rendition of Bohemian Rhapsody](http://www.reddit.com/r/AskReddit/comments/1poo0n/programmers_of_reddit_how_would_you_sum_up_a/cd4j9iq) in C#, since I definitely believe that it would look great hanging off a wall.
 

@@ -27,9 +27,8 @@ tags:
 - migración
 - base de datos
 - esquema
+sub_title: ¡Chuck Norris al rescate!
 ---
-¡Chuck Norris al rescate!
-
 
 Hace poco me crucé con un proyecto que utilizaba RoundhousE y mi curiosidad me llevó a ver qué era. Me encontré con que es un sistema de migraciones de bases de datos muy conocido para .NET, particularmente para SQL Server, pero también soporta MySQL, Oracle, PostgreSQL, e incluso SQLite.
 

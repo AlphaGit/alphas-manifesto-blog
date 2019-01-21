@@ -26,12 +26,10 @@ tags:
 - DeviantArt
 - apoyo
 - cultura 2.0
+sub_title: El fenómeno 2.0 del soporte y el gusto personal
 ---
 
 ![]({{ site.baseurl }}/assets/Favorites.jpg)
-
-El fenómeno 2.0 del soporte y el gusto personal
-
 
 [Una amiga mía preguntó en DeviantArt](http://trollkhatt.deviantart.com/journal/Question-Why-do-you-fav-370017816):  ¿por qué favean?  ¿Qué hacen con sus favoritos?
 
