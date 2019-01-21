@@ -3,15 +3,9 @@ layout: post
 excerpt_separator: <!--more-->
 title: How Google&rsquo;s New AI Innovations Will Transform Retail
 author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 6450
-wordpress_url: https://blog.alphasmanifesto.com/?p=6450
+  display_name: Rae Steinbach
+  twitter: araesininthesun
+  url: https://ymedialabs.com/
 date: '2018-01-12 20:19:58 +0000'
 date_gmt: '2018-01-13 01:19:58 +0000'
 categories:
@@ -29,8 +23,6 @@ sub_title: by Rae Steinbach, in cooperation with Y Media Labs
 ---
 
 ![]({{ site.baseurl }}/assets/googleimg.jpg)
-
-by Rae Steinbach, in cooperation with Y Media Labs
 
 This is another great guest post, this time from [Rae Steinbach](https://twitter.com/araesininthesun). She  is a graduate of Tufts University with a combined International Relations and Chinese degree. After spending time living and working abroad in China, she returned to NYC to pursue her career and continue curating quality content. Rae is passionate about travel, food, and writing, of course.
 

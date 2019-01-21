@@ -3,15 +3,13 @@ layout: post
 excerpt_separator: <!--more-->
 title: Some best practices for HTML Canvas
 author:
-  display_name: Alpha
-  login: Alpha
-  email: alphagma@gmail.com
-  url: http://www.alphasmanifesto.com/
-author_login: Alpha
-author_email: alphagma@gmail.com
-author_url: http://www.alphasmanifesto.com/
-wordpress_id: 5675
-wordpress_url: https://blog.alphasmanifesto.com/?p=5675
+  display_name: Colin Cieloha
+  twitter: ColinCieloha
+  links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/colin-cieloha-7a01ab55
+    icon: fab fa-linkedin
+  url: https://skilled.co/
 date: '2017-04-30 13:57:05 +0000'
 date_gmt: '2017-04-30 18:57:05 +0000'
 categories:
