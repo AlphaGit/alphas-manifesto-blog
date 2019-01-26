@@ -18,7 +18,7 @@ tags:
 sub_title: Un documental sobre Raymond Kurzweil y su pensamiento
 ---
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=SjhB6J23Qjs" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZreGeZ8w4qE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"> </iframe>
 
 > This is the story of the destiny of the human-machine civilization.
 > 
