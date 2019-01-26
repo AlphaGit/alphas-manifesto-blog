@@ -1,0 +1,32 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+.site-nav {
+    margin-bottom: unset;
+    padding-bottom: 1em;
+}
+
+.masthead {
+    margin-bottom: unset;
+    background: #444;
+    color: white;
+    box-shadow: 10px -5px 5px 10px #888;
+}
+
+.site-title a {
+    color: white;
+}
+
+.site-logo img {
+    border-color: #444;
+}
+
+.navigation-wrapper {
+    background-color: #444;
+}
