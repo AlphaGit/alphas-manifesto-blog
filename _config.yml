@@ -22,7 +22,7 @@ words_per_minute: 150
 mathjax: true
 search_full_content: true
 
-url: https://blog-new.alphasmanifesto.com
+url: https://blog.alphasmanifesto.com
 baseurl: /
 category_archive_path: /categories/#
 tag_archive_path: /tags/#
