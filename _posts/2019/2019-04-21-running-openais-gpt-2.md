@@ -10,6 +10,8 @@ tags:
 sub_title: Play with the most powerful text generator so far
 ---
 
+![GPT-2]({{ site.baseurl }}/assets/gpt2.jpg)
+
 There has been a lot of controversy around OpenAI not releasing the full model for GPT-2. However, leaving that aside, they _did_ publish the 117M model version, which is a small subset of the model that still works. And it works really nicely.
 
 So let's dive and see how we can run it for ourselves.
