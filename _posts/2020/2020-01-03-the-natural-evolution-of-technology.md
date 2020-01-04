@@ -45,3 +45,13 @@ We didn't accept Google's tracking our every email because it felt cool to be pa
 It is our communal decisions on these compromises that we can call "progress". We decide to sacrifice some securities in exchange for some benefits. Usually, those securities are privacy and our data -- since this is what technology mostly feeds on. The more it knows, the more it can do.
 
 So, can we stop progress? If we're being pedantic about the word, no, because whatever action we take will be progress. But back to the original discussion, we can take a different path. However, the decision has to be made by mankind as a whole. How can we individually make that happen? We can't. We can help influence it, raise awareness, help write and approve regulations, become activitists... but if Amazon's Alexa is still a success after we learned that it listens to our conversations, the decision was already taken.
+
+## So what can we do?
+
+It is not impossible to turn back on some decisions -- or even make new ones. But it needs to be a comunal effort, and that's what makes it challenging.
+
+We have examples of that happening and how we've grown towards that. After Skinner's experiments on operant conditioning we decided, as a species, that being subjects of destructive experiments was unethical and we banned that altogether. Will that still happen? The answer is yes (consider the [CRISPR babies](https://www.technologyreview.com/s/614764/chinas-crispr-babies-read-exclusive-excerpts-he-jiankui-paper/)) -- but if we keep our stance, those advances will not become common enough to be accepted into society.
+
+In a way, we're already making those decisions towards were we want to go. That means we're accepting risks, and not everybody is cool with them.
+
+We, and what we decided not to do, are the paths we decided not to take, and the technologies we decided to kill. We, and what we do, are progress.
