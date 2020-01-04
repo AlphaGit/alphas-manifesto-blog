@@ -34,3 +34,14 @@ If we can consider technology as a set of adopted "inventions" that we have, in 
 
 This is natural selection.
 
+## We can't stop progress... can we?
+
+The article walks into this with the reasoning that we justify that progres with natural metaphors so that we remove from ourselves the responsibility of stopping progress when we needed to. If "it's going to happen anyway", then why stop it?
+
+Now, it is not the allure of "progress" that drives consumer adoption. It is the benefits that technology provides that do it. We didn't accept Facebook's erosion of privacy because we wanted "progress", we did it because not doing it meant we wouldn't be able to connect with so many people as we did before.
+
+We didn't accept Google's tracking our every email because it felt cool to be part of the Google family, but rather because they gave us 1 GB storage when the biggest competitor (hotmail) would give us 20 MBs and we were unable to receive emails after our aunt forwarded a ppt with puppies. This change is what allowed 20 years later to accept that sending an email is a somewhat effective method of communication with your customers. Just think about all the "we've changed our policy" emails you probably got recently. That would not fly in the 90s. Banks offer you to go paperless and receive emails now, and even the CRA (the Canadian IRS) will notify me through email.
+
+It is our communal decisions on these compromises that we can call "progress". We decide to sacrifice some securities in exchange for some benefits. Usually, those securities are privacy and our data -- since this is what technology mostly feeds on. The more it knows, the more it can do.
+
+So, can we stop progress? If we're being pedantic about the word, no, because whatever action we take will be progress. But back to the original discussion, we can take a different path. However, the decision has to be made by mankind as a whole. How can we individually make that happen? We can't. We can help influence it, raise awareness, help write and approve regulations, become activitists... but if Amazon's Alexa is still a success after we learned that it listens to our conversations, the decision was already taken.
