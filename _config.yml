@@ -1,7 +1,7 @@
 title: Alpha's Manifesto
 description: A black and white figure's thought-hive
 locale: en
-remote_theme: mmistakes/so-simple-theme
+remote_theme: mmistakes/so-simple-theme@3.2.0
 timezone: America/Toronto
 
 author:
