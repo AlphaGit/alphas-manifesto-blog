@@ -13,7 +13,6 @@ sitemap: false
 }
 
 .masthead {
-    margin-bottom: 2em;
     background: #444;
     color: white;
     box-shadow: 0px -5px 10px 10px #444;
@@ -24,7 +23,7 @@ sitemap: false
 }
 
 .site-logo img {
-    border-color: #444;
+    border-width: 0;
 }
 
 .navigation-wrapper {
