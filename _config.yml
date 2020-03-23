@@ -5,7 +5,6 @@ plugins:
   - jekyll-feed
  
 # Jekyl SEO Tag
-
 title: Alpha's Manifesto
 description: A black and white figure's thought-hive
 locale: en
@@ -17,7 +16,8 @@ twitter:
   username: AlphasManifesto
   card: summary
 
-paginate_path: /page/:num/
+# Jekyll-paginate
+paginate_path: /page/:num
 paginate: 10
 
 # Jekyll-feed
@@ -25,14 +25,16 @@ feed:
   path: atom.xml
 
 # So-Simple-Theme
-disqus:
-  shortname: alphasmanifestoblog
-
-google_analytics: UA-367009-7
 baseurl: /
 category_archive_path: /categories/#
 tag_archive_path: /tags/#
 permalink: /:year/:month/:day/:slug/
+
+disqus:
+  shortname: alphasmanifestoblog
+
+google_analytics: UA-367009-7
+
 read_time: true
 words_per_minute: 150
 mathjax:
