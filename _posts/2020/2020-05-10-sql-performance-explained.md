@@ -29,7 +29,7 @@ First of all, the book is concise and down to the point. No useless introduction
 
 Second, it is given publicly, for free, in a web version that is very easy to read.
 
-Third of all, the contents are generic enough so that it applies to every data base engine, and the book covers specifics for MySQL, SQL Server, Oracle DB2 and PostgreSQL. There's even a whole chapter dedicated to DB2's treatment of `NULL`s, which is not intuitive at all.
+Third of all, the contents are generic enough so that it applies to every database engine, and the book covers specifics for MySQL, SQL Server, Oracle DB2 and, PostgreSQL. There's even a whole chapter dedicated to DB2's treatment of `NULL`s, which is not intuitive at all.
 
 As for the contents, the book does something which, to me, is essential to any book that wants to stay in the minds of readers. It starts by explaining, in a very understandable tone, what indexes are and how they work. With that foundation, it starts building on the performance improvements that it brings, and the limitations that they have.
 
