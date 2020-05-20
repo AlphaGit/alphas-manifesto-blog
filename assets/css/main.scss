@@ -30,3 +30,9 @@ sitemap: false
 .navigation-wrapper {
     background-color: #444;
 }
+
+article {
+    td {
+        vertical-align: top;
+    }
+}
