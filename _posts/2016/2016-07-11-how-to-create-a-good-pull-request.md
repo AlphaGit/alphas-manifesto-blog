@@ -31,7 +31,7 @@ Without further ado, let's start with what is going to be a long article about s
 
 ## 1. Before submitting
 
-### **1.1. Decide on the goal for the pull request**
+### 1.1. Decide on the goal for the pull request
 
 Most of the times, pull requests are to have code merged. But not always. Sometimes, the objective of a pull request is to just have feedback on a particular aspect of design or implementation. Sometimes, it's just to see if a particular feature will be accepted into the code you're contributing to. Indicate the objective in the pull request. Once that objective is reached, make sure the code is merged or the PR is closed. Don't leave unfinished PRs hanging around, since then what needs to be done with it is not clear.
 
@@ -41,23 +41,23 @@ Most of the times, pull requests are to have code merged. But not always. Someti
 | | I just need some feedback about the design of the XYZ class. It is not yet ready to merge. 
 | | Feature: preserving user data while offline. |
 
-### **1.2. Make sure it compiles**
+### 1.2. Make sure it compiles
 
 Needless to say, don't submit code that does not compile. This could maybe be acceptable if the objective is to have some feedback about part of the code, but it goes beyond saying that the submitted code will not be in a state of being integrated. If the repository/tool to submit pull requests also run tests, make sure they pass. Otherwise, you'll get a bunch of red lights or rejections for unnecessary reasons. Again, this can be an exception if you're just looking for feedback of a particular aspect and not code merging.
 
 This includes warnings if the approach in this project/team is not to allow them altogether. If that's the case and there's no way around it, you can always change the configuration of your tools to allow for exceptions to the rules. If you do that, make sure to document as closer to the exception as possible why this is unavoidable.
 
-### **1.3. Make sure it can be merged to the destination branch**
+### 1.3. Make sure it can be merged to the destination branch
 
 Resolve conflicts before creating the PR. Make the necessary integration changes before creating the PR. Reading through conflicts is confusing and will just generate more questions or demands from the side of the reviewers.
 
-### **1.4. Make sure all tests pass**
+### 1.4. Make sure all tests pass
 
 Having broken tests that will need to be fixed later will only create technical debt, or worse, hide real bugs, or stop the team from making progress if the test suite is broken. Fixing them while the PR is open will only generate more "back-and-forth"s with the reviewers, delaying the process and taking more time from everyone.
 
 Test your suite in your branch or your local environment before creating the PR.
 
-### **1.5. Make sure all aspects of the original requirement were addressed**
+### 1.5. Make sure all aspects of the original requirement were addressed
 
 Before submitting the PR, make sure it is complete with everything that you intended. If you have a requirement or project tracking system, review the tickets that the code was supposed to address. Review the design restrictions and make sure that the code being submitted complies to all of them. If you have a code style guide, make sure that the newly submitted code complies with the standards. If you have a UI style guide or branding guide, make sure UI changes conform to that before creating the PR.
 
@@ -67,7 +67,7 @@ Another exception may be point _3.3. Break it into manageable chunks_, if the re
 
 ## 2. Data about the pull request itself
 
-### **2.1. Reference the tracking ticket you are using**
+### 2.1. Reference the tracking ticket you are using
 
 If you are using a requirement / project tracking system, indicate which ticket this code is solving or contributing to. If there is none for this, either request the team to have one created or indicate that no ticket has been created for it. This will properly communicate that you went through the effort of looking through the requirements, and avoid duplicates in the future. When a team manages multiple PRs, being able to go back and forth between the code repository and the tracking system helps in determining the status of the project.
 
@@ -82,7 +82,7 @@ Some teams also prefer to have the distinction between the type of changes, like
 
 <sup>(1)</sup> When the references to tickets are fixed in size (like the LS-102 example) I prefer them in the title. When they can vary a lot, (like the #5, #6, #7 example) I like them better in the body of the PR / commit. However, this is just personal preference. Follow whatever the team is doing.
 
-### **2.2. Use a concise, yet descriptive title**
+### 2.2. Use a concise, yet descriptive title
 
 Make it short, make it obvious. What did you do? Don't explain the "why", don't explain the "what for". In a title, explain the "what".
 
@@ -94,7 +94,7 @@ Since most repository hosts also will take the name of the branch or the message
 | Several fixes | "My profile" UI design improvements |
 | [LS-102] Users cannot save local data | [LS-102] Adjusted user permissions for saving local data |
 
-### **2.3. Indicate changes and/or intentions**
+### 2.3. Indicate changes and/or intentions
 
 In the description of the pull request, elaborate a little bit on what you did, and the "what for". Do not repeat the contents of the ticket you're trying to address. That adds no value. Rather than that, explain (if necessary) what changes you made to achieve that goal.
 
@@ -110,12 +110,12 @@ It's important to indicate which are the changes that you made, instead of which
     <tbody>
         <tr>
             <td>
-                <p><em>Title:</em> Adjusted permissions for saving local data for regular users (permissions: user-saving, localstorage-access)</p>
-                <p><em>Description:</em> (Empty)</p>
+                <p><strong>Title:</strong> Adjusted permissions for saving local data for regular users (permissions: user-saving, localstorage-access)</p>
+                <p><strong>Description:</strong> (Empty)</p>
             </td>
             <td>
-                <p><em>Title:</em> Adjusted user permissions when saving local data</p>
-                <p></em>Description:</em> Regular users were not granted the following required permissions</p>
+                <p><strong>Title:</strong> Adjusted user permissions when saving local data</p>
+                <p><strong>Description:</strong> Regular users were not granted the following required permissions</p>
                 <ul>
                     <li>user-saving</li>
                     <li>localstorage-access</li>
@@ -125,8 +125,8 @@ It's important to indicate which are the changes that you made, instead of which
         </tr>
         <tr>
             <td>
-                <p><em>Title:</em> Several fixes</p>
-                <p><em>Description:</em></p>
+                <p><strong>Title:</strong> Several fixes</p>
+                <p><strong>Description:</strong></p>
                 <ul>
                     <li>Fixed favicon resolution for modern browsers</li>
                     <li>Adjusted permissions so that users can save their own data offline</li>
@@ -135,8 +135,8 @@ It's important to indicate which are the changes that you made, instead of which
                 </ul>
             </td>
             <td>
-                <p><em>Title:</em> "My profile" UI design improvements</p>
-                <p><em>Description:</em></p>
+                <p><strong>Title:</strong> "My profile" UI design improvements</p>
+                <p><strong>Description:</strong></p>
                 <ul>
                     <li>Fixed favicon resolution for modern browsers</li>
                     <li>Changed input types to HTML5 standard ones</li>
@@ -148,49 +148,49 @@ It's important to indicate which are the changes that you made, instead of which
     </tbody>
 </table>
 
-### **2.4. Explain changes done**
+### 2.4. Explain changes done
 
 If the changes require some understanding or some design, or some non-obvious decisions were taking, document them here. They will make reviewers lives easier, and in consequence, yours too.
 
 Any investigation and thought-process you did that made you arrive at non-obvious conclusions also help here. Prevent reviewers from falling into the same problems that you had already faced and explain why the most obvious solutions were discarded.
 
 <table>
-<thead>
-<tr>
-<th>Bad examples</th>
-<th>Good examples</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>**Title:** Adjusted user permissions when saving local data
-
-**Description:** Granted all users missing permissions.</td>
-<td>**Title:** Adjusted user permissions when saving local data
-
-**Description:** Regular users were not granted the following required permissions
-<ul>
-<li>user-saving
-<li>localstorage-access
-</ul>
-
-These permissions are now granted to all users, regardless of their access level.
-
-It seems permissions were removed from all users in commit `12f3af3`, to fix LS-94.</td>
-</tr>
-<tr>
-<td>**Title:** Adjusted user permissions when saving local data
-
-**Description:** Users did not have the required permissions. Now they have been given to them.</td>
-<td>**Title:** Adjusted user permissions when saving local data
-
-**Description:** Users did not have the required permissions. Now they have been given to them.
-
-Permissions are usually not granted at a global level. However, it is ok to give these permissions to a global level because all users should have access to these permissions, regardless of their access level.
-
-Non-registered users will not have these permissions applied because they do not get an instance of `IUser` until they create an account.</td>
-</tr>
-</tbody>
+    <thead>
+        <tr>
+            <th>Bad examples</th>
+            <th>Good examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p><strong>Title:</strong> Adjusted user permissions when saving local data</p>
+                <p><strong>Description:</strong> Granted all users missing permissions.</p>
+            </td>
+            <td>
+                <p><strong>Title:</strong> Adjusted user permissions when saving local data</p>
+                <p><strong>Description:</strong> Regular users were not granted the following required permissions</p>
+                <ul>
+                    <li>user-saving</li>
+                    <li>localstorage-access</li>
+                </ul>
+                <p>These permissions are now granted to all users, regardless of their access level.</p>
+                <p>It seems permissions were removed from all users in commit `12f3af3`, to fix LS-94.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Title:</strong> Adjusted user permissions when saving local data</p>
+                <p><strong>Description:</strong> Users did not have the required permissions. Now they have been given to them.</p>
+            </td>
+            <td>
+                <p><strong>Title:</strong> Adjusted user permissions when saving local data</p>
+                <p><strong>Description:</strong> Users did not have the required permissions. Now they have been given to them.</p>
+                <p>Permissions are usually not granted at a global level. However, it is ok to give these permissions to a global level because all users should have access to these permissions, regardless of their access level.</p>
+                <p>Non-registered users will not have these permissions applied because they do not get an instance of `IUser` until they create an account.</p>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 In my current team, we came up with the following template (just use it as an example):
@@ -265,9 +265,8 @@ When doing so, explain:
 </tr>
 <tr>
 <td></td>
-<td><code>//TODO rename this method to "saveUserData", as it explains better its purpose.</code>
-
-`//Won't do that right now because the API depends on it and that involves major changes. (LS-105)`</td>
+<td><pre>//TODO rename this method to "saveUserData", as it explains better its purpose.
+//Won't do that right now because the API depends on it and that involves major changes. (LS-105)</pre></td>
 </tr>
 </tbody>
 </table>
