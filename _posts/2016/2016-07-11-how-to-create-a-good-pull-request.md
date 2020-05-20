@@ -101,51 +101,51 @@ In the description of the pull request, elaborate a little bit on what you did, 
 It's important to indicate which are the changes that you made, instead of which are the changes that you intended to make. Any bugfix or further refinement would have the same message if you just copied and pasted the final result as you intended in the first try. And having multiple commits or PRs with the same name does not help much for tracking.
 
 <table>
-<thead>
-<tr>
-<th>Bad examples</th>
-<th>Good examples</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>**Title:** Adjusted permissions for saving local data for regular users (permissions: user-saving, localstorage-access)
-
-**Description:** (Empty)</td>
-
-<td>**Title:** Adjusted user permissions when saving local data
-
-**Description:** Regular users were not granted the following required permissions
-<ul>
-<li>user-saving
-<li>localstorage-access
-</ul>
-
-These permissions are now granted to all users, regardless of their access level.</td>
-</tr>
-<tr>
-<td>**Title:** Several fixes
-
-**Description:**
-<ul>
-<li>Fixed favicon resolution for modern browsers
-<li>Adjusted permissions so that users can save their own data offline
-<li>Changed input types to HTML5 standard ones
-<li>Changed colors
-</ul>
-</td>
-<td>**Title:** "My profile" UI design improvements
-
-**Description:**
-<ul>
-<li>Fixed favicon resolution for modern browsers
-<li>Changed input types to HTML5 standard ones
-<li>Changed colors
-</ul>
-
-Note: The bug about users not being able to save local data will be included in a different PR, this one only addresses UI issues.</td>
-</tr>
-</tbody>
+    <thead>
+        <tr>
+            <th>Bad examples</th>
+            <th>Good examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p><em>Title:</em> Adjusted permissions for saving local data for regular users (permissions: user-saving, localstorage-access)</p>
+                <p><em>Description:</em> (Empty)</p>
+            </td>
+            <td>
+                <p><em>Title:</em> Adjusted user permissions when saving local data</p>
+                <p></em>Description:</em> Regular users were not granted the following required permissions</p>
+                <ul>
+                    <li>user-saving</li>
+                    <li>localstorage-access</li>
+                </ul>
+                <p>These permissions are now granted to all users, regardless of their access level.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><em>Title:</em> Several fixes</p>
+                <p><em>Description:</em></p>
+                <ul>
+                    <li>Fixed favicon resolution for modern browsers</li>
+                    <li>Adjusted permissions so that users can save their own data offline</li>
+                    <li>Changed input types to HTML5 standard ones</li>
+                    <li>Changed colors</li>
+                </ul>
+            </td>
+            <td>
+                <p><em>Title:</em> "My profile" UI design improvements</p>
+                <p><em>Description:</em></p>
+                <ul>
+                    <li>Fixed favicon resolution for modern browsers</li>
+                    <li>Changed input types to HTML5 standard ones</li>
+                    <li>Changed colors</li>
+                </ul>
+                <p>Note: The bug about users not being able to save local data will be included in a different PR, this one only addresses UI issues.</p>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ### **2.4. Explain changes done**
