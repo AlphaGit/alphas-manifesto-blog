@@ -100,7 +100,7 @@ However, also remember that you should pick your battles and that being right ab
 
 You may choose to review all the code for the first point, then the second and so on, or you may choose to use this as a checklist on every piece of code that you review. I have ordered them from most important to less important, in my personal opinion:
 
-### 3.1. Quick checklist
+### 3.1. ~~Quick~~ checklist
 
 1. Is the change introduced feasible?
     1. Does it do what it's supposed to do? Maybe check with the original requirement, if it's written down somewhere.
