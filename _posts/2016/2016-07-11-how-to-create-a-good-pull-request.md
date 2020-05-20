@@ -256,18 +256,21 @@ When doing so, explain:
 </thead>
 <tbody>
 <tr>
-<td><pre>//TODO fix this</pre></td>
-<td><pre>//TODO refactor this -- code is unreadable (but not a priority right now)</pre></td>
+<td><pre>// TODO fix this</pre></td>
+<td><pre>// TODO refactor this -- code is unreadable
+// (but not a priority right now)</pre></td>
 </tr>
 <tr>
-<td><pre>//FIXME user permissions are wrong</pre></td>
-<td><pre>//TODO review given user permissions, they may be not allowing users of type "regularUser" to save data (LS-102)</pre></td>
+<td><pre>// FIXME user permissions are wrong</pre></td>
+<td><pre>// TODO review given user permissions,
+// they may be not allowing users of type "regularUser" to save data (LS-102)</pre></td>
 </tr>
 <tr>
 <td></td>
-<td><pre>/*TODO rename this method to "saveUserData", as it explains better its purpose.
-  Won't do that right now because the API depends on it and that involves
-  major changes. (LS-105)</pre></td>
+<td><pre>// TODO rename this method to "saveUserData",
+// as it explains better its purpose. Won't do
+// that right now because the API depends on it and that involves
+// major changes. (LS-105)</pre></td>
 </tr>
 </tbody>
 </table>
