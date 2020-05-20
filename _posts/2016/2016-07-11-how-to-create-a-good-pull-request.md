@@ -175,7 +175,7 @@ Any investigation and thought-process you did that made you arrive at non-obviou
                     <li>localstorage-access</li>
                 </ul>
                 <p>These permissions are now granted to all users, regardless of their access level.</p>
-                <p>It seems permissions were removed from all users in commit `12f3af3`, to fix LS-94.</p>
+                <p>It seems permissions were removed from all users in commit <code>12f3af3</code>, to fix LS-94.</p>
             </td>
         </tr>
         <tr>
@@ -187,7 +187,7 @@ Any investigation and thought-process you did that made you arrive at non-obviou
                 <p><strong>Title:</strong> Adjusted user permissions when saving local data</p>
                 <p><strong>Description:</strong> Users did not have the required permissions. Now they have been given to them.</p>
                 <p>Permissions are usually not granted at a global level. However, it is ok to give these permissions to a global level because all users should have access to these permissions, regardless of their access level.</p>
-                <p>Non-registered users will not have these permissions applied because they do not get an instance of `IUser` until they create an account.</p>
+                <p>Non-registered users will not have these permissions applied because they do not get an instance of <code>IUser</code> until they create an account.</p>
             </td>
         </tr>
     </tbody>
@@ -256,17 +256,18 @@ When doing so, explain:
 </thead>
 <tbody>
 <tr>
-<td><code>//TODO fix this</code></td>
-<td><code>//TODO refactor this -- code is unreadable (but not a priority right now)</code></td>
+<td><pre>//TODO fix this</pre></td>
+<td><pre>//TODO refactor this -- code is unreadable (but not a priority right now)</pre></td>
 </tr>
 <tr>
-<td><code>//FIXME user permissions are wrong</code></td>
-<td><code>//TODO review given user permissions, they may be not allowing users of type "regularUser" to save data (LS-102)</code></td>
+<td><pre>//FIXME user permissions are wrong</pre></td>
+<td><pre>//TODO review given user permissions, they may be not allowing users of type "regularUser" to save data (LS-102)</pre></td>
 </tr>
 <tr>
 <td></td>
-<td><pre>//TODO rename this method to "saveUserData", as it explains better its purpose.
-//Won't do that right now because the API depends on it and that involves major changes. (LS-105)</pre></td>
+<td><pre>/*TODO rename this method to "saveUserData", as it explains better its purpose.
+  Won't do that right now because the API depends on it and that involves
+  major changes. (LS-105)</pre></td>
 </tr>
 </tbody>
 </table>
