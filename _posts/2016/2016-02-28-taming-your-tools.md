@@ -38,8 +38,8 @@ As such, the more you know what your tools can do for you, the more you can put 
 
 - **Does it "feel" good?** As in, does it make the usage of the tool a gratifying experience instead of a nuissance?
 - **Does it go with your workflow?** If so, is it worth changing your workflow for the benefits you'll get?
-- **Have you learnt the shortcuts? **Does it even have shortcuts?
-- **Can you turn off the options that you're not going to use? **Do you know the full extent of what it can do for you? Maybe it's worth checking that manual or that book.
+- **Have you learnt the shortcuts?** Does it even have shortcuts?
+- **Can you turn off the options that you're not going to use?** Do you know the full extent of what it can do for you? Maybe it's worth checking that manual or that book.
 - **Does it make you think?** (This is not a good thing.)
 - **Does it slow you (or your computer) down?** Too much? When you find yourself waiting for something to finish, it's too much.
 
