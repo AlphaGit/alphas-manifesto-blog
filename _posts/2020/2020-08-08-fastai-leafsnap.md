@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title: FastAI quick test: LeafSnap
+title: FastAI quick test / LeafSnap
 categories:
     - AI
 tags:
