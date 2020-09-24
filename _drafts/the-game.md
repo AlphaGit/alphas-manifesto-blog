@@ -10,13 +10,9 @@ tags:
     - Digital Revolution
     - Gamification
 image:
-    # TODO Update
-    path: /assets/fastai-leafsnap/cover.jpg
-    # TODO Update
-    thumbnail: /assets/fastai-leafsnap/cover.jpg
-    # TODO Update
-    caption: 
-# TODO Update
+    path: /assets/the-game/book-cover.jpg
+    thumbnail: /assets/the-game/book-cover.jpg
+    caption: The Game Book Cover
 sub_title: The Game, by Alessandro Baricco
 ---
 
