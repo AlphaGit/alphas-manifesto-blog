@@ -20,6 +20,8 @@ I just finished reading Tim Ferriss' 4-hour workweek book. To be honest, it's no
 
 <!--more-->
 
+Prologue: I have had this blog post in drafts [since 8 months ago](https://github.com/AlphaGit/alphas-manifesto-blog/commits/master/_drafts/4hww.md), but it is time for it to go. Honestly, I wasn't sure if to publish it at all. As I kept thinking about this book, I realized its closer to a get rich quick scheme than a book about advice and productivity. That being said, let's proceed with the review.
+
 I initially approached this book thinking it was a productivity book. One of those that explain how to make things so fast that you'd be able to do your work week in an (metaphorical) half a day. On the bright side, the title was not metaphorical at all -- it is meant to drive you to work literally four or less hours a week.
 
 On the other side, this book is not about productivity (or maybe it is, depending on how you measure it). It is about business, and creating a self-sustaining model that takes yourself out of the equation.
@@ -35,7 +37,7 @@ Tim's method about living life as you always envisioned it is four-fold. But I c
 - Cash the cheques
 - Travel the world
 
-While I'm oversimplifying, Tim explains how you would proceed into validating that someone would buy your idea. Furthermore, he explains how to obtain very cheap advertisements and what revenue margins you need target. And actually, this is one the things I really liked about this book: it does not sugar-coat the concepts. It explains right away what dollar values are useful and which ones are not, what percentages can lead to sustentable revenue and why. What producers and assistants he has been lucky with.
+So yes, this is another take on getting rich while dropshipping. While I'm oversimplifying, Tim explains how you would proceed into validating that someone would buy your idea. He explains how to obtain very cheap advertisements and what revenue margins you need target. And actually, this is one the things I really liked about this book: it does not sugar-coat the concepts. It explains right away what dollar values are useful and which ones are not, what percentages can lead to sustentable revenue and why. What producers and assistants he has been lucky with. However, I doubt that whatever information he gives is relevant today. I did research several of the links and agencies he suggests and they do not exist anymore. Mind you, the edition I have is from 2009, so it is missing a **lot** int terms of current events.
 
 Part 2 is outsourcing every part of your idea, completely removing yourself from it. This can happen in multiple stages, but the goal is to do nothing and still get money. He suggests using companies from eastern Asia like India and Thailand, mostly because they will charge little money for the work and still deliver a quality service that you can upcharge. This is ethically debatable, but it is a very real possibility.
 
@@ -47,11 +49,13 @@ Finally, travelling is mostly about travelling cheap. He also suggests countries
 
 This being said, there's one thing that stuck with me. He talks about the "new rich" and the type of living that they could obtain. It's not about having an inifite cashflow of money and just lazing around the rest of your life, but being able to enjoy your life consistently. Taking mini-retirements every once in a while, without waiting until an actual retirement. This seems like a very centered point of view, looking at life like a marathon and not a race.
 
+Still, I recognize that it follows the structured of a fallacy reasoning. By creating a new term ("new rich"), he can claim it is not exactly as "being rich" but it is similar, and then explains that it is not about the money, but about the experiences an living. While I agree that is is a good point of view, I disagree that calling it "new rich" is useful at all. It is not being rich, it is just living your life. But "new rich" as a name makes you think it is equivalent to having a lot of money, so you shift the goal you have as if you have achieved something similar. It is not. It's a diffferent thing.
+
 ## What about your day job?
 
 Tim suggests negotiating (actually, forcing) your employee to allow you to do remote work, in a way that you have more time than you are actually expected to do. On the one hand, this makes sense: if your performance is results-driven, you don't need to crunch 8 hours a day every day, as long as you're doing the best work that your company needs.
 
-But if your work is per-hour, like many contractors or freelancers will do, this is ethically debatable as well (charging more than you actually work). This really depends on other factors, but you can see how charging for work that you won't do might be seen as fishy, at the very least.
+But if your work is per-hour, like many contractors or freelancers will do, this is ethically debatable as well (charging more than you actually work). This really depends on other factors, but you can see how charging for work that you won't do might be seen as fishy, at the very least. You might argue that if the employer is willing to pay it, then it is fine. But employers are **not** willing to pay that. What would happen if, as a freelancer, you went to your employer and said "I'll do it in less time, but I still want to be paid full time". Do you think they'd accept?
 
 Once you have the time you need, you can start creating your muse: your self-sustaining business.
 
