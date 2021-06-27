@@ -5,7 +5,7 @@ title: Algorithms, transhumanism and futurism
 categories:
     - Technology
 tags:
-    - technology
+    - Technology
     - futurism
     - transhumanism
     - algorithms
