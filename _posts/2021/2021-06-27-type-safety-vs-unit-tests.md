@@ -71,7 +71,7 @@ This is where our process falls short.
 
 For the sake of the thought experiment, let's say that we include a plugin in our IDE that will do this for us, and whenever we are writing a consumer for MyClass, it will immediately point out: `param1 needs to be an instance of Type1`, or, since we like succinctness: `param1: Type1`.
 
-![hints]({{ site.baseurl }}assets/strong-typing-vs-unit-testing/hinting.png)
+![hints]({{ site.baseurl }}assets/strong-typing-vs-unit-testing/hints.png)
 
 At this point, _we've reinvented strong-typing_.
 
