@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link of the day: Face detection code'
 date: '2010-12-10 11:34:26 +0000'
 date_gmt: '2010-12-10 13:34:26 +0000'

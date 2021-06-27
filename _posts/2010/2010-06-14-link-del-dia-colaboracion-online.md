@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Colaboración online'
 date: '2010-06-14 10:41:35 +0000'
 date_gmt: '2010-06-14 12:41:35 +0000'

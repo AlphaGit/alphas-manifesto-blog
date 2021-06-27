@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Algunas reseñas de libros
 date: '2013-05-12 13:02:06 +0000'
 date_gmt: '2013-05-12 18:02:06 +0000'

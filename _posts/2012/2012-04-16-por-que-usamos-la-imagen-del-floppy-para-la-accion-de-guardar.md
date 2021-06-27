@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: ' ¿Por qué usamos la imagen del floppy para la acción de
   "guardar"?'
 date: '2012-04-16 10:16:12 +0000'

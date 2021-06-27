@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: How to create a good pull request
 date: '2016-07-11 22:33:07 +0000'

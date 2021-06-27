@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Multiversiones IE'
 date: '2011-09-09 08:59:30 +0000'
 date_gmt: '2011-09-09 13:59:30 +0000'

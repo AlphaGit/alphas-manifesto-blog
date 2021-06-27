@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Google Closure'
 date: '2009-12-16 12:28:36 +0000'
 date_gmt: '2009-12-16 14:28:36 +0000'

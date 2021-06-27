@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: HTML Instant'
 date: '2010-10-28 16:30:56 +0000'
 date_gmt: '2010-10-28 18:30:56 +0000'

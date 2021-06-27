@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Validating for real alphabetic
 date: '2010-09-08 15:50:14 +0000'
 date_gmt: '2010-09-08 17:50:14 +0000'

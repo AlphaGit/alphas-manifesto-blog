@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: El cracking y la memoria
 date: '2007-11-23 13:00:00 +0000'
 date_gmt: '2007-11-23 13:00:00 +0000'

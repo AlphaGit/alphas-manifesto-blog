@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Correlation &ne; causation
 date: '2017-08-25 16:29:36 +0000'

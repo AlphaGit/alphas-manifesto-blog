@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Automatically logging your timesheets in JIRA
 date: '2015-10-25 16:22:17 +0000'

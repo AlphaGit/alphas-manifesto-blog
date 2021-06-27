@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Probar ruby sin problemas'
 date: '2010-02-11 11:56:03 +0000'
 date_gmt: '2010-02-11 13:56:03 +0000'

@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Testability vs. simple design
 date: '2016-03-22 20:21:31 +0000'

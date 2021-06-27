@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Configuring HTTPS for project GitHub Pages custom subdomain
 categories:

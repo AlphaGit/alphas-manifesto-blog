@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Failed experiments and what I've learned from them
 date: '2017-03-26 21:54:14 +0000'

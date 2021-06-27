@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: PrivateSky
 date: '2012-04-10 09:27:34 +0000'
 date_gmt: '2012-04-10 14:27:34 +0000'

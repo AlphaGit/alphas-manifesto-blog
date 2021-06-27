@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Optimizar tu máquina, sin saber nada'
 date: '2010-06-23 10:08:20 +0000'
 date_gmt: '2010-06-23 12:08:20 +0000'

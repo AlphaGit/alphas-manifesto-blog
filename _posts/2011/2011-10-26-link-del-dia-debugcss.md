@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: debugCSS'
 date: '2011-10-26 09:46:00 +0000'
 date_gmt: '2011-10-26 14:46:00 +0000'

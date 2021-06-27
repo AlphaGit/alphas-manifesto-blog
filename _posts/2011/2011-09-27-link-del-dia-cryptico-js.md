@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Cryptico.js'
 date: '2011-09-27 10:11:39 +0000'
 date_gmt: '2011-09-27 15:11:39 +0000'

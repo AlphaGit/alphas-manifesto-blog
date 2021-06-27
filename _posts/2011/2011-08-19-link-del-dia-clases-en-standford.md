@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Clases en Stanford'
 date: '2011-08-19 12:19:08 +0000'
 date_gmt: '2011-08-19 14:19:08 +0000'

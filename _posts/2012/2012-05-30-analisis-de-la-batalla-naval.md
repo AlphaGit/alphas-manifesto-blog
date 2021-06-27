@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Análisis de la Batalla Naval
 date: '2012-05-30 11:23:10 +0000'
 date_gmt: '2012-05-30 16:23:10 +0000'

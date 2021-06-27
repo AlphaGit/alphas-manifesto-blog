@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Dealing with "unreasonable" clients
 date: '2017-03-20 20:26:33 +0000'

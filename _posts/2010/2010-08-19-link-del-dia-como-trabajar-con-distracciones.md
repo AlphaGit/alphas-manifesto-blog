@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día:  ¿Cómo trabajar con distracciones?'
 date: '2010-08-19 11:54:10 +0000'
 date_gmt: '2010-08-19 13:54:10 +0000'

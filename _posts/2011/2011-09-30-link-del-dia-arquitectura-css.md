@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Arquitectura CSS'
 date: '2011-09-30 08:18:05 +0000'
 date_gmt: '2011-09-30 13:18:05 +0000'

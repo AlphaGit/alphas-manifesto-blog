@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Cloud Computing Ecosystem'
 date: '2009-12-21 11:17:08 +0000'
 date_gmt: '2009-12-21 13:17:08 +0000'

@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Udacity's Deep Learning Nanodegree Foundations
 date: '2017-06-27 20:28:32 +0000'

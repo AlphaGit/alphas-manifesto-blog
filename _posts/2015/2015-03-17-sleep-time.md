@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Sleep time
 date: '2015-03-17 17:23:19 +0000'

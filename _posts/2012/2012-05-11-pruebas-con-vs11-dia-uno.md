@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Pruebas con VS11: Día uno'
 date: '2012-05-11 15:11:03 +0000'
 date_gmt: '2012-05-11 20:11:03 +0000'

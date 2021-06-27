@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: IE6 Upgrade Warning'
 date: '2009-07-30 10:58:21 +0000'
 date_gmt: '2009-07-30 12:58:21 +0000'

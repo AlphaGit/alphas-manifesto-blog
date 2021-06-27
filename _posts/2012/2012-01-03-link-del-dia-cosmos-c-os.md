@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Cosmos (C# OS)'
 date: '2012-01-03 10:55:16 +0000'
 date_gmt: '2012-01-03 15:55:16 +0000'

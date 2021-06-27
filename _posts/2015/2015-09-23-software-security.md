@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Software Security
 date: '2015-09-23 07:08:27 +0000'

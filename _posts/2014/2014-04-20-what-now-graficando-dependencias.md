@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'What-now: graficando dependencias'
 date: '2014-04-20 17:23:34 +0000'
 date_gmt: '2014-04-20 22:23:34 +0000'

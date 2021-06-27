@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Animaciones en JavaScript'
 date: '2010-02-10 14:10:58 +0000'
 date_gmt: '2010-02-10 16:10:58 +0000'

@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: The future of work, aided by AI?
 date: '2018-01-01 11:21:41 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: La belleza de los algoritmos'
 date: '2010-08-24 14:44:42 +0000'
 date_gmt: '2010-08-24 16:44:42 +0000'

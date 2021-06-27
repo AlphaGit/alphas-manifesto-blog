@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Cómo esconder passwords públicamente'
 date: '2010-05-03 11:04:49 +0000'
 date_gmt: '2010-05-03 13:04:49 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Generación de código'
 date: '2011-02-03 13:26:56 +0000'
 date_gmt: '2011-02-03 15:26:56 +0000'

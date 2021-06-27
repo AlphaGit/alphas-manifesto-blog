@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link of the day: Open Source Project Management'
 date: '2010-05-07 11:25:46 +0000'
 date_gmt: '2010-05-07 13:25:46 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Presentando: What now?'
 date: '2014-02-23 19:25:39 +0000'
 date_gmt: '2014-02-24 00:25:39 +0000'

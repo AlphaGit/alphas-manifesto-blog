@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Barras de progreso y velocidad aparente
 date: '2012-06-21 07:42:51 +0000'
 date_gmt: '2012-06-21 12:42:51 +0000'

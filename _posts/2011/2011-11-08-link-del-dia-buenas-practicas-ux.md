@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Buenas Prácticas UX'
 date: '2011-11-08 09:45:06 +0000'
 date_gmt: '2011-11-08 14:45:06 +0000'

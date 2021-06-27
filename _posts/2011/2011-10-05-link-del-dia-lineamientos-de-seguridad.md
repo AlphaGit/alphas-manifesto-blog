@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Lineamientos de seguridad'
 date: '2011-10-05 09:45:49 +0000'
 date_gmt: '2011-10-05 14:45:49 +0000'

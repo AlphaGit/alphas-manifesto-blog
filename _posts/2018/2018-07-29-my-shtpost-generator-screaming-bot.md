@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: 'My sh*tpost generator: screaming-bot'
 date: '2018-07-29 14:53:11 +0000'

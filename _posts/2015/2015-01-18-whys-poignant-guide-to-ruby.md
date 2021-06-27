@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Why's (poignant) guide to Ruby
 date: '2015-01-18 12:44:50 +0000'

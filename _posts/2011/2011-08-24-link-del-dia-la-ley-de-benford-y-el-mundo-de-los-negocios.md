@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: La ley de Benford y el mundo de los negocios'
 date: '2011-08-24 16:04:57 +0000'
 date_gmt: '2011-08-24 18:04:57 +0000'

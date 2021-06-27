@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Google Swify'
 date: '2011-07-11 11:21:36 +0000'
 date_gmt: '2011-07-11 13:21:36 +0000'

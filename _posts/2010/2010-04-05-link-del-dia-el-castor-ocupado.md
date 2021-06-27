@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: El castor ocupado'
 date: '2010-04-05 12:20:14 +0000'
 date_gmt: '2010-04-05 14:20:14 +0000'

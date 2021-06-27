@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: jQuery Novice to Ninja
 date: '2012-07-01 23:27:13 +0000'
 date_gmt: '2012-07-02 04:27:13 +0000'

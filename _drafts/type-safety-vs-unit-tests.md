@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Type safety vs. unit tests
 categories:
@@ -9,10 +8,8 @@ tags:
     - Unit tests
     - Languages
     - Best practices
-image:
-    path: assets/strong-typing-vs-unit-testing/<pending>.png
-    thumbnail: assets/strong-typing-vs-unit-testing/<pending>.png
-    caption: 
+header:
+    image: assets/strong-typing-vs-unit-testing/<pending>.png
 ---
 
 Can unit tests that assert type safety be enough to compete against strong-typed languages?

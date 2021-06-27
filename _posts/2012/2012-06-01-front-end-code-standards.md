@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Front-end code standards
 date: '2012-06-01 11:40:54 +0000'
 date_gmt: '2012-06-01 16:40:54 +0000'

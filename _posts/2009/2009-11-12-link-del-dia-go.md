@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Go'
 date: '2009-11-12 11:04:37 +0000'
 date_gmt: '2009-11-12 13:04:37 +0000'

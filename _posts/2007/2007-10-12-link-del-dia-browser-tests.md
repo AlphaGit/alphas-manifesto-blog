@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Browser Tests'
 date: '2007-10-12 13:40:00 +0000'
 date_gmt: '2007-10-12 13:40:00 +0000'

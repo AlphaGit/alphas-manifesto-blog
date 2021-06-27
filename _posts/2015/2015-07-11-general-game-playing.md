@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: General Game Playing
 date: '2015-07-11 15:41:41 +0000'

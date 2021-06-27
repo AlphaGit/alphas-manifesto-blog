@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Write it down!
 date: '2014-12-22 05:57:29 +0000'

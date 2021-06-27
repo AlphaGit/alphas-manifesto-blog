@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: JavaScript IDE para iPhone'
 date: '2010-11-09 12:22:00 +0000'
 date_gmt: '2010-11-09 14:22:00 +0000'

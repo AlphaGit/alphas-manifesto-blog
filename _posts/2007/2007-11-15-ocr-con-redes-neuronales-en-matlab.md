@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: OCR con Redes Neuronales en MatLab
 date: '2007-11-15 02:57:00 +0000'
 date_gmt: '2007-11-15 02:57:00 +0000'

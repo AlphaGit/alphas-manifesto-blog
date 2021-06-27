@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: FastAI quick test / LeafSnap
 categories:
@@ -13,11 +12,8 @@ tags:
     - LeafSnap
     - PyTorch
     - Computer Vision
-image:
-    path: /assets/fastai-leafsnap/cover.jpg
-    thumbnail: /assets/fastai-leafsnap/cover.jpg
-    caption: 
-sub_title: Testing the quick AI Framework and its results
+header:
+    image: /assets/fastai-leafsnap/cover.jpg
 ---
 
 After my tests with [DAIN][DAIN Post], I decided to go back and test the new set of frameworks that we have available for AI and DataScience. While Tensorflow 2 and PyTorch are the ones everyone mentions lately, I decided to give [FastAI][] a test drive, and it's incredibly easy to use.

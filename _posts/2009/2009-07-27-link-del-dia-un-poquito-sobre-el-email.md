@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Un poquito sobre el email'
 date: '2009-07-27 10:53:34 +0000'
 date_gmt: '2009-07-27 12:53:34 +0000'

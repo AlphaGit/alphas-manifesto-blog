@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 6 desastres causados por interfaces de usuario pobre
 date: '2012-04-23 09:31:17 +0000'
 date_gmt: '2012-04-23 14:31:17 +0000'

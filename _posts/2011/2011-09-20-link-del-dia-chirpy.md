@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Chirpy'
 date: '2011-09-20 09:21:47 +0000'
 date_gmt: '2011-09-20 14:21:47 +0000'

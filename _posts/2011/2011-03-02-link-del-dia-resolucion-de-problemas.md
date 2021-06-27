@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Resolución de problemas'
 date: '2011-03-02 11:58:19 +0000'
 date_gmt: '2011-03-02 13:58:19 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Detecting Packet Injection'
 date: '2007-12-10 11:36:00 +0000'
 date_gmt: '2007-12-10 11:36:00 +0000'

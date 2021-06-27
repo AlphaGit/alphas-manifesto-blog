@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Principios Universales del Diseño
 date: '2012-02-03 10:44:27 +0000'
 date_gmt: '2012-02-03 15:44:27 +0000'
