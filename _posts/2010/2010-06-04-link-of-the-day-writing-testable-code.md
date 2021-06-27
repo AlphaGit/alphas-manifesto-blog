@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link of the day: Writing Testable Code'
 date: '2010-06-04 11:05:33 +0000'
 date_gmt: '2010-06-04 13:05:33 +0000'

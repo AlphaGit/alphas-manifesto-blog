@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Backbone.js
 date: '2012-02-06 10:40:14 +0000'
 date_gmt: '2012-02-06 15:40:14 +0000'

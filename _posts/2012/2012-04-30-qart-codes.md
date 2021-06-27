@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: QArt Codes
 date: '2012-04-30 09:27:56 +0000'
 date_gmt: '2012-04-30 14:27:56 +0000'

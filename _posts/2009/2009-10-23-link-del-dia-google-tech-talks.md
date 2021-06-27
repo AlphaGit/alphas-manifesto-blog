@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Google Tech Talks'
 date: '2009-10-23 10:47:33 +0000'
 date_gmt: '2009-10-23 15:47:33 +0000'

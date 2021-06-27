@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Competencias de hacking
 date: '2012-04-26 09:59:10 +0000'
 date_gmt: '2012-04-26 14:59:10 +0000'

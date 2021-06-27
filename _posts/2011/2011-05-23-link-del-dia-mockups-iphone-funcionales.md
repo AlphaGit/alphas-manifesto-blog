@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Mockups iPhone, funcionales!'
 date: '2011-05-23 12:24:09 +0000'
 date_gmt: '2011-05-23 14:24:09 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Web SQL Designer'
 date: '2009-02-24 09:48:39 +0000'
 date_gmt: '2009-02-24 11:48:39 +0000'

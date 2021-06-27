@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: Faceted searches with MongoDB and mongoose
 date: '2015-01-03 17:13:04 +0000'

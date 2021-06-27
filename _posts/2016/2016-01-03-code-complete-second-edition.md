@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: Code Complete, Second Edition
 date: '2016-01-03 22:03:45 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 22 herramientas para probar usabilidad
 date: '2012-02-14 12:57:36 +0000'
 date_gmt: '2012-02-14 17:57:36 +0000'

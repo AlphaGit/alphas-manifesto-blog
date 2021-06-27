@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Las 10 reglas del trabajador Zen
 date: '2012-02-29 10:17:37 +0000'
 date_gmt: '2012-02-29 15:17:37 +0000'

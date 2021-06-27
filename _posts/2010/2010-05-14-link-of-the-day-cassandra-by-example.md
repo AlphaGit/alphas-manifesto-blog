@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link of the Day: Cassandra by example'
 date: '2010-05-14 11:26:23 +0000'
 date_gmt: '2010-05-14 13:26:23 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Programando con el sombrero rosa'
 date: '2011-10-24 10:20:48 +0000'
 date_gmt: '2011-10-24 15:20:48 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: jQuery deconstructed'
 date: '2010-10-05 12:22:27 +0000'
 date_gmt: '2010-10-05 14:22:27 +0000'

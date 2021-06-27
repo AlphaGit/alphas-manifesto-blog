@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Herramientas para Chrome'
 date: '2011-03-22 10:44:21 +0000'
 date_gmt: '2011-03-22 12:44:21 +0000'

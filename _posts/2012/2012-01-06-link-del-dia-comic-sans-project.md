@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Comic Sans Project'
 date: '2012-01-06 12:08:48 +0000'
 date_gmt: '2012-01-06 17:08:48 +0000'

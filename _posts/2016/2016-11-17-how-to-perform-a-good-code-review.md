@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: How to perform a good code review
 date: '2016-11-17 14:23:22 +0000'

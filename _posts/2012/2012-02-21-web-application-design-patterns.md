@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Web Application Design Patterns
 date: '2012-02-21 05:06:17 +0000'
 date_gmt: '2012-02-21 10:06:17 +0000'

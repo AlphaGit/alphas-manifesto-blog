@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Gerenciamiento difuso
 date: '2007-05-20 20:40:00 +0000'
 date_gmt: '2007-05-20 20:40:00 +0000'

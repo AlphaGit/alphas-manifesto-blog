@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Sisyphus.js
 date: '2012-02-28 12:35:36 +0000'
 date_gmt: '2012-02-28 17:35:36 +0000'

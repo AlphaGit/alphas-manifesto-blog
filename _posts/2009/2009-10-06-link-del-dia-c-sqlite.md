@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: C# SQLite'
 date: '2009-10-06 10:51:52 +0000'
 date_gmt: '2009-10-06 12:51:52 +0000'

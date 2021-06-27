@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Proyectos ágiles de verdad'
 date: '2011-01-12 10:55:28 +0000'
 date_gmt: '2011-01-12 12:55:28 +0000'

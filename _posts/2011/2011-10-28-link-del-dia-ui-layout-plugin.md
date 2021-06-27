@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: UI Layout Plugin'
 date: '2011-10-28 10:36:51 +0000'
 date_gmt: '2011-10-28 15:36:51 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día:  ¿Cómo rankear contenidos?'
 date: '2010-07-27 11:24:07 +0000'
 date_gmt: '2010-07-27 13:24:07 +0000'

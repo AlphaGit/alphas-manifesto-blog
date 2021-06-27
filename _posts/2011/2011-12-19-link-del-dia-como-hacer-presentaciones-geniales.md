@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Cómo hacer presentaciones geniales'
 date: '2011-12-19 09:53:57 +0000'
 date_gmt: '2011-12-19 14:53:57 +0000'

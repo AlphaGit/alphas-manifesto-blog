@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Sistemas Jenga
 date: '2009-12-21 19:20:09 +0000'
 date_gmt: '2009-12-21 21:20:09 +0000'

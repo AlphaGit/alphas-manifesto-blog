@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Cómo uso Trello para trabajar, actualizado
 date: '2013-08-08 18:13:36 +0000'
 date_gmt: '2013-08-08 23:13:36 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'La máquina de emociones - Capítulo 4: Conciencia'
 date: '2010-10-08 14:51:15 +0000'
 date_gmt: '2010-10-08 16:51:15 +0000'

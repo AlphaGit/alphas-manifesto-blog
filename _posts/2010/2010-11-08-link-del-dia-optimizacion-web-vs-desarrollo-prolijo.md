@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Optimización web vs. desarrollo prolijo'
 date: '2010-11-08 11:23:28 +0000'
 date_gmt: '2010-11-08 13:23:28 +0000'

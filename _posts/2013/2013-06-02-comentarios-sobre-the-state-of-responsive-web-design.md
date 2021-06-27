@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Comentarios sobre The State of Responsive Web Design
 date: '2013-06-02 16:32:34 +0000'
 date_gmt: '2013-06-02 21:32:34 +0000'

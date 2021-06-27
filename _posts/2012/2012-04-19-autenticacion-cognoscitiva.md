@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Autenticación cognoscitiva
 date: '2012-04-19 11:12:20 +0000'
 date_gmt: '2012-04-19 16:12:20 +0000'

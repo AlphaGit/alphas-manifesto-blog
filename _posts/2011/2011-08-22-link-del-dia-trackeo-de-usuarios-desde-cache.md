@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Trackeo de usuarios, desde caché'
 date: '2011-08-22 11:32:39 +0000'
 date_gmt: '2011-08-22 13:32:39 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Máquinas Virtuales'
 date: '2009-12-17 12:15:40 +0000'
 date_gmt: '2009-12-17 14:15:40 +0000'

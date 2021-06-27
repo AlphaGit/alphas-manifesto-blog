@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: SVG y aplicaciones prácticas'
 date: '2010-01-28 11:12:03 +0000'
 date_gmt: '2010-01-28 13:12:03 +0000'

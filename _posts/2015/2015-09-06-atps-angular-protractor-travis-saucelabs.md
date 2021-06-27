@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: 'ATPS: Angular, Protractor, Travis, SauceLabs'
 date: '2015-09-06 14:01:23 +0000'

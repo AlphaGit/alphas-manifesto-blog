@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Herramientas .NET'
 date: '2010-09-14 11:12:42 +0000'
 date_gmt: '2010-09-14 13:12:42 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: HTML Code Quality'
 date: '2011-08-25 12:26:20 +0000'
 date_gmt: '2011-08-25 14:26:20 +0000'

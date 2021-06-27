@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: 'Preventing an AI arms race: open research'
 date: '2018-05-30 19:58:57 +0000'

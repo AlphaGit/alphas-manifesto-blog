@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Pruebas con VS11: Día dos'
 date: '2012-05-30 16:37:08 +0000'
 date_gmt: '2012-05-30 21:37:08 +0000'

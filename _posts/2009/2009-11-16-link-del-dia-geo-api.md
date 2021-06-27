@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Geo-API'
 date: '2009-11-16 11:11:40 +0000'
 date_gmt: '2009-11-16 13:11:40 +0000'

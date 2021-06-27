@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: " ¿Confianza del usuario vs. URLs acortadas?"
 date: '2012-05-14 08:43:24 +0000'
 date_gmt: '2012-05-14 13:43:24 +0000'

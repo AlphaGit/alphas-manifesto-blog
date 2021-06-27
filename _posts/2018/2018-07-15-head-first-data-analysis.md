@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: Head First Data Analysis
 date: '2018-07-15 10:20:48 +0000'

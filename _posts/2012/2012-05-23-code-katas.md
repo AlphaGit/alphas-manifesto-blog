@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Code Katas
 date: '2012-05-23 09:16:30 +0000'
 date_gmt: '2012-05-23 14:16:30 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: " ¿Por qué distintos dominios para recursos estáticos?"
 date: '2012-03-28 08:39:50 +0000'
 date_gmt: '2012-03-28 13:39:50 +0000'

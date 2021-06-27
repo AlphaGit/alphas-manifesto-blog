@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: IPInfoDB'
 date: '2009-07-20 10:45:06 +0000'
 date_gmt: '2009-07-20 12:45:06 +0000'

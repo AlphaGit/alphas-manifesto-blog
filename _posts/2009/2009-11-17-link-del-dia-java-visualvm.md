@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Java VisualVM'
 date: '2009-11-17 11:38:46 +0000'
 date_gmt: '2009-11-17 13:38:46 +0000'

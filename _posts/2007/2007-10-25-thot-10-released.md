@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Thot 1.0 Released
 date: '2007-10-25 00:28:00 +0000'
 date_gmt: '2007-10-25 00:28:00 +0000'

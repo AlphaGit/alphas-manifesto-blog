@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: En defensa de los hacks CSS'
 date: '2011-06-01 13:47:07 +0000'
 date_gmt: '2011-06-01 15:47:07 +0000'

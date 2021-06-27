@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Feedback 2.0'
 date: '2010-09-13 10:31:27 +0000'
 date_gmt: '2010-09-13 12:31:27 +0000'

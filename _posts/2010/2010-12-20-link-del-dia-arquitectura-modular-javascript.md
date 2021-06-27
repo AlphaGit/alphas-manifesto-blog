@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Arquitectura Modular JavaScript'
 date: '2010-12-20 12:00:10 +0000'
 date_gmt: '2010-12-20 14:00:10 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Blueprint visual'
 date: '2011-04-12 12:38:52 +0000'
 date_gmt: '2011-04-12 14:38:52 +0000'

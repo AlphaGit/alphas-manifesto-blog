@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: SMShing'
 date: '2010-12-30 12:18:29 +0000'
 date_gmt: '2010-12-30 14:18:29 +0000'

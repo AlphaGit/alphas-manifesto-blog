@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Cómo contratar a todo el mundo para hacer tu trabajo'
 date: '2011-01-13 12:07:19 +0000'
 date_gmt: '2011-01-13 14:07:19 +0000'

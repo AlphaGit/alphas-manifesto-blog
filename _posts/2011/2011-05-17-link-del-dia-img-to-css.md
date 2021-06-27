@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Img to CSS'
 date: '2011-05-17 12:15:51 +0000'
 date_gmt: '2011-05-17 14:15:51 +0000'

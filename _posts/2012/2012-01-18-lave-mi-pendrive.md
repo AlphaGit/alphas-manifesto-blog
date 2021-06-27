@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Lavé mi pendrive
 date: '2012-01-18 12:45:24 +0000'
 date_gmt: '2012-01-18 17:45:24 +0000'

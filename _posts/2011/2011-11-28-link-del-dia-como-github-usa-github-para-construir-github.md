@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Cómo GitHub usa GitHub para construir GitHub'
 date: '2011-11-28 08:58:42 +0000'
 date_gmt: '2011-11-28 13:58:42 +0000'

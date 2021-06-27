@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: Working effectively with legacy code (review)
 date: '2018-09-01 16:32:24 +0000'

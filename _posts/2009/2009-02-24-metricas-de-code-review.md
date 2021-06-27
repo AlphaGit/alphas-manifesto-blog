@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Métricas de code review
 date: '2009-02-24 22:03:53 +0000'
 date_gmt: '2009-02-25 00:03:53 +0000'

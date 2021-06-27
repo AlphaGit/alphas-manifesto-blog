@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Simulador de iPad'
 date: '2011-01-05 11:34:03 +0000'
 date_gmt: '2011-01-05 13:34:03 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Consejos de base de datos'
 date: '2010-11-25 11:40:09 +0000'
 date_gmt: '2010-11-25 13:40:09 +0000'

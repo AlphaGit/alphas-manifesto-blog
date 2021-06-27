@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Code review guidelines
 date: '2009-03-02 00:40:50 +0000'
 date_gmt: '2009-03-02 02:40:50 +0000'

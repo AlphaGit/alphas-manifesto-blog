@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Cómo corregir las distracciones'
 date: '2011-03-07 15:33:31 +0000'
 date_gmt: '2011-03-07 17:33:31 +0000'

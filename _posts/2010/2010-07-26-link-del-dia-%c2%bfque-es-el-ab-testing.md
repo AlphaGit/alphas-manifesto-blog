@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día:  ¿Qué es el A/B Testing?'
 date: '2010-07-26 11:21:38 +0000'
 date_gmt: '2010-07-26 13:21:38 +0000'
