@@ -57,7 +57,7 @@ twitter:
   username: AlphasManifesto
 
 analytics:
-  provider: google
+  provider: google-universal
   google: 
     tracking_id: UA-367009-7
     anonymize_ip: false
