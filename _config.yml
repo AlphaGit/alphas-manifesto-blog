@@ -42,13 +42,13 @@ author:
   bio: "Software engineer. Curious person. Very serious. Not a robot (yet)."
   email: "raimondijuan@gmail.com"
   links:
-    - title: "Twitter"
+    - label: "Twitter"
       url: "https://twitter.com/AlphasManifesto"
       icon: "fab fa-twitter"
-    - title: "LinkedIn"
+    - label: "LinkedIn"
       url: "https://www.linkedin.com/in/raimondijuan/"
       icon: "fab fa-linkedin"
-    - title: "GitHub"
+    - label: "GitHub"
       url: "https://www.github.com/AlphaGit"
       icon: "fab fa-github"
 
