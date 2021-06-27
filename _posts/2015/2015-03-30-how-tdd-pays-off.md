@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: How TDD pays off
 date: '2015-03-30 22:34:26 +0000'

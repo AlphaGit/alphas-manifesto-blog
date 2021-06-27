@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Reducing size of Docker images
 date: '2018-09-23 20:16:19 +0000'

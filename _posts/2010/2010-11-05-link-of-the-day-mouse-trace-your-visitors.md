@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link of the day: Mouse trace your visitors'
 date: '2010-11-05 13:29:53 +0000'
 date_gmt: '2010-11-05 15:29:53 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Introduction to Genetic Algorithms'
 date: '2007-11-07 12:36:00 +0000'
 date_gmt: '2007-11-07 12:36:00 +0000'

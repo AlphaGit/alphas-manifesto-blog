@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'The Emotion Machine: Emotional States, Attachments and Goals, From Pain to
   Suffering'
 date: '2009-09-20 02:21:17 +0000'

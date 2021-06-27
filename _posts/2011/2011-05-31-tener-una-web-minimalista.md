@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Tener una web minimalista...
 date: '2011-05-31 21:58:45 +0000'
 date_gmt: '2011-05-31 23:58:45 +0000'

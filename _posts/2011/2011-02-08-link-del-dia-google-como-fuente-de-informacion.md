@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Google como fuente de información'
 date: '2011-02-08 12:36:47 +0000'
 date_gmt: '2011-02-08 14:36:47 +0000'

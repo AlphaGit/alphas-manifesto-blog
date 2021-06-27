@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Neural Networks can learn anything
 date: '2017-07-30 13:58:57 +0000'

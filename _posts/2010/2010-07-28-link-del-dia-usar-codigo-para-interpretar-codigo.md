@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Usar código para interpretar código'
 date: '2010-07-28 10:18:41 +0000'
 date_gmt: '2010-07-28 12:18:41 +0000'

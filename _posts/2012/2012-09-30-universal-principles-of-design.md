@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Universal Principles of Design
 date: '2012-09-30 18:12:00 +0000'
 date_gmt: '2012-09-30 23:12:00 +0000'

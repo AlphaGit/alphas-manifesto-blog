@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Windows Azure
 date: '2009-09-04 22:01:57 +0000'
 date_gmt: '2009-09-05 00:01:57 +0000'

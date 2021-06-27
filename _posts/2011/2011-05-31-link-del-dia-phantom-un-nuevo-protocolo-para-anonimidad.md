@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Phantom, un nuevo protocolo para anonimidad'
 date: '2011-05-31 13:16:05 +0000'
 date_gmt: '2011-05-31 15:16:05 +0000'

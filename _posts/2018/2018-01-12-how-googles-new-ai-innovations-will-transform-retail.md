@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: How Google&rsquo;s New AI Innovations Will Transform Retail
 author:

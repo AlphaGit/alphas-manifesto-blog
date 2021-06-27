@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: LINQ y JSON en JS'
 date: '2010-01-27 17:31:20 +0000'
 date_gmt: '2010-01-27 19:31:20 +0000'

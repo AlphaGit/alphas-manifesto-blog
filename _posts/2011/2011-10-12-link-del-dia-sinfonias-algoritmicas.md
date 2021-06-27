@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Sinfonías algorítmicas'
 date: '2011-10-12 07:35:55 +0000'
 date_gmt: '2011-10-12 12:35:55 +0000'

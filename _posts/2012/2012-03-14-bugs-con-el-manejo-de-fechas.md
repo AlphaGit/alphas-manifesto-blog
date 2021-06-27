@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Bugs con el manejo de fechas
 date: '2012-03-14 08:56:58 +0000'
 date_gmt: '2012-03-14 13:56:58 +0000'

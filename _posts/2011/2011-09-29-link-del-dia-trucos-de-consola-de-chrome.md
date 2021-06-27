@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Trucos de consola de Chrome'
 date: '2011-09-29 09:00:49 +0000'
 date_gmt: '2011-09-29 14:00:49 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Alpha's Manifesto deployment
 date: '2012-08-22 18:00:59 +0000'
 date_gmt: '2012-08-22 23:00:59 +0000'

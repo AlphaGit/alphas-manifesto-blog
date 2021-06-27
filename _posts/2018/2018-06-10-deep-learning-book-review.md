@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Deep Learning (book review)
 date: '2018-06-10 12:43:23 +0000'

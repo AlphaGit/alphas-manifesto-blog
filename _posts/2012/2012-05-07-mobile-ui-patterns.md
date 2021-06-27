@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Mobile UI Patterns
 date: '2012-05-07 09:14:52 +0000'
 date_gmt: '2012-05-07 14:14:52 +0000'

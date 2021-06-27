@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Evercookie'
 date: '2010-10-21 11:16:11 +0000'
 date_gmt: '2010-10-21 13:16:11 +0000'

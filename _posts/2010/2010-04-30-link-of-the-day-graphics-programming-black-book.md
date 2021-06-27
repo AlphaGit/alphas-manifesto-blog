@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link of the day: Graphics Programming Black Book'
 date: '2010-04-30 10:45:06 +0000'
 date_gmt: '2010-04-30 12:45:06 +0000'

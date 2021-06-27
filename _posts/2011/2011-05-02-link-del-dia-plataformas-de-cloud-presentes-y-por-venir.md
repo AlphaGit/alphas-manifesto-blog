@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Plataformas de Cloud presentes y por venir'
 date: '2011-05-02 13:20:19 +0000'
 date_gmt: '2011-05-02 15:20:19 +0000'

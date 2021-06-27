@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: La diferencia entre UX y UI
 date: '2012-05-02 10:48:42 +0000'
 date_gmt: '2012-05-02 15:48:42 +0000'

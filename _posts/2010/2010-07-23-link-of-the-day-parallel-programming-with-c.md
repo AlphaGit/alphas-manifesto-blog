@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link of the day: Parallel programming with C#'
 date: '2010-07-23 12:38:33 +0000'
 date_gmt: '2010-07-23 14:38:33 +0000'

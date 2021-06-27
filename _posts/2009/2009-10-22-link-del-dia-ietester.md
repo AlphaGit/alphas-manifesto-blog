@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: IETester'
 date: '2009-10-22 11:08:18 +0000'
 date_gmt: '2009-10-22 13:08:18 +0000'

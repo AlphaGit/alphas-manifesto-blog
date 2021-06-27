@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Aprendan estadística o los mato a todos'
 date: '2011-10-13 08:17:46 +0000'
 date_gmt: '2011-10-13 13:17:46 +0000'

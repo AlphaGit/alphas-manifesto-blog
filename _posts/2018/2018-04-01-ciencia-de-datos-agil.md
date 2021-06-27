@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Ciencia de datos ágil
 date: '2018-04-01 11:48:41 +0000'

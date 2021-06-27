@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Galería de pre-loaders'
 date: '2011-04-01 12:49:36 +0000'
 date_gmt: '2011-04-01 14:49:36 +0000'

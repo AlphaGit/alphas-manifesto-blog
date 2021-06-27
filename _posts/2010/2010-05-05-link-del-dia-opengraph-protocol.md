@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: OpenGraph Protocol'
 date: '2010-05-05 09:51:33 +0000'
 date_gmt: '2010-05-05 11:51:33 +0000'

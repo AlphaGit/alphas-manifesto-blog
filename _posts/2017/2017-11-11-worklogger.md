@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Worklogger
 date: '2017-11-11 10:39:02 +0000'

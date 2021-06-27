@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link of the day: WordPress security'
 date: '2010-09-03 11:50:55 +0000'
 date_gmt: '2010-09-03 13:50:55 +0000'

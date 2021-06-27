@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: The Emotion Machine
 date: '2011-11-12 22:18:55 +0000'
 date_gmt: '2011-11-13 03:18:55 +0000'

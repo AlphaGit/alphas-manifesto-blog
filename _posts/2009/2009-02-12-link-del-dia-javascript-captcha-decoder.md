@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Javascript CAPTCHA Decoder'
 date: '2009-02-12 09:50:29 +0000'
 date_gmt: '2009-02-12 11:50:29 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: 7 pro-tips para acelerar todo'
 date: '2011-03-01 04:23:10 +0000'
 date_gmt: '2011-03-01 06:23:10 +0000'

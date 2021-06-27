@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: wkhtmltopdf
 date: '2012-01-24 12:53:53 +0000'
 date_gmt: '2012-01-24 17:53:53 +0000'

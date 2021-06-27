@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Death to Singletons!
 date: '2016-05-13 20:08:44 +0000'

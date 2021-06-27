@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Más tutoriales y manuales'
 date: '2010-06-10 11:41:08 +0000'
 date_gmt: '2010-06-10 13:41:08 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Videos Adaptables'
 date: '2011-09-08 09:22:10 +0000'
 date_gmt: '2011-09-08 14:22:10 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: eBooks ténicos, viajes, información y más'
 date: '2010-01-25 10:58:43 +0000'
 date_gmt: '2010-01-25 12:58:43 +0000'

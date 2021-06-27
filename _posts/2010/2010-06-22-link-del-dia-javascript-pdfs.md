@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Javascript PDFs'
 date: '2010-06-22 10:14:30 +0000'
 date_gmt: '2010-06-22 12:14:30 +0000'

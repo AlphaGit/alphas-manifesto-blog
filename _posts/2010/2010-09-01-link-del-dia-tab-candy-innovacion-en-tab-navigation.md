@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Tab Candy, innovación en tab navigation'
 date: '2010-09-01 14:02:03 +0000'
 date_gmt: '2010-09-01 16:02:03 +0000'

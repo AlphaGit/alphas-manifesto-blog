@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: HTML5 video now!'
 date: '2010-08-04 11:38:29 +0000'
 date_gmt: '2010-08-04 13:38:29 +0000'

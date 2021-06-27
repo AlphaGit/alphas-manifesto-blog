@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Condiciones OR en REST
 date: '2013-08-08 17:42:13 +0000'
 date_gmt: '2013-08-08 22:42:13 +0000'

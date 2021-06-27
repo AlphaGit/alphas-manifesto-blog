@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: IE6 Countdown'
 date: '2011-03-14 11:34:35 +0000'
 date_gmt: '2011-03-14 13:34:35 +0000'

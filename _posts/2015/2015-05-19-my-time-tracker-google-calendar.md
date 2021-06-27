@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: 'My time tracker: Google Calendar'
 date: '2015-05-19 23:30:42 +0000'

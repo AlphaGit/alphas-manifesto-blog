@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Configuración de ManagedFusion.Rewriter como proxy reverso
 date: '2013-10-28 21:43:25 +0000'
 date_gmt: '2013-10-29 02:43:25 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Películas y las matemáticas'
 date: '2011-01-10 11:31:42 +0000'
 date_gmt: '2011-01-10 13:31:42 +0000'

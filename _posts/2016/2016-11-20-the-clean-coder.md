@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: The Clean Coder
 date: '2016-11-20 18:01:46 +0000'

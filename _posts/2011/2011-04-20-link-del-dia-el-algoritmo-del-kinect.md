@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: El algoritmo del Kinect'
 date: '2011-04-20 11:59:13 +0000'
 date_gmt: '2011-04-20 13:59:13 +0000'

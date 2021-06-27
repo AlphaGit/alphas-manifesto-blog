@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: 100 formas de hacer que las cosas se hagan'
 date: '2011-09-13 10:15:30 +0000'
 date_gmt: '2011-09-13 15:15:30 +0000'

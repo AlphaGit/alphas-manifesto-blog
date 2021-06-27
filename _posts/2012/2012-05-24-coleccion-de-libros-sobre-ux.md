@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Colección de libros sobre UX
 date: '2012-05-24 11:44:30 +0000'
 date_gmt: '2012-05-24 16:44:30 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link of the day: Free webhosting'
 date: '2010-08-20 15:03:27 +0000'
 date_gmt: '2010-08-20 17:03:27 +0000'

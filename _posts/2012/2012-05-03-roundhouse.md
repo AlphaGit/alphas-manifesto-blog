@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: RoundhousE
 date: '2012-05-03 11:43:39 +0000'
 date_gmt: '2012-05-03 16:43:39 +0000'

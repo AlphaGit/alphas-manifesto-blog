@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Jobeet - symfony en 24 horas
 date: '2009-03-12 10:55:20 +0000'
 date_gmt: '2009-03-12 12:55:20 +0000'

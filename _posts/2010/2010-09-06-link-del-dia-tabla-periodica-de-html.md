@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Tabla periódica de HTML'
 date: '2010-09-06 13:38:02 +0000'
 date_gmt: '2010-09-06 15:38:02 +0000'

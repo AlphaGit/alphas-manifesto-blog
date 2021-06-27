@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Freenet'
 date: '2009-11-27 12:52:52 +0000'
 date_gmt: '2009-11-27 14:52:52 +0000'

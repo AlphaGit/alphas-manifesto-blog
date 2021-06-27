@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Análisis forense'
 date: '2011-02-15 00:29:34 +0000'
 date_gmt: '2011-02-15 02:29:34 +0000'

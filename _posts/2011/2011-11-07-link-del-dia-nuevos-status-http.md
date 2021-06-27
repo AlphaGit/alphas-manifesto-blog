@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Nuevos status HTTP'
 date: '2011-11-07 14:31:37 +0000'
 date_gmt: '2011-11-07 19:31:37 +0000'

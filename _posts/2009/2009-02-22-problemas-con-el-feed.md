@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: Problemas con el feed
 date: '2009-02-22 18:26:20 +0000'
 date_gmt: '2009-02-22 20:26:20 +0000'

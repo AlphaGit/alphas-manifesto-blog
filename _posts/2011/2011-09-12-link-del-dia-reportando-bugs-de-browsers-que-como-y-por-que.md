@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Reportando bugs de browsers: qué, cómo
   y por qué'
 date: '2011-09-12 08:16:30 +0000'

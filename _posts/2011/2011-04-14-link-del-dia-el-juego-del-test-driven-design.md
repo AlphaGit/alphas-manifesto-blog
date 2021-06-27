@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: El juego del test-driven-design'
 date: '2011-04-14 02:11:00 +0000'
 date_gmt: '2011-04-14 04:11:00 +0000'

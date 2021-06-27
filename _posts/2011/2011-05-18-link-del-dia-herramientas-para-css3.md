@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: Herramientas para CSS3'
 date: '2011-05-18 13:56:35 +0000'
 date_gmt: '2011-05-18 15:56:35 +0000'

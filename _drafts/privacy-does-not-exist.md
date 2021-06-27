@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: Privacy Does Not Exist
 categories:
@@ -7,11 +6,8 @@ categories:
 tags:
     - Privacy
     - Security
-image:
-    path: /assets/the-game/book-cover.jpg
-    thumbnail: /assets/the-game/book-cover.jpg
-    caption: 
-sub_title: 
+header:
+    image: /assets/the-game/book-cover.jpg
 ---
 
 I sometimes watch videos from a youtuber called Exurb1a. He mixes up existencialism, physics, science, sci-fi, philosophy, thought experiments and story-telling. Really a lot of what I like in a single youtuber.

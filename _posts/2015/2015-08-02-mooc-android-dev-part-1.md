@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt_separator: <!--more-->
 title: 'MOOC: Android Dev Part 1'
 date: '2015-08-02 15:14:17 +0000'

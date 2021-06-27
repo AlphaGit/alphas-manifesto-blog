@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: 'Link del día: La transición a IPv6'
 date: '2011-02-09 13:05:26 +0000'
 date_gmt: '2011-02-09 15:05:26 +0000'
