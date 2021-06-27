@@ -1,71 +1,46 @@
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-include-cache
- 
-# Jekyl SEO Tag
-title: Alpha's Manifesto
-description: A black and white figure's thought-hive
-locale: en
-timezone: America/Toronto
-url: https://blog.alphasmanifesto.com
-logo: /assets/headerAlpha.png
-twitter:
-  username: AlphasManifesto
-  card: summary
-
-# Jekyll-paginate
-paginate_path: /page/:num
-paginate: 10
-
-# Jekyll-feed
-feed:
-  path: atom.xml
+# based from https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 
 # Theme settings
 remote_theme: mmistakes/minimal-mistakes@4.23.0
 minimal_mistakes_skin: dirt
+
+# Site settings
+locale: en
+title: Alpha's Manifesto
+title_separator: "|"
+description: A black and white figure's thought-hive
+name: JD Raimondi
+url: https://blog.alphasmanifesto.com
 baseurl: /
-category_archive_path: /categories/#
-tag_archive_path: /tags/#
-permalink: /:year/:month/:day/:slug/
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      show_date: true
-      read_time: true
-      words_per_minute: 200
-      comments: true
-      share: true
-      related: true
-
+repository: AlphaGit/alphas-manifesto-blog
+logo: /assets/headerAlpha.png
+words_per_minute: 200
 comments:
-  provider: "disqus"
+  provider: disqus
   disqus:
     shortname: alphasmanifestoblog
-
 search: true
 search_provider: google
 google:
   search_engine_id: ed903ebbf9cc19bb1
+  instant_search: true
+
+# Social Sharing
 twitter:
   username: AlphasManifesto
 
+# Analytics
 analytics:
   provider: google-universal
   google: 
     tracking_id: UA-367009-7
-    anonymize_ip: false
 
+# Site Author
 author:
-  name: Juan Diego Raimondi
+  name: JD Raimondi
   avatar: /assets/avatarJD.jpg
   bio: Software engineer. Curious person. Very serious. Not a robot (yet).
+  email: raimondijuan@gmail.com
   links:
     - title: Twitter
       url: https://twitter.com/AlphasManifesto
@@ -76,3 +51,31 @@ author:
     - title: GitHub
       url: https://www.github.com/AlphaGit
       icon: fab fa-github
+
+# Outputting
+permalink: /:year/:month/:day/:slug/
+paginate: 10
+paginate_path: /page/:num
+timezone: America/Toronto
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Defaults 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
