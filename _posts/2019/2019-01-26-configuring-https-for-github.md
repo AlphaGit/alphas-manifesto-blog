@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 title: Configuring HTTPS for project GitHub Pages custom subdomain
 categories:
-    - technology
+    - Technology
 tags:
     - https
     - GitHub

@@ -3,15 +3,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-include-cache
  
 # Jekyl SEO Tag
 title: Alpha's Manifesto
 description: A black and white figure's thought-hive
 locale: en
-remote_theme: mmistakes/so-simple-theme@3.2.0
 timezone: America/Toronto
 url: https://blog.alphasmanifesto.com
-logo: images/headerAlpha.png
+logo: /assets/headerAlpha.png
 twitter:
   username: AlphasManifesto
   card: summary
@@ -24,28 +24,48 @@ paginate: 10
 feed:
   path: atom.xml
 
-# So-Simple-Theme
+# Theme settings
+remote_theme: mmistakes/minimal-mistakes@4.23.0
+minimal_mistakes_skin: dirt
 baseurl: /
 category_archive_path: /categories/#
 tag_archive_path: /tags/#
 permalink: /:year/:month/:day/:slug/
 
-disqus:
-  shortname: alphasmanifestoblog
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      read_time: true
+      words_per_minute: 200
+      comments: true
+      share: true
+      related: true
 
-google_analytics: UA-367009-7
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: alphasmanifestoblog
 
-read_time: true
-words_per_minute: 150
-mathjax:
-  enable: true
-search_full_content: true
+search: true
+search_provider: google
+google:
+  search_engine_id: ed903ebbf9cc19bb1
+twitter:
+  username: AlphasManifesto
+
+analytics:
+  provider: google
+  google: 
+    tracking_id: UA-367009-7
+    anonymize_ip: false
 
 author:
   name: Juan Diego Raimondi
-  twitter: AlphasManifesto
-  email: raimondijuan@gmail.com
-  picture: /images/avatarJD.jpg
+  avatar: /assets/avatarJD.jpg
+  bio: Software engineer. Curious person. Very serious. Not a robot (yet).
   links:
     - title: Twitter
       url: https://twitter.com/AlphasManifesto
@@ -53,3 +73,6 @@ author:
     - title: LinkedIn
       url: https://www.linkedin.com/in/raimondijuan/
       icon: fab fa-linkedin
+    - title: GitHub
+      url: https://www.github.com/AlphaGit
+      icon: fab fa-github

@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 title: Exporting from Wordpress to Jekyll
 categories:
-    - technology
+    - Technology
 tags:
     - wordpress
     - jekyll
