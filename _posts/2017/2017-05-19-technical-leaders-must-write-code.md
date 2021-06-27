@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: Technical Leaders **must** write code
 date: '2017-05-19 19:11:30 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Preloaders, botones y DOM'
 date: '2009-02-25 10:05:22 +0000'
 date_gmt: '2009-02-25 12:05:22 +0000'

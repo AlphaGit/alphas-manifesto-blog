@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: Exporting from Wordpress to Jekyll
 categories:

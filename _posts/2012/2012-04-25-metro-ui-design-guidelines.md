@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Metro UI design guidelines
 date: '2012-04-25 10:35:00 +0000'
 date_gmt: '2012-04-25 15:35:00 +0000'

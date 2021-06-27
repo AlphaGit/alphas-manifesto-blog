@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Amar al proxy-mo
 date: '2013-10-13 18:01:45 +0000'
 date_gmt: '2013-10-13 23:01:45 +0000'

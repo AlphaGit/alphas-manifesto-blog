@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Windows Metro explicado
 date: '2012-03-13 08:04:24 +0000'
 date_gmt: '2012-03-13 13:04:24 +0000'

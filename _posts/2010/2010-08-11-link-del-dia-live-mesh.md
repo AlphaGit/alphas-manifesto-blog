@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Live Mesh'
 date: '2010-08-11 19:43:56 +0000'
 date_gmt: '2010-08-11 21:43:56 +0000'

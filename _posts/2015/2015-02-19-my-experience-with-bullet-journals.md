@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: My experience with bullet journals
 date: '2015-02-19 17:35:46 +0000'

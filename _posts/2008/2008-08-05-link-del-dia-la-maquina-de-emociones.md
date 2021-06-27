@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: La máquina de emociones'
 date: '2008-08-05 11:54:00 +0000'
 date_gmt: '2008-08-05 11:54:00 +0000'

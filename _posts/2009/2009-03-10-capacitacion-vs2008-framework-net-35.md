@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Capacitación VS2008 & Framework .NET 3.5
 date: '2009-03-10 21:00:54 +0000'
 date_gmt: '2009-03-10 23:00:54 +0000'

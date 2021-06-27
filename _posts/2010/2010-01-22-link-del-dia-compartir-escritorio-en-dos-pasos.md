@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Compartir escritorio en dos pasos'
 date: '2010-01-22 11:44:11 +0000'
 date_gmt: '2010-01-22 13:44:11 +0000'

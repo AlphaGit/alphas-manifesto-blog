@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Ember.js: queueHttpResponder'
 date: '2014-07-05 18:50:06 +0000'
 date_gmt: '2014-07-05 23:50:06 +0000'

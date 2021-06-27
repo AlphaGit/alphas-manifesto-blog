@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: TODOs pero con onda'
 date: '2010-01-05 12:45:31 +0000'
 date_gmt: '2010-01-05 14:45:31 +0000'

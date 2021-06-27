@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: I've got an art degree!
 date: '2015-01-17 19:54:26 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: MakingSense blog
 date: '2012-04-27 12:00:03 +0000'
 date_gmt: '2012-04-27 17:00:03 +0000'

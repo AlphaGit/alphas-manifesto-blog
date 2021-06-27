@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 excerpt_separator: <!--more-->
 title: FastAI quick test / LeafSnap
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: CSS Dinámico
 date: '2012-04-03 08:51:43 +0000'
 date_gmt: '2012-04-03 13:51:43 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Humane.js'
 date: '2011-05-11 13:03:10 +0000'
 date_gmt: '2011-05-11 15:03:10 +0000'

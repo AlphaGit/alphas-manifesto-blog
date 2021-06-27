@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Git#'
 date: '2009-10-15 11:23:11 +0000'
 date_gmt: '2009-10-15 13:23:11 +0000'

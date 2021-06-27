@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Creation of a Conscious Machine
 date: '2013-08-12 21:08:35 +0000'
 date_gmt: '2013-08-13 02:08:35 +0000'

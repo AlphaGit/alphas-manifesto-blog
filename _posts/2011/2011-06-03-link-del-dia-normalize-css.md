@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Normalize CSS'
 date: '2011-06-03 13:55:30 +0000'
 date_gmt: '2011-06-03 15:55:30 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Minify'
 date: '2011-06-20 11:36:47 +0000'
 date_gmt: '2011-06-20 13:36:47 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'ASP.NET: Transfiriendo información entre páginas'
 date: '2012-02-08 09:51:05 +0000'
 date_gmt: '2012-02-08 14:51:05 +0000'

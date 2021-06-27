@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: " ¿Qué loggear de los usuarios?"
 date: '2012-02-17 11:55:25 +0000'
 date_gmt: '2012-02-17 16:55:25 +0000'

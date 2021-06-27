@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Privacidad en las redes sociales'
 date: '2011-09-06 08:33:50 +0000'
 date_gmt: '2011-09-06 13:33:50 +0000'

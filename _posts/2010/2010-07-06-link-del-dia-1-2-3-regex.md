@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: 1, 2, 3... Regex!'
 date: '2010-07-06 10:22:28 +0000'
 date_gmt: '2010-07-06 12:22:28 +0000'

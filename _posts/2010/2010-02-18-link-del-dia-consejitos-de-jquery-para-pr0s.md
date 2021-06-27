@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: consejitos de jQuery para pr0s'
 date: '2010-02-18 11:39:04 +0000'
 date_gmt: '2010-02-18 13:39:04 +0000'

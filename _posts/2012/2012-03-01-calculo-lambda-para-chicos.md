@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Cálculo lambda para chicos
 date: '2012-03-01 12:59:09 +0000'
 date_gmt: '2012-03-01 17:59:09 +0000'

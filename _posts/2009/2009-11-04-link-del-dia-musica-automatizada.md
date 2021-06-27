@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Música automatizada'
 date: '2009-11-04 18:19:49 +0000'
 date_gmt: '2009-11-04 20:19:49 +0000'

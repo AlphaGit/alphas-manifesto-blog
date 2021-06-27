@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Selectores CSS4
 date: '2012-02-07 11:50:23 +0000'
 date_gmt: '2012-02-07 16:50:23 +0000'

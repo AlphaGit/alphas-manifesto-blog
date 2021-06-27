@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Unicode Table For You'
 date: '2009-09-21 11:22:50 +0000'
 date_gmt: '2009-09-21 13:22:50 +0000'

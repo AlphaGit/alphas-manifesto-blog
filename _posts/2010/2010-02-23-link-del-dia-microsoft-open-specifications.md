@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Microsoft Open Specifications'
 date: '2010-02-23 11:35:40 +0000'
 date_gmt: '2010-02-23 13:35:40 +0000'

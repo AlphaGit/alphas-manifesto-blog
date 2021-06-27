@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Doppler Reports (Español)
 date: '2010-08-01 05:25:39 +0000'
 date_gmt: '2010-08-01 07:25:39 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: HTML5 más profundo'
 date: '2010-12-21 13:41:27 +0000'
 date_gmt: '2010-12-21 15:41:27 +0000'

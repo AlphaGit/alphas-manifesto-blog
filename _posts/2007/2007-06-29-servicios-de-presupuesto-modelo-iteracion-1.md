@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Servicios de Presupuesto - Modelo Iteración 1
 date: '2007-06-29 01:19:00 +0000'
 date_gmt: '2007-06-29 01:19:00 +0000'

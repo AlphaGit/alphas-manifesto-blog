@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Naked password
 date: '2012-01-25 11:56:47 +0000'
 date_gmt: '2012-01-25 16:56:47 +0000'

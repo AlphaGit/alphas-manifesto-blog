@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Firefox 4 + Mozilla demos'
 date: '2011-03-23 11:41:11 +0000'
 date_gmt: '2011-03-23 13:41:11 +0000'

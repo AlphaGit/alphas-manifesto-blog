@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Mónadas en JavaScript'
 date: '2011-08-01 12:31:03 +0000'
 date_gmt: '2011-08-01 14:31:03 +0000'

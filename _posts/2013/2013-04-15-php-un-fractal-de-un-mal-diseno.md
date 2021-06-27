@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'PHP: Un fractal de mal diseño'
 date: '2013-04-15 21:53:23 +0000'
 date_gmt: '2013-04-16 02:53:23 +0000'

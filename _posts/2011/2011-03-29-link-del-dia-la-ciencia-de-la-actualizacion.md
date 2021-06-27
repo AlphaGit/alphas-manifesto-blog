@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: La ciencia de la actualización'
 date: '2011-03-29 12:12:49 +0000'
 date_gmt: '2011-03-29 14:12:49 +0000'

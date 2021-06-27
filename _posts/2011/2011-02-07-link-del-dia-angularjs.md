@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: AngularJS'
 date: '2011-02-07 17:01:21 +0000'
 date_gmt: '2011-02-07 19:01:21 +0000'

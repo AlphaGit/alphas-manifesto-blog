@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: " ¿Por qué HTML5?"
 date: '2011-11-17 21:30:09 +0000'
 date_gmt: '2011-11-18 02:30:09 +0000'

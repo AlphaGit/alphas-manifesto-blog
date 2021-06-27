@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: " ¿Es el desarrollo de software un arte?"
 date: '2013-03-21 13:56:03 +0000'
 date_gmt: '2013-03-21 18:56:03 +0000'

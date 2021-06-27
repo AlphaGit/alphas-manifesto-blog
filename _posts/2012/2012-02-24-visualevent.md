@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: VisualEvent
 date: '2012-02-24 10:59:23 +0000'
 date_gmt: '2012-02-24 15:59:23 +0000'

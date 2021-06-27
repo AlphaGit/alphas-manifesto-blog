@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: CrossBrowserTesting.com'
 date: '2009-08-10 10:22:34 +0000'
 date_gmt: '2009-08-10 12:22:34 +0000'

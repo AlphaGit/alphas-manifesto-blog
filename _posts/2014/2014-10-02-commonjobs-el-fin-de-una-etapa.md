@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'CommonJobs: el fin de una etapa'
 date: '2014-10-02 18:20:54 +0000'
 date_gmt: '2014-10-02 23:20:54 +0000'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: CSS Semántico'
 date: '2011-08-12 12:27:27 +0000'
 date_gmt: '2011-08-12 14:27:27 +0000'

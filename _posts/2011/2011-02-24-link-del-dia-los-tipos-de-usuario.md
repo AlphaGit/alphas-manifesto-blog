@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: Los tipos de usuario'
 date: '2011-02-24 12:56:58 +0000'
 date_gmt: '2011-02-24 14:56:58 +0000'

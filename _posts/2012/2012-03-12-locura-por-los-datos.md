@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Locura por los datos
 date: '2012-03-12 08:47:07 +0000'
 date_gmt: '2012-03-12 13:47:07 +0000'

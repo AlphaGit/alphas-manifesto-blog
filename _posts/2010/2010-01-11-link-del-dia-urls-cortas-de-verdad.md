@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: URLs cortas de verdad'
 date: '2010-01-11 12:26:46 +0000'
 date_gmt: '2010-01-11 14:26:46 +0000'

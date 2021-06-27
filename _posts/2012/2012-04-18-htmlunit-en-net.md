@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: HtmlUnit en .NET
 date: '2012-04-18 08:00:53 +0000'
 date_gmt: '2012-04-18 13:00:53 +0000'

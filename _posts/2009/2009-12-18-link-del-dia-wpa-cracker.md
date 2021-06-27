@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Link del día: WPA Cracker'
 date: '2009-12-18 14:24:22 +0000'
 date_gmt: '2009-12-18 16:24:22 +0000'
