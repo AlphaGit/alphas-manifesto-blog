@@ -1,56 +1,56 @@
 # based from https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 
 # Theme settings
-remote_theme: mmistakes/minimal-mistakes@4.23.0
-minimal_mistakes_skin: dirt
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+minimal_mistakes_skin: "dirt"
 
 # Site settings
-locale: en
-title: Alpha's Manifesto
+locale: "en"
+title: "Alpha's Manifesto"
 title_separator: "|"
-description: A black and white figure's thought-hive
-name: JD Raimondi
-url: https://blog.alphasmanifesto.com
-baseurl: /
-repository: AlphaGit/alphas-manifesto-blog
-logo: /assets/headerAlpha.png
+description: "A black and white figure's thought-hive"
+name: "1"
+url: "https://blog.alphasmanifesto.com"
+baseurl: "/"
+repository: "AlphaGit/alphas-manifesto-blog"
+logo: "/assets/headerAlpha.png"
 words_per_minute: 200
 comments:
-  provider: disqus
+  provider: "disqus"
   disqus:
-    shortname: alphasmanifestoblog
+    shortname: "alphasmanifestoblog"
 search: true
 search_provider: google
 google:
-  search_engine_id: ed903ebbf9cc19bb1
+  search_engine_id: "ed903ebbf9cc19bb1"
   instant_search: true
 
 # Social Sharing
 twitter:
-  username: AlphasManifesto
+  username: "AlphasManifesto"
 
 # Analytics
 analytics:
-  provider: google-universal
+  provider: "google-universal"
   google: 
-    tracking_id: UA-367009-7
+    tracking_id: "UA-367009-7"
 
 # Site Author
 author:
-  name: JD Raimondi
-  avatar: /assets/avatarJD.jpg
-  bio: Software engineer. Curious person. Very serious. Not a robot (yet).
-  email: raimondijuan@gmail.com
+  name: "JD Raimondi"
+  avatar: "/assets/avatarJD.jpg"
+  bio: "Software engineer. Curious person. Very serious. Not a robot (yet)."
+  email: "raimondijuan@gmail.com"
   links:
-    - title: Twitter
-      url: https://twitter.com/AlphasManifesto
-      icon: fab fa-twitter
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/raimondijuan/
-      icon: fab fa-linkedin
-    - title: GitHub
-      url: https://www.github.com/AlphaGit
-      icon: fab fa-github
+    - title: "Twitter"
+      url: "https://twitter.com/AlphasManifesto"
+      icon: "fab fa-twitter"
+    - title: "LinkedIn"
+      url: "https://www.linkedin.com/in/raimondijuan/"
+      icon: "fab fa-linkedin"
+    - title: "GitHub"
+      url: "https://www.github.com/AlphaGit"
+      icon: "fab fa-github"
 
 # Outputting
 permalink: /:year/:month/:day/:slug/
