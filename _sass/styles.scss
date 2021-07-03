@@ -214,13 +214,15 @@ p, address, ul, ol, #post div, dl {
         font-size: 0.8em;
     }
 
-article.columnContainer {
-    margin-bottom: 1em;
-    padding-bottom: 1em;
-}
-
 article {
     border-bottom: 2px solid #CCC;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+
+    &.columnContainer {
+        margin-bottom: 1em;
+        padding-bottom: 1em;
+    }
 }
 
     article:last-child {
@@ -537,135 +539,6 @@ footer.columnContainer {
     display: block;
 }
 
-/* comment section */
-.comment-reply-title {
-    margin-top: 1em;
-}
-
-.commentList {
-    padding-left: 0;
-}
-
-.commentPagination {
-    text-align: center;
-    padding-top: 1em;
-}
-
-.comment,
-.pingback {
-    border-bottom: 2px solid #ccc;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding: 1em 0;
-    list-style-type: none;
-}
-
-    .comment.bypostauthor .comment-body {
-        background-color: #EEE;
-    }
-
-    .comment time, .comment .commentDate {
-        font-size: 0.7em;
-        line-height: 1em;
-        display: block;
-    }
-
-    .comment:last-child,
-    .pingback:last-child {
-        border-bottom: none;
-    }
-
-        .commentList > .comment:last-child,
-        .commentList > .pingback:last-child {
-            border-bottom: 2px solid #ccc;
-        }
-
-.comment-body {
-    min-height: 100px;
-    position: relative;
-}
-
-    .comment-body p:first-of-type {
-        margin-top: 0.5em;
-    }
-
-.comment-author,
-.comment-awaiting-moderation {
-    font-size: 0.9em;
-    display: inline;
-}
-
-    .comment-author cite {
-        font-weight: bold;
-    }
-
-    .comment-author img {
-        width: 100px;
-        float: left;
-        margin-right: 1em;
-    }
-
-    .comment-author .says {
-        display: none;
-    }
-
-.comment-meta {
-    font-size: 0.8em;
-    margin-right: 0.5em;
-    position: absolute;
-    top: 0;
-    right: 0;
-}
-
-.comment .reply {
-    font-size: 0.8em;
-}
-
-.comment-form {
-    padding-top: 0;
-    margin-top: 0;
-    clear: both;
-}
-
-    .comment-form h3 {
-        font-weight: bold;
-        font-variant: small-caps;
-        font-size: 1.3em;
-        margin-bottom: 1em;
-    }
-
-    .comment-form label {
-        font-weight: bold;
-        font-size: 1em;
-    }
-
-    .comment-form input[type=text], 
-    .comment-form textarea {
-        width: 100%;
-        font: normal 1em/1.5 Georgia, serif;
-    }
-
-.form-submit input[type=submit] {
-    margin-top: 0;
-    width: 100%;
-    height: 50px;
-    font-size: 1.5em;
-}
-
-#cancel-comment-reply-link {
-    font-size: 0.8em;
-    font-variant: normal;
-    font-weight: normal;
-    font-style: italic;
-}
-
-.comments-disabled,
-.comments-no-comments {
-    margin-top: 1em;
-    text-align: center;
-    font-style: italic;
-}
-
 ul.children {
     padding-left: 4em;
 }
@@ -682,40 +555,6 @@ ul.children {
 
 .aligncenter {
     text-align: center;
-}
-
-.wp-caption {
-	border: 1px solid rgb(170, 170, 170);
-	margin: 0 0 1em 0;
-	background-color: rgb(238, 238, 238);
-	padding: 5px;
-	text-align: center;
-    max-width: 100%;
-}
-
-    h1 + .wp-caption {
-        margin-top: 1em;
-    }
-
-    .wp-caption.aligncenter {
-        margin-right: auto;
-        margin-left: auto;
-    }
-
-    .wp-caption.alignleft {
-        margin-right: 10px;
-    }
-
-    .wp-caption.alignright {
-        margin-left: 10px;
-    }
-
-    .wp-caption.alignnone {
-
-    }
-
-.wp-caption-dd {
-	font-size: 0.8em;
 }
 
 /* Text meant only for screen readers. */
@@ -745,23 +584,6 @@ ul.children {
     top: 5px;
     width: auto;
     z-index: 100000; /* Above WP toolbar. */
-}
-
-.gallery {
-    /* using important rules because WordPress writes inline styles for galleries and while
-    they can be deactivated, that will remove ALL styles that WordPress uses for them*/
-    margin-bottom: 1em !important;
-}
-
-.gallery-caption { }
-
-.size-auto, 
-.size-full,
-.size-large,
-.size-medium,
-.size-thumbnail {
-    max-width: 100%;
-    height: auto;
 }
 
 /* Search form and search results */
@@ -840,8 +662,7 @@ article iframe, article video, article embed {
     }
 
         .datetime:after,
-        .categories:after,
-        .permalink:after {
+        .categories:after {
             content: " ―";
         }
 
@@ -953,7 +774,6 @@ article iframe, article video, article embed {
     label.menuSwitcher,
     .logoContainer,
     .leftSidebar,
-    .comment-respond,
     .searchContainer,
     .reply,
     .permalink,

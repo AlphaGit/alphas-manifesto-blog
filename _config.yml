@@ -84,3 +84,6 @@ alphasmanifesto:
   date_format: "%b %-d, %Y"
   show_excerpts: true
   tag_archive_path: "/tags/#"
+  subtitle: "A black and white figure's thought-hive"
+  logo: /assets/headerAlpha.png
+  logo_height: 85
