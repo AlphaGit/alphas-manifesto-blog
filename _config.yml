@@ -1,7 +1,7 @@
 # based from https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 
 # Theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+# remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 
 # Site settings
 locale: "en"
@@ -71,10 +71,16 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: post
       author_profile: true
       show_date: true
       read_time: true
       comments: true
       share: true
       related: true
+      excerpt_separator: <!--more-->
+
+alphasmanifesto:
+  date_format: "%b %-d, %Y"
+  show_excerpts: true
+  tag_archive_path: "/tags/#"
