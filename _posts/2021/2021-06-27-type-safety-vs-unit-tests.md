@@ -1,6 +1,6 @@
 ---
-excerpt_separator: <!--more-->
 title: Type safety vs. unit tests
+subtitle: A debate of several years...
 categories:
     - Technology
 tags:
@@ -14,7 +14,7 @@ header:
 
 Can unit tests that assert type safety be enough to compete against strong-typed languages?
 
-<!-- more -->
+<!--more-->
 
 Long time ago I came across a tweet from Bob Martin that pointed out if strong-typed languages really had the benefits that they proposed, because the safety could always be obtained by the use of unit tests. His proposal, which sparked debate, was that any particular benefit that the type system was giving, could always be replaced (and hinted that maybe _should_ be replaced) by a set of rigorous unit tests.
 
