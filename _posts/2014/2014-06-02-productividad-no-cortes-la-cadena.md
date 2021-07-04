@@ -13,7 +13,7 @@ tags:
 - código
 - motivación
 - rutina
-sub_title: Las técnicas de John Resig y mis resultados
+subtitle: Las técnicas de John Resig y mis resultados
 ---
 
 ![]({{ site.baseurl }}/assets/Calendar_marked.png)

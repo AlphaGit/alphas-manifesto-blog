@@ -19,7 +19,7 @@ tags:
 - móvil
 - responsive
 - media queries
-sub_title: ¿Qué son y cuándo usar cada uno?
+subtitle: ¿Qué son y cuándo usar cada uno?
 ---
 
 ![]({{ site.baseurl }}/assets/pantallas.png)

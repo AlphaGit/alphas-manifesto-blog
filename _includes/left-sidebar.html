@@ -1,0 +1,22 @@
+<div class="leftSidebar">
+    <input type="checkbox" id="displayMenus" class="menuSwitcher">
+    <label for="displayMenus" class="menuSwitcher"></label>
+
+    {% for widget in site.alphasmanifesto.widgets %}
+    <div class="widget">
+        <h2 class="widgettitle">{{ widget.title }}</h2>
+
+        <div>
+            <ul>
+                {% for link in widget.links %}
+                <li>
+                    <a title="{{ link.label }}" href="{{ link.url }}">
+                        {{ link.label }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% endfor %}
+</div>

@@ -21,7 +21,7 @@ tags:
 - respuesta
 - legal
 - servidor
-sub_title: ¿Y ahora qué hago?
+subtitle: ¿Y ahora qué hago?
 ---
 
 Uno de los posts que causaron revuelo en las preguntas de Server Fault fue _[My server's been hacked EMERGENCY](http://serverfault.com/questions/218005/my-servers-been-hacked-emergency) (Hackearon mi server, EMERGENCIA)_, un post cuya respuesta fue totalmente inesperada para muchos y muy útil y planeada para situaciones tan sorpresa.

@@ -13,7 +13,7 @@ tags:
 - weird
 - programming
 - books
-sub_title: I love chunky bacon
+subtitle: I love chunky bacon
 ---
 
 ![]({{ site.baseurl }}/assets/WhysFox.png)

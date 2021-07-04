@@ -18,7 +18,7 @@ tags:
 - book
 - patterns
 - software engineering
-sub_title: Una librería de referencias de patrones de usabilidad
+subtitle: Una librería de referencias de patrones de usabilidad
 ---
 
 ![]({{ site.baseurl }}/assets/web-application-design-patterns.jpg)

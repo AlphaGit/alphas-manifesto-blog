@@ -15,7 +15,7 @@ tags:
 - Rackspace
 - pizza
 - claridad
-sub_title: La versión casera de pruebas de carga cognitiva
+subtitle: La versión casera de pruebas de carga cognitiva
 ---
 
 ![]({{ site.baseurl }}/assets/Pizza.jpg)

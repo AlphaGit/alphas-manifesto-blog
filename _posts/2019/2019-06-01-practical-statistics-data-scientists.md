@@ -7,7 +7,7 @@ tags:
     - data science
     - statistics
     - books
-sub_title: Book review
+subtitle: Book review
 ---
 
 ![Practical Statistics for data Scientists]({{ site.baseurl }}/assets/practical-statistics-ds-cover.jpg)

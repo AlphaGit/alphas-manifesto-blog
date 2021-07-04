@@ -16,7 +16,7 @@ tags:
 - DeviantArt
 - apoyo
 - cultura 2.0
-sub_title: El fenómeno 2.0 del soporte y el gusto personal
+subtitle: El fenómeno 2.0 del soporte y el gusto personal
 ---
 
 ![]({{ site.baseurl }}/assets/Favorites.jpg)

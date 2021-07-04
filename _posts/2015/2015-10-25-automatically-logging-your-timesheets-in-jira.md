@@ -13,7 +13,7 @@ tags:
 - automation
 - Google Sheets
 - ticket
-sub_title: Having the tedious work done for you
+subtitle: Having the tedious work done for you
 ---
 
 ![]({{ site.baseurl }}/assets/GCalToJira.png)

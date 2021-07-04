@@ -11,7 +11,7 @@ tags:
 - data analysis
 - data science
 - head first series
-sub_title: Introductory solid book on Data Analysis
+subtitle: Introductory solid book on Data Analysis
 ---
 
 ![]({{ site.baseurl }}/assets/headfirstdataanalysis.jpg)

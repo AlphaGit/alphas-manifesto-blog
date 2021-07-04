@@ -21,7 +21,7 @@ tags:
 - node
 - test
 - what-now
-sub_title: La travesía y el resultado final
+subtitle: La travesía y el resultado final
 ---
 
 Desde hace un tiempo estoy intentando lograr que mi aplicación what-now se instale automáticamente en Heroku ante cambios realizado en su código. Este artículo cuenta sobre la travesía de descubrir por qué no me resultó tan simple como uno esperaría, y cómo terminó el proceso final en una manera que me resultó aceptable. Creo que es un buen resultado para reutilizar en otros proyectos, y tanto mejor que algunas recomendaciones que he visto por ahí.

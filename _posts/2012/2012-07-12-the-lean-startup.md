@@ -18,7 +18,7 @@ tags:
 - entrepeneurship
 - método científico
 - empresas
-sub_title: Cómo los entrepeneurs de hoy usan la innovación continua para crear negocios exitosos
+subtitle: Cómo los entrepeneurs de hoy usan la innovación continua para crear negocios exitosos
 ---
 
 [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Eric-Ries/dp/0670921602) es no sólo el título del nuevo libro de **Eric Ries**, sino además el nombre del movimiento que él inició intentando reestructurar la forma en la que se ve al entrepeneurship y a la innovación dentro del mundo que vivimos. Este movimiento tiene su [sitio principal en el sitio de The Lean Startup](http://theleanstartup.com/).

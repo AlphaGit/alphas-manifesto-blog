@@ -22,7 +22,7 @@ tags:
 - team work
 - conocimiento
 - programming
-sub_title: O "cómo no perderse en este bosque"
+subtitle: O "cómo no perderse en este bosque"
 ---
 
 Una amiga mía me comentó que quería comenzar a programar, y de alguna forma lo entendí implícitamente como un buen momento para dar consejos de orientación. No es por sonar arrogante, pero sabemos que la programación puede ser una tarea desafiante, y me pregunté cuáles serían los mejores consejos para alguien que está empezando.

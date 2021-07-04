@@ -17,7 +17,7 @@ tags:
 - CSS3
 - best practices
 - estándares
-sub_title: Una aproximación de best practices
+subtitle: Una aproximación de best practices
 ---
 
 Acabo de leer el artículo de IsoBar [Front-end Code Standards &amp; Best Practices](http://na.isobar.com/standards/). El artículo cubre de forma extensiva varias de las tecnologías utilizadas, con las sugerencias que esta empresa utiliza interamente. Cubre varios aspectos del uso de HTML (y algunas nuevas características de HTML5), CSS (y algunas nuevas características de CSS3), JavaScript, Performance, e integración cross-browser.

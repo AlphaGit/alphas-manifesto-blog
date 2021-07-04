@@ -13,7 +13,7 @@ tags:
 - efficiency
 - build process
 - ci
-sub_title: Making efficient final images
+subtitle: Making efficient final images
 ---
 
 ![]({{ site.baseurl }}/assets/Docker-heavy.png)

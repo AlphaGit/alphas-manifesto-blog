@@ -21,7 +21,7 @@ tags:
 - UAT
 - QA
 - project management
-sub_title: El manual de Nick Fury para coordinar equipos
+subtitle: El manual de Nick Fury para coordinar equipos
 ---
 
 Cuando escribí _mi review de la película Avengers_ mencioné lo siguiente:

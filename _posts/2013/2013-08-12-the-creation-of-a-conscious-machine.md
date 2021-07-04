@@ -13,7 +13,7 @@ tags:
 - book
 - máquina
 - decepción
-sub_title: La destrucción de una buena idea
+subtitle: La destrucción de una buena idea
 ---
 
 ![]({{ site.baseurl }}/assets/The_Creation_of_a_Conscious_Machine.jpg)

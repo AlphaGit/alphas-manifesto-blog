@@ -20,7 +20,7 @@ tags:
 - The Oatmeal
 - algoritmos
 - informática
-sub_title: Gatos conspiradores, algoritmos, ciencia y juegos HTML5
+subtitle: Gatos conspiradores, algoritmos, ciencia y juegos HTML5
 ---
 
 Hay algunos libros que he leído desde mi última reseña, y al igual que con las películas, dejaré de hacer reseñas individuales. ¡Celebren, porque habrá menos spam para ustedes!

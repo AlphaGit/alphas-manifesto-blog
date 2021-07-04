@@ -19,7 +19,7 @@ tags:
 - precio
 - conversor
 - configuración
-sub_title: La búsqueda del sonido perfecto
+subtitle: La búsqueda del sonido perfecto
 ---
 
 Siempre fue de mi filosofía que si uno pasa mucho tiempo en una determinada actividad, debe hacer toda la inversión posible para que sea muy disfrutable. Es muy parecido a la [Ley de Amdahl](http://en.wikipedia.org/wiki/Amdahl's_law): siempre conviene invertir en mejorar las partes más grandes y, como aconsejan muchos sistemas de productividad, solucionar los problemas más graves primero.

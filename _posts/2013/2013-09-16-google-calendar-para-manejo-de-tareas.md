@@ -14,7 +14,7 @@ tags:
 - tareas
 - Stack Exchange
 - Google Calendar
-sub_title: Una aproximación simple a un problema complejo
+subtitle: Una aproximación simple a un problema complejo
 ---
 
 ![]({{ site.baseurl }}/assets/calendar.png)

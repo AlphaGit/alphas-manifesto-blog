@@ -14,7 +14,7 @@ tags:
 - cereal
 - UX
 - analogía
-sub_title: Una imagen tiene menos de mil copos de cereal
+subtitle: Una imagen tiene menos de mil copos de cereal
 ---
 
 De parte de [Design.org](http://design.org/blog/difference-between-ux-and-ui-subtleties-explained-cereal) me llega una ingeniosa representación infográfica de Ed Lea, quién plasmó diferentes conceptos de diseño e interfaz en ejemplos visuales con un plato de cereal.

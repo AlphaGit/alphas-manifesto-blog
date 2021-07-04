@@ -12,7 +12,7 @@ tags:
 - artículo
 - css4
 - draft
-sub_title: No está el 3, vamos por el 4!
+subtitle: No está el 3, vamos por el 4!
 ---
 
 Síp, los selectores CSS4 ya hicieron su apareción en uno de los primeros drafts de la [W3c en septiembre del 2011](http://www.w3.org/TR/selectors4/). Sin embargo, les falta un buen camino para que siquiera vayan a implementarse en cualquier navegador, por lo que no están listos para ser usados, ni siquiera para ser probados.

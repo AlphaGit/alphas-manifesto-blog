@@ -15,7 +15,7 @@ tags:
 - software engineering
 - methodologies
 - automated testing
-sub_title: A success story from the side of the doubtful
+subtitle: A success story from the side of the doubtful
 ---
 
 ![]({{ site.baseurl }}/assets/Semaforo1.png)

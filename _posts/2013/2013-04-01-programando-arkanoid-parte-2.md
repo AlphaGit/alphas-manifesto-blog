@@ -18,7 +18,7 @@ tags:
 - prototipo
 - coordenadas
 - programming
-sub_title: El escenario de juego y el jugador en él
+subtitle: El escenario de juego y el jugador en él
 ---
 
 ![]({{ site.baseurl }}/assets/Building2lq.jpg)

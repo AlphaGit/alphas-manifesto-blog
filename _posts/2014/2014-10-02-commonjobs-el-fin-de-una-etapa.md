@@ -20,7 +20,7 @@ tags:
 - RavenDB
 - proceso
 - Scrum
-sub_title: Proyecto final y producto real
+subtitle: Proyecto final y producto real
 ---
 
 ![]({{ site.baseurl }}/assets/commonJobs.png)

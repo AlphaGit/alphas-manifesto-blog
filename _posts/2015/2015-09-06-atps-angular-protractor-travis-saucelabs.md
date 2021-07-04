@@ -17,7 +17,7 @@ tags:
 - web development
 - Selenium
 - continuous integration
-sub_title: Quick guide to get these bad boys cooperating
+subtitle: Quick guide to get these bad boys cooperating
 ---
 
 ![]({{ site.baseurl }}/assets/juggling.png)

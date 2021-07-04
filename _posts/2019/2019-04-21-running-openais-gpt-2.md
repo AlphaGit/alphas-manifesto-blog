@@ -6,7 +6,7 @@ categories:
 tags:
     - AI
     - OpenAI
-sub_title: Play with the most powerful text generator so far
+subtitle: Play with the most powerful text generator so far
 ---
 
 ![GPT-2]({{ site.baseurl }}/assets/gpt2.jpg)

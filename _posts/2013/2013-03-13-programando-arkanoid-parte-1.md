@@ -15,7 +15,7 @@ tags:
 - CSS3
 - Canvas
 - código
-sub_title: Cómo hacer un pequeño juego en JavaScript y HTML5 canvas
+subtitle: Cómo hacer un pequeño juego en JavaScript y HTML5 canvas
 ---
 
 ![]({{ site.baseurl }}/assets/arkanoid.jpg)

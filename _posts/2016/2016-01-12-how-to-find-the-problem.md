@@ -17,7 +17,7 @@ tags:
 - assumptions
 - problems
 - solutions
-sub_title: Applied skepticism
+subtitle: Applied skepticism
 ---
 
 ![]({{ site.baseurl }}/assets/chemistryskunk.png)

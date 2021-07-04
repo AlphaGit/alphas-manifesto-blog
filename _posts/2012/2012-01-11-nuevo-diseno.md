@@ -9,7 +9,7 @@ tags:
 - design
 - funcionalidad
 - comentarios
-sub_title: Empezando un blog más ordenado y limpio
+subtitle: Empezando un blog más ordenado y limpio
 ---
 
 Allo, me pegué una terrible actualización de estilos. Como ven, la página está mucho más limpia, y desde mi punto de vista, un poco más legible y elegante. Se aceptan sugerencias.
