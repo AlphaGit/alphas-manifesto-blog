@@ -14,7 +14,7 @@ tags:
 - QR Code
 - formato
 - corrección de errores
-sub_title: Imágenes en QR Codes
+subtitle: Imágenes en QR Codes
 ---
 
 Russ Cox publicó hace no mucho un artículo sobre lo que él denomina [QArt Codes](http://research.swtch.com/qart), que son QR Codes con una imagen en ellos.

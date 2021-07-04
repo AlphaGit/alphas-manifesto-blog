@@ -13,7 +13,7 @@ tags:
 - StackExchange
 - experiencia de usuario
 - bordes redondeados
-sub_title: Partiendo desde la base de lo básico
+subtitle: Partiendo desde la base de lo básico
 ---
 
 Este es otro de esos encuentros que hago en los foros de [StackExchange](http://stackexchange.com/), específicamente en el de [User Experience](http://ux.stackexchange.com/). Aquí alguien preguntó [ ¿Cómo es que los bordes redondeados afectan la usabilidad?](http://ux.stackexchange.com/questions/11150/how-do-rounded-corners-affect-usability)

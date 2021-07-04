@@ -11,7 +11,7 @@ tags:
 - respuestas
 - competencia
 - indicadores
-sub_title: Simpleza autocrítica
+subtitle: Simpleza autocrítica
 ---
 
 Para quienes no conocen el [Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html), es una prueba muy simple, solo 12 preguntas que nos guían a darnos cuenta si nuestro equipo de desarrollo va por el buen camino o tenemos cosas que arreglar.

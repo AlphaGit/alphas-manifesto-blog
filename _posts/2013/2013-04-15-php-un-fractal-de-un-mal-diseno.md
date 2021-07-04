@@ -22,7 +22,7 @@ tags:
 - Perl
 - Zend
 - programming
-sub_title: O mil y un razones para alejarse de PHP
+subtitle: O mil y un razones para alejarse de PHP
 ---
 
 Durante mucho tiempo utilicé PHP, y de hecho, lo sigo utilizando. Sin embargo, siempre sentí como que algunas cosas no encajaban, y aunque varias veces me propuse aprender un paradigma de PHP de forma seria, nunca lo logré. Mucho tiempo después me enteré del gran odio generalizado a PHP y los problemas que ha tenido y leyendo esos artículos me encontré el que voy a traducir a continuación. [PHP: A fractal of Bad Design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) es una recopilación de [Eevee](http://me.veekun.com/), quien muy amablemente accedió a que yo lo traduzca. La elegí porque es exageradamente detallada y certera.

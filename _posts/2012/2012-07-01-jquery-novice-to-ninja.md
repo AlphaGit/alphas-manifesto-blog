@@ -15,7 +15,7 @@ tags:
 - código
 - book
 - práctica
-sub_title: Manos a la obra desde lo más básico
+subtitle: Manos a la obra desde lo más básico
 ---
 
 ![]({{ site.baseurl }}/assets/jqueryNoviceToNinja.jpg)

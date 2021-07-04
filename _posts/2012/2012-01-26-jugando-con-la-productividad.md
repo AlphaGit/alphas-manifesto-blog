@@ -15,7 +15,7 @@ tags:
 - inbox zero
 - wishlist
 - gamification
-sub_title: Conseguí una lapicera dorada +20!
+subtitle: Conseguí una lapicera dorada +20!
 ---
 
 La gamification (...jueguización? ugh) es algo muy común y popular en estos días para aplicar a distintas actividades, y alguien en Productivity de StackExchange decidió preguntar si [existen técnicas de productividad basadas en juegos](http://productivity.stackexchange.com/questions/2397/do-game-based-methods-exist). Desafortunadamente las respuestas no son muchas y no hay demasiadas opciones, pero las pocas que hay son iluminadoras.

@@ -13,7 +13,7 @@ tags:
 - conversación
 - brevedad
 - precisión
-sub_title: Ser conciso y no-ambiguo
+subtitle: Ser conciso y no-ambiguo
 ---
 
 ![]({{ site.baseurl }}/assets/Respuesta.png)

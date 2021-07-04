@@ -8,7 +8,7 @@ tags:
     - GitHub
     - GitHub Pages
     - DNS
-sub_title: How to configure HTTPS while keeping control of the nameservers
+subtitle: How to configure HTTPS while keeping control of the nameservers
 ---
 
 As a final step to moving my blog to GitHub pages, it was the matter of setting up HTTPS. The GitHub guides are very detailed on this. So much that it's easy to get lost in them.

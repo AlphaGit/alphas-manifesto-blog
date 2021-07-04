@@ -13,7 +13,7 @@ tags:
 - criptografía
 - legal
 - claves
-sub_title: Accesible para uno, secreto para todos
+subtitle: Accesible para uno, secreto para todos
 ---
 
 [PrivateSky](http://privatesky.me/) no es ni el primer ni el último intento de un servicio de seguridad en la nube. Lo que los distingue es que, según dicen, ni ellos mismos tienen acceso a los datos que nosotros guardamos, y que ni al momento de que el gobierno les requiera los datos, ellos los darían. (O eso dice su CEO.)

@@ -12,7 +12,7 @@ tags:
 - LinkedIn
 - términos y condiciones
 - integración
-sub_title: O "shenanigams para que nadie use nuestro sistema"
+subtitle: O "shenanigams para que nadie use nuestro sistema"
 ---
 
 ![]({{ site.baseurl }}/assets/illegalfry.jpg)

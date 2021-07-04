@@ -18,7 +18,7 @@ tags:
 - algoritmos
 - Sugiyama
 - what-now
-sub_title: No se resuelve con un par de líneas
+subtitle: No se resuelve con un par de líneas
 ---
 
 ![]({{ site.baseurl }}/assets/what-now-dependencies.png)

@@ -14,7 +14,7 @@ tags:
 - batch
 - script
 - DOS
-sub_title: Unleash the power of .bat!
+subtitle: Unleash the power of .bat!
 ---
 
 ![]({{ site.baseurl }}/assets/batchfile.png)

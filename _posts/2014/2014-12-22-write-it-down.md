@@ -12,7 +12,7 @@ tags:
 - everyday stuff
 - time management
 - delegating
-sub_title: Before it makes you frown
+subtitle: Before it makes you frown
 ---
 
 ![]({{ site.baseurl }}/assets/multitasking.png)

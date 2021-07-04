@@ -12,7 +12,7 @@ tags:
 - course
 - MOOC
 - artificial intelligence
-sub_title: Automatic players that don't complain when they lose
+subtitle: Automatic players that don't complain when they lose
 ---
 
 ![]({{ site.baseurl }}/assets/mechaskunky.png)

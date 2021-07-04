@@ -9,7 +9,7 @@ tags:
 - Apple
 - apps
 - smart alarm
-sub_title: Smart alarms
+subtitle: Smart alarms
 ---
 
 Many of you that know me also know that it has been forever a problem of mine to get to sleep properly. Not to sleep early. Not to wake up early. It's about the quality of sleep. I've tried many things to address this problem, raging from hormones to witchcraft, but something seems to be making a difference: smart alarms.

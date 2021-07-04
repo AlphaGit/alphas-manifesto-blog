@@ -12,7 +12,7 @@ tags:
 - inbox zero
 - Google Inbox
 - methodologies
-sub_title: I'm so on board, this is why
+subtitle: I'm so on board, this is why
 ---
 
 ![]({{ site.baseurl }}/assets/Inbox.png)

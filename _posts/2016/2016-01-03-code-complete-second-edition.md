@@ -13,7 +13,7 @@ tags:
 - software development
 - development
 - code
-sub_title: Aspects of software construction, deconstructed
+subtitle: Aspects of software construction, deconstructed
 ---
 
 ![]({{ site.baseurl }}/assets/codecomplete.jpg)

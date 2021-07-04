@@ -13,7 +13,7 @@ tags:
 - Processing
 - portfolio
 - certificate
-sub_title: Well, sort of...
+subtitle: Well, sort of...
 ---
 
 ![]({{ site.baseurl }}/assets/Art.png)

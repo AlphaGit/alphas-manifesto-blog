@@ -13,7 +13,7 @@ tags:
 - teoría
 - práctica
 - code kata
-sub_title: El por qué de practicar y ejercicios para hacerlo
+subtitle: El por qué de practicar y ejercicios para hacerlo
 ---
 
 Algún tiempo atrás JM nos había compartido un artículo sobre TDD Katas que básicamente explicaba qué son y por qué valen la pena. En dicho artículo [_Kata - The only way to learn TDD_](http://www.peterprovost.org//blog/2012/05/02/kata-the-only-way-to-learn-tdd/) Peter Provost nos explica la mecánica básica tras la enseñanza de los Katas, una forma fácil de poner a práctica nuestros conocimientos teóricos.

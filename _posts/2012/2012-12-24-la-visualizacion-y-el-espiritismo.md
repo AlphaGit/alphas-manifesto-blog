@@ -19,7 +19,7 @@ tags:
 - paranormal
 - ocultismo
 - alucinación
-sub_title: ¿Por qué es tan importante visualizar?
+subtitle: ¿Por qué es tan importante visualizar?
 ---
 
 <figure class="align-center">

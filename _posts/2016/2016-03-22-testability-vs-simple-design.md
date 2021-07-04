@@ -17,7 +17,7 @@ tags:
 - coupling
 - Fakes Assemblies
 - MSTest
-sub_title: Testing requires decoupling
+subtitle: Testing requires decoupling
 ---
 
 ![]({{ site.baseurl }}/assets/arrow.jpg)

@@ -18,7 +18,7 @@ tags:
 - estándares
 - JSONP
 - proxy
-sub_title: Desarrollando en localhost, same-origin policy & REST APIs
+subtitle: Desarrollando en localhost, same-origin policy & REST APIs
 ---
 
 ![]({{ site.baseurl }}/assets/ProxyLove.png)

@@ -12,7 +12,7 @@ tags:
 - procesos
 - disciplina
 - estructuras
-sub_title: ¿O acaso no lo es?
+subtitle: ¿O acaso no lo es?
 ---
 
 Hoy me venía este pensamiento a la mente:  ¿es el desarrollo de software un arte? Sé que muchos estarían de acuerdo en decir que sí, pero quiero plantear la pregunta con un rigor científico, algo que la frase que comúnmente usamos no contiene.

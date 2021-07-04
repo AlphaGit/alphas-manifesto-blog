@@ -12,7 +12,7 @@ tags:
 - trolley problem
 - studies
 excerpt_separator: <!--more-->
-sub_title: Review of a very interesting meetup by Dr McKillop
+subtitle: Review of a very interesting meetup by Dr McKillop
 ---
 
 I recently participated in a meetup with the promising title "Ethics in AI". Dr. Chris McKillop conducted the meetup, and she did not only has a lot of theoretical background under her arm, but also a great deal of experience with working on the field of Data Science and AI.

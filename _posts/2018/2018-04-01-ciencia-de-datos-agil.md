@@ -12,7 +12,7 @@ tags:
 - Spanish
 - udemy
 - agile
-sub_title: Curso de Ernesto Mislej
+subtitle: Curso de Ernesto Mislej
 ---
 
 ![]({{ site.baseurl }}/assets/7puentes.jpg)

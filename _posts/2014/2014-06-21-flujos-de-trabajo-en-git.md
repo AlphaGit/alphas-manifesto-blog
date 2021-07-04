@@ -17,7 +17,7 @@ tags:
 - rebase
 - merge
 - historial de cambios
-sub_title: Los más comunes y el historial de cambios que generan
+subtitle: Los más comunes y el historial de cambios que generan
 ---
 
 ![]({{ site.baseurl }}/assets/gitTree.png)

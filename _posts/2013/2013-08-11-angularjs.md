@@ -15,7 +15,7 @@ tags:
 - AngularJS
 - data binding
 - templating
-sub_title: Libro introductorio sobre AngularJS y sus prácticas
+subtitle: Libro introductorio sobre AngularJS y sus prácticas
 ---
 
 ![]({{ site.baseurl }}/assets/angularjs.jpg)

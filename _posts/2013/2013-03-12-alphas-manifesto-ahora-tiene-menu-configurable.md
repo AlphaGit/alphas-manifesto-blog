@@ -14,7 +14,7 @@ tags:
 - desarollo
 - theme
 - Alpha's Manifesto
-sub_title: Y cómo agregar propiedades a menús
+subtitle: Y cómo agregar propiedades a menús
 ---
 
 ![]({{ site.baseurl }}/assets/configurableMenu.jpg)

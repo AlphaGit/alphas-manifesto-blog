@@ -12,7 +12,7 @@ tags:
 - research
 - AI
 - open research
-sub_title: Secrecy is the halt of humanity's progress
+subtitle: Secrecy is the halt of humanity's progress
 ---
 
 ![]({{ site.baseurl }}/assets/papers.png)
