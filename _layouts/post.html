@@ -2,22 +2,24 @@
 layout: default
 ---
 
-{% include left-sidebar.html %}
+<main class="page-content" aria-label="Content">
+  {% include left-sidebar.html %}
 
-<div class="postContainer">
-  <article>
-    <div class="postContent">
-      {%- if page.header.image -%}
-      <p class="aligncenter">
-        <img src="{{ page.header.image | relative_url }}" />
-      </p>
-      {%- endif -%}
+  <div class="postContainer">
+    <article>
+      <div class="postContent">
+        {%- if page.header.image -%}
+        <p class="aligncenter">
+          <img src="{{ page.header.image | relative_url }}" />
+        </p>
+        {%- endif -%}
 
-      <div>
-      {{ content }}
+        <div>
+          {{ content }}
+        </div>
       </div>
-    </div>
 
-    {% include post-metadata.html %}
-  </article>
-</div>
+      {% include post-metadata.html %}
+    </article>
+  </div>
+</main>
