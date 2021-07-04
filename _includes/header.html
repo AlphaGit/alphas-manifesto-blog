@@ -3,7 +3,11 @@
     <div class="wrapper titleRow columnContainer">
       {%- if site.alphasmanifesto.logo -%}
       <div class="column colSize1 logoContainer">
-        <img src="{{ site.alphasmanifesto.logo | relative_url }}" alt="logo" height={{ site.alphasmanifesto.logo_height }} />
+        <img src="{{ site.alphasmanifesto.logo | relative_url }}"
+             alt="logo"
+             height={{ site.alphasmanifesto.logo_height }}
+             width={{ site.alphasmanifesto.logo_width }}
+             />
       </div>
       {%- endif -%}
 
