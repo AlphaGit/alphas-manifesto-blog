@@ -219,10 +219,10 @@ article {
     margin-bottom: 1em;
     padding-bottom: 1em;
 
-    &.columnContainer {
-        margin-bottom: 1em;
-        padding-bottom: 1em;
-    }
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+
+    word-wrap: break-word;
 }
 
     article:last-child {
@@ -307,6 +307,13 @@ img, object, embed {
     height: auto;
 }
 
+main {
+    margin: 2em;
+
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
 /* header styles */
 
 header {
@@ -344,31 +351,6 @@ header {
 
 /* Grid styles */
 
-.columnContainer {
-    max-width: 1140px;
-    margin: 0 auto;
-    overflow: hidden;
-    padding-top: 1em;
-}
-
-.column {
-    display: inline-block;
-    min-height: 1px;
-    vertical-align: top;
-}
-
-    .column.colSize1 {
-        width: 190px;
-    }
-
-    .column.colSize4 {
-        width: 760px;
-    }
-
-    .column.colSize5 {
-        width: 950px;
-    }
-
 .logoContainer {
     text-align: center;
 }
@@ -378,11 +360,15 @@ header {
     padding-top: 1em;
     padding-bottom: 1em;
     border-bottom: 2px solid #ccc;
-}
 
-    .widget:last-child {
+    &:first-of-type {
+        padding-top: 0;
+    }
+
+    &:last-of-type {
         border-bottom: none;
     }
+}
 
 .widgettitle {
     font-size: 1.2em;
@@ -441,7 +427,9 @@ header {
 }
 
 .titleRow {
-    padding-top: 1em;
+    padding: 1em 2em 0 2em;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
 }
 
 .leftSidebar {
@@ -455,14 +443,9 @@ header {
 .title {
     padding: 0.5em 0;
     margin-bottom: 1em;
-    text-align: center;
 }
 
 /* post styles */
-
-.post {
-    word-wrap: break-word;
-}
 
 .postContent {
     padding-right: 1em;
@@ -492,10 +475,6 @@ header {
         border-color: #EBEBEB;
     }
 
-    .sticky .column.colSize4 {
-        width: 735px;
-    }
-
 /* post metadata */
 
 article .metadata {
@@ -522,7 +501,7 @@ article .metadata {
     margin-top: 0;
 }
 
-footer.columnContainer {
+footer {
     text-align: center;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
@@ -637,7 +616,11 @@ article iframe, article video, article embed {
 /* 5 columns (1139px and below) */
 @media print, only screen and (max-width: 1159px) { /* 1140px + 20px scrollbars */
     /* collapse metadata column under post */
-    .column.metadata {
+    article {
+        grid-template-columns: 1fr;
+    }
+
+    .metadata {
         display: block;
         width: auto;
         max-width: 760px; /* max size of colSize4 */
@@ -668,7 +651,7 @@ article iframe, article video, article embed {
         }
 
     /* make post content and metadata be aligned at the right of the left sidebar */
-    .column.postContainer {
+    .postContainer {
         max-width: 760px; /* max size of colSize4 */
     }
 
@@ -676,16 +659,15 @@ article iframe, article video, article embed {
     .searchContainer {
         display: none;
     }
-
-    /* adjust size of columns to next breakpoint */
-    .columnContainer {
-        max-width: 950px;
-    }
 }
 
 /* 4 columns (949px and below) */
 @media print, only screen and (max-width: 969px) { /* 950px + 20px scrollbars */
     /* collapse sidebar on top of postContainer column */
+    main {
+        grid-template-columns: 1fr;
+    }
+
     .titleRow,
     .leftSidebar,
     .postContainer {
@@ -693,31 +675,17 @@ article iframe, article video, article embed {
         margin: 0 auto;
         max-width: 760px;
     }
+
+    .titleRow {
+        text-align: center;
+    }
     
-    /* make all columns the same size */
-    .columnContainer {
-        max-width: 760px;
-    }
-
-    .column.colSize1,
-    .column.colSize4,
-    .column.colSize5 {
-        margin: 0 auto;
-        width: 760px;
-        padding-left: 0;
-        padding-right: 0;
-    }
-
-        .column.colSize1.metadata {
-            width: auto;
-            margin-left: 2em;
-            margin-right: 2em;
-        }
-
     /* add a border between the sidebar and the posts */
     .leftSidebar {
         padding-bottom: 1em;
         border-bottom: 2px solid #ccc;
+        width: 100%;
+        margin-bottom: 1em;
     }
 
     /* collapse menu and show option to display it */
@@ -744,30 +712,7 @@ article iframe, article video, article embed {
 }
 
 @media only screen and (max-width: 779px) { /* 760px + 20px scrollbars */
-    /* make columns fluid and hope for the best */
-    .columnContainer,
-    .column.colSize1,
-    .column.colSize4,
-    .column.colSize5 {
-        max-width: 100%;
-        width: auto;
-        display: block;
-    }
 
-        /* we still don't want the search box */
-        .column.colSize1.searchContainer {
-            display: none;
-        }
-
-    .columnContainer {
-        margin-left: 1em;
-        margin-right: 1em;
-    }
-
-        .columnContainer .columnContainer {
-            margin-left: 0;
-            margin-right: 0;
-        }
 }
 
 @media print {
@@ -800,13 +745,5 @@ article iframe, article video, article embed {
 
     pre, p, blockquote, ul, li {
         page-break-inside: avoid;
-    }
-
-    .postContent.column.colSize4 {
-        width: auto;
-    }
-
-    .column {
-        display: inline;
     }
 }
