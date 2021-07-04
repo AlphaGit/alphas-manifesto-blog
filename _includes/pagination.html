@@ -1,5 +1,5 @@
+{% if site.paginate %}
 <footer class="columnContainer">
-  {% if site.paginate %}
     <p>
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous posts</a>
@@ -13,5 +13,5 @@
       <a href="{{ paginator.next_page_path | relative_url }}">Next posts &raquo;</a>
       {% endif %}
     </p>
-  {% endif %}
 </footer>
+{% endif %}

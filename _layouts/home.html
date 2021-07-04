@@ -8,38 +8,42 @@ layout: default
 {% assign posts = site.posts %}
 {% endif %}
 
-{% include left-sidebar.html %}
+<main class="page-content" aria-label="Content">
+  {% include left-sidebar.html %}
 
-<div class="postContainer">
-  {% for post in posts %}
-  <article>
-    <div class="postContent">
-      <h1>
-        <a href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h1>
+  <div class="postContainer">
+    {% for post in posts %}
+    <article>
+      <div class="postContent">
+        <h1>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h1>
 
-      {%- if post.subtitle -%}
-      <p class="subtitle">
-        {{ post.subtitle }}
-      </p>
-      {%- endif -%}
+        {%- if post.subtitle -%}
+        <p class="subtitle">
+          {{ post.subtitle }}
+        </p>
+        {%- endif -%}
 
-      {%- if post.header.image -%}
-      <p class="aligncenter">
-        <img src="{{ post.header.image | relative_url }}" />
-      </p>
-      {%- endif -%}
+        {%- if post.header.image -%}
+        <p class="aligncenter">
+          <img src="{{ post.header.image | relative_url }}" />
+        </p>
+        {%- endif -%}
 
-      {{ post.excerpt }}
+        {{ post.excerpt }}
 
-      <p>
-        <a href="{{ post.url | relative_url }}" class="more-link">(Read more &rarr;)</a>
-      </p>
-    </div>
+        <p>
+          <a href="{{ post.url | relative_url }}" class="more-link">(Read more &rarr;)</a>
+        </p>
+      </div>
 
-    {% include post-metadata.html %}
-  </article>
-  {% endfor %}
-</div>
+      {% include post-metadata.html %}
+    </article>
+    {% endfor %}
+  </div>
+</main>
+
+{%- include pagination.html -%}
