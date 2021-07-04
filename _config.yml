@@ -1,19 +1,12 @@
-# based from https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
-
-# Theme settings
-# remote_theme: "mmistakes/minimal-mistakes@4.23.0"
-
 # Site settings
 locale: "en"
 title: "Alpha's Manifesto"
 title_separator: "|"
 description: "A black and white figure's thought-hive"
-name: "1"
-url: "https://blog.alphasmanifesto.com"
-baseurl: "/"
+url: "https://blog.alphasmanifesto.com/"
+baseurl: ""
 repository: "AlphaGit/alphas-manifesto-blog"
 logo: "/assets/headerAlpha.png"
-words_per_minute: 200
 comments:
   provider: "disqus"
   disqus:
@@ -40,16 +33,7 @@ author:
   avatar: "/assets/avatarJD.jpg"
   bio: "Software engineer. Curious person. Very serious. Not a robot (yet)."
   email: "raimondijuan@gmail.com"
-  links:
-    - label: "Twitter"
-      url: "https://twitter.com/AlphasManifesto"
-      icon: "fab fa-twitter"
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/raimondijuan/"
-      icon: "fab fa-linkedin"
-    - label: "GitHub"
-      url: "https://www.github.com/AlphaGit"
-      icon: "fab fa-github"
+
 
 # Outputting
 permalink: /:year/:month/:day/:slug/
@@ -88,3 +72,14 @@ alphasmanifesto:
   logo: /assets/headerAlpha.png
   logo_height: 85
   logo_width: 94
+  widgets:
+    - title: "My Other Sites"
+      links:
+        - label: "Twitter"
+          url: "https://twitter.com/AlphasManifesto"
+        - label: "LinkedIn"
+          url: "https://www.linkedin.com/in/raimondijuan/"
+        - label: "GitHub"
+          url: "https://www.github.com/AlphaGit"
+        - label: "Random thoughts"
+          url: "https://medium.com/@SkunksAndStuff"

@@ -2,92 +2,101 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+{% if site.paginate %}
+{% assign posts = paginator.posts %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
 
-  {{ content }}
+<div class="leftSidebar">
+  <input type="checkbox" id="displayMenus" class="menuSwitcher">
+  <label for="displayMenus" class="menuSwitcher"></label>
 
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
+  {% for widget in site.alphasmanifesto.widgets %}
+    <div class="widget">
+      <h2 class="widgettitle">{{ widget.title }}</h2>
 
-  <div class="columnContainer">
-    {%- if posts.size > 0 -%}
-      {%- if page.list_title -%}
-        <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      <div>
+        <ul>
+          {% for link in widget.links %}
+            <li>
+              <a 
+              title="{{ link.label }}"
+              href="{{ link.url }}">
+                {{ link.label }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="postContainer">
+  {%- assign date_format = site.alphasmanifesto.date_format | default: "%b %-d, %Y" -%}
+  {%- for post in posts -%}
+  <article>
+    <div class="postContent">
+      <h1>
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h1>
+
+      {%- if post.subtitle -%}
+      <p class="subtitle">
+        {{ post.subtitle }}
+      </p>
       {%- endif -%}
-      <div class="postContainer column colSize5">
-        {%- assign date_format = site.alphasmanifesto.date_format | default: "%b %-d, %Y" -%}
-        {%- for post in posts -%}
-          <article class="post columnContainer">
-            <div class="postContent column colSize4">
-              <h1>
-                <a href="{{ post.url | relative_url }}">
-                  {{ post.title | escape }}
-                </a>
-              </h1>
-              
-              {%- if post.subtitle -%}
-                <p class="subtitle">
-                  {{ post.subtitle }}
-                </p>
-              {%- endif -%}
 
-              {%- if post.thumbnail -%}
-                <p class="aligncenter">
-                  <img src="{{ post.thumbnail.url | relative_url }}" />
-                </p>
-              {%- endif -%}
+      {%- if post.thumbnail -%}
+      <p class="aligncenter">
+        <img src="{{ post.thumbnail.url | relative_url }}" />
+      </p>
+      {%- endif -%}
 
-              <div class="excerpt">
-                {{ post.excerpt }}
-              </div>
-
-              <p>
-                <a href="{{ post.url | relative_url }}" class="more-link">(Read more -->)</a>
-              </p>
-            </div>
-
-            <div class="metadata column colSize1">
-              <time datetime="{{ post.date | date_to_xmlschema }}" class="datetime dt-published">
-                {{ post.date | date: date_format }}
-              </time>
-
-              <div class="categories">
-                {% for category in post.categories %}
-                  {% comment %} <!-- TODO: still need to find out how to link to categories -->
-                  <a href="TODO">{{ category}}</a>
-                  {% endcomment %}
-                  {{ category }}
-                {% endfor %}
-              </div>
-
-              <div class="permalink">
-                <a href="{{ post.url }}">(Permalink)</a>
-              </div>
-
-              <div class="tags">
-                Tags:
-                {% for tag in post.tags %}
-                  {% comment %} <!-- TODO: still need to find out how to link to tags -->
-                  <a
-                    href="{{ tag | slugify | prepend: site.alphasmanifesto.tag_archive_path | relative_url }}"
-                    rel="category tag">
-                    {{ tag }}
-                  </a>
-                  {% endcomment %}
-                  {{ tag }}{%- if forloop.last == false %}, {% endif -%}
-                {% endfor %}
-              </div>
-            </div>
-          </article>
-        {%- endfor -%}
+      <div class="excerpt">
+        {{ post.excerpt }}
       </div>
 
-    {%- endif -%}
-  </div>
+      <p>
+        <a href="{{ post.url | relative_url }}" class="more-link">(Read more &rarr;)</a>
+      </p>
+    </div>
+
+    <div class="metadata">
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="datetime dt-published">
+        {{ post.date | date: date_format }}
+      </time>
+
+      <div class="categories">
+        {% for category in post.categories %}
+        {% comment %}
+        <!-- TODO: still need to find out how to link to categories -->
+        <a href="TODO">{{ category}}</a>
+        {% endcomment %}
+        {{ category }}
+        {% endfor %}
+      </div>
+
+      <div class="permalink">
+        <a href="{{ post.url }}">(Permalink)</a>
+      </div>
+
+      <div class="tags">
+        Tags:
+        {% for tag in post.tags %}
+        {% comment %}
+        <!-- TODO: still need to find out how to link to tags -->
+        <a href="{{ tag | slugify | prepend: site.alphasmanifesto.tag_archive_path | relative_url }}" rel="category tag">
+          {{ tag }}
+        </a>
+        {% endcomment %}
+        {{ tag }}{%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      </div>
+    </div>
+  </article>
+  {%- endfor -%}
 </div>

@@ -1,8 +1,8 @@
 <header class="site-header">
 
-    <div class="wrapper titleRow columnContainer">
+    <div class="titleRow">
       {%- if site.alphasmanifesto.logo -%}
-      <div class="column colSize1 logoContainer">
+      <div class="logoContainer">
         <img src="{{ site.alphasmanifesto.logo | relative_url }}"
              alt="logo"
              height={{ site.alphasmanifesto.logo_height }}
@@ -11,7 +11,7 @@
       </div>
       {%- endif -%}
 
-      <div class="column colSize4 title">
+      <div class="title">
         <h1 rel="author">
           <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
         </h1>
