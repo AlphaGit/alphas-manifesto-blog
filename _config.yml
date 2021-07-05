@@ -13,16 +13,13 @@ google:
   search_engine_id: "ed903ebbf9cc19bb1"
   instant_search: true
 
-# Social Sharing
-twitter:
-  username: "AlphasManifesto"
-
 # Site Author
 author:
   name: "JD Raimondi"
   avatar: "/assets/avatarJD.jpg"
   bio: "Software engineer. Curious person. Very serious. Not a robot (yet)."
   email: "raimondijuan@gmail.com"
+  twitter: "AlphasManifesto"
 
 # Outputting
 permalink: /:year/:month/:day/:slug/
