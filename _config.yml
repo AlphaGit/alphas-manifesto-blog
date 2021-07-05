@@ -7,10 +7,6 @@ url: "https://blog.alphasmanifesto.com/"
 baseurl: ""
 repository: "AlphaGit/alphas-manifesto-blog"
 logo: "/assets/headerAlpha.png"
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "alphasmanifestoblog"
 search: true
 search_provider: google
 google:
@@ -83,3 +79,4 @@ alphasmanifesto:
           url: "https://www.github.com/AlphaGit"
         - label: "Random thoughts"
           url: "https://medium.com/@SkunksAndStuff"
+  disqus_shortname: "alphasmanifestoblog"
