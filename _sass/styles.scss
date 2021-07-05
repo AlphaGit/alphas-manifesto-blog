@@ -308,7 +308,8 @@ img, object, embed {
 }
 
 main {
-    margin: 2em;
+    margin: 2em auto;
+    max-width: 1140px;
 
     display: grid;
     grid-template-columns: 1fr 5fr;
@@ -430,6 +431,8 @@ header {
     padding: 1em 2em 0 2em;
     display: grid;
     grid-template-columns: 1fr 5fr;
+    max-width: 1140px;
+    margin: 0 auto;
 }
 
 .leftSidebar {
