@@ -35,7 +35,7 @@ Once the image is constructed, we can inspect what different steps (commits) too
 ```
 docker history alphadock/screaming-bot:latest
 
-IMAGE               CREATED             CREATED BY                                        SIZE                COMMENT
+IMAGE               CREATED             CREATED BY                                        SIZE
 e90b021bcc11        5 minutes ago       /bin/sh -c #(nop)  VOLUME [/usr/src/app/text...   0B
 f479a24b3b2f        5 minutes ago       /bin/sh -c #(nop)  VOLUME [/usr/src/app/sett...   0B
 1f2647d86908        5 minutes ago       /bin/sh -c python -c "import nltk; nltk.down...   25MB
