@@ -78,11 +78,9 @@ docker inspect 6e37b83f7be5
 Actually, we just care about the `GraphDriver` section, with the location specified in `Data.Workdir`. So, we can specify it in our command so that we get only that portion back:
 
 ```bash
-{% raw %}
-docker inspect -f "{{.GraphDriver.Data.WorkDir}}" 6e37b83f7be5
+{% raw %}docker inspect -f "{{.GraphDriver.Data.WorkDir}}" 6e37b83f7be5
 
-/var/lib/docker/overlay2/ed87e8cb41e0f5d2f40e2205db550f2c9e888224fb6928f6a1c626176ad2beb3/work
-{% endraw %}
+/var/lib/docker/overlay2/ed87e8cb41e0f5d2f40e2205db550f2c9e888224fb6928f6a1c626176ad2beb3/work{% endraw %}
 ```
 
 Nice!
