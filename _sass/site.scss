@@ -180,6 +180,9 @@ big {
 
 code, kbd, tt {
     font-family: Consolas, "Courier New", Courier, monospace;
+    display: inline-block;
+    font-size: 1em;
+    line-height: 1.3em;
 }
 
 pre {
