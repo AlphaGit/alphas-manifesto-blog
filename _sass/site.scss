@@ -182,6 +182,10 @@ code, kbd, tt {
     font-family: Consolas, "Courier New", Courier, monospace;
 }
 
+.highlighter-rouge {
+    max-width: min(750px, 100%);
+}
+
 pre {
     font-family: Consolas, "Courier New", Courier, monospace;
     overflow-x: auto;
