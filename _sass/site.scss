@@ -315,6 +315,8 @@ img, object, embed {
 main {
     margin: 2em auto;
     max-width: 1140px;
+    padding-left: 1em;
+    padding-right: 1em;
 
     display: grid;
     grid-template-columns: 1fr 5fr;
