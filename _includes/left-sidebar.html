@@ -2,10 +2,24 @@
     <input type="checkbox" id="displayMenus" class="menuSwitcher">
     <label for="displayMenus" class="menuSwitcher"></label>
 
+    {%- if site.pages | size > 0 -%}
+    <div class="widget">
+        <h2 class="widgettitle">Navigation</h2>
+        <div>
+            <ul>
+            {%- for page in site.pages -%}
+            <a title="{{ page.title }}" href="{{ page.url | relative_url }}">
+                {{ page.title }}
+            </a>
+            {%- endfor -%}
+            </ul>
+        </div>
+    </div>
+    {%- endif -%}
+
     {% for widget in site.alphasmanifesto.widgets %}
     <div class="widget">
         <h2 class="widgettitle">{{ widget.title }}</h2>
-
         <div>
             <ul>
                 {% for link in widget.links %}
