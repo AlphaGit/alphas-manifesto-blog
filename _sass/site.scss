@@ -182,16 +182,12 @@ code, kbd, tt {
     font-family: Consolas, "Courier New", Courier, monospace;
 }
 
-.highlighter-rouge {
-    max-width: min(750px, 100%);
-}
-
 pre {
     font-family: Consolas, "Courier New", Courier, monospace;
     overflow-x: auto;
     margin-bottom: 1em;
     word-wrap: normal;
-    width: 100vw;
+    width: min(100vw, 760px);
 }
 
 sub {
@@ -324,9 +320,9 @@ main {
 
 header {
     background: #444;
-    -moz-box-shadow: 10px -5px 5px 10px #888;
-    -webkit-box-shadow: 10px -5px 5px 10px #888;
-    box-shadow: 10px -5px 5px 10px #888;
+    -moz-box-shadow: 0 10px 5px 0 #888;
+    -webkit-box-shadow: 0 10px 5px 0 #888;
+    box-shadow: 0 10px 5px 0 #888;
 }
 
     header {
