@@ -8,11 +8,8 @@
 
     <div class="categories">
         {% for category in post.categories %}
-        {% comment %}
-        <!-- TODO: still need to find out how to link to categories -->
-        <a href="TODO">{{ category }}</a>
-        {% endcomment %}
-        {{ category }}
+        <a href="{{ site.baseUrl }}/categories/#category-{{ category | slugify }}">{{ category }}</a>
+        {% unless forloop.last %}, {% endunless %}
         {% endfor %}
     </div>
 
