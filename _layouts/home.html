@@ -27,11 +27,7 @@ layout: default
         </p>
         {%- endif -%}
 
-        {%- if post.header.image -%}
-        <p class="aligncenter">
-          <img src="{{ post.header.image | relative_url }}" />
-        </p>
-        {%- endif -%}
+        {% include post-main-image.html %}
 
         {{ post.excerpt }}
 

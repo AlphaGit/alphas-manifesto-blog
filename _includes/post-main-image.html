@@ -1,0 +1,7 @@
+{% assign post = post | default: page %}
+
+{%- if post.header.image -%}
+<p class="aligncenter">
+  <img src="{{ post.header.image | relative_url }}" alt="{{ post.header.image_description }}" />
+</p>
+{%- endif -%}

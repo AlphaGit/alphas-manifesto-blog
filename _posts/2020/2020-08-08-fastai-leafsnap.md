@@ -14,6 +14,7 @@ tags:
     - Computer Vision
 header:
     image: /assets/fastai-leafsnap/cover.webp
+    image_description: LeafSnap
 ---
 
 After my tests with [DAIN][DAIN Post], I decided to go back and test the new set of frameworks that we have available for AI and DataScience. While Tensorflow 2 and PyTorch are the ones everyone mentions lately, I decided to give [FastAI][] a test drive, and it's incredibly easy to use.
