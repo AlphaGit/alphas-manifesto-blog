@@ -8,11 +8,7 @@ layout: default
   <div class="postContainer">
     <article>
       <div class="postContent">
-        {%- if page.header.image -%}
-        <p class="aligncenter">
-          <img src="{{ page.header.image | relative_url }}" />
-        </p>
-        {%- endif -%}
+        {% include post-main-image.html %}
 
         <div>
           {{ content }}

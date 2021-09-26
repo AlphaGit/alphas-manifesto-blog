@@ -10,6 +10,7 @@ tags:
     - Best practices
 header:
     image: assets/strong-typing-vs-unit-testing/type-safety.webp
+    image_description: Type Safety
 ---
 
 Can unit tests that assert type safety be enough to compete against strong-typed languages?
