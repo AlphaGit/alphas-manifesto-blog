@@ -14,7 +14,7 @@ tags:
     - DB2
     - PostgreSQL
 header:
-    image: /assets/2020-05-10-SQL-Performance-Explained/book-cover.jpg
+    image: /assets/2020-05-10-SQL-Performance-Explained/book-cover.webp
     image_description: SQL Performance explained
 ---
 
