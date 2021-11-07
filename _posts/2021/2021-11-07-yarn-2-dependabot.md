@@ -8,8 +8,8 @@ tags:
     - GitHub
     - Automated Workflows
 header:
-    image: (TODO)
-    image_description: (TODO)
+    image: assets/automatic-merges-header.webp
+    image_description: Automatic merges
 ---
 
 A few weeks ago I migrated [worklogger](https://github.com/AlphaGit/worklogger) to TypeScript and yarn 2.
@@ -50,7 +50,7 @@ This is all required because while Dependabot will update the `package.json` dep
 Here's the code that made this work for me, heavily inspired in [this Gist](https://gist.github.com/amacneil/60bf679f357bad9d62103cfdc86cbd74):
 
 ```yaml
-# Automatically save updated `yarn.lock` file for dependabot PRs.
+{% raw  %}# Automatically save updated `yarn.lock` file for dependabot PRs.
 # This is necessary because dependabot doesn't support Yarn v2 yet:
 # https://github.com/dependabot/dependabot-core/issues/1297
 #
@@ -77,6 +77,7 @@ jobs:
     # See also: https://github.com/yarnpkg/berry/issues/1679#issuecomment-669937860
     env:
       YARN_ENABLE_SCRIPTS: false
+      YARN_ENABLE_IMMUTABLE_INSTALLS: false
 
     steps:
       - uses: actions/checkout@v2.3.5
@@ -102,6 +103,8 @@ jobs:
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: ${{ runner.os }}-yarn-
 
+      - run: git checkout HEAD~1 yarn.lock
+
       - run: yarn install --mode=skip-build
 
       - run: yarn dedupe
@@ -112,5 +115,55 @@ jobs:
           git config user.email "dependabot-fix@example.com"
           git add yarn.lock
           git commit -m '[dependabot skip] Fix yarn.lock'
-          git push
+          git push{% endraw %}
 ```
+
+Finally, after this, the only work remaining is making sure that the test happens, and that it correctly confirms that everything is alright:
+
+```yaml
+name: Run tests
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x, 14.x, 16.x]
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'yarn'
+
+    - run: yarn install
+
+    - run: yarn test:all
+```
+
+And, in case you're curious, this is how it gets merged making sure everything's alright:
+
+```yaml
+pull_request_rules:
+  - name: Dependabot automatic merges
+    conditions:
+      - author~=^dependabot(|-preview)\[bot\]$
+      - check-success=build (12.x)
+      - check-success=build (14.x)
+      - check-success=build (16.x)
+      - "#check-failure=0"
+    actions:
+      merge:
+        method: squash
+```
+
+This is the beauty of automation:
+
+[![Automatic merge]({{ site.baseurl }}/assets/automatic-merges.webp)]({{ site.baseurl }}/assets/automatic-merges.webp)
