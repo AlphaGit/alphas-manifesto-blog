@@ -20,6 +20,8 @@ I came across [this question](https://workplace.stackexchange.com/q/181842/25611
 
 I'd like to offer an alternative approach.
 
+<!--more-->
+
 ## Technical Leadership part I: Technical
 
 As this person mentioned, the person with a technical leadership role is, in a way, the one who directs the technical approach for their team. This is not entirely different from the work that you might do as a developer. Before you start working on a particular requirement and writing code, you need to _design_ the solution that will solve the problem.
