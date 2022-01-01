@@ -32,7 +32,7 @@ I won't claim that one of those is better than the other one. They both have the
 
 However, a team with a technical leader has the leader make some of those decisions. So, in a way, a technical leader is still performing part of the developing process -- maybe just not writing the code, but indeed ideating solutions.
 
-## Technical Leadership part I: Leadership
+## Technical Leadership part II: Leadership
 
 Still, if this is not what you're looking for as a technical leader and indeed you'd like to spend more time writing code and pushing commits, not only it is okay that you make time for that, but indeed you **should** make time for that. See my article stating that [Technical Leaders Must Write Code](https://blog.alphasmanifesto.com/2017/05/19/technical-leaders-must-write-code/).
 
