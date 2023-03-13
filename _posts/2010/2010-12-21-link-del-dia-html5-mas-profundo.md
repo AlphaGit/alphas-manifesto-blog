@@ -20,6 +20,6 @@ Pero lo que es actualmente aplicable y lo que no podemos verlo en un buen artíc
 
 Por último, y si es que estamos listos para poner manos a la obra, tendremos que tener a mano una buena [cheat sheet](http://woorkup.com/2009/12/16/html5-visual-cheat-sheet-reloaded/), para no perder de vista las posibilidades que tenemos, y saber bien de qué forma debemos utilizarlas, y utilizar un código de [reset HTML5](http://html5reset.org/) para que todos los elementos se comporten de la misma manera (aunque siendo sinceros, esto está más relacionado con CSS3).
 
-Recuerden que [aplicaciones HTML5]({{ site.baseUrl }}/tag/html5) sobran, sientansé libres de explorar las que ya están en el mercado, que también son una muy buena fuente de aprendizaje.
+Recuerden que aplicaciones HTML5 sobran, sientansé libres de explorar las que ya están en el mercado, que también son una muy buena fuente de aprendizaje.
 
 _Soy un zorrinito HTML5._
