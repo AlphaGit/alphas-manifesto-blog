@@ -54,7 +54,7 @@ Hay una aplicación móvil llamada [Lift](https://lift.do/) que nos permite hace
 
 Me propuse probar esta técnica desde ese día, y aún hoy continúo. Sin embargo, encontré muchos "peros" que forman parte de algo así.
 
-Mi intento fue realizar algo parecido con [what-now](https://blog.alphasmanifesto.com/tag/what-now/), el proyecto secundario que estoy realizando a modo de experimento, y mis reglas eran un poco más relajadas:
+Mi intento fue realizar algo parecido con **what-now**, el proyecto secundario que estoy realizando a modo de experimento, y mis reglas eran un poco más relajadas:
 
 1. Cada día tenía que hacer algo útil por el proyecto. En este caso, features, refactors, diseño y documentación (incluyendo blogging) calificaba, siempre y cuando hubiera una salida visible.
 1. No importaba si el resultado estaba en GitHub o no, simplemente tenía que estar terminado. Tampoco importaba si era open-source o no.
