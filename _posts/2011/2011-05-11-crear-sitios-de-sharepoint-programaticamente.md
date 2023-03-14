@@ -435,14 +435,9 @@ Ok, entonces ya todo está en su lugar, deberían poder usarlo así::
 CreateSite("http://siteCollectionUrl", "http://siteCollectionUrl/newSite", SPSiteTemplates.PublishingSite, SPLocales.English_UnitedStates, "site description");
 ```
 
-Eso es todo. Espero que esto sea útil para ustedes. Subí una copia de todo este código en [http://files.alphasmanifesto.com/Software/](http://files.alphasmanifesto.com/Software/)
-
-¡Disfruten!
-
 ## Referencias:
 
 - [Programatically create a Sharepoint site based on a site definition](http://blah.winsmarts.com/2007-5-Programatically_create_a_SharePoint_site_based_on_a_site_definition.aspx), WinSmarts.com
 - [SharePoint Locale ID (LCID) Table](http://grounding.co.za/blogs/brett/archive/2008/04/09/sharepoint-locale-id-lcid-table.aspx), Tech Talk with Brett Maytom
 - [Create a site programmatically in moss](http://www.sharepointkings.com/2009/02/create-site-programmatically-in-moss.html), SharePoint Kings, artículo de Malay Vasavada
 - [Bidirectional 1 to 1 Dictionary in C#](http://stackoverflow.com/questions/268321/bidirectional-1-to-1-dictionary-in-c), pregunta (y respuesta) by [Joel in G&ouml;](http://stackoverflow.com/users/6091/joel-in-go)
-- [CreateSPSite.cs](http://files.alphasmanifesto.com/Software/CreateSPSite.cs), el código completo para este artículo
