@@ -23,7 +23,7 @@ subtitle: El escenario de juego y el jugador en él
 
 ![]({{ site.baseurl }}/assets/Building2lq.jpg)
 
-[En la entrega pasada]({{ site.baseUrl }}{% link _posts/2013/2013-03-13-programando-arkanoid-parte-1.md %}) hablamos sobre cómo comenzó el <a title="Arkanoid" href="http://randomjs.alphasmanifesto.com/arkanoid-canvas/arkanoid.html">juego de Arkanoid</a>, ahora continuaremos ese camino sobre la construcción del escenario de juego.
+[En la entrega pasada]({{ site.baseUrl }}{% link _posts/2013/2013-03-13-programando-arkanoid-parte-1.md %}) hablamos sobre cómo comenzó el <a title="Arkanoid" href="https://github.com/AlphaGit/random-javascript/tree/master/arkanoid-canvas">juego de Arkanoid</a>, ahora continuaremos ese camino sobre la construcción del escenario de juego.
 
 <!--more-->
 
