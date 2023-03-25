@@ -1,21 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: Working effectively with legacy code (review)
-date: '2018-09-01 16:32:24 +0000'
-date_gmt: '2018-09-01 20:32:24 +0000'
+date: 2018-09-01 16:32:24 +0000
+date_gmt: 2018-09-01 20:32:24 +0000
 categories:
-- Books
+  - Books
 tags:
-- design
-- best practices
-- review
-- book
-- book review
-- legacy code
-- maintenance
-- system design
+  - design
+  - best practices
+  - review
+  - book
+  - book review
+  - legacy code
+  - maintenance
+  - system design
 subtitle: Your weapons against any badly designed code
+description: >-
+  Learn how to effectively work with legacy code to reduce risk of introducing
+  bugs and get things done right. Read Michael Feathers' _Working effectively
+  with legacy code_ to find out more!
 ---
+
 
 ![]({{ site.baseurl }}/assets/working-effectively-legacy.jpg)
 

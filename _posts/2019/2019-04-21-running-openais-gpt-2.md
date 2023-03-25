@@ -2,12 +2,17 @@
 excerpt_separator: <!--more-->
 title: Running OpenAI's GPT-2
 categories:
-    - AI
+  - AI
 tags:
-    - AI
-    - OpenAI
+  - AI
+  - OpenAI
 subtitle: Play with the most powerful text generator so far
+description: >-
+  Explore the OpenAI GPT-2 model with an easy-to-use Google Colaboratory
+  notebook and using a local version with Docker. Learn how to fine-tune,
+  generate text with and without initial seeds and more.
 ---
+
 
 ![GPT-2]({{ site.baseurl }}/assets/gpt2.jpg)
 
