@@ -2,14 +2,19 @@
 excerpt_separator: <!--more-->
 title: Configuring HTTPS for project GitHub Pages custom subdomain
 categories:
-    - Technology
+  - Technology
 tags:
-    - https
-    - GitHub
-    - GitHub Pages
-    - DNS
+  - https
+  - GitHub
+  - GitHub Pages
+  - DNS
 subtitle: How to configure HTTPS while keeping control of the nameservers
+description: >-
+  Learn how to easily set up HTTPS for your GitHub project repository, even if
+  you don't want to transfer your domain to their nameservers. A 3-step guide to
+  get your subdomain up and running with SSL.
 ---
+
 
 As a final step to moving my blog to GitHub pages, it was the matter of setting up HTTPS. The GitHub guides are very detailed on this. So much that it's easy to get lost in them.
 
