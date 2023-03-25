@@ -13,18 +13,23 @@ author:
     - title: Skilled.co
       url: https://skilled.co/
       icon: fas fa-link
-date: '2017-04-30 13:57:05 +0000'
-date_gmt: '2017-04-30 18:57:05 +0000'
+date: 2017-04-30 13:57:05 +0000
+date_gmt: 2017-04-30 18:57:05 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- HTML
-- performance
-- best practices
-- Canvas
-- web development
+  - HTML
+  - performance
+  - best practices
+  - Canvas
+  - web development
 subtitle: by Colin Cieloha from Skilled.co
+description: >-
+  Learn best practices to boost your canvas performance & use HTML Canvas more
+  efficiently w/ our cheat sheet. Colin Cieloha of Skilled.co shares tips on how
+  to optimize your use of canvas for better results.
 ---
+
 
 This is a guest post submitted by Colin Cieloha, who is an American author and content marketer at [Skilled.co](https://skilled.co/). He writes about everything that will draw his attention with a focus on the mobile and e-commerce space. When he is not writing he is spending his time traveling the globe and snowboarding. You can follow him on his Twitter at [@ColinCieloha](https://twitter.com/ColinCieloha) or on [Linkedin](https://www.linkedin.com/in/colin-cieloha-7a01ab55).
 

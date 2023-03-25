@@ -1,21 +1,27 @@
 ---
 excerpt_separator: <!--more-->
 title: Correlation &ne; causation
-date: '2017-08-25 16:29:36 +0000'
-date_gmt: '2017-08-25 21:29:36 +0000'
+date: 2017-08-25 16:29:36 +0000
+date_gmt: 2017-08-25 21:29:36 +0000
 categories:
-- Technology
-- AI
+  - Technology
+  - AI
 tags:
-- data mining
-- titanic
-- data analysis
-- causation
-- correlation
-- data science
-- statistics
-subtitle: But causation ⇒ correlation|
+  - data mining
+  - titanic
+  - data analysis
+  - causation
+  - correlation
+  - data science
+  - statistics
+subtitle: But causation ⇒ correlation
+description: >-
+  Learn about the differences between correlation and causation and how data
+  mining can help us find hidden causations. Find out how the phrase "Women and
+  Children First" was popularized by the Titanic example and how data mining can
+  help us better understand correlations.
 ---
+
 
 ![]({{ site.baseurl }}/assets/AB.jpg)
 
