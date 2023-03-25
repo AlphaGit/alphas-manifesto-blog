@@ -1,22 +1,29 @@
 ---
 excerpt_separator: <!--more-->
 title: Technical Leaders **must** write code
-date: '2017-05-19 19:11:30 +0000'
-date_gmt: '2017-05-20 00:11:30 +0000'
+date: 2017-05-19 19:11:30 +0000
+date_gmt: 2017-05-20 00:11:30 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- coding
-- team work
-- development
-- technical leader
-- leadership
-- practice
-- TL
+  - coding
+  - team work
+  - development
+  - technical leader
+  - leadership
+  - practice
+  - TL
 subtitle: And here's why
-
+description: >-
+  A Technical Leader is often more focused on leading the team and managing
+  technical debt than on coding, but coding is a crucial part of their job. It
+  allows them to have empathy for their team, spot blind spots, and feel more
+  connected to the group. Working on different parts of the system, as well as
+  special subsystems, is a great way for a TL to use coding to improve their
+  leadership.
 ---
+
 
 ![]({{ site.baseurl }}/assets/ForgottenKeyboard.png)
 

@@ -1,25 +1,29 @@
 ---
 excerpt_separator: <!--more-->
 title: Failed experiments and what I've learned from them
-date: '2017-03-26 21:54:14 +0000'
-date_gmt: '2017-03-27 02:54:14 +0000'
+date: 2017-03-26 21:54:14 +0000
+date_gmt: 2017-03-27 02:54:14 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- testing
-- design
-- modular
-- TDD
-- troubleshooting
-- software development
-- methodologies
-- development
-- strong typed languages
-- data structures
+  - testing
+  - design
+  - modular
+  - TDD
+  - troubleshooting
+  - software development
+  - methodologies
+  - development
+  - strong typed languages
+  - data structures
 subtitle: Hey, I messed up but at least I learnt from it!
-
+description: >-
+  Learn how to save time & prevent headaches: read about testing & modularizing
+  code, avoiding difficult data structures, & using languages that help prevent
+  errors. Make sure your code works correctly & avoid silly mistakes like mine.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Experiment.png)
 

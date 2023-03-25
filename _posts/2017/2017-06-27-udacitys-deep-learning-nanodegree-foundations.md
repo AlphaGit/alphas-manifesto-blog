@@ -1,21 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: Udacity's Deep Learning Nanodegree Foundations
-date: '2017-06-27 20:28:32 +0000'
-date_gmt: '2017-06-28 01:28:32 +0000'
+date: 2017-06-27 20:28:32 +0000
+date_gmt: 2017-06-28 01:28:32 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- udacity
-- course
-- MOOC
-- artificial intelligence
-- deep learning
-- tensorflow
-- machine learning
+  - udacity
+  - course
+  - MOOC
+  - artificial intelligence
+  - deep learning
+  - tensorflow
+  - machine learning
 subtitle: Course contents and structure
-
+description: >-
+  Graduate from Udacity's Deep Learning Foundations Nanodegree program. Learn
+  the basics of deep learning from state of the art techniques, tools, projects
+  & community support. 5 projects, Tensorflow, AWS, GitHub, FloydHub, Python,
+  Anaconda & Jupyter Notebook. Visit the course page to learn more.
 ---
+
 
 ![]({{ site.baseurl }}/assets/nd101.png)
 
