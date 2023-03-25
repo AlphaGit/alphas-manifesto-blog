@@ -11,6 +11,7 @@ tags:
     - Kurzweil
     - books
 subtitle: Chicken soup for the rational progress
+
 ---
 
 I'm halfway through reading _Algorithms to live by_, by Brian Christian and Tom Griffiths. The book is really good -- but this is not a review about the book. Rather, a thought that came to my mind while reading it.
