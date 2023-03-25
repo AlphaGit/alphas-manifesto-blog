@@ -12,6 +12,7 @@ tags:
 - video
 - educación
 - inteligencia artificial
+
 ---
 
 Un post muy interesante titulado [Rethinking interruptions](http://www.johndcook.com/blog/2008/02/04/rethinking-interruptions/), de [John D. Cook](http://www.johndcook.com/), habla de cómo las distracciones no son intrínsecamente malas para el trabajo, sino que, al contrario, en cierta forma son totalmente necesarias e imprescindibles para la solución de problemas. Sin embargo,  ¿hasta qué punto se pueden mantener estas sin que afecten negativamente el trabajo?

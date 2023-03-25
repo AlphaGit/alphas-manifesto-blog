@@ -7,6 +7,7 @@ categories:
 - Books
 - Link del día
 tags: []
+
 ---
 
 Aunque se quejen, sí, es un link para leer, y mucho. Yo solo leí un poco y me fascinó, lo dejo en mi listadito de lectura para cuando me ponga, quizá incluso vaya a comprar una copia impresa.

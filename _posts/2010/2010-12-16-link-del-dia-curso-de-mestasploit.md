@@ -11,6 +11,7 @@ tags:
 - video
 - educación
 - herramientas
+
 ---
 
 Hace poco hablábamos de determinadas [herramientas de seguridad]({{ site.baseUrl }}{% link _posts/2010/2010-12-07-link-del-dia-herramientas-de-seguridad.md %}) que están disponibles para nosotros a lo largo y lo ancho de la internet. Pero además de eso, debemos saber utilizarlas.

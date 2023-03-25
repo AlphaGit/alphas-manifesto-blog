@@ -7,6 +7,7 @@ categories:
 - Life
 - Technology
 tags: []
+
 ---
 
 El día de hoy tuve el gusto de poder participar como disertante en [un seminario que se dio en la Universidad FASTA](http://www.mug.org.ar/Eventos/3307.aspx), junto a Adrián Cura, presidente de [MUG Argentina](http://www.mug.org.ar/), quién se encargó de explicar la parte teórica, y yo dando demostraciones en vivo y en directo de cómo funcionan muchas de las características o fundamentos mencionados.

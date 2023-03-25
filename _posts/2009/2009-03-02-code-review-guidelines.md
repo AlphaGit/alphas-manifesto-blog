@@ -7,6 +7,7 @@ categories:
 - Projects
 - Technology
 tags: []
+
 ---
 
 En estos días mientras anduve haciendo los code reviews se me ocurrió estandarizar de alguna forma cómo podrían estos hacerse y de qué forma podría "puntuarse" al código evaluado en cuestión. Por ahora, eso último queda pendiente (ya que es lo más difícil de determinar y no lo más útil), pero lo primero se convirtió en un conjunto de categorías y puntos que pueden ser muy interesantes tener en cuenta al momento de ver el código y ver qué se puede mejorar de él.

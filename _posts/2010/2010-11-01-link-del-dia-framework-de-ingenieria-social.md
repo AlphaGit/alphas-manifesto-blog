@@ -11,6 +11,7 @@ tags:
 - herramientas
 - exploit
 - ingeniería social
+
 ---
 
 Muchos de nosotros debemos pensar que la ingeniería social tiene mucho de talento innato, mucho de arte y mucho de particular. Por la forma en que muchas cosas se desarrollan en este área de la seguridad, creemos que hay realmente poco de reutilizable, exceptuando ciertos detalles técnicos, ciertas acciones que pueden desarrollarse a través del ámbito virtual.

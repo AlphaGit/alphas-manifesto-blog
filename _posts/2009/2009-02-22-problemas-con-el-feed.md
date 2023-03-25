@@ -6,6 +6,7 @@ date_gmt: '2009-02-22 20:26:20 +0000'
 categories:
 - Miscelaneous
 tags: []
+
 ---
 
 Para aquellos que me seguían a través de algún feedreader habrán notado que de golpe no hubo más actualizaciones (o, de otra forma: "habrán dejado de notar que había actualizaciones"). Esto se debía a un problema de configuración que surgió un tiempo después de que reconfiguré los subdominios... el por qué, no lo tengo claro todavía, ya que con el subminio nuevo ya había entradas y estaban correctamente publicadas.

@@ -10,6 +10,7 @@ tags:
 - links
 - book
 - programming
+
 ---
 
 De casualidad me crucé con un link de un sitio llamado [Mic-ro.co(s)m](http://mic-ro.com/) (el paréntesis es porque la URL no tiene la s), que es básicamente una colección de links de este lugar, en alemán. Sin embargo, la sección que más famosa se hizo de este sitio prácticamente estático es la sección de [eBooks](http://mic-ro.com/informatik/ebooks.html), que ofrece una buena cantidad de eBooks para bajar y leer (o para leer online) sobre distintas temáticas:

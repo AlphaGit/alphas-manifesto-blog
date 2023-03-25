@@ -9,6 +9,7 @@ tags:
 - cloud computing
 - Microsoft
 - sincronización
+
 ---
 
 Hace tiempo que vengo vigilando la página de [Live Mesh Beta](https://www.mesh.com/), un servicio de Microsoft que competiría contra [MobileMe](http://www.me.com), el servicio análogo de Apple. Según parece, algo ha pasado a lo largo de la beta privada (que estuve esperando a que se hiciera pública) ya que parece que Live Mesh nunca saldrá de beta, sino que será directamente reemplazado por el servicio de [Live Sync](http://sync.live.com/).

@@ -7,6 +7,7 @@ categories:
 - Link del día
 - Technology
 tags: []
+
 ---
 
 El día de ayer me crucé con un post sobre [cómo hacer un diseño de base de datos inmune a SQL Injection](http://database-programmer.blogspot.com/2009/02/comprehensive-database-security-model.html) (o en su título original: [A comprehensive database security model](http://database-programmer.blogspot.com/2009/02/comprehensive-database-security-model.html)). La idea resumida de este tipo es hacer un diseño de base de datos orientado completamente a la seguridad, por lo cual, incluso aunque el supuesto atacante lograra acceso directo a la base de datos, no podría hacer más que acceder a los datos que podría desde la aplicación en cuestión.

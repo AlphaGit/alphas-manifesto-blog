@@ -9,6 +9,7 @@ tags:
 - Google
 - seguridad
 - educación
+
 ---
 
 [Jarlsberg](http://jarlsberg.appspot.com/) (un tipo de queso) es el nombre de una aplicación hosteada en Google App Spot dedicada al entrenamiento informático. Esta herramienta nos provee de una plataforma libre en donde podemos probar ataques de seguridad y no romper nada. Al mismo tiempo, los tutoriales también nos irán explicando los distintos conceptos y la forma en que deben de ser aplicados en este caso en particular. Es decir, tenemos tanto teoría como práctica.
