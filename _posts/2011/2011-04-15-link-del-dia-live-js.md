@@ -1,17 +1,21 @@
 ---
-
 title: 'Link del día: Live.js'
-date: '2011-04-15 12:50:04 +0000'
-date_gmt: '2011-04-15 14:50:04 +0000'
+date: 2011-04-15 12:50:04 +0000
+date_gmt: 2011-04-15 14:50:04 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- HTML
-- CSS
-- desarrollo web
-
+  - JavaScript
+  - HTML
+  - CSS
+  - desarrollo web
+description: >-
+  Aprende cómo optimizar tu trabajo con HTML usando Live.js, un script que
+  detecta cambios en el HTML, JavaScript y CSS en tiempo real para que puedas
+  ver los resultados en tu navegador. ¡Mejora tu productividad con dos
+  monitores!
 ---
+
 
 Para diseñar y trabajar sobre HTML, mientras más atajos tomemos, mejor. Mucho del trabajo es repetitivo, y cuando queremos aplicar estilos, la cantidad de idas y vueltas de una ventana a otra es innumerable, por lo menos, hasta que logramos la perfección del diseño original.
 

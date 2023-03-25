@@ -1,20 +1,23 @@
 ---
-
 title: 'Link del día: Blueprint visual'
-date: '2011-04-12 12:38:52 +0000'
-date_gmt: '2011-04-12 14:38:52 +0000'
+date: 2011-04-12 12:38:52 +0000
+date_gmt: 2011-04-12 14:38:52 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- CSS
-- desarrollo web
-- design
-- framework
-- Windows
-- Mac
-- Linux
-
+  - CSS
+  - desarrollo web
+  - design
+  - framework
+  - Windows
+  - Mac
+  - Linux
+description: >-
+  Descubre Boks, una herramienta de Adobe Air para trabajar con Blueprint CSS de
+  forma visual y ayudar a los desarrolladores a crear diseños armoniosos y
+  esquematizados. ¡Zorrinito CSS a la vista!
 ---
+
 
 Estaba leyendo un artículo sobre herramientas gratuitas para desarrolladores ([27 Free Online &amp; Offline Applications for Designers &amp; Developers](http://www.onextrapixel.com/2011/04/08/27-free-online-offline-applications-for-designers-developers/)) cuando una de ellas realmente llamó mi atención. Se llama [Boks](http://toki-woki.net/p/Boks/), y es una aplicación de Adobe Air (eso significa, funciona en Mac, Windows y Linux) que nos permite trabajar sobre Blueprint.
 

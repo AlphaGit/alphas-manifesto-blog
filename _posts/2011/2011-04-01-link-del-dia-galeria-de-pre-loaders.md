@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: Galería de pre-loaders'
-date: '2011-04-01 12:49:36 +0000'
-date_gmt: '2011-04-01 14:49:36 +0000'
+date: 2011-04-01 12:49:36 +0000
+date_gmt: 2011-04-01 14:49:36 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- web application
-- Flash
-- visualización
-- experiencia del usuario
-- user experience
-
+  - web application
+  - Flash
+  - visualización
+  - experiencia del usuario
+  - user experience
+description: >-
+  Descubre cómo usar Flash y Silverlight para mejorar la experiencia de usuario
+  de tus aplicaciones, con Pretty Loaded, la galería de pre-cargadores con los
+  mejores ejemplos.
 ---
+
 
 Para aquellos que preferimos el mundo HTML+JS seguramente pensemos que Flash es un mundo en el que no conviene meternos, aunque Google fácilmente lo desmintió comenzando a indexar sitios en Flash, de forma que las primerísimas razones para no usar Flash se vieron derribadas.
 

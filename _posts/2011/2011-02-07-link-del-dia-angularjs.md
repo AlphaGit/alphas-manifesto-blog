@@ -1,21 +1,27 @@
 ---
-
 title: 'Link del día: AngularJS'
-date: '2011-02-07 17:01:21 +0000'
-date_gmt: '2011-02-07 19:01:21 +0000'
+date: 2011-02-07 17:01:21 +0000
+date_gmt: 2011-02-07 19:01:21 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- testing
-- Google
-- JavaScript
-- HTML
-- Youtube
-- desarrollo web
-- desarrollo
-- presentación
-
+  - testing
+  - Google
+  - JavaScript
+  - HTML
+  - Youtube
+  - desarrollo web
+  - desarrollo
+  - presentación
+description: >-
+  Aprende cómo escribir y probar código limpio con la charla [Google Tech
+  Talks](http://www.youtube.com/watch?v=XcT4yYu_TTs) y las diapositivas de [How
+  to write Clean and Testable Code
+  Slides](https://docs.google.com/present/view?id=0Abz6S2TvsDWSZDQ0OWdjaF8yNzdmYzZ3d2M5cw&amp;hl=en).
+  Descubre cómo AngularJS, un sistema de templating a través de JavaScript,
+  puede mejorar tu código. ¡Comparte tu experiencia!
 ---
+
 
 Hace poquito apareció en mi feed de Youtube una charla de Google Tech Talks llamada [How to Write Clean and Testable Code](http://www.youtube.com/watch?v=XcT4yYu_TTs). Para ser sinceros, el video dura más de una hora así que no lo ví, pero en lugar de eso busqué las diapositivas que se habían usado en él y las encontré aquí: [How to write Clean and Testable Code Slides](https://docs.google.com/present/view?id=0Abz6S2TvsDWSZDQ0OWdjaF8yNzdmYzZ3d2M5cw&amp;hl=en). Las diapositivas no me resultaron demasiado reveladoras tampoco pero sí resaltan algunos conceptos claves que es bueno siempre tener en mente.
 
