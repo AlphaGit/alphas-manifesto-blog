@@ -3,17 +3,22 @@ excerpt_separator: <!--more-->
 title: Technical Leaders and Career Paths
 subtitle: You shouldn't have to stop coding
 categories:
-    - Development
+  - Development
 tags:
-    - Management
-    - Leadership
-    - Technical Management
-    - Time Management
+  - Management
+  - Leadership
+  - Technical Management
+  - Time Management
 header:
-    image: assets/TechnicalManagementRoadMeme.webp
-    image_description: Management (Technical) vs. Technical Management
-
+  image: assets/TechnicalManagementRoadMeme.webp
+  image_description: Management (Technical) vs. Technical Management
+description: >-
+  Learn why technical leaders must write code, how to make decisions regarding
+  your own and teammates' time, and how to create a functional team without
+  relying on you. Balancing technical and leadership roles is key for a
+  successful role as a technical leader.
 ---
+
 
 I came across [this question](https://workplace.stackexchange.com/q/181842/25611), which is a fairly common concern I have come across with people around me. Here's the gist of it:
 
