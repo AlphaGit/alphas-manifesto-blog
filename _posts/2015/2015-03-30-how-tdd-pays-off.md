@@ -1,23 +1,27 @@
 ---
 excerpt_separator: <!--more-->
 title: How TDD pays off
-date: '2015-03-30 22:34:26 +0000'
-date_gmt: '2015-03-31 03:34:26 +0000'
+date: 2015-03-30 22:34:26 +0000
+date_gmt: 2015-03-31 03:34:26 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- testing
-- TDD
-- unit testing
-- mongo-faceted
-- software development
-- software engineering
-- methodologies
-- automated testing
+  - testing
+  - TDD
+  - unit testing
+  - mongo-faceted
+  - software development
+  - software engineering
+  - methodologies
+  - automated testing
 subtitle: A success story from the side of the doubtful
-
+description: >-
+  Discover why Test-Driven Development (TDD) matters and how it pays off.
+  Understand why it's valuable and why it saves developers time. Get an update
+  on the mongo-faceted project and how TDD helped rewrite it in just 3 hours.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Semaforo1.png)
 

@@ -1,22 +1,27 @@
 ---
 excerpt_separator: <!--more-->
 title: 'My time tracker: Google Calendar'
-date: '2015-05-19 23:30:42 +0000'
-date_gmt: '2015-05-20 04:30:42 +0000'
+date: 2015-05-19 23:30:42 +0000
+date_gmt: 2015-05-20 04:30:42 +0000
 categories:
-- Life
-- Projects
+  - Life
+  - Projects
 tags:
-- Google
-- Trello
-- Google Calendar
-- productivity
-- projects
-- organization
-- time tracking
+  - Google
+  - Trello
+  - Google Calendar
+  - productivity
+  - projects
+  - organization
+  - time tracking
 subtitle: Boxes and colors, what's left to ask?
-
+description: >-
+  Learn how to use Google Calendar for task planning to track time and stay
+  productive. Set up different calendars for each project and activity, and use
+  desktop notifications to stay on track. Plus, use the Google Calendar API to
+  automate timesheets.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Calendar_marked.png)
 

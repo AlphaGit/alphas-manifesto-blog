@@ -1,23 +1,29 @@
 ---
 excerpt_separator: <!--more-->
 title: Software Security
-date: '2015-09-23 07:08:27 +0000'
-date_gmt: '2015-09-23 12:08:27 +0000'
+date: 2015-09-23 07:08:27 +0000
+date_gmt: 2015-09-23 12:08:27 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- coursera
-- course
-- MOOC
-- development
-- security
-- buffer overflow
-- string format attack
-- static analysis
-- introduction
+  - coursera
+  - course
+  - MOOC
+  - development
+  - security
+  - buffer overflow
+  - string format attack
+  - static analysis
+  - introduction
 subtitle: MOOC by the University of Maryland
-
+description: >-
+  Learn software security basics and how to detect vulnerabilities. Get an
+  introduction to buffer overflows, string format attacks, and arbitrary code
+  execution. Understand network security and the evolution of protection
+  methods. Take the Software Security course on Coursera, part of the
+  Cybersecurity specialization.
 ---
+
 
 ![]({{ site.baseurl }}/assets/candado.png)
 
