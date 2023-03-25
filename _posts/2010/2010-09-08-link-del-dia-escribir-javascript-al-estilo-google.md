@@ -11,6 +11,7 @@ tags:
 - JavaScript
 - web 2.0
 - coding
+
 ---
 
 Dejando de lado a [Google Closure]({{ site.baseUrl }}{% link _posts/2009/2009-12-16-link-del-dia-google-closure.md %}), una herramienta de la que hablamos hace tiempo, hay algo que a muchos otros nos interesa al momento de programar: la forma en la que el código _se ve_. Por supuesto, más allá de ese extraño gusto por un código artísticamente elaborado, hay ciertas líneas que podemos seguir para que no sólo sea más bonito, sino más fácil de leer, interpretar y más eficaz.

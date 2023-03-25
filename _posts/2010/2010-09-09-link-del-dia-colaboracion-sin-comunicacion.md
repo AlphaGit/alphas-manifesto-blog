@@ -12,6 +12,7 @@ tags:
 - colaboración
 - computación distribuída
 - juego
+
 ---
 
 En [Juegos.MicroSiervos](http://juegos.microsiervos.com/misc/swarmation-dibujando-pixeles.html) publicaron un pequeño artículo sobre un juego llamado [SwarmNation](http://swarmation.com/). El juego es realmente simple, pero no por eso fácil. Dejenmé describirlo:

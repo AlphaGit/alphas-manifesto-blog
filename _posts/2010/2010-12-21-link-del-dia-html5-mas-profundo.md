@@ -12,6 +12,7 @@ tags:
 - HTML5
 - CSS3
 - cheatsheet
+
 ---
 
 Hace un tiempo ya que tuvimos un link de [introducción a HTML5]({{ site.baseUrl }}{% link _posts/2010/2010-02-02-link-del-dia-sumergiendonos-en-html5.md %}), como para saber de qué se trataba, y por supuesto, el tiempo ha pasado y esta nueva tecnología se ha vuelto mucho más popular. Lo bueno es que ya mucho del mismo es aplicable a los navegadores actuales, por lo que no tenemos exactamente que esperar a que el estándar sea totalmente aprobado. Al menos no si es que deseamos estar en lo último y aprovechar sus bondades.

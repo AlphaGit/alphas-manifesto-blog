@@ -12,6 +12,7 @@ tags:
 - educación
 - comunidad
 - broadcasting
+
 ---
 
 Desde hace mucho tiempo que la gente de [Dragonjar](http://www.dragonjar.org/) se ocupa de informar y educar sobre temas de seguridad informática, hacking, avances en tecnología y temas relacionados. No se quedan sólo en eso sino que a lo largo del tiempo han ido generando concursos, conferencias, discusiones, y participación de la comunidad.

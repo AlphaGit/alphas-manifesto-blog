@@ -13,6 +13,7 @@ tags:
 - AJAX
 - gratis
 - diagrama
+
 ---
 
 Gracias a DN pude checkear la web de [ZingChart](http://www.zingchart.com/), un producto que nos proporciona la posibilidad de generar gráficos interactivos a través de datos JSON. Toda esta interactividad puede lograrse a través de AJAX, permitiendo una buena experiencia del usuario y una riqueza gráfica interesante.

@@ -7,6 +7,7 @@ date_gmt: '2009-09-20 04:21:17 +0000'
 categories:
 - Books
 tags: []
+
 ---
 
 Alguna vez [publiqué algo](https://blog.alphasmanifesto.com.ar/2008/08/05/link-del-dia-la-maquina-de-emociones/) de información sobre el libro de Marvin Minsky, _La Máquina de Emociones _(_The Emotion Machine_), pero nunca había tenido la oportunidad de leerlo en profundidad. Finalmente, a través del paso del tiempo, fui avanzando sobre las páginas &ndash; si es que es válida la expresión &ndash; del mismo.
@@ -22,6 +23,7 @@ El segundo capítulo, _Attachments and Goals_ (_Afectos y Logros_) habla de esto
 El tercer capítulo, _From Pain to Suffering_ (_Del dolor al sufrimiento_) comienza tratando algo de lo que el primer capítulo trató:  ¿Cómo es que una emoción fuerte comienza a despertar muchas sensaciones distintas?  ¿Cómo es que una emoción o sensación fuerte puede hacernos perder completamente la noción de dónde estamos o qué estamos haciendo?  ¿Qué tiene de bueno eso? Aquí también vuelve a hablarse un poco de cómo es que un recurso puede accionar otros y cómo es que la mente puede inducirnos a ciertos estados provechosos para nosotros, aprendiendo de esa misma relación entre recursos (aunque queda pendiente todavía la explicación de cómo la mente tiene auto-conciencia sobre su funcionamiento). Finalmente se hace una contraposición entre las teorías de la conciencia de Freud con la teoría de los recursos activándose.
 
 Hasta aquí ha llegado mi lectura del mismo, pero espero pronto poder continuarla.
+
 
 ---
 

@@ -7,6 +7,7 @@ categories:
 - Link del día
 - Technology
 tags: []
+
 ---
 
 Por si no lo conocían, [SQLite](http://www.sqlite.org/) es una versión base de datos portátil, citando al sitio: "es una librería de software que implementa un motor de base de datos SQL auto-contenido, sin-servidor, sin-configuración y transaccional." Además, es un motor realmente conocido y usado en muchos lugares (ejemplo, Firefox lo utiliza para el almacenamiento de sus configuraciones y preferencias, o muchas aplicaciones móviles lo usan por su rapidez y sus pocos requerimientos).

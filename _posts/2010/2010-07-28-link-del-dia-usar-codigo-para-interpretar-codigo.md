@@ -7,6 +7,7 @@ categories:
 - Link del día
 - Technology
 tags: []
+
 ---
 
 El título no es novedoso de por sí, todos sabemos que los intérpretes o compiladores de código se escriben también con algún tipo de código. A veces, y eso es lo que puede ser nuevo para nosotros, es en el mismo código. Por ejemplo, el famoso compilador de [GCC](http://gcc.gnu.org/) está escrito en C.

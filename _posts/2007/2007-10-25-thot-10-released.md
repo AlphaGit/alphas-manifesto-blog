@@ -1,12 +1,16 @@
 ---
-
 title: Thot 1.0 Released
-date: '2007-10-25 00:28:00 +0000'
-date_gmt: '2007-10-25 00:28:00 +0000'
+date: 2007-10-25 00:28:00 +0000
+date_gmt: 2007-10-25 00:28:00 +0000
 categories:
-- Projects
+  - Projects
 tags: []
+description: >-
+  Descubre cómo construir un sistema de redes neuronales para reconocimiento de
+  caracteres OCR con la ayuda de AlphaGMA. Agradecemos el apoyo de JF y Gato
+  Gris para conseguir la mejor performance en la implementación.
 ---
+
 
 Para bajar, aquí: [http://alphagma.googlepages.com/](http://alphagma.googlepages.com/home)
 

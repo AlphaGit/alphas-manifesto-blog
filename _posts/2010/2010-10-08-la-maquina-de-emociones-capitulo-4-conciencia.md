@@ -10,6 +10,7 @@ tags:
 - ciencias cognitivas
 - conciencia
 - book
+
 ---
 
 Continuando con mi lectura del [libro de Minsky]({{ site.baseUrl }}{% link _posts/2009/2009-09-20-the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering.md %}), el capítulo 4 se titula "Conciencia", y definitivamente trata sobre eso.

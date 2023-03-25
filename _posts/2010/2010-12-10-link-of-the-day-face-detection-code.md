@@ -10,6 +10,7 @@ tags:
 - Imágenes
 - open source
 - procesamiento de imágenes
+
 ---
 
 Well, face recognitions systems are not actually the last thing in technology, but still may be something new for us who couldn't have a grasp of it and try it out in our own code. Of course, maybe we're not fancy enough to come up with an algorithm out of ourselves and may just have ideas to use it, not to develop it.

@@ -12,6 +12,7 @@ tags:
 - educación
 - tutorial
 - book
+
 ---
 
 Anteayer hablábamos de _un sitio con distintos tutoriales_, y muchos de estos estaban orientados al diseño gráfico, fotografía o diseño web. Hoy tenemos un sitio muy similar, llamado [1st Web Designer](http://www.1stwebdesigner.com/), que se orienta más al desarrollo web o incluso a otras cosas no relacionadas. (De hecho, el logo se parece mucho al de Debian Linux, verdad?)

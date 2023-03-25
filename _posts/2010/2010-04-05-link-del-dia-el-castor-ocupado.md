@@ -10,6 +10,7 @@ tags:
 - Youtube
 - teoría de la información
 - algoritmo
+
 ---
 
 Para quién no lo sabe, una Máquina de Turing es una máquina conceptual que consta de una "cabeza" sobre una "cinta" que puede moverse a izquierda o derecha, y leer o escribir. Se supone que con esas cuatro operaciones básicas, la máquina conceptual de Turing es capaz de realizar cualquier algoritmo computable existente. Sí, desde sumar dos números hasta calcular los dígitos de &pi;. Desde revertir una cadena de texto hasta ser un servidor web (aunque lo veo como poco eficiente para eso). Para diagramar los algoritmos que ejecutan, se utilizan _estados_ sobre los pasos que están ejecutando, y lo que se puede leer o escribir trata de un _alfabeto_ en particular (es decir, algún conjunto de símbolos que se le llama _alfabeto_ de esa máquina).

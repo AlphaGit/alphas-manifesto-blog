@@ -9,6 +9,7 @@ tags:
 - JavaScript
 - HTML5
 - jQuery
+
 ---
 
 Seguro ya aprendimos que todo lo que comience con una jota minúscula viene relacionado con la familia de jQuery. Y aunque no sean todos los casos así, este sí lo es.

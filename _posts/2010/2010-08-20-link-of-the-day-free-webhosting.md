@@ -8,6 +8,7 @@ categories:
 tags:
 - gratis
 - hosting
+
 ---
 
 Yeah, yeah, I know that there are plenty of different web hosters that offers great deals for free. But, wouldn't you like to have some kind of search between them, so you can choose the one that goes best according to your preferences?

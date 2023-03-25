@@ -12,6 +12,7 @@ tags:
 - Firefox
 - tabs
 - experiencia del usuario
+
 ---
 
 Gracias al blog de [Thalskarth's Ma&euml;lstrom](http://www.thalskarth.com.ar/2010/07/24/tab-candy-o-como-firefox-busca-revolucionar-la-navegacion-por-pestanas/) (cuándo podré escribir eso sin copy-paste?) me enteré de un proyecto interesante que se está desarrollando. Dicho proyecto se llama [TabCandy](http://azarask.in/projects/tabcandy/) y hay un video explicativo al respecto que podemos ver aquí: [An Introduction to Firefox's TabCandy](http://vimeo.com/13560319).

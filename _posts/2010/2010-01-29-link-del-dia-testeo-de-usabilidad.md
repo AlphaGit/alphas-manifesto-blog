@@ -12,6 +12,7 @@ tags:
 - web application
 - desarrollo web
 - usabilidad
+
 ---
 
 Muchas veces la usabilidad de un sistema es un requerimiento tan primordial como el funcionamiento en sí, y más en un mundo como puede ser el mundo web, en donde tenemos miles de competidores para servicios similares que podemos estar ofreciendo online. Quien publica primero tiene la ventaja, pero quien hace el servicio lo más fácil de usar y de forma más cómoda e intuitiva es quien logra hacer la diferencia.

@@ -17,6 +17,7 @@ tags:
 - cloud computing
 - rainbow tables
 - hacking
+
 ---
 
 Si mal no recuerdo creo que fue Nano quién me compartió por Google Reader [este artículo de Kabytes](http://www.kabytes.com/aplicaciones-online/crackear-contrasenas-wifi-con-cifrado-wpa/), en donde hablan de una aplicación web llamada [WPA Cracker](http://www.wpacracker.com/), una aplicación que tomando un archivo pcap de capturas de un wifi WPA, puede compararlo contra una enorme cantidad de palabras y combinaciones (gracias al cloud computing) y devolvernos el password en un pequeño tiempo.

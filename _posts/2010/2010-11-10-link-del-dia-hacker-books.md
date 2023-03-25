@@ -8,6 +8,7 @@ categories:
 tags:
 - web 2.0
 - book
+
 ---
 
 Imagino que ustedes se habrán emocionado tanto como yo al leer el título. [Hacker Books](http://www.hn-books.com/) contiene, entre otros, libros para hacker, y eso es verdad. Se supone que diseñado muy estilo a web 2.0, esta librería virtual nos permite acceso a cierta cantidad de libros que suelen ser de los mejores recomendados en el ámbito. Esperemos que con el tiempo ese criterio no cambie, ya que de verdad he visto muy buenos libros por ahí.

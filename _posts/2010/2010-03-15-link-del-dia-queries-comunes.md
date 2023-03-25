@@ -10,6 +10,7 @@ tags:
 - MySQL
 - SQL
 - capa
+
 ---
 
 A aquellos que programamos SQL nos encontramos muchas veces con lo que se encuentra cualquiera que programa cualquier otra cosa: tener que resolver un problema que seguro ya alguien resolvió. Para esto están los fotos, Google, sitios de soporte, StackOverflow, ExpertSexChange (a drede) y tantos otros lugares.

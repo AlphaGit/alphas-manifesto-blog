@@ -11,6 +11,7 @@ tags:
 - marketing
 - técnicas
 - review
+
 ---
 
 Quizá para muchos sea un concepto totalmente básico y muy simple de comprender, pero para aquellos que no lo tenemos tan asimilado, seguramente no estemos apreciando el importantísimo concepto que representa.
