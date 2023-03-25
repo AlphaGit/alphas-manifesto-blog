@@ -14,6 +14,7 @@ tags:
 - Google Sheets
 - ticket
 subtitle: Having the tedious work done for you
+
 ---
 
 ![]({{ site.baseurl }}/assets/GCalToJira.png)

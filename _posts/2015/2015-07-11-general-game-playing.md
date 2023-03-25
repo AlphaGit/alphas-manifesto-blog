@@ -1,19 +1,25 @@
 ---
 excerpt_separator: <!--more-->
 title: General Game Playing
-date: '2015-07-11 15:41:41 +0000'
-date_gmt: '2015-07-11 20:41:41 +0000'
+date: 2015-07-11 15:41:41 +0000
+date_gmt: 2015-07-11 20:41:41 +0000
 categories:
-- AI
+  - AI
 tags:
-- Stanford
-- general game playing
-- coursera
-- course
-- MOOC
-- artificial intelligence
+  - Stanford
+  - general game playing
+  - coursera
+  - course
+  - MOOC
+  - artificial intelligence
 subtitle: Automatic players that don't complain when they lose
+description: >-
+  Learn how to create AI game players with Stanford's General Game Playing
+  course. Discover the concepts and techniques used to create agents that can
+  learn, adapt, and compete in any game. Try your skills in the annual Tiltyard
+  competition.
 ---
+
 
 ![]({{ site.baseurl }}/assets/robotchessplayer.png)
 

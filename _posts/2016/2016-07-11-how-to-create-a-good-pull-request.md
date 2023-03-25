@@ -16,6 +16,7 @@ tags:
 - BitBucket
 - code quality
 subtitle: A meta-guide for creating easy to review requests
+
 ---
 
 ![]({{ site.baseurl }}/assets/CodeReviewFilter1.jpg)

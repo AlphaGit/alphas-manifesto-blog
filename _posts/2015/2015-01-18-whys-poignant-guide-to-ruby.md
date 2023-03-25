@@ -1,20 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: Why's (poignant) guide to Ruby
-date: '2015-01-18 12:44:50 +0000'
-date_gmt: '2015-01-18 18:44:50 +0000'
+date: 2015-01-18 12:44:50 +0000
+date_gmt: 2015-01-18 18:44:50 +0000
 categories:
-- Books
+  - Books
 tags:
-- Ruby
-- review
-- guide
-- metaprogramming
-- weird
-- programming
-- books
+  - Ruby
+  - review
+  - guide
+  - metaprogramming
+  - weird
+  - programming
+  - books
 subtitle: I love chunky bacon
+description: >-
+  Discover the unconventional way to learn Ruby: "Why's Poignant Guide to Ruby"
+  - an unusual and freely available book. Follow the author on an exploration of
+  the language full of funny stories and detailed explanations of
+  metaprogramming, and get to create a complete Ruby program.
 ---
+
 
 ![]({{ site.baseurl }}/assets/WhysFox.png)
 
