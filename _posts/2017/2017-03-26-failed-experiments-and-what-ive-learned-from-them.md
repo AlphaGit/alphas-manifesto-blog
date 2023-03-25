@@ -18,6 +18,7 @@ tags:
 - strong typed languages
 - data structures
 subtitle: Hey, I messed up but at least I learnt from it!
+
 ---
 
 ![]({{ site.baseurl }}/assets/Experiment.png)

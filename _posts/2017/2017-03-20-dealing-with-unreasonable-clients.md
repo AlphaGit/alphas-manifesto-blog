@@ -15,6 +15,7 @@ tags:
 - client
 - money
 subtitle: Customer management
+
 ---
 
 ![]({{ site.baseurl }}/assets/StickFigure.png)

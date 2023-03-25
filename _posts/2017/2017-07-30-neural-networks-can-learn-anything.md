@@ -15,6 +15,7 @@ tags:
 - function approximator
 - variables
 subtitle: A simple explanation on the basis of neural network learning
+
 ---
 
 ![]({{ site.baseurl }}/assets/SkunkBalls.jpg)
