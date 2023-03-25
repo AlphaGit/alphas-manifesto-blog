@@ -11,6 +11,7 @@ tags:
 - desarrollo
 - artículo
 - replicación
+
 ---
 
 Gracias al [Twitter de @BreakingDev](http://twitter.com/BreakingDev) me topé con un artículo muy interesante llamado [Get MySQL Replication up and running in 5 minutes](http://www.clusterdb.com/mysql-cluster/get-mysql-replication-up-and-running-in-5-minutes/). Creo que es realmente útil para novatos como yo en estos asuntos, ya que recuerdo mis pobres intentos de trabajar con replicación MySQL y pasar horas y horas intentando hacerlo trabajar, basándome en unas instrucciones mágicas que alguien que lo comprendía me pasó y yo solo las seguía ciegamente.

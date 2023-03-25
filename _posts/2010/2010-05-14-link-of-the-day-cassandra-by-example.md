@@ -10,6 +10,7 @@ tags:
 - databases
 - educación
 - NoSQL
+
 ---
 
 In a past link of the day, I have already talked about some distributed [NoSQL systems]({{ site.baseUrl }}{% link _posts/2010/2010-03-02-link-del-dia-nosql.md %}), and the benefits it could bring. I think now it's time to dive a little deeper in one of them, probably one of the most popular of these days, which is [Cassandra](http://cassandra.apache.org/).

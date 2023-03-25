@@ -14,6 +14,7 @@ tags:
 - Flash
 - standard
 - Vimeo
+
 ---
 
 Hay sitios web que ya están comenzando a utilizar video HTML5 para distribuir su multimedia. Algunos de ellos son [Youtube](http://www.youtube.com/html5) y [Vimeo](http://vimeo.com/blog:268), pero tratándose de un estándar, el resto de nosotros no tenemos por qué quedarnos afuera.

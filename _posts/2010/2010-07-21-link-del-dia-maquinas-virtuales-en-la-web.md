@@ -15,6 +15,7 @@ tags:
 - seguridad
 - educación
 - enseñanza
+
 ---
 
 Hace pocas horas Peteris Krumins ([@pkrumins](http://www.twitter.com/pkrumins)) anunció que en poco tiempo estará saliendo al público su nuevo proyecto con [James Halliday](http://substack.net/).

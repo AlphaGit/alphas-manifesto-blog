@@ -14,6 +14,7 @@ tags:
 - user experience
 - multilanguage
 - Unicode
+
 ---
 
 Validation is an essential part of any application. We need to check that the data entered is in the range of the set of data we can handle. And not only security purposes, but also to make sure that is is into what we can process.

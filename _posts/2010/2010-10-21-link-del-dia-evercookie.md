@@ -13,6 +13,7 @@ tags:
 - HTML5
 - seguridad
 - standard
+
 ---
 
 Hace un tiempo me crucé con un artículo que hablaba sobre [HTML5 y la privacidad en internet](http://www.fayerwayer.com/2010/10/la-llegada-del-html5-%C2%BFel-fin-de-la-privacidad-en-internet/). Si bien me pareció que era un poco exagerado, parece que muchas fuentes, incluyendo algunas bastante confiables como el [NYTimes](http://www.nytimes.com/2010/10/11/business/media/11privacy.html?_r=1&amp;hp).

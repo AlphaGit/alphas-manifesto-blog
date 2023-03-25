@@ -10,6 +10,7 @@ tags:
 - desarrollo web
 - Internet Explorer
 - CSS3
+
 ---
 
 Todos sabemos que cuando queremos avanzar en las tendencias tecnológicas, muchas veces debemos dejar atrás a una serie de usuarios que no quieren o no pueden actualizar sus plataformas. Para muchos desarrolladores web, Internet Explorer es hoy el problema de dar soporte a todos los posibles usuarios, más específicamente en las versiones antiguas de este navegador. (Según parece, todavía hay gente que utiliza la versión 5.)

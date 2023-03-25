@@ -10,6 +10,7 @@ tags:
 - HTML
 - CSS
 - desarrollo web
+
 ---
 
 Gracias a la gente de [BreakingDev](http://twitter.com/BreakingDev) me enteré de una aplicación web llamada [HTML Instant](http://www.htmlinstant.com/), en donde podemos comenzar a maquetear HTML instantáneo, viendo los resultados ahí mismo en donde estamos trabajando.
