@@ -10,6 +10,7 @@ tags:
 - profiling
 - artículo
 - análisis forense
+
 ---
 
 Hace poco me crucé con un artículo proveniente de [HackTimes](http://www.hacktimes.com/), y sabiendo de donde viene, lo leí sabiendo que iba a ser interesante. Este artículo en particular, llamado [Introducción al análisis forense en VMWare](http://www.hacktimes.com/introducci_n_al_an_lisis_forense_en_vmware/) nos promete tener algunas continuaciones.

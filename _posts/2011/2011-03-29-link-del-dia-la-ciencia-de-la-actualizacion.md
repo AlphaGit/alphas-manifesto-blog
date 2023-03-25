@@ -14,6 +14,7 @@ tags:
 - artículo
 - instalación
 - actualización
+
 ---
 
 Gracias a [@nanojaus](http://twitter.com/nanojaus), si no me equivoco, me llegó un video interesante sobre la experiencia de instalar Windows 1.0 en una máquina virtual, e ir actualizando hacia las versiones posteriores (versiones mayores). No sólo eso, sino que se van probando distintas características a lo largo de las versiones del sistema operativo y se intenta mostrar cuánta compatibilidad hay con las versiones anteriores (en detalles, por supuesto que una investigación profunda tomaría muchísimo más tiempo).

@@ -10,6 +10,7 @@ tags:
 - feedback
 - experiencia del usuario
 - user experience
+
 ---
 
 Cuando exponemos a los usuarios la posibilidad de agregar bugs para revisar, es muy importante que este proceso no sea ni complicado ni difícil de lograr. Debe ser algo que cualquiera pueda entender, y que no sea una interrupción al flujo de la aplicación para que los usuarios puedan reportar también detalles que necesiten ser arreglados.

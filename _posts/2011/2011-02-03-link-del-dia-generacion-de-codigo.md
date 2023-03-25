@@ -11,6 +11,7 @@ tags:
 - algoritmos genéticos
 - artículo
 - generación de código
+
 ---
 
 Hace tiempo atrás publiqué  un link sobre [generación automática de código]({{ site.baseUrl }}{% link _posts/2010/2010-07-28-link-del-dia-usar-codigo-para-interpretar-codigo.md %}), pero realmente hacía falta una explicación lenta y paso a paso de cómo se hace o cómo se pueden aprovechar las características que esto nos ofrece.

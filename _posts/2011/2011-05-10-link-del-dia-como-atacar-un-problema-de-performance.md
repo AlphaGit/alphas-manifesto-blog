@@ -10,6 +10,7 @@ tags:
 - desarrollo web
 - problema
 - análisis
+
 ---
 
 Hablando de la web y performance y todo eso, creo que nunca hemos visto un caso práctico de cómo debería atacarse un problema de performance. Es decir, si sospechamos que hay un problema de estos en un determinado lugar,  ¿cuáles son los pasos a ejecutar? Creo que la experiencia juega mucho a favor, porque cada caso es distinto, pero siempre es mejor observar este tipo de situaciones en webs o aplicaciones que tienen una carga pesada diaria, con lo cual un problema de performance es mucho más pequeño y difícil de detectar, y las mejoras que se necesitan son mucho más finas y difíciles de lograr.

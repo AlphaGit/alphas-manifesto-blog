@@ -14,6 +14,7 @@ tags:
 - Internet Explorer
 - MicroSiervos
 - interfaz
+
 ---
 
 Alguna vez mostré un link sobre un script para sitios web llamado [IE6 Upgrade Warning]({{ site.baseUrl }}{% link _posts/2009/2009-07-30-link-del-dia-ie6-upgrade-warning.md %}), la idea del mismo es forzar a que los usuarios tengan que actualizar su navegador web para continuar en la navegación del sitio, y que si este script se hacía lo suficientemente conocido, podríamos contar con una internet un poco más actualizada.

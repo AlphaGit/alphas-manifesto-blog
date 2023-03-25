@@ -13,6 +13,7 @@ tags:
 - librería
 - YUI
 - CDN
+
 ---
 
 Sacando esto del cajón de_ las aplicaciones que no hacen nada pero son útiles_, me encontré a [ScriptSrc](http://scriptsrc.net/), una aplicación que mantiene las últimas versiones a varios frameworks y librerías comunes, como jQuery, mooTools, extJS, YUI, etc. Por supuesto, los scripts no están alojados en este propio servidor, sino que ellos nos dan el link al CDN correspondiente que lo aloja, permitiéndonos linkearlo directamente.

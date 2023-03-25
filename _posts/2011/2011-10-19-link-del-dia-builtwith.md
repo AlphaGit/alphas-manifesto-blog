@@ -11,6 +11,7 @@ tags:
 - web application
 - framework
 - web 2.0
+
 ---
 
 [BuiltWith](http://builtwith.com/) es un servicio web que nos proporciona información sobre las tecnologías que soportan un determinado sitio. Más allá de sólo describir los módulos básicos de Apache y el tipo de servidor sobre el que se encuentre dicho sitio, nos comenta sobre varios tipos de utilización de contenido, como CDN, codificación, qué tipo de frameworks se están utilizando, qué tipo de CMS si se puede reconocer, librerías JavaScript, información sobre HTML si se encuentra disponible, y un poco más.

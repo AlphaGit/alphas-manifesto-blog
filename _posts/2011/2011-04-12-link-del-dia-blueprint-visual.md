@@ -13,6 +13,7 @@ tags:
 - Windows
 - Mac
 - Linux
+
 ---
 
 Estaba leyendo un artículo sobre herramientas gratuitas para desarrolladores ([27 Free Online &amp; Offline Applications for Designers &amp; Developers](http://www.onextrapixel.com/2011/04/08/27-free-online-offline-applications-for-designers-developers/)) cuando una de ellas realmente llamó mi atención. Se llama [Boks](http://toki-woki.net/p/Boks/), y es una aplicación de Adobe Air (eso significa, funciona en Mac, Windows y Linux) que nos permite trabajar sobre Blueprint.

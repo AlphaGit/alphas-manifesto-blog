@@ -14,6 +14,7 @@ tags:
 - jQuery
 - CSS3
 - iPad
+
 ---
 
 Gracias a [@Woork](http://twitter.com/Woork/status/22338930942672896) me enteré de este [Simulador de iPad](http://alexw.me/ipad/) totalmente hecho en CSS y JS. Si lo prueban un poco se darán cuenta que la mayoría de las aplicaciones no están implementadas todavía, pero hay cosas que sí están implementadas y pueden probarse hoy, por supuesto, de la misma forma que funcionaría en un iPad real:

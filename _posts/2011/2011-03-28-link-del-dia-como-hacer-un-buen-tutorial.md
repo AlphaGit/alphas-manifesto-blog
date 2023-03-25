@@ -12,6 +12,7 @@ tags:
 - experiencia del usuario
 - user experience
 - videogame
+
 ---
 
 Como ya había  contado en unos links anteriores que ando siguiendo una serie de videos llamados Extra Credits, de parte de [The Escapist](http://www.escapistmagazine.com/) (_[1]_, _[2]_), unos videos sobre diseño y análisis de video juegos extremadamente interesante. Más interesante que los videojuegos (desde mi punto de vista), es todo lo que se puede aprender sobre diseño, psicología, sociología y marketing. Pero todo eso es otra historia.

@@ -10,6 +10,7 @@ tags:
 - email
 - artículo
 - consejos
+
 ---
 
 Me encontré en Del.icio.us este interesante artículo (de agradable estética, dicho sea de paso), titulado [100 ways to get more done](http://regardingwork.com/2011/09/01/100-ways-to-get-more-done/), que es un buen listado de muchos consejos. Aunque no me encuentro de acuerdo con todos ellos, una gran mayoría son realmente útiles e interesantes para investigar.

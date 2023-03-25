@@ -11,6 +11,7 @@ tags:
 - visualización
 - diapositivas
 - estilo
+
 ---
 
 En mi último link del día mostré una presentación llamada [Cómo GitHub usa GitHub para construir GitHub]({{ site.baseUrl }}{% link _posts/2011/2011-11-28-link-del-dia-como-github-usa-github-para-construir-github.md %}), pero más allá del contenido, lo que realmente me llevó a leer esa presentación era una nota sobre diseño de presentaciones. De hecho, Zach Holman escribió un pequeño artículo llamado [Slide Design for Developers](http://zachholman.com/posts/slide-design-for-developers/), en donde da varios puntos guías para gente que no está especializada en el diseño sobre cómo se deben diseñar buenas presentaciones.

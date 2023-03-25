@@ -13,6 +13,7 @@ tags:
 - términos y condiciones
 - integración
 subtitle: O "shenanigams para que nadie use nuestro sistema"
+
 ---
 
 ![]({{ site.baseurl }}/assets/illegalfry.jpg)
@@ -104,6 +105,7 @@ Esto tiene dos partes. La primera, como ya habrán leído, aclara que ellos van 
 > **3.4.3 Exception to Storage and Conversion Limits with User Consent.** The restrictions of this section do not apply to user profile data received through a one-time call through the APIs that a user explicitly permits you to collect and store, provided that you obtain the user's consent through the technical and user-interface specifications provided by LinkedIn, and that any subsequent update to the profile data only be done with the user's explicit consent. **PLEASE NOTE:** a) User profile data does **not** include information about a user's connections, which may not be copied or stored; and b) you may only use stored profile data for the benefit of the LinkedIn user that granted you permission to access it.
 
 Fuck! Nada, de NADA podemos hacer con las APIs. Nuestra aplicación debería ser explícitamente entonces una interfaz para usar LinkedIn. Pero, si analizamos, por los puntos de competencia, no podemos ofrecer servicios similares, y si no podemos correlacionar datos, entonces  ¿qué podemos hacer? Mostrar una interfaz distinta para hacer lo mismo que hace LinkedIn, pero entonces seríamos competidores y eso tampoco está permitido.
+
 
 ---
 

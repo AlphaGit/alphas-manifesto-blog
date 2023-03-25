@@ -11,6 +11,7 @@ tags:
 - librería
 - optimización
 - ASP.NET
+
 ---
 
 Justo ayer, rondando la medianoche, JH me envió por email un link a este proyecto llamado [Combres 2.0](http://www.codeproject.com/KB/aspnet/combres2.aspx), una librería para optimización de sitios ASP.NET. Recuerdan el caso de [Minify]({{ site.baseUrl }}{% link _posts/2011/2011-06-20-link-del-dia-minify.md %}) para PHP o [mod_pagespeed]({{ site.baseUrl }}{% link _posts/2010/2010-11-08-link-del-dia-optimizacion-web-vs-desarrollo-prolijo.md %}) para Apache, este es el turno de ASP.NET.

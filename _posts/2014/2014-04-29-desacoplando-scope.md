@@ -15,6 +15,7 @@ tags:
 - separación de responsabilidades
 - "$scope"
 subtitle: Tomando la sopa por el mango de la cuchara
+
 ---
 
 ![]({{ site.baseurl }}/assets/scopeSoupMin.png)

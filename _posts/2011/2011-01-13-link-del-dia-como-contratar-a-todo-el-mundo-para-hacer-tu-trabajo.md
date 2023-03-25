@@ -12,6 +12,7 @@ tags:
 - Microsoft Office
 - Amazon
 - Microsoft Word
+
 ---
 
 Hace un tiempo que Amazon ofrece, entre sus varios Web Services, un servicio llamado [Mechanical Turk](http://www.mturk.com/), lo cual ellos llaman _Artificial Artificial Intelligence_. Si recuerdan a _ShortTask_, muy seguramente ya conozcan el concepto: Amazon provee un mercado en donde los _Requesters_ pueden postear distintas tareas de inteligencia humana (_HITs_), y un trabajador (_Worker_) puede realizarlas para ganar dinero. Además, Amazon provee el concepto de _Qualifications_, que son pruebas que los usuarios deben tomar para poder acceder a ciertas tareas (aunque es opcional que una tarea requiera de tomar pruebas).

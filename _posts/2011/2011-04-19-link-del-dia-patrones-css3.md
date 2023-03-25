@@ -11,6 +11,7 @@ tags:
 - design
 - CSS3
 - galería
+
 ---
 
 La magia de CSS3 nos da la posibilidad de crear una enorme cantidad de figuras complejas, y lo bueno es que son características propias del lenguaje, no se tratan de hacks o de implementaciones propias de navegadores.

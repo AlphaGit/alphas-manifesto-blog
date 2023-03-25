@@ -13,6 +13,7 @@ tags:
 - formulario
 - autoguardado
 subtitle: Widget de autoguardado
+
 ---
 
 Una característica que seguramente todos adoramos de GMail es el autoguardado. Al momento exacto en que dejamos de escribir un mail, este se autoguarda, y no recuerdo cuándo fue la última vez que perdí un mail por accidentalmente refrescar la página. Quienes vienen de las viejas épocas de Hotmail conocen mi frustración.

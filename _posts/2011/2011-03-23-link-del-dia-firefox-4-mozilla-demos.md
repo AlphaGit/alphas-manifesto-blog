@@ -16,6 +16,7 @@ tags:
 - standard
 - interfaz
 - demo
+
 ---
 
 Ayer salió a la luz la versión definitiva de Firefox 4, y en unas 24 horas ya logró tener más de 6 millones y medio de descargas. Un navegador popular, sin dudas. Podemos bajarlo y al mismo tiempo ver el movimiento en tiempo real de descargas a través de [Firefox 4 Download Stats](http://glow.mozilla.org/).

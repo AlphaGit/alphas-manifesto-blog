@@ -12,6 +12,7 @@ tags:
 - Firefox
 - Chrome
 - extensiones
+
 ---
 
 Aquellos que tenemos que ver con el desarrollo web muy seguramente nos hemos apegado mucho a nuestro querido Firefox, gracias a la enorme cantidad de herramientas que la comunidad tiene para poder desarrollar. Muchos de nosotros también han encontrado en Chrome una alternativa muy interesante y hasta preferible, pero siempre tuvimos el problema de que la cantidad de extensiones para desarrollo era muy limitada.

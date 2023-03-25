@@ -15,6 +15,7 @@ tags:
 - CSS3
 - experiencia del usuario
 - artículo
+
 ---
 
 Hay varias formas de aproximarse a la performance de una aplicación que está construida bajo los nuevos estándares e implementaciones de HTML5, CSS3, y, por supuesto, JavaScript. Como ya lo habíamos mencionado en la [parte 1 de este artículo]({{ site.baseUrl }}{% link _posts/2011/2011-05-09-link-del-dia-performance-html5-css3-y-dom-parte-1-intro.md %}), el tutorial de HTML5 Rocks llamado [Improving the performance of your HTML5 App](http://www.html5rocks.com/tutorials/speed/html5/) trata varios puntos que son importantes para lograr una buena performance y una aplicación sólida.

@@ -9,6 +9,7 @@ tags:
 - productividad
 - MicroSiervos
 - artículo
+
 ---
 
 En [i.MicroSiervos](http://i.microsiervos.com/ordenadores/7-formas-automatizar-trabajo-ordenador.html) publicaron un artículo muy interesante llamado [7 formas de automatizar el trabajo con tu ordenador](http://thinkwasabi.com/2011/02/7-formas-de-automatizar-el-trabajo-con-tu-ordenador/), y todos sabemos que quizá la parte más lenta de  lo que hacemos en la computadora somos nosotros y nuestras tareas repetitivas.

@@ -10,6 +10,7 @@ tags:
 - HTML
 - CSS
 - desarrollo web
+
 ---
 
 Para diseñar y trabajar sobre HTML, mientras más atajos tomemos, mejor. Mucho del trabajo es repetitivo, y cuando queremos aplicar estilos, la cantidad de idas y vueltas de una ventana a otra es innumerable, por lo menos, hasta que logramos la perfección del diseño original.
