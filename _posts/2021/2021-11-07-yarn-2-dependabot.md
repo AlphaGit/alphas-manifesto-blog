@@ -10,6 +10,7 @@ tags:
 header:
     image: assets/automatic-merges-header.webp
     image_description: Automatic merges
+
 ---
 
 A few weeks ago I migrated [worklogger](https://github.com/AlphaGit/worklogger) to TypeScript and yarn 2.

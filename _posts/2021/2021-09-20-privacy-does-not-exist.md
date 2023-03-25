@@ -10,6 +10,7 @@ tags:
 header:
     image: assets/cookies.webp
     image_description: Inspecting cookies
+
 ---
 
 There was a particular gag I came across in a Youtube video. One where, from the point of view of a long-term future, an advance human race made fun of us for having expectations of privacy in our lives.

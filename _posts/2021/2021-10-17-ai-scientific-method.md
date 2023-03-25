@@ -11,6 +11,7 @@ tags:
 header:
     image: assets/roboticskunk.webp
     image_description: AI
+
 ---
 
 There's an article published in TheNewStack.io that is titled _[Machine Learning Algorithm Sidesteps the scientific method](https://thenewstack.io/machine-learning-algorithm-sidesteps-the-scientific-method/)_. While I do consider this to be clickbait, I still consider some truth behind it worth discussing.

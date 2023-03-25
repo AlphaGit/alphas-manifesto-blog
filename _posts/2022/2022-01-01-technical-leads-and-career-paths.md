@@ -12,6 +12,7 @@ tags:
 header:
     image: assets/TechnicalManagementRoadMeme.webp
     image_description: Management (Technical) vs. Technical Management
+
 ---
 
 I came across [this question](https://workplace.stackexchange.com/q/181842/25611), which is a fairly common concern I have come across with people around me. Here's the gist of it:

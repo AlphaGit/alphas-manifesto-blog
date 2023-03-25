@@ -23,6 +23,8 @@ Hace un tiempo ya, y realmente, el día que salió, yo ya tenía una cuenta de [
 
 Hoy es para mi una herramienta fundamental en mi organización (personal y laboral) y me ha vuelto más productivo y ha evitado muchos de esos momentos de "_ ¿y ahora qué?_" o "_ ¿en qué estaba?_". Voy a compartirles el como para que sepan cómo lo hago yo, y espero comentarios de cómo lo hacen ustedes. Hasta que arregle los comentarios del blog, pueden responderme a [@AlphaTwi](http://twitter.com/AlphaTwi).
 
+<!--more-->
+
 ## Trello por default
 
 Trello se compone de _boards_ (pizarras) que a su vez se componen _lists_ (listas), que a su vez contienen _cards_ (tarjetas).
