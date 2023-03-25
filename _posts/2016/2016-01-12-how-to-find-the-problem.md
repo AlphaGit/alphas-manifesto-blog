@@ -1,24 +1,30 @@
 ---
 excerpt_separator: <!--more-->
 title: How to find the problem
-date: '2016-01-12 22:36:05 +0000'
-date_gmt: '2016-01-13 04:36:05 +0000'
+date: 2016-01-12 22:36:05 +0000
+date_gmt: 2016-01-13 04:36:05 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- Technology
-- development
-- epiphany
-- knowledge management
-- learning
-- bug
-- bug fixing
-- assumptions
-- problems
-- solutions
+  - Technology
+  - development
+  - epiphany
+  - knowledge management
+  - learning
+  - bug
+  - bug fixing
+  - assumptions
+  - problems
+  - solutions
 subtitle: Applied skepticism
+description: >-
+  Learn how to tackle programming problems methodically and gain knowledge from
+  mistakes with this blog post. Understand the concept of applied skepticism,
+  how to design tests to confirm or deny assumptions, and how to fix problems
+  with data types.
 ---
+
 
 ![]({{ site.baseurl }}/assets/chemistryskunk.png)
 

@@ -1,24 +1,30 @@
 ---
 excerpt_separator: <!--more-->
 title: Testability vs. simple design
-date: '2016-03-22 20:21:31 +0000'
-date_gmt: '2016-03-23 01:21:31 +0000'
+date: 2016-03-22 20:21:31 +0000
+date_gmt: 2016-03-23 01:21:31 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- testing
-- ".NET"
-- C#
-- Microsoft
-- design
-- unit testing
-- dependencies
-- classes
-- coupling
-- Fakes Assemblies
-- MSTest
+  - testing
+  - .NET
+  - C#
+  - Microsoft
+  - design
+  - unit testing
+  - dependencies
+  - classes
+  - coupling
+  - Fakes Assemblies
+  - MSTest
 subtitle: Testing requires decoupling
+description: >-
+  Discover how to design code for testability, while still keeping it simple.
+  Find out how Microsoft Fakes Assemblies can help you test code with high
+  coupling and even private members. Read this blog post to learn how to strike
+  the balance between code simplicity and testability.
 ---
+
 
 ![]({{ site.baseurl }}/assets/arrow.jpg)
 

@@ -1,20 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: Code Complete, Second Edition
-date: '2016-01-03 22:03:45 +0000'
-date_gmt: '2016-01-04 04:03:45 +0000'
+date: 2016-01-03 22:03:45 +0000
+date_gmt: 2016-01-04 04:03:45 +0000
 categories:
-- Books
+  - Books
 tags:
-- software
-- review
-- book
-- management
-- software development
-- development
-- code
+  - software
+  - review
+  - book
+  - management
+  - software development
+  - development
+  - code
 subtitle: Aspects of software construction, deconstructed
+description: >-
+  Discover the concepts and lessons of software construction from Code Complete,
+  a comprehensive reference manual for software development. Learn about
+  architecture, design, planning, code performance-tuning and more from this
+  2000+ page book.
 ---
+
 
 ![]({{ site.baseurl }}/assets/codecomplete.jpg)
 
