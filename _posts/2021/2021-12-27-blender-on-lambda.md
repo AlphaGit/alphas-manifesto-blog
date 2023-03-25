@@ -3,16 +3,22 @@ excerpt_separator: <!--more-->
 title: Blender on Lambda
 subtitle: Rendering Blender Scenes in AWS Lambda
 categories:
-    - Development
+  - Development
 tags:
-    - Terraform
-    - Infrastructure
-    - Automated Workflows
+  - Terraform
+  - Infrastructure
+  - Automated Workflows
 header:
-    image: assets/lambda.webp
-    image_description: AWS Lambda
+  image: assets/lambda.webp
+  image_description: AWS Lambda
+description: >-
 
+  Meta Tag Description: Learn about the technical aspects of using Lambdas for
+  distributed 3D rendering with Blender. Understand why Lambdas are a great
+  choice and the architecture used to make it work. Get detailed instructions on
+  how to debug and run the Lambda image container.
 ---
+
 
 [GitHub repository](https://github.com/AlphaGit/blender-lambda)
 

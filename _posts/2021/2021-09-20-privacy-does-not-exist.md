@@ -3,15 +3,22 @@ excerpt_separator: <!--more-->
 title: Real privacy does not exist
 subtitle: Why the illusion of privacy is only an illusion
 categories:
-    - Thoughts
+  - Thoughts
 tags:
-    - Privacy
-    - Security
+  - Privacy
+  - Security
 header:
-    image: assets/cookies.webp
-    image_description: Inspecting cookies
+  image: assets/cookies.webp
+  image_description: Inspecting cookies
+description: >-
 
+
+  Desc: Debate about privacy from the wrong angle: Companies don't care about
+  data points; they care about how to sell products. Explore how companies
+  breach user privacy, how users can protect themselves, and why it's an uphill
+  battle.
 ---
+
 
 There was a particular gag I came across in a Youtube video. One where, from the point of view of a long-term future, an advance human race made fun of us for having expectations of privacy in our lives.
 

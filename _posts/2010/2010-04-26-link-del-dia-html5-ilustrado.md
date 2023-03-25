@@ -1,21 +1,26 @@
 ---
-
 title: 'Link del día: HTML5 Ilustrado'
-date: '2010-04-26 12:22:13 +0000'
-date_gmt: '2010-04-26 14:22:13 +0000'
+date: 2010-04-26 12:22:13 +0000
+date_gmt: 2010-04-26 14:22:13 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- internet
-- JavaScript
-- HTML
-- CSS
-- desarrollo web
-- HTML5
-- creatividad
-- standard
-- CSS3
+  - internet
+  - JavaScript
+  - HTML
+  - CSS
+  - desarrollo web
+  - HTML5
+  - creatividad
+  - standard
+  - CSS3
+description: >-
+
+  Descubre las bondades de HTML5 y CSS3 con esta presentación hecha en HTML5.
+  Mira los sitios que muestran lo que se puede hacer con HTML5. ¡No te quedes
+  atrás!
 ---
+
 
 Nunca viene mal otro link extra sobre HTML5, sabemos que es algo que ya está empezando a tomar fuerza, y de alguna forma todavía es novedad. Mientras esperamos que se decida qué es lo que va a ocurrir con los códecs de video, podemos ir entrenándonos y aprovechando otras features que gran cantidad de navegadores ya aprovechan.
 
