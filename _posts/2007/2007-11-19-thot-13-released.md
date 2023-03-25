@@ -1,13 +1,16 @@
 ---
-
 title: Thot 1.3 Released
-date: '2007-11-19 15:42:00 +0000'
-date_gmt: '2007-11-19 15:42:00 +0000'
+date: 2007-11-19 15:42:00 +0000
+date_gmt: 2007-11-19 15:42:00 +0000
 categories:
-- Projects
+  - Projects
 tags: []
-
+description: >-
+  Descubre cómo Cambié la técnica de escalado de las fuentes para generar
+  conjuntos de datos mucho más homogéneos y resolver el problema del Font
+  Padding. Descarga Thot e investiga los detalles de la aplicación y el deploy.
 ---
+
 
 Cambié la técnica de escalado de las fuentes.
 

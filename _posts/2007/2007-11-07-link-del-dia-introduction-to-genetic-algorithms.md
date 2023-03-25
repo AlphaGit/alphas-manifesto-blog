@@ -1,13 +1,17 @@
 ---
-
 title: 'Link del día: Introduction to Genetic Algorithms'
-date: '2007-11-07 12:36:00 +0000'
-date_gmt: '2007-11-07 12:36:00 +0000'
+date: 2007-11-07 12:36:00 +0000
+date_gmt: 2007-11-07 12:36:00 +0000
 categories:
-- Link del día
+  - Link del día
 tags: []
-
+description: >-
+  Descubre cómo los algoritmos genéticos evolucionan para lograr objetivos
+  desconocidos usando un enfoque matemático y probabilístico en vez del clásico
+  biológico. Explora los conceptos básicos con un programa de ejemplo y sé un
+  zorrinito genético.
 ---
+
 
 Link [aquí](http://www.rennard.org/alife/english/gavintrgb.html).
 
