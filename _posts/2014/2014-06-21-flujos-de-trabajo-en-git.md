@@ -18,6 +18,7 @@ tags:
 - merge
 - historial de cambios
 subtitle: Los más comunes y el historial de cambios que generan
+
 ---
 
 ![]({{ site.baseurl }}/assets/gitTree.png)

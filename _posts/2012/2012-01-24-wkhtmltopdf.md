@@ -13,6 +13,7 @@ tags:
 - documentos
 - páginas
 subtitle: De HTML a PDF
+
 ---
 
 Nombre complicado, pero aplicación muy útil. Hace algunos días ando trabajando con [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/), una aplicación basada en QT y en Webkit que renderiza páginas web y las convierte en PDFs. Lo interesante es la forma en la que se puede automatizar este proceso, generando elementos más allá del contenido en sí (como tablas de contenido, encabezados y pies de página, etc). Mejor aún, este paquete contiene wkhtmltoimage.

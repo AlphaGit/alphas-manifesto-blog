@@ -11,6 +11,7 @@ tags:
 - PHP
 - preprocesador
 - server-side
+
 ---
 
 Siguiendo con la seguidilla de links sobre CSS, hoy les traigo [CSS Crush](http://github.com/peteboere/css-crush/). En este caso en particular, se trata de una librería php que muy gentilmente se encarga de extender nuestras capacidades sobre CSS para evitar la repetición de código, mientras que la información que se envía al cliente es totalmente distinta.

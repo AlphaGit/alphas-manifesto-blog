@@ -12,6 +12,7 @@ tags:
 - plugin
 - StackExchange
 subtitle: yeaaah, venga esa complejidad!
+
 ---
 
 De los rincones recónditos de User Experience en StackExchange y una pregunta de [cómo incitar a los usuarios a poner passwords fuertes](http://ux.stackexchange.com/questions/16433/what-is-the-best-way-to-inspire-users-to-choose-strong-password), me entero de la existencia de [Naked Password](http://www.nakedpassword.com/), un plugin de jQuery que en sitios informales (_muy_ informales) incentiva a los usuarios a usar passwords complejos, de forma... digamos... "natural". Pueden probar el demo en su misma página.

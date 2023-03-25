@@ -14,6 +14,7 @@ tags:
 - UX
 - AngularJS
 subtitle: Limitando la entrada del usuario según una RegEx, AngularJS style
+
 ---
 
 ![]({{ site.baseurl }}/assets/ng-pattern-restrict.png)

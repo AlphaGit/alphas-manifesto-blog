@@ -19,6 +19,7 @@ tags:
 - JSONP
 - proxy
 subtitle: Desarrollando en localhost, same-origin policy & REST APIs
+
 ---
 
 ![]({{ site.baseurl }}/assets/ProxyLove.png)

@@ -13,6 +13,7 @@ tags:
 - ASP.NET MVC
 - participación
 subtitle: Para que la comunidad se construya a sí misma
+
 ---
 
 ¿Recuerdan que alguna vez conté de [UserVoice y cómo permite obtener feedback de la comunidad]({{ site.baseUrl }}{% link _posts/2010/2010-09-13-link-del-dia-feedback-2-0.md %})? Bueno, la gente de Microsoft me leyó (?) y el mismo desarrollo de ASP.NET MVC está siendo permitido por la comunidad. Una de las formas es este mismo user voice, que pueden encontrar en el [ASP.NET MVC UserVoice Site](http://aspnet.uservoice.com/forums/41201-asp-net-mvc).

@@ -17,6 +17,7 @@ tags:
 - apoyo
 - cultura 2.0
 subtitle: El fenómeno 2.0 del soporte y el gusto personal
+
 ---
 
 ![]({{ site.baseurl }}/assets/Favorites.jpg)

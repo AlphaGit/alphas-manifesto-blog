@@ -18,6 +18,7 @@ tags:
 - sintaxis
 - GET
 subtitle: Aplicando condiciones complejas a requests HTTP REST
+
 ---
 
 ![]({{ site.baseurl }}/assets/ToRestOrNotToRest.jpg)

@@ -13,6 +13,7 @@ tags:
 - experimento
 - Linux
 - emulador
+
 ---
 
 De los creadores de _Compiladores en línea_ y de _Más compiladores online_ y compitiendo con [Máquinas virtuales en la web]({{ site.baseUrl }}{% link _posts/2010/2010-07-21-link-del-dia-maquinas-virtuales-en-la-web.md %}) nos llega un linux que podemos correr en nuestro navegador. Emulado. En JavaScript.

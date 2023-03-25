@@ -10,6 +10,7 @@ tags:
 - negocios
 - MicroSiervos
 - computación cuántica
+
 ---
 
 Quería dejar pasar un poco más de tiempo para poder indagar en detalle sobre esto, pero aparentemente no hay demasiada información, o al menos no más allá de lo que los fabricantes disponen para el público.

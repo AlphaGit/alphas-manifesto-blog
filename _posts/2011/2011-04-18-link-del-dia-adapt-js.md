@@ -1,16 +1,20 @@
 ---
-
 title: 'Link del día: Adapt.js'
-date: '2011-04-18 12:40:28 +0000'
-date_gmt: '2011-04-18 14:40:28 +0000'
+date: 2011-04-18 12:40:28 +0000
+date_gmt: 2011-04-18 14:40:28 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- CSS
-- desarrollo web
-- herramientas
+  - JavaScript
+  - CSS
+  - desarrollo web
+  - herramientas
+description: >-
+  Descubre cómo Adapt.js te ayuda a cargar CSS condicionalmente según el tamaño
+  de la pantalla, permitiéndote adaptar tu sitio web para que se vea bien en
+  cualquier dispositivo, desde pantallas grandes a móviles.
 ---
+
 
 Siguiendo con la seguidilla de implementos JavaScript, hoy tenemos a [Adapt.js](http://adapt.960.gs/), un archivo javascript que nos permite condicionalmente cargar uno u otro CSS de acuerdo a valores del navegador. No se trata solamente de variar las versiones del navegador como podemos hacer con HTML condicional, sino a condiciones como el tamaño de la pantalla, y de hecho, ese es el uso principal que se le da a esta herramienta.
 

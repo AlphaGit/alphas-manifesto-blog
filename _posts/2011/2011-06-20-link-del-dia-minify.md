@@ -12,6 +12,7 @@ tags:
 - desarrollo web
 - PHP
 - librería
+
 ---
 
 Tratando de retomar la periodicidad de los links del día, hoy quiero hablar de Minify. [Minify](http://code.google.com/p/minify/) es una librería PHP de código abierto autocontenida que podemos utilizar para minimizar, unificar, cachear y definir nombres propios para recursos que queremos utilizar y mejorar la performance de nuestro sitio.

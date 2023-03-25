@@ -11,6 +11,7 @@ tags:
 - GitHub
 - burocracia
 - methodologies
+
 ---
 
 Pensé que esta iba a ser otra presentación de producto como cualquier otra, pero no es el caso. La exposición de Zach Holman de cómo se utiliza GitHub es realmente épica, en cuanto a lo simple de su mensaje y lo profundo de la filosofía de trabajo que tienen.

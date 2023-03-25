@@ -13,6 +13,7 @@ tags:
 - consecuencias
 - mal ejemplo
 subtitle: Are you sure you want to cancel explosion? [Ok] [Cancel]
+
 ---
 
 Encontré hace poco este link y realmente quería compartirlo. El artículo, en inglés, se titula [6 Disasters caused by Poorly Designed User Interfaces](http://www.cracked.com/article_19776_6-disasters-caused-by-poorly-designed-user-interfaces.html), y si bien el artículo proviene de Cracked.com, &ndash; que bien sabemos no se trata de una fuente periodística &ndash; da muy buenos ejemplos de cómo una interfaz de usuario mal diseñada realmente tienen consecuencias.

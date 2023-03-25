@@ -13,11 +13,13 @@ tags:
 - XML
 - buenas prácticas
 - estándares
+
 ---
 
 Hace no mucho se me presentó en una conversación, en donde me encararon con la siguiente pregunta: "Si el estándar de HTML5 no está aprobado aún, por qué usarlo?". Me abalancé con una respuesta salvaje del estilo "Por qué no?" (aunque con otras palabras) y no dije mucho más.  ¿Por qué alguien querría **no** usarlo? Pasaron 30 segundos desde mi respuesta y me puse del otro lado, pensando en que me estaban hablando de una nueva versión de Windows y ahí creí comprender el punto de vista. Creo que no aplica a HTML5 pero... por qué habría una diferencia?
 
 Fue entonces en donde me puse a dar una respuesta más elaborada, la cual reproduzco a continuación.
+
 
 ---
 

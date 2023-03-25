@@ -11,6 +11,7 @@ tags:
 - interfaz
 - user experience
 - artículo
+
 ---
 
 Títulos amarillistas si los hay, MD ha compartido con nosotros este link de la gente de [ForoAlfa](http://foroalfa.org/), un grupo que habla sobre la usabilidad en su forma teórica, y eso es en general de lo que trata este artículo. El artículo, también bajo el título de [La Usabilidad ha muerto. ¡Que viva la usabilidad!](http://foroalfa.org/articulos/la-usabilidad-ha-muerto-que-viva-la-usabilidad) habla de cómo la web actual (y los que trabajamos en el software en general) ha degenerado el concepto de usabilidad.

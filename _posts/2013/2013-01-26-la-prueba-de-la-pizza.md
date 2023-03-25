@@ -16,6 +16,7 @@ tags:
 - pizza
 - claridad
 subtitle: La versión casera de pruebas de carga cognitiva
+
 ---
 
 ![]({{ site.baseurl }}/assets/Pizza.jpg)

@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: El juego del test-driven-design'
-date: '2011-04-14 02:11:00 +0000'
-date_gmt: '2011-04-14 04:11:00 +0000'
+date: 2011-04-14 02:11:00 +0000
+date_gmt: 2011-04-14 04:11:00 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- productividad
-- test-driven design
-- Eclipse
-- ninja
+  - productividad
+  - test-driven design
+  - Eclipse
+  - ninja
+description: >-
+  Mejora tu productividad y práctica de Test Driven Design con TDGotchi: una
+  mascota virtual para darle un toque interesante a tus procesos tediosos.
 ---
+
 
 Recuerdo haber hablado más de una vez sobre [distracciones](https://blog.alphasmanifesto.com/?s=distracciones) y [productividad](https://blog.alphasmanifesto.com/?s=productividad). Varias de esas veces he mencionado que si podemos darle un toque interesante a lo que estamos haciendo, casi a modo de juego o de desafío, la actividad se vuelve mucho más divertida, y por supuesto, nosotros nos volvemos más concentrados hacia ella.
 

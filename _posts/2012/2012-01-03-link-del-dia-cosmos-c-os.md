@@ -13,6 +13,7 @@ tags:
 - ejercicio
 - emulador
 - Codeplex
+
 ---
 
 [Cosmos](http://cosmos.codeplex.com/) es un proyecto opensource hosteado en Codeplex, que se trata de un sistema operativo completo construido en C#. Como tal, podemos deducir que no corre realmente de forma nativa en una máquina, sino sobre la plataforma .NET, pero creo que merece su atención como proyecto de extrema complejidad. No he visto el código, pero no dudo que mucho se podrá aprender de eso con solo mirarlo. Aparentemente, también hace utilización de extensas capabilidades de Visual Studio para un buen debugging del mismo, con lo que también es un buen ejercicio para aprender de esta herramienta.

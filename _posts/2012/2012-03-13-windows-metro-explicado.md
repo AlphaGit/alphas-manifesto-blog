@@ -13,6 +13,7 @@ tags:
 - Windows 8
 - Metro
 subtitle: Crítica criteriosa
+
 ---
 
 > A menos que hayas estado viviendo bajo una roca por los últimos meses, deberías saber lo siguiente:

@@ -17,6 +17,7 @@ tags:
 - desarrollo móvil
 - CSS3
 - herramientas
+
 ---
 
 Acabo de ver dos videos de Paul Irish, del grupo de Google Chrome. Uno de ellos era [Google Chrome Developer Tools: 12 Tricks to Develop Quicker](http://www.youtube.com/watch?v=nOEw9iiopwI). Aquí básicamente nos da una explicación de los Chrome Developer Tools con algunos trucos que no son tan sabidos. Interesante y útil.

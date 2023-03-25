@@ -15,6 +15,7 @@ tags:
 - troubleshooting
 - Stack Exchange
 subtitle: Cuando la respuesta no es obvia
+
 ---
 
 Otro de los foros de Stack Exchange que suelo leer es [Database Administrators](http://dba.stackexchange.com/questions/13523/sql-what-is-slowing-down-inserts-if-not-cpu-or-io), en donde, como imaginarán, las preguntas y respuestas rondan sobre bases de datos y tecnologías afines. Cada tanto me encuentro con alguna joyita útil y este fue uno de esos casos.

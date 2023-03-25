@@ -14,6 +14,7 @@ tags:
 - símbolo
 - "íconos"
 subtitle: Y ¿por qué no la cambiamos?
+
 ---
 
 Un comentario que mucho tiempo hemos visto discutido por ahí es [por qué todavía usamos la figura del floppy disk para indicar la acción de guardar](http://ux.stackexchange.com/questions/3117/save-icon-is-the-floppy-disk-icon-dead), cuando hace tiempo que estos discos se dejaron de usar. Peor aún, hay gente que ni siquiera sabe qué son.

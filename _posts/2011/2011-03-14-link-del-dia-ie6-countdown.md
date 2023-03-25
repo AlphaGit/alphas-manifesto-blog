@@ -1,20 +1,24 @@
 ---
-
 title: 'Link del día: IE6 Countdown'
-date: '2011-03-14 11:34:35 +0000'
-date_gmt: '2011-03-14 13:34:35 +0000'
+date: 2011-03-14 11:34:35 +0000
+date_gmt: 2011-03-14 13:34:35 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- internet
-- JavaScript
-- HTML5
-- Microsoft
-- Internet Explorer
-- MicroSiervos
-- interfaz
+  - internet
+  - JavaScript
+  - HTML5
+  - Microsoft
+  - Internet Explorer
+  - MicroSiervos
+  - interfaz
+description: >-
+  Actualiza tu navegador web y disfruta de la moderna y mejorada interfaz de
+  Internet Explorer 9. Descarga la última versión en Beauty Of The Web y únete a
+  la campaña "Internet Explorer 6 Countdown" de Microsoft.
 ---
+
 
 Alguna vez mostré un link sobre un script para sitios web llamado [IE6 Upgrade Warning]({{ site.baseUrl }}{% link _posts/2009/2009-07-30-link-del-dia-ie6-upgrade-warning.md %}), la idea del mismo es forzar a que los usuarios tengan que actualizar su navegador web para continuar en la navegación del sitio, y que si este script se hacía lo suficientemente conocido, podríamos contar con una internet un poco más actualizada.
 

@@ -1,15 +1,19 @@
 ---
-
 title: 'Link del día: 7 pro-tips para acelerar todo'
-date: '2011-03-01 04:23:10 +0000'
-date_gmt: '2011-03-01 06:23:10 +0000'
+date: 2011-03-01 04:23:10 +0000
+date_gmt: 2011-03-01 06:23:10 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- productividad
-- MicroSiervos
-- artículo
+  - productividad
+  - MicroSiervos
+  - artículo
+description: >-
+  Maximiza tu productividad con el ordenador: descubre 7 formas de automatizar
+  tu trabajo para centrarte en lo que realmente importa. Conoce herramientas
+  para delegar tareas sin necesidad de saber programar.
 ---
+
 
 En [i.MicroSiervos](http://i.microsiervos.com/ordenadores/7-formas-automatizar-trabajo-ordenador.html) publicaron un artículo muy interesante llamado [7 formas de automatizar el trabajo con tu ordenador](http://thinkwasabi.com/2011/02/7-formas-de-automatizar-el-trabajo-con-tu-ordenador/), y todos sabemos que quizá la parte más lenta de  lo que hacemos en la computadora somos nosotros y nuestras tareas repetitivas.
 

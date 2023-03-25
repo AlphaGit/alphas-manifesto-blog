@@ -9,6 +9,7 @@ categories:
 tags:
 - cloud computing
 - PaaS
+
 ---
 
 Este link de hoy no es tan sustancial como el resto de los que estamos acostumbrados, pero no por eso deja de ser útil. En este caso, es un listado que productos [Platform as a Service (PaaS)](http://en.wikipedia.org/wiki/Platform_as_a_service). No todos son pagos, y algunos pagos tienen free trials, si a alguno le interesa probar alguna aproximación de computación distribuída, esta es su oportunidad.

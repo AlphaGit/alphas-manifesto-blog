@@ -16,6 +16,7 @@ tags:
 - barra de progreso
 - indicador de progreso
 subtitle: La gran diferencia del detalle
+
 ---
 
 ## Indicando progreso
@@ -62,6 +63,7 @@ Recuerdo haber leído que entre Windows Vista y Windows 7, este había sido uno 
 ### Evitar pausas al final
 
 La pausa final, que ocurre muy comunmente si se está haciendo un procesamiento al final de la tarea, arruina la sensación completa de velocidad que el proceso había ganado. Por supuesto, seguramente estemos en un punto en donde el usuario ya no decide cancelar la acción, pero con ella hemos logrado arruinar la sensación de un proceso rápido que el usuario sentía. Esta puede ser la diferencia entre volver a usar nuestro sistema o no en un futuro, así que cuidado.
+
 
 ---
 

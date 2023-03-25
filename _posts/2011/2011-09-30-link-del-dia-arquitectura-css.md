@@ -11,6 +11,7 @@ tags:
 - design
 - modular
 - escalabilidad
+
 ---
 
 La idea me parece fantástica, pero la forma en la que se desarrolló, no tanto. La idea era, [Scalable and Modular Architecture for CSS](http://smacss.com/book/), una organización del código CSS de una aplicación para que fuera dividido en forma modular. De esta forma, habría determinados estilos base, y otros estilos pertenecientes a módulos que especificarían cosas extra, o modificarían detalles (aunque no deberían) de los estilos base.

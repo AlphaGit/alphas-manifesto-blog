@@ -10,6 +10,7 @@ tags:
 - Música
 - video
 - experimento
+
 ---
 
 Me crucé de casualidad (y ya ni recuerdo cómo) con un artículo de un blog llamado [Algoritmic symphonies from one line of code -- how and why?](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html), en donde el autor mostraba un viejo experimento que había hecho: hacer iterar una variable sobre valores incrementales, y que una función de esa variable fuera enviada a la salida de audio.

@@ -19,6 +19,7 @@ tags:
 - coordenadas
 - programming
 subtitle: El escenario de juego y el jugador en él
+
 ---
 
 ![]({{ site.baseurl }}/assets/Building2lq.jpg)

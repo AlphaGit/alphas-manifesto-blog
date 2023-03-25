@@ -1,15 +1,21 @@
 ---
-
 title: 'Link del día: Películas y las matemáticas'
-date: '2011-01-10 11:31:42 +0000'
-date_gmt: '2011-01-10 13:31:42 +0000'
+date: 2011-01-10 11:31:42 +0000
+date_gmt: 2011-01-10 13:31:42 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- matemática
-- película
-- teorema
+  - matemática
+  - película
+  - teorema
+description: >-
+  Descubre cómo películas y el mundo de las matemáticas están relacionados.
+  Revisa la sección de salas en MathsMovies para ver diversas categorías y
+  ejemplos de películas, como Little Tate, Primer y la saga de El Cubo, así como
+  referencias matemáticas en Futurama. ¡Comparte tu conocimiento sobre Cine y
+  Matemáticas!
 ---
+
 
 El otro día anduve curioseando un rato por el sitio de [MathsMovies](http://www.mathsmovies.com/), un sitio web que recopila varios datos sobre películas y la relación que estas tienen con el mundo de las matemáticas. Suena quizá a algo tonto, pero si revisan en la sección de [Salas](http://www.mathsmovies.com/salas/salas.htm), se encontrarán con que realmente hay distintas categorías y están bien pensadas. Por ejemplo, no es para nada igual una película que trata de un personaje muy hábil con las matemáticas (ej: Little Tate), que otra película en donde la trama es completamente guiada por el método matemático (ej: Primer), o que otra en donde los conceptos matemáticos forman una parte fuerte de la trama (ej: la saga de El Cubo).
 

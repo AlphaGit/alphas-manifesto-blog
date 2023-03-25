@@ -21,6 +21,7 @@ description: >-
   tu productividad, organizar tus proyectos y responder preguntas como "_¿en qué
   estaba?_", "_¿terminaremos para hoy/mañana?_" y "_¿qué está presente en esta
   versión?_".
+
 ---
 
 

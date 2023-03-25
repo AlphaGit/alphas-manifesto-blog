@@ -19,6 +19,7 @@ tags:
 - Sugiyama
 - what-now
 subtitle: No se resuelve con un par de líneas
+
 ---
 
 ![]({{ site.baseurl }}/assets/what-now-dependencies.png)
