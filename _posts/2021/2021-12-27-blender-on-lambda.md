@@ -3,15 +3,22 @@ excerpt_separator: <!--more-->
 title: Blender on Lambda
 subtitle: Rendering Blender Scenes in AWS Lambda
 categories:
-    - Development
+  - Development
 tags:
-    - Terraform
-    - Infrastructure
-    - Automated Workflows
+  - Terraform
+  - Infrastructure
+  - Automated Workflows
 header:
-    image: assets/lambda.webp
-    image_description: AWS Lambda
+  image: assets/lambda.webp
+  image_description: AWS Lambda
+description: >-
+  Learn how I used AWS Lambdas and Docker containers to create a distributed
+  rendering engine with the Producer-Queue-Consumer pattern. I discuss the
+  architecture and how to execute Blender from the command line, as well as how
+  to debug with Docker and RIE. Check out my GitHub repository for the source
+  code.
 ---
+
 
 [GitHub repository](https://github.com/AlphaGit/blender-lambda)
 

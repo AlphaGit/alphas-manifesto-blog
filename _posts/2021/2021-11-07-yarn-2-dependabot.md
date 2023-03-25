@@ -3,14 +3,19 @@ excerpt_separator: <!--more-->
 title: Using Dependabot with Yarn 2
 subtitle: Not currently supported out of the box
 categories:
-    - Development
+  - Development
 tags:
-    - GitHub
-    - Automated Workflows
+  - GitHub
+  - Automated Workflows
 header:
-    image: assets/automatic-merges-header.webp
-    image_description: Automatic merges
+  image: assets/automatic-merges-header.webp
+  image_description: Automatic merges
+description: >-
+  Learn how to migrate a project to TypeScript and Yarn 2, and fix Dependabot's
+  lack of Yarn 2 support with a workaround. Automatically merge Pull Requests
+  with github actions to ensure that everything is alright.
 ---
+
 
 A few weeks ago I migrated [worklogger](https://github.com/AlphaGit/worklogger) to TypeScript and yarn 2.
 
