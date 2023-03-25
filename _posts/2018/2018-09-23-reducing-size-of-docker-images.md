@@ -14,6 +14,7 @@ tags:
 - build process
 - ci
 subtitle: Making efficient final images
+
 ---
 
 ![]({{ site.baseurl }}/assets/Docker-heavy.png)

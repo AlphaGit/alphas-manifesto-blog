@@ -8,6 +8,7 @@ tags:
     - statistics
     - books
 subtitle: Book review
+
 ---
 
 ![Practical Statistics for data Scientists]({{ site.baseurl }}/assets/practical-statistics-ds-cover.jpg)

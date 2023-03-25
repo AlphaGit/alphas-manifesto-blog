@@ -15,6 +15,7 @@ tags:
 - research
 - reference
 subtitle: by Goodfellow, Bengio and Courville
+
 ---
 
 ![]({{ site.baseurl }}/assets/deep-learning.jpg)

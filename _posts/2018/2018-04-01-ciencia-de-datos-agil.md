@@ -13,6 +13,7 @@ tags:
 - udemy
 - agile
 subtitle: Curso de Ernesto Mislej
+
 ---
 
 ![]({{ site.baseurl }}/assets/7puentes.jpg)

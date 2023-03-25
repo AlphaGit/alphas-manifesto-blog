@@ -7,6 +7,7 @@ tags:
     - AI
     - OpenAI
 subtitle: Play with the most powerful text generator so far
+
 ---
 
 ![GPT-2]({{ site.baseurl }}/assets/gpt2.jpg)

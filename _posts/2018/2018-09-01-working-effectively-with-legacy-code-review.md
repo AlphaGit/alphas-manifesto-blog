@@ -15,6 +15,7 @@ tags:
 - maintenance
 - system design
 subtitle: Your weapons against any badly designed code
+
 ---
 
 ![]({{ site.baseurl }}/assets/working-effectively-legacy.jpg)

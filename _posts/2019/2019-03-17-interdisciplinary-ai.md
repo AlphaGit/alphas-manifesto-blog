@@ -9,6 +9,7 @@ tags:
     - OpenAI
     - paper
 subtitle: Why we need multiple skills in the search for AGI
+
 ---
 
 About a month ago OpenAI published a [post][OpenAI post] where they open their gates for social scientists into their organization. I think this is part of a profound matter that has not been completely discussed in that blog post. Aside from a short version of some points of it, I'll also provide what is this subject that hasn't been discussed yet.
