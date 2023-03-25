@@ -20,6 +20,7 @@ tags:
 - ocultismo
 - alucinación
 subtitle: ¿Por qué es tan importante visualizar?
+
 ---
 
 <figure class="align-center">

@@ -12,6 +12,7 @@ tags:
 - navegadores
 - experiencia del usuario
 - hacks
+
 ---
 
 Para mi sorpresa, me encontré con un artículo de Mathias Bynens llamado [In defense of CSS hacks &ndash; introducing "safe CSS hacks"](http://mathiasbynens.be/notes/safe-css-hacks). él habla e introduce el concepto de los hacks CSS. Permítanme hablar un poco sobre su idea.

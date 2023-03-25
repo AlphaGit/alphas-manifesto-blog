@@ -14,6 +14,7 @@ tags:
 - Wolfram
 - biografía
 subtitle: Autobiografías analíticas
+
 ---
 
 Quizá esto merezca una explicación y una exposición pseudo-filosófica sobre el tema, pero eso requiere más tiempo del que dispongo ahora, de forma que sólo les dejo el dato. En este caso se trata de Steven Wolfram, científico fundador de Wolfram Research, inventor de Mathematica, y varios otros productos y libros que andan por ahí.

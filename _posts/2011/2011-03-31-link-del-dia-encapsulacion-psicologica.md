@@ -1,19 +1,23 @@
 ---
-
 title: 'Link del día: Encapsulación psicológica'
-date: '2011-03-31 13:15:46 +0000'
-date_gmt: '2011-03-31 15:15:46 +0000'
+date: 2011-03-31 13:15:46 +0000
+date_gmt: 2011-03-31 15:15:46 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Twitter
-- open source
-- productividad
-- psicología
-- software
-- encapsulación
-- confianza
+  - Twitter
+  - open source
+  - productividad
+  - psicología
+  - software
+  - encapsulación
+  - confianza
+description: >-
+  ¿Qué significa la encapsulación psicológica en software? Descubre cómo puede
+  afectar tu productividad en este artículo sobre fiabilidad y confianza en el
+  software.
 ---
+
 
 Este es otro de los links que me fue compartido via Twitter por la gente de [BreakingDev](http://twitter.com/BreakingDev), y el concepto es bastante simple, dejenmé presentarlo:
 

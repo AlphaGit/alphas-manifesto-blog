@@ -12,6 +12,7 @@ tags:
 - patterns
 - complejidad
 - BackboneJS
+
 ---
 
 ![]({{ site.baseurl }}/assets/backbone.png)

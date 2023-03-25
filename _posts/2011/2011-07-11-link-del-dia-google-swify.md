@@ -10,6 +10,7 @@ tags:
 - JavaScript
 - HTML5
 - Flash
+
 ---
 
 De la gama de productos Google que todavía están en beta y en laboratorios (una buena cantidad), ahora tenemos a [Google Swify](http://swiffy.googlelabs.com/), cuya funcionalidad es tomar archivos de Flash para convertirlos a HTML5.

@@ -15,6 +15,7 @@ tags:
 - Stack Exchange
 - Google Calendar
 subtitle: Una aproximación simple a un problema complejo
+
 ---
 
 ![]({{ site.baseurl }}/assets/calendar.png)

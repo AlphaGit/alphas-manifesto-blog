@@ -16,6 +16,7 @@ tags:
 - book
 - práctica
 subtitle: Manos a la obra desde lo más básico
+
 ---
 
 ![]({{ site.baseurl }}/assets/jqueryNoviceToNinja.jpg)

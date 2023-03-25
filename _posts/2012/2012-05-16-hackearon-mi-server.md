@@ -22,6 +22,7 @@ tags:
 - legal
 - servidor
 subtitle: ¿Y ahora qué hago?
+
 ---
 
 Uno de los posts que causaron revuelo en las preguntas de Server Fault fue _[My server's been hacked EMERGENCY](http://serverfault.com/questions/218005/my-servers-been-hacked-emergency) (Hackearon mi server, EMERGENCIA)_, un post cuya respuesta fue totalmente inesperada para muchos y muy útil y planeada para situaciones tan sorpresa.
@@ -31,6 +32,7 @@ Me pareció tan útil que además de sólo linkear la pregunta y su respuesta, q
 él nos explica cuáles son las medidas a tomar en un caso drástico como este, y muchas formas de reducir el riesgo de esto ocurriendo en el futuro. La explicación es larga pero muy clara y muy explícita sobre cada aspecto involucrado en la seguridad de un sistema.
 
 A continuación, [su respuesta](http://serverfault.com/a/218011/90562):
+
 
 ---
 
@@ -127,6 +129,7 @@ Si decides que el "riesgo" de que el piso bajo de tu casa se inunde es alto, per
 Probablemente no dejé cabo suelo entre las cosas que otros consideran importantes, pero los pasos de arriba deberían al menos ayudarte a comenzar a ordenar las cosas si tienes la mala suerte de convertirte una víctima de los hackers.
 
 Sobre todo: no entres en pánico. Piensa antes de actuar. Actúa firmemente una vez que hayas tomado una decisión, y deja un comentario debajo si tienes algo que agregar a mi listado de pasos.
+
 
 ---
 

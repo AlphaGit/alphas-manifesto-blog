@@ -1,15 +1,20 @@
 ---
-
 title: 'Link del día: Resolución de problemas'
-date: '2011-03-02 11:58:19 +0000'
-date_gmt: '2011-03-02 13:58:19 +0000'
+date: 2011-03-02 11:58:19 +0000
+date_gmt: 2011-03-02 13:58:19 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- problema
-- MicroSiervos
-- artículo
+  - problema
+  - MicroSiervos
+  - artículo
+description: >-
+  Aprende a resolver los problemas técnicos inexplicables con estos 10 consejos
+  útiles. Descubre cómo solucionar los problemas de la forma más rápida y
+  efectiva para evitar frustración. ¡Aprovecha este aprendizaje que paga
+  rápidamente!
 ---
+
 
 No me refiero a problemas de tipo matemático, ni siquiera a problemas relacionados a la informática (aunque los ejemplos se relacionan mucho con eso). En este artículo, publicado desde [MicroSiervos](http://www.microsiervos.com/archivo/ordenadores/pero-si-yo-no-he-tocado-nada.html), se nos explican varios puntos distintos a tener en cuenta al momento de resolver ese tipo de problemas cuya solución no es nada evidente.
 
