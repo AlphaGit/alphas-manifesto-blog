@@ -15,6 +15,7 @@ tags:
 - requirements
 - technical debt
 subtitle: Reaching agreement from a bunch of code
+
 ---
 
 ![]({{ site.baseurl }}/assets/CodeReviewFilter2.jpg)

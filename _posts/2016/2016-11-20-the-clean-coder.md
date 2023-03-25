@@ -16,6 +16,7 @@ tags:
 - developing
 - ethics
 subtitle: a.k.a. "Software Professionalism"
+
 ---
 
 ![]({{ site.baseurl }}/assets/the-clean-coder-cover.jpg)

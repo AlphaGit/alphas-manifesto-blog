@@ -16,6 +16,7 @@ tags:
 - static analysis
 - introduction
 subtitle: MOOC by the University of Maryland
+
 ---
 
 ![]({{ site.baseurl }}/assets/candado.png)

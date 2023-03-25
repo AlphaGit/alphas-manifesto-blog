@@ -20,6 +20,7 @@ tags:
 - evil
 - convention
 subtitle: Singleton.Instance.SelfDestruct();
+
 ---
 
 ![]({{ site.baseurl }}/assets/Singleton.png)

@@ -12,6 +12,7 @@ tags:
 - course
 - development
 subtitle: That little green trash can
+
 ---
 
 ![]({{ site.baseurl }}/assets/android.png)

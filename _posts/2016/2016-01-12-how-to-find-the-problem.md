@@ -18,6 +18,7 @@ tags:
 - problems
 - solutions
 subtitle: Applied skepticism
+
 ---
 
 ![]({{ site.baseurl }}/assets/chemistryskunk.png)

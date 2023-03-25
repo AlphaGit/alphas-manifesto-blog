@@ -14,6 +14,7 @@ tags:
 - portfolio
 - certificate
 subtitle: Well, sort of...
+
 ---
 
 ![]({{ site.baseurl }}/assets/Art.png)

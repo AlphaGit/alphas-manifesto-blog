@@ -13,6 +13,7 @@ tags:
 - MOOC
 - artificial intelligence
 subtitle: Automatic players that don't complain when they lose
+
 ---
 
 ![]({{ site.baseurl }}/assets/robotchessplayer.png)

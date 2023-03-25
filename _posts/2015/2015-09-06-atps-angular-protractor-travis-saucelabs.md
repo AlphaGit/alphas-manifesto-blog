@@ -18,6 +18,7 @@ tags:
 - Selenium
 - continuous integration
 subtitle: Quick guide to get these bad boys cooperating
+
 ---
 
 ![]({{ site.baseurl }}/assets/juggling.png)

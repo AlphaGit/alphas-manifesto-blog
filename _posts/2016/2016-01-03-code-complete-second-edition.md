@@ -14,6 +14,7 @@ tags:
 - development
 - code
 subtitle: Aspects of software construction, deconstructed
+
 ---
 
 ![]({{ site.baseurl }}/assets/codecomplete.jpg)

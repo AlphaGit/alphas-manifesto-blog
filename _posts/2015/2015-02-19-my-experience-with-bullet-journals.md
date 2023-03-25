@@ -11,6 +11,7 @@ tags:
 - productivity
 - experiences
 subtitle: "Spoiler: not a journal about guns"
+
 ---
 
 ![]({{ site.baseurl }}/assets/Journal.gif)

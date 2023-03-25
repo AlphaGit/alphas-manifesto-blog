@@ -16,6 +16,7 @@ tags:
 - methodologies
 - automated testing
 subtitle: A success story from the side of the doubtful
+
 ---
 
 ![]({{ site.baseurl }}/assets/Semaforo1.png)
