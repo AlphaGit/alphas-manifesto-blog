@@ -1,20 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: Ciencia de datos ágil
-date: '2018-04-01 11:48:41 +0000'
-date_gmt: '2018-04-01 15:48:41 +0000'
+date: 2018-04-01 11:48:41 +0000
+date_gmt: 2018-04-01 15:48:41 +0000
 categories:
-- AI
+  - AI
 tags:
-- MOOC
-- education
-- data science
-- Spanish
-- udemy
-- agile
+  - MOOC
+  - education
+  - data science
+  - Spanish
+  - udemy
+  - agile
 subtitle: Curso de Ernesto Mislej
-
+description: >-
+  Descubre cómo llevar adelante un proyecto de Data Science de forma ágil y
+  eficiente con el curso de Udemy: Ciencia de datos ágil. Ernesto Mislej,
+  co-fundador de 7puentes, te llevará paso a paso para que entiendas cómo
+  funciona un proyecto ágil común y corriente. ¡Vale la pena la inversión de 2
+  horas y 15 dólares!
 ---
+
 
 ![]({{ site.baseurl }}/assets/7puentes.jpg)
 

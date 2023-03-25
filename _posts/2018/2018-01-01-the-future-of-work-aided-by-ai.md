@@ -1,23 +1,28 @@
 ---
 excerpt_separator: <!--more-->
 title: The future of work, aided by AI?
-date: '2018-01-01 11:21:41 +0000'
-date_gmt: '2018-01-01 16:21:41 +0000'
+date: 2018-01-01 11:21:41 +0000
+date_gmt: 2018-01-01 16:21:41 +0000
 categories:
-- Technology
-- AI
+  - Technology
+  - AI
 tags:
-- artificial intelligence
-- futurism
-- creativity
-- augmented intelligence
-- optimization algorithms
-- search algorithms
-- font design
-- heuristics
+  - artificial intelligence
+  - futurism
+  - creativity
+  - augmented intelligence
+  - optimization algorithms
+  - search algorithms
+  - font design
+  - heuristics
 subtitle: How machine learning algorithms may take on our work
-
+description: >-
+  Explore the potential of AI and IA for augmenting human creativity, from
+  automated font-making to driverless cars. Discover how AI algorithms can learn
+  complex domain rules and how emergent properties can be applied to create new
+  domains of human creation.
 ---
+
 
 ![]({{ site.baseurl }}/assets/BeeDrones.jpg)
 

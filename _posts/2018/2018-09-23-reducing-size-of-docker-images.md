@@ -1,21 +1,25 @@
 ---
 excerpt_separator: <!--more-->
 title: Reducing size of Docker images
-date: '2018-09-23 20:16:19 +0000'
-date_gmt: '2018-09-24 00:16:19 +0000'
+date: 2018-09-23 20:16:19 +0000
+date_gmt: 2018-09-24 00:16:19 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- continuous integration
-- docker
-- python
-- image
-- efficiency
-- build process
-- ci
+  - continuous integration
+  - docker
+  - python
+  - image
+  - efficiency
+  - build process
+  - ci
 subtitle: Making efficient final images
-
+description: >-
+  Learn how to shrink your big Docker image size with this guide. We cover
+  simpler approaches to reducing the image size, more in-depth filesystem
+  troubleshooting, and the benefits of multistage builds.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Docker-heavy.png)
 

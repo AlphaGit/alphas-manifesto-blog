@@ -1,22 +1,27 @@
 ---
 excerpt_separator: <!--more-->
 title: Deep Learning (book review)
-date: '2018-06-10 12:43:23 +0000'
-date_gmt: '2018-06-10 16:43:23 +0000'
+date: 2018-06-10 12:43:23 +0000
+date_gmt: 2018-06-10 16:43:23 +0000
 categories:
-- Books
-- AI
+  - Books
+  - AI
 tags:
-- book
-- artificial intelligence
-- book review
-- deep learning
-- neural network
-- research
-- reference
+  - book
+  - artificial intelligence
+  - book review
+  - deep learning
+  - neural network
+  - research
+  - reference
 subtitle: by Goodfellow, Bengio and Courville
-
+description: >-
+  Explore the fundamentals of deep learning with the best reference book on the
+  market, Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville. An
+  advanced read with a high-density of information and references to papers and
+  sources.
 ---
+
 
 ![]({{ site.baseurl }}/assets/deep-learning.jpg)
 
