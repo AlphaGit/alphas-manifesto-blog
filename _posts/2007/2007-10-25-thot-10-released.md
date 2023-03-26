@@ -1,12 +1,15 @@
 ---
-
 title: Thot 1.0 Released
-date: '2007-10-25 00:28:00 +0000'
-date_gmt: '2007-10-25 00:28:00 +0000'
+date: 2007-10-25 00:28:00 +0000
+date_gmt: 2007-10-25 00:28:00 +0000
 categories:
-- Projects
+  - Projects
 tags: []
+description: >-
+  Programa para OCR, generar perceptrones, reconocer letras, agradecer JF, Gato
+  Gris, mejorar performance, identificar cruces, zorrinito programador.
 ---
+
 
 Para bajar, aquí: [http://alphagma.googlepages.com/](http://alphagma.googlepages.com/home)
 

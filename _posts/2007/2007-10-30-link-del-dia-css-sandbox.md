@@ -1,12 +1,13 @@
 ---
-
 title: 'Link del día: CSS Sandbox'
-date: '2007-10-30 12:44:00 +0000'
-date_gmt: '2007-10-30 12:44:00 +0000'
+date: 2007-10-30 12:44:00 +0000
+date_gmt: 2007-10-30 12:44:00 +0000
 categories:
-- Link del día
+  - Link del día
 tags: []
+description: Sandbox para probar hojas de estilo CSS.
 ---
+
 
 Link [aquí](http://aurelio.net/css-sandbox/).
 

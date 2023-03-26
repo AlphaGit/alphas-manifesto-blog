@@ -1,12 +1,16 @@
 ---
-
 title: ASP.NET MVC 1.0 Release Candidate
-date: '2009-02-24 00:19:26 +0000'
-date_gmt: '2009-02-24 02:19:26 +0000'
+date: 2009-02-24 00:19:26 +0000
+date_gmt: 2009-02-24 02:19:26 +0000
 categories:
-- Technology
+  - Technology
 tags: []
+description: >-
+  Microsoft MVC descarga gratuita, instalación sin problemas, buena
+  organización. Performance aún sin pruebas. Release candidate con features
+  defectuosas.
 ---
+
 <div>
 
 Hoy anduve probando esta publicación de Microsoft que pueden descargarse gratuitamente desde [aquí](http://go.microsoft.com/fwlink/?LinkID=141184&amp;clcid=0x409), disponible para VS 2008. Estaba siguiendo las indicaciones que mostraban más que nada las nuevas features, que leí en [Scott's Blog](http://weblogs.asp.net/scottgu/archive/2009/01/27/asp-net-mvc-1-0-release-candidate-now-available.aspx), pero imagino de todos modos que el [sitio oficial de ASP.NET MVC](http://www.asp.net/mvc/) estará lleno de tutoriales y explicaciones al respecto.

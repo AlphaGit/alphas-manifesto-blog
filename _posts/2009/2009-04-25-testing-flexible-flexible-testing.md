@@ -1,12 +1,16 @@
 ---
-
 title: Testing Flexible | Flexible Testing
-date: '2009-04-25 19:06:11 +0000'
-date_gmt: '2009-04-25 21:06:11 +0000'
+date: 2009-04-25 19:06:11 +0000
+date_gmt: 2009-04-25 21:06:11 +0000
 categories:
-- Projects
+  - Projects
 tags: []
+description: >-
+  Crear modelo de testing adaptable, variar según requerimientos, mezclar
+  etapas, aportar calidad, tercerizar trabajo, formal estructura, documentación
+  útil, planear desde comienzo, más testing = mejor, tomar en cuenta.
 ---
+
 
 **Español:**
 

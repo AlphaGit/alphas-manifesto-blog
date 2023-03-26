@@ -1,13 +1,16 @@
 ---
-
 title: 'Link del día: The Database Programmer'
-date: '2009-02-16 09:56:36 +0000'
-date_gmt: '2009-02-16 11:56:36 +0000'
+date: 2009-02-16 09:56:36 +0000
+date_gmt: 2009-02-16 11:56:36 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags: []
+description: >-
+  Discusión de diseño de base de datos seguro para protección contra SQL
+  Injection. Nueva perspectiva sobre programación de base de datos.
 ---
+
 
 El día de ayer me crucé con un post sobre [cómo hacer un diseño de base de datos inmune a SQL Injection](http://database-programmer.blogspot.com/2009/02/comprehensive-database-security-model.html) (o en su título original: [A comprehensive database security model](http://database-programmer.blogspot.com/2009/02/comprehensive-database-security-model.html)). La idea resumida de este tipo es hacer un diseño de base de datos orientado completamente a la seguridad, por lo cual, incluso aunque el supuesto atacante lograra acceso directo a la base de datos, no podría hacer más que acceder a los datos que podría desde la aplicación en cuestión.
 
