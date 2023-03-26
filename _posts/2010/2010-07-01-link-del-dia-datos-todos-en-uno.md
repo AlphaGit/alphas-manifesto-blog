@@ -1,22 +1,24 @@
 ---
-
 title: 'Link del día: Datos, todos en uno'
-date: '2010-07-01 16:46:58 +0000'
-date_gmt: '2010-07-01 18:46:58 +0000'
+date: 2010-07-01 16:46:58 +0000
+date_gmt: 2010-07-01 18:46:58 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- digg
-- web application
-- Youtube
-- Twitter
-- redes sociales
-- desarrollo web
-- RSS
-- PHP
-- PHP5
-
+  - digg
+  - web application
+  - Youtube
+  - Twitter
+  - redes sociales
+  - desarrollo web
+  - RSS
+  - PHP
+  - PHP5
+description: >-
+  Agregador web open source para servicios populares, requiere Apache/PHP5,
+  Github, demo en línea, faltan datos viejos.
 ---
+
 
 Quizá muchos sepamos que existen varios agregadores de datos para la vida web. Lo que hacen es coleccionar datos de distintos lugares y mostrarlos en uno solo. Muy bueno para poder mantener toda nuestra actividad web concentrada, y poder mostrarnos de alguna forma en ese lugar en particular.
 

@@ -1,18 +1,18 @@
 ---
-
 title: 'Link del día: Curso de Metasploit'
-date: '2010-12-16 13:42:56 +0000'
-date_gmt: '2010-12-16 15:42:56 +0000'
+date: 2010-12-16 13:42:56 +0000
+date_gmt: 2010-12-16 15:42:56 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- hacking
-- seguridad
-- video
-- educación
-- herramientas
-
+  - hacking
+  - seguridad
+  - video
+  - educación
+  - herramientas
+description: Herramienta Metasploit segura, curso completo en video DragonJar.
 ---
+
 
 Hace poco hablábamos de determinadas [herramientas de seguridad]({{ site.baseUrl }}{% link _posts/2010/2010-12-07-link-del-dia-herramientas-de-seguridad.md %}) que están disponibles para nosotros a lo largo y lo ancho de la internet. Pero además de eso, debemos saber utilizarlas.
 

@@ -1,18 +1,20 @@
 ---
-
 title: 'Link of the day: Writing Testable Code'
-date: '2010-06-04 11:05:33 +0000'
-date_gmt: '2010-06-04 13:05:33 +0000'
+date: 2010-06-04 11:05:33 +0000
+date_gmt: 2010-06-04 13:05:33 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- testing
-- desarrollo
-- buenas prácticas
-- OOP
-- OOD
-
+  - testing
+  - desarrollo
+  - buenas prácticas
+  - OOP
+  - OOD
+description: >-
+  Testing, design, principles, Google Testing blog, Friday, skunk, testable,
+  article, The Simplest, Law of Demeter.
 ---
+
 
 I've been looking into some documentation on how testable code should be written. They all say pretty much the same, but I found [this article](http://www.methodsandtools.com/archive/archive.php?id=103) by Isa Goksu which is quite extensive on some particular points, and also provides a good linking to other related articles. He mentions concepts that are closely related to testing and test-driven development, like [The Simplest Thing that Could Possibly Work](http://www.artima.com/intv/simplest.html), or [Law of Demeter](http://www.ccs.neu.edu/home/lieber/LoD.html) (which is a good design pattern too), some not-as-spread-as-they-should-be [Principles of Object Oriented Design](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod), and so on.
 

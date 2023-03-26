@@ -1,20 +1,22 @@
 ---
-
 title: 'Link del día: Probar ruby sin problemas'
-date: '2010-02-11 11:56:03 +0000'
-date_gmt: '2010-02-11 13:56:03 +0000'
+date: 2010-02-11 11:56:03 +0000
+date_gmt: 2010-02-11 13:56:03 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- proyecto
-- JavaScript
-- Twitter
-- capacitación
-- lenguajes
-- Ruby
-- ASCII
-
+  - proyecto
+  - JavaScript
+  - Twitter
+  - capacitación
+  - lenguajes
+  - Ruby
+  - ASCII
+description: >-
+  Aprender Ruby fácilmente con TryRuby.org. Probar, experimentar, solucionar
+  caracteres especiales.
 ---
+
 
 Uno de los lenguajes que más furor está haciendo en estos días es Ruby. De hecho, es el lenguaje en el que está programado Twitter. Para curiosos como yo que les gustaría probarlo, se encontrarían con la desventaja de que no es del todo fácil la instalación en algún sistema de los intérpretes (excepto que estés usando alguna distribución de Linux para tus tareas diarias, o que puedas utilizarlo sin problemas). Si es el caso, entonces es cuando [TryRuby.org](http://tryruby.org/) se amolda perfectamente an nuestras necesidades.
 

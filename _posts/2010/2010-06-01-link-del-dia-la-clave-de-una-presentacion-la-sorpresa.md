@@ -1,19 +1,21 @@
 ---
-
 title: 'Link del día: La clave de una presentación: la sorpresa'
-date: '2010-06-01 11:03:07 +0000'
-date_gmt: '2010-06-01 13:03:07 +0000'
+date: 2010-06-01 11:03:07 +0000
+date_gmt: 2010-06-01 13:03:07 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Youtube
-- blog
-- video
-- presentación
-- sorpresa
-- enseñanza
-
+  - Youtube
+  - blog
+  - video
+  - presentación
+  - sorpresa
+  - enseñanza
+description: >-
+  Profesor sorprende a alumnos interactuando con sombra, enseñando clave para
+  buena presentación.
 ---
+
 
 Este link es un video, al cual llegué gracias al [blog de Thalskarth Ma&euml;lstrom](http://www.thalskarth.com.ar/2010/05/20/profesor-sorprende-a-sus-alumnos-al-jugar-con-su-sombra/) (a quién en algún momento comenzaré a llamar "T"), el cual muestra de forma divertida cómo es que un profesor dando una clase sorprende a sus alumnos interactuando con su propia sombra y les da el saludo de vacaciones de pascua.
 

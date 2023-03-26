@@ -1,19 +1,21 @@
 ---
-
 title: 'Link del día: HTML5 más profundo'
-date: '2010-12-21 13:41:27 +0000'
-date_gmt: '2010-12-21 15:41:27 +0000'
+date: 2010-12-21 13:41:27 +0000
+date_gmt: 2010-12-21 15:41:27 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- HTML
-- CSS
-- desarrollo web
-- HTML5
-- CSS3
-- cheatsheet
-
+  - HTML
+  - CSS
+  - desarrollo web
+  - HTML5
+  - CSS3
+  - cheatsheet
+description: >-
+  Nueva tecnología HTML5, aplicaciones actuales, historia útil, cheat sheet,
+  reset código, explorar aplicaciones.
 ---
+
 
 Hace un tiempo ya que tuvimos un link de [introducción a HTML5]({{ site.baseUrl }}{% link _posts/2010/2010-02-02-link-del-dia-sumergiendonos-en-html5.md %}), como para saber de qué se trataba, y por supuesto, el tiempo ha pasado y esta nueva tecnología se ha vuelto mucho más popular. Lo bueno es que ya mucho del mismo es aplicable a los navegadores actuales, por lo que no tenemos exactamente que esperar a que el estándar sea totalmente aprobado. Al menos no si es que deseamos estar en lo último y aprovechar sus bondades.
 

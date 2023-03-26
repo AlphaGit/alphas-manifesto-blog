@@ -1,16 +1,18 @@
 ---
-
 title: 'Link del día: Buscar imágenes desde imágenes'
-date: '2010-09-29 14:50:03 +0000'
-date_gmt: '2010-09-29 16:50:03 +0000'
+date: 2010-09-29 14:50:03 +0000
+date_gmt: 2010-09-29 16:50:03 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- web application
-- Imágenes
-- experimento
-
+  - web application
+  - Imágenes
+  - experimento
+description: >-
+  Buscar imágenes sin palabras usando GazoPa, imgSeek, TinEye. Crecer rastreador
+  zorrinito.
 ---
+
 
 Alguna vez hablé sobre un sistema que nos permitía buscar imágenes que contuvieran ciertos colores. Pasaron los meses y ya se convirtió en algo común que todos podemos hacer a través de Google Image Search. El buscar imágenes similares también es algo que podemos hacer, también desde Google Image search.
 

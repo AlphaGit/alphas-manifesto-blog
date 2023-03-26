@@ -1,14 +1,16 @@
 ---
-
 title: 'Link del día: Usar código para interpretar código'
-date: '2010-07-28 10:18:41 +0000'
-date_gmt: '2010-07-28 12:18:41 +0000'
+date: 2010-07-28 10:18:41 +0000
+date_gmt: 2010-07-28 12:18:41 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags: []
-
+description: >-
+  Compilación de código on-the-fly, GCC escrito en C, ClassLoader de Java, C# vs
+  Java, ejemplo dinámico.
 ---
+
 
 El título no es novedoso de por sí, todos sabemos que los intérpretes o compiladores de código se escriben también con algún tipo de código. A veces, y eso es lo que puede ser nuevo para nosotros, es en el mismo código. Por ejemplo, el famoso compilador de [GCC](http://gcc.gnu.org/) está escrito en C.
 

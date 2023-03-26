@@ -1,17 +1,19 @@
 ---
-
 title: 'Link del día: Queries comunes'
-date: '2010-03-15 15:06:53 +0000'
-date_gmt: '2010-03-15 17:06:53 +0000'
+date: 2010-03-15 15:06:53 +0000
+date_gmt: 2010-03-15 17:06:53 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Google
-- MySQL
-- SQL
-- capa
-
+  - Google
+  - MySQL
+  - SQL
+  - capa
+description: >-
+  Busca soluciones para problemas comunes en SQL en el enlace Common Queries
+  Tree.
 ---
+
 
 A aquellos que programamos SQL nos encontramos muchas veces con lo que se encuentra cualquiera que programa cualquier otra cosa: tener que resolver un problema que seguro ya alguien resolvió. Para esto están los fotos, Google, sitios de soporte, StackOverflow, ExpertSexChange (a drede) y tantos otros lugares.
 

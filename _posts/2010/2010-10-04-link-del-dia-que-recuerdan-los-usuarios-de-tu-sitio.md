@@ -1,17 +1,19 @@
 ---
-
 title: 'Link del día: Qué recuerdan los usuarios de tu sitio?'
-date: '2010-10-04 11:28:06 +0000'
-date_gmt: '2010-10-04 13:28:06 +0000'
+date: 2010-10-04 11:28:06 +0000
+date_gmt: 2010-10-04 13:28:06 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- testing
-- web application
-- experiencia del usuario
-- user experience
-
+  - testing
+  - web application
+  - experiencia del usuario
+  - user experience
+description: >-
+  Evaluar eficiencia diseño: Usabilia, FiveSecondTest, UsabilityHub, NavFlow,
+  ClickTest, Clue.
 ---
+
 
 Tanto para probar un diseño o como para probar un website o aplicación web, ya hemos hablado de varios sistemas que nos permiten evaluar qué tan eficiente es nuestro diseño (recuerdan el link de [Usabilia]({{ site.baseUrl }}{% link _posts/2010/2010-01-29-link-del-dia-testeo-de-usabilidad.md %})?). Hoy tenemos dos más muy similares, basados en la prueba de los cincos segundos.
 

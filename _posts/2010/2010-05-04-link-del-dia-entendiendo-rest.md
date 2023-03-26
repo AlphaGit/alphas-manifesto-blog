@@ -1,20 +1,22 @@
 ---
-
 title: 'Link del día: Entendiendo REST'
-date: '2010-05-04 11:45:17 +0000'
-date_gmt: '2010-05-04 13:45:17 +0000'
+date: 2010-05-04 11:45:17 +0000
+date_gmt: 2010-05-04 13:45:17 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- matemática
-- arquitectura
-- design
-- REST
-- web semántica
-- modelo
-- sistema
-
+  - matemática
+  - arquitectura
+  - design
+  - REST
+  - web semántica
+  - modelo
+  - sistema
+description: >-
+  Comprender arquitectura REST difícil, modelar, estándares, seguridad, buenas
+  prácticas, web semántica.
 ---
+
 
 Un tiempo atrás tuvimos una lectura que trataba de _una visión simple de la arquitectura REST_. Sin embargo, hay mucho más por comprender en esta arquitectura.
 
