@@ -12,10 +12,8 @@ tags:
   - Chrome
   - extensiones
 description: >-
-  Descubre las mejores extensiones de Chrome para desarrolladores web, con
-  comentarios de Rosa Gutiérrez. Esta enorme colección incluye más de 40
-  herramientas para personalizar tu experiencia de desarrollo. ¡No te pierdas
-  esta increíble selección!
+  Desarrolladores web: descubre 40 extensiones de Chrome para mejorar tu
+  experiencia.
 ---
 
 

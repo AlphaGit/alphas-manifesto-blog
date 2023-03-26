@@ -1,18 +1,20 @@
 ---
-
 title: 'Link del día: Normalize CSS'
-date: '2011-06-03 13:55:30 +0000'
-date_gmt: '2011-06-03 15:55:30 +0000'
+date: 2011-06-03 13:55:30 +0000
+date_gmt: 2011-06-03 15:55:30 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- CSS
-- desarrollo web
-- experiencia del usuario
-- user experience
-- cross-browser
-
+  - CSS
+  - desarrollo web
+  - experiencia del usuario
+  - user experience
+  - cross-browser
+description: >-
+  Normalize CSS diferente a reset CSS, consistente, corrige errores, mejora
+  experiencia usuario.
 ---
+
 
 A pesar de lo que parece, [Normalize CSS](http://necolas.github.com/normalize.css/) no es lo mismo que reset CSS. El reset común vuelve todos los valores que los navegadores por defecto tienen distinto a 0, para que cualquier cambio que hagamos tenga el valor que nosotros asignemos.
 

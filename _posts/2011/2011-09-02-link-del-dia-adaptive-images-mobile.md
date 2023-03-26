@@ -1,19 +1,22 @@
 ---
-
 title: 'Link del día: Adaptive Images (mobile)'
-date: '2011-09-02 09:52:16 +0000'
-date_gmt: '2011-09-02 14:52:16 +0000'
+date: 2011-09-02 09:52:16 +0000
+date_gmt: 2011-09-02 14:52:16 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Imágenes
-- PHP
-- navegadores
-- librería
-- cookies
-- pantalla
-
+  - Imágenes
+  - PHP
+  - navegadores
+  - librería
+  - cookies
+  - pantalla
+description: >-
+  Servir imágenes con tamaño justo dependiendo del cliente, librería en PHP,
+  javascript carga cookie, configuración de imagen, workarounds, útil,
+  adaptativo.
 ---
+
 
 Nuevamente de la gente de [CSS Tricks](http://css-tricks.com/13982-adaptive-images/) me llega un dato de una librería muy útil. En este caso es [Adaptive Images](http://adaptive-images.com/), es una librería en PHP que nos permite servir imágenes con el tamaño justo dependiendo del tipo de cliente. No sólo se hace la diferenciación del tipo de cliente, sino del tamaño de la pantalla real.
 

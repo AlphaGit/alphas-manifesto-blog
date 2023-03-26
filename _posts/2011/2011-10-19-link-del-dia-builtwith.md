@@ -1,18 +1,20 @@
 ---
-
 title: 'Link del día: BuiltWith'
-date: '2011-10-19 09:47:58 +0000'
-date_gmt: '2011-10-19 14:47:58 +0000'
+date: 2011-10-19 09:47:58 +0000
+date_gmt: 2011-10-19 14:47:58 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- HTML
-- web application
-- framework
-- web 2.0
-
+  - JavaScript
+  - HTML
+  - web application
+  - framework
+  - web 2.0
+description: >-
+  Servicio web para obtener información sobre tecnologías de sitios web,
+  reportes pagos, curiosidad.
 ---
+
 
 [BuiltWith](http://builtwith.com/) es un servicio web que nos proporciona información sobre las tecnologías que soportan un determinado sitio. Más allá de sólo describir los módulos básicos de Apache y el tipo de servidor sobre el que se encuentre dicho sitio, nos comenta sobre varios tipos de utilización de contenido, como CDN, codificación, qué tipo de frameworks se están utilizando, qué tipo de CMS si se puede reconocer, librerías JavaScript, información sobre HTML si se encuentra disponible, y un poco más.
 

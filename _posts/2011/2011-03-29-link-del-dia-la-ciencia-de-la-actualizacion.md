@@ -14,9 +14,9 @@ tags:
   - instalación
   - actualización
 description: >-
-  Explora la instalación de Windows 1.0 a Windows 10 en una máquina virtual con
-  el video de @nanojaus. Descubre las mejores características para mejorar la
-  experiencia de instalación y añade tus ideas. ¡Sé un zorrinito instalador!
+  Experimento instalar Windows 1.0 a 10, mejorar experiencias, simplicidad,
+  información adecuada, progreso visible, acceso detalles, características
+  producto visibles.
 ---
 
 

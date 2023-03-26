@@ -1,17 +1,17 @@
 ---
-
 title: 'Link del día: 100 formas de hacer que las cosas se hagan'
-date: '2011-09-13 10:15:30 +0000'
-date_gmt: '2011-09-13 15:15:30 +0000'
+date: 2011-09-13 10:15:30 +0000
+date_gmt: 2011-09-13 15:15:30 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- productividad
-- email
-- artículo
-- consejos
-
+  - productividad
+  - email
+  - artículo
+  - consejos
+description: Consejos para aplicar Inbox Zero para una mayor productividad.
 ---
+
 
 Me encontré en Del.icio.us este interesante artículo (de agradable estética, dicho sea de paso), titulado [100 ways to get more done](http://regardingwork.com/2011/09/01/100-ways-to-get-more-done/), que es un buen listado de muchos consejos. Aunque no me encuentro de acuerdo con todos ellos, una gran mayoría son realmente útiles e interesantes para investigar.
 

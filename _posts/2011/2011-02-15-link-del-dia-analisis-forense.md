@@ -10,9 +10,8 @@ tags:
   - artículo
   - análisis forense
 description: >-
-  Aprende cómo usar la virtualización con VMWare para realizar análisis forense
-  y profiling de aplicaciones. Descubre herramientas de análisis y ejemplos para
-  ayudarte a entender el proceso. ¡No te pierdas la oportunidad!
+  Análisis forense, VMWare, virtualización, tutorial, herramientas, profiling,
+  detallado, oportunidad, virtualización, zorrinito forense.
 ---
 
 

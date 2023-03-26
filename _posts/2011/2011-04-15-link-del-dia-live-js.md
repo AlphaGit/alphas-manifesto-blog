@@ -9,11 +9,7 @@ tags:
   - HTML
   - CSS
   - desarrollo web
-description: >-
-  Aprende cómo optimizar tu trabajo con HTML usando Live.js, un script que
-  detecta cambios en el HTML, JavaScript y CSS en tiempo real para que puedas
-  ver los resultados en tu navegador. ¡Mejora tu productividad con dos
-  monitores!
+description: HTML trabajo automatizado con Live.js para productividad y diseño perfecto.
 ---
 
 

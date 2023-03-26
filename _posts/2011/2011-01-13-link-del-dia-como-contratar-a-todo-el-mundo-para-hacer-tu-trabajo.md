@@ -12,10 +12,8 @@ tags:
   - Amazon
   - Microsoft Word
 description: >-
-  Descubre cómo Amazon, con su servicio Mechanical Turk, ofrece un mercado para
-  llevar a cabo tareas de inteligencia humana. Mira el ejemplo de Soylent, un
-  plugin para Microsoft Word que te permite asignar tareas a través de la nube.
-  Lee más en BarraPunto.
+  Amazon Mechanical Turk provee tareas humanas para ganar dinero. Ejemplo:
+  Soylent plugin para Microsoft Word.
 ---
 
 

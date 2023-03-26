@@ -16,10 +16,8 @@ tags:
   - interfaz
   - demo
 description: >-
-  Descubre la nueva versión de Firefox 4 y sus características modernas como una
-  interfaz minimalista, soporte para nuevos estándares web y herramientas para
-  aprender y probar HTML5. Descarga Firefox 4 y ve el movimiento en tiempo real
-  de sus descargas.
+  Firefox 4 lanzado, 6.5 millones descargas, mejoras, tendencia minimalista,
+  HTML5 & Friends, Mozilla Demos.
 ---
 
 

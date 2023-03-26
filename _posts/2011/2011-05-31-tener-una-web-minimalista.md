@@ -1,17 +1,19 @@
 ---
-
 title: Tener una web minimalista...
-date: '2011-05-31 21:58:45 +0000'
-date_gmt: '2011-05-31 23:58:45 +0000'
+date: 2011-05-31 21:58:45 +0000
+date_gmt: 2011-05-31 23:58:45 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Twitter
-- design
-- email
-- web
-
+  - Twitter
+  - design
+  - email
+  - web
+description: >-
+  Twitter emails estilo web, simple, clara, información justa, barra superior,
+  nueva versión, zorrinito simplista.
 ---
+
 
 ... te permite hacer este tipo de cosas:
 

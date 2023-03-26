@@ -10,11 +10,7 @@ tags:
   - comic
   - API
   - search
-description: >-
-  Descubre cómo Google aproxima datos y refinarlos para obtener resultados
-  reales de búsqueda. Explora la API de búsqueda de Google y una herramienta que
-  todavía funciona para esos propósitos. ¿Los resultados de una búsqueda en
-  Google pueden ser un indicador de algo? Lee el blog del autor para saber más.
+description: Google search results used for XKCD jokes, API and tool discussed.
 ---
 
 

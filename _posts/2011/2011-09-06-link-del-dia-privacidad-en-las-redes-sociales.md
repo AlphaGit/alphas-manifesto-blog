@@ -1,17 +1,19 @@
 ---
-
 title: 'Link del día: Privacidad en las redes sociales'
-date: '2011-09-06 08:33:50 +0000'
-date_gmt: '2011-09-06 13:33:50 +0000'
+date: 2011-09-06 08:33:50 +0000
+date_gmt: 2011-09-06 13:33:50 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- privacidad
-- redes sociales
-- seguridad
-- manual
-
+  - privacidad
+  - redes sociales
+  - seguridad
+  - manual
+description: >-
+  Privacidad, redes sociales, preocupación, DragonJar, conceptos básicos,
+  seguridad, guías específicas, Facebook, MySpace, YouTube.
 ---
+
 
 Las redes sociales siempre fueron una preocupación en cuanto a la privacidad de los datos y la forma en la que fácilmente otras personas nos pueden engañar. De hecho, mientras mejor cumplan su trabajo, más peligrosas van a ser en este sentido.
 

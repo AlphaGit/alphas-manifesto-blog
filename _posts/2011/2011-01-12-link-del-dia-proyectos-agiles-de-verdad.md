@@ -12,9 +12,9 @@ tags:
   - planificación
   - programming
 description: >-
-  Descubre cómo Google Chrome maneja su ciclo de vida de desarrollo y cómo
-  logran mantener un proceso tan dinámico. Mira la presentación de Anthony
-  LaForge: Chrome Release Cycle.
+  Google Chrome Dev Channel, dinámico proceso de desarrollo, Anthony LaForge,
+  Chrome Release Cycle, adaptación de estrategia, tiempos y problemas,
+  resultados visibles, Woork, Zorrinito Apurado.
 ---
 
 

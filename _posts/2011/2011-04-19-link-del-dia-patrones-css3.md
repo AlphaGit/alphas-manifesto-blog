@@ -11,9 +11,8 @@ tags:
   - CSS3
   - galería
 description: >-
-  Descubre la magia de CSS3 creando patrones de fondos con código, interactúa
-  con la [CSS3 Pattern Gallery](http://leaverou.me/css3patterns/) de Lea Verou,
-  un blog sobre estándares webs y técnicas CSS.
+  Explorar galería CSS3 patrones interactiva, cambiar valores, practicar CSS3,
+  blog Lea Verou.
 ---
 
 

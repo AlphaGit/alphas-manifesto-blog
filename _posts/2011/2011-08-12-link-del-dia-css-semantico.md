@@ -1,17 +1,19 @@
 ---
-
 title: 'Link del día: CSS Semántico'
-date: '2011-08-12 12:27:27 +0000'
-date_gmt: '2011-08-12 14:27:27 +0000'
+date: 2011-08-12 12:27:27 +0000
+date_gmt: 2011-08-12 14:27:27 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- CSS
-- desarrollo web
-- web semántica
-- best practices
-
+  - CSS
+  - desarrollo web
+  - web semántica
+  - best practices
+description: >-
+  Class naming in CSS for changeability and semantics. Vague definitions and
+  flexible rules. Opinions? Zorrinito semántico.
 ---
+
 
 Desde [CSS Tricks](http://css-tricks.com/) (muy buen sitio de referencia, por cierto) me llegó un artículo llamado [What Makes for a Semantic Class Name?](http://css-tricks.com/13423-semantic-class-names/) Este tema parece algo tonto desde su concepción básica: "cómo nombrar clases de CSS". En un principio, realmente no importa cómo se llamen, si el estilo está bien, se verá bien y será como nosotros queremos.
 

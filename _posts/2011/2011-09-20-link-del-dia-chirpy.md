@@ -1,19 +1,21 @@
 ---
-
 title: 'Link del día: Chirpy'
-date: '2011-09-20 09:21:47 +0000'
-date_gmt: '2011-09-20 14:21:47 +0000'
+date: 2011-09-20 09:21:47 +0000
+date_gmt: 2011-09-20 14:21:47 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- CSS
-- desarrollo web
-- desarrollo
-- Visual Studio
-- plugin
-
+  - JavaScript
+  - CSS
+  - desarrollo web
+  - desarrollo
+  - Visual Studio
+  - plugin
+description: >-
+  Aprendí sobre Chirpy, herramienta open source para Visual Studio. Real time
+  minimizaciones, hojas de estilo y transformaciones.
 ---
+
 
 Ayer hablé un ratito más con JH y siendo que no hay una sola charla que pueda tener con él en donde no aprenda algo, me comentó de su más reciente descubrimiento: [Chirpy](http://chirpy.codeplex.com/).
 

@@ -1,18 +1,20 @@
 ---
-
 title: 'Link del día: Notificon'
-date: '2011-10-18 07:37:42 +0000'
-date_gmt: '2011-10-18 12:37:42 +0000'
+date: 2011-10-18 07:37:42 +0000
+date_gmt: 2011-10-18 12:37:42 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- desarrollo web
-- Safari
-- experiencia del usuario
-- user experience
-- favicon
-
+  - desarrollo web
+  - Safari
+  - experiencia del usuario
+  - user experience
+  - favicon
+description: >-
+  Github lanza Notificon para avisar usuario por favicon en navegadores, excepto
+  Safari.
 ---
+
 
 La gente de Github no me deja de sorprender, parece que siempre tuvieran algo nuevo. En este caso, me crucé con algo que no es demasiado funcional, pero sí muy interesante para lograr buenas interfaces de usuario.
 

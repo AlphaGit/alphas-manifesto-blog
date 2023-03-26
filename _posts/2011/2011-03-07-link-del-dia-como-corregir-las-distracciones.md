@@ -9,9 +9,8 @@ tags:
   - psicología
   - work
 description: >-
-  Descubre cómo Randall Munroe, creador de XKCD, controla las distracciones
-  prohibiendo el acceso directo a ellas. Esto reduce la satisfacción que uno
-  siente al seguirlas, hasta que naturalmente ya no nos atraen.
+  Controlar distracciones mediante dopamina, XKCD, prohibición inefectiva,
+  excusas mentales, dificultad para alcanzarlas, satisfacción desaparece.
 ---
 
 

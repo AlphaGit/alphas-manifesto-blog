@@ -13,9 +13,9 @@ tags:
   - Mac
   - Linux
 description: >-
-  Descubre Boks, una herramienta de Adobe Air para trabajar con Blueprint CSS de
-  forma visual y ayudar a los desarrolladores a crear diseños armoniosos y
-  esquematizados. ¡Zorrinito CSS a la vista!
+  Leyendo artículo sobre herramientas desarrolladores, Boks gratuita llama
+  atención. Framework CSS Blueprint visualmente con Boks. Aprendiendo utilizarlo
+  de forma profunda.
 ---
 
 

@@ -14,12 +14,8 @@ tags:
   - desarrollo
   - presentación
 description: >-
-  Aprende cómo escribir y probar código limpio con la charla [Google Tech
-  Talks](http://www.youtube.com/watch?v=XcT4yYu_TTs) y las diapositivas de [How
-  to write Clean and Testable Code
-  Slides](https://docs.google.com/present/view?id=0Abz6S2TvsDWSZDQ0OWdjaF8yNzdmYzZ3d2M5cw&amp;hl=en).
-  Descubre cómo AngularJS, un sistema de templating a través de JavaScript,
-  puede mejorar tu código. ¡Comparte tu experiencia!
+  Video charla sobre código limpio y testeable, diapositivas, AngularJS,
+  JavaScript, HTML, aplicaciones web, experiencias.
 ---
 
 

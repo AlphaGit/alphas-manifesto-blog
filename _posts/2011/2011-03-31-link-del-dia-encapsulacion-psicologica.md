@@ -13,9 +13,8 @@ tags:
   - encapsulación
   - confianza
 description: >-
-  ¿Qué significa la encapsulación psicológica en software? Descubre cómo puede
-  afectar tu productividad en este artículo sobre fiabilidad y confianza en el
-  software.
+  Software encapsulado, confianza, orientado a objetos, encapsulación
+  psicológica, fiabilidad, gusto, diseñar, open source, propietario, zorrinito.
 ---
 
 

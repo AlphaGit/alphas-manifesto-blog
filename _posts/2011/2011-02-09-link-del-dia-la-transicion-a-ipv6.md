@@ -11,11 +11,7 @@ tags:
   - IPv6
   - IPv4
   - IP
-description: >-
-  Descubre cómo la migración de IPv4 a IPv6 afectará la forma en que usamos
-  internet y cómo preparar tu empresa para el día IPv6 mundial. Entérate de qué
-  pasó con la versión 5 de IP y explora el artículo de Bitelia para obtener más
-  información.
+description: Migración a IPv6, día mundial 8 Junio, qué pasó con IPv5.
 ---
 
 

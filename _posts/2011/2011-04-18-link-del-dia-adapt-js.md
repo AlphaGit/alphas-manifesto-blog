@@ -10,9 +10,8 @@ tags:
   - desarrollo web
   - herramientas
 description: >-
-  Descubre cómo Adapt.js te ayuda a cargar CSS condicionalmente según el tamaño
-  de la pantalla, permitiéndote adaptar tu sitio web para que se vea bien en
-  cualquier dispositivo, desde pantallas grandes a móviles.
+  JavaScript, Adapt.js, cargar CSS, navegador, pantalla, dispositivos móviles,
+  monitores grandes, visualización, adaptativo, zorrinito.
 ---
 
 

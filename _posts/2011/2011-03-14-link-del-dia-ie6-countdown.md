@@ -14,9 +14,8 @@ tags:
   - MicroSiervos
   - interfaz
 description: >-
-  Actualiza tu navegador web y disfruta de la moderna y mejorada interfaz de
-  Internet Explorer 9. Descarga la última versión en Beauty Of The Web y únete a
-  la campaña "Internet Explorer 6 Countdown" de Microsoft.
+  Microsoft lanza campaña para deshacerse de IE6; IE9 con HTML5 y mejoras
+  visuales.
 ---
 
 

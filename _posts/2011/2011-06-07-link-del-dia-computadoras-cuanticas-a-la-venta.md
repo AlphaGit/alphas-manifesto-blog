@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Computadoras cuánticas, a la venta'
-date: '2011-06-07 12:35:16 +0000'
-date_gmt: '2011-06-07 14:35:16 +0000'
+date: 2011-06-07 12:35:16 +0000
+date_gmt: 2011-06-07 14:35:16 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- ciencia
-- negocios
-- MicroSiervos
-- computación cuántica
-
+  - ciencia
+  - negocios
+  - MicroSiervos
+  - computación cuántica
+description: >-
+  Computación cuántica entró al mundo de los negocios, 10 millones de dólares,
+  128 qubits, instalación un mes, interesante, pronto modelos más alcanzables,
+  D-Wave One documentos explicando ciencia, papers de reconocimiento.
 ---
+
 
 Quería dejar pasar un poco más de tiempo para poder indagar en detalle sobre esto, pero aparentemente no hay demasiada información, o al menos no más allá de lo que los fabricantes disponen para el público.
 

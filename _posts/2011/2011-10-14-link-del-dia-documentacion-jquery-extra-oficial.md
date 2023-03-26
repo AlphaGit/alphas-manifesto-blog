@@ -1,17 +1,19 @@
 ---
-
 title: 'Link del día: Documentación jQuery extra-oficial'
-date: '2011-10-14 06:57:16 +0000'
-date_gmt: '2011-10-14 11:57:16 +0000'
+date: 2011-10-14 06:57:16 +0000
+date_gmt: 2011-10-14 11:57:16 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- desarrollo web
-- jQuery
-- documentación
-
+  - JavaScript
+  - desarrollo web
+  - jQuery
+  - documentación
+description: >-
+  Encontré dos fuentes de documentación jQuery, Visual jQuery y jQAPI, con
+  navegación y ejemplos útiles.
 ---
+
 
 Me encontré con dos fuentes de documentación extra-oficial de jQuery, con lo cual, por supuesto, pueden estar desactualizados y hasta incorrectos. Pero lo interesante de ellos es que nos ofrecen una navegación un poco distinta que la que la documentación original nos ofrece.
 

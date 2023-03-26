@@ -1,17 +1,17 @@
 ---
-
 title: 'Link del día: Demos HTML5 prácticas'
-date: '2011-10-31 07:05:24 +0000'
-date_gmt: '2011-10-31 12:05:24 +0000'
+date: 2011-10-31 07:05:24 +0000
+date_gmt: 2011-10-31 12:05:24 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- HTML5
-- Technology
-- demo
-- referencia
-
+  - HTML5
+  - Technology
+  - demo
+  - referencia
+description: Galería de ejemplos HTML5, características, referencia, dónde usar, dónde no.
 ---
+
 
 Cuando se viene el momento de implementar cosas en HTML5 puede que nos demos cuenta que nuestro conocimiento del mismo no es lo suficientemente profundo aún como para poder utilizarlo de una forma autónoma. Esto es, todavía nos falta algo de práctica y de separación de conceptos para tener todo claro y simple en nuestra cabeza. Lo mejor para estos casos sería sin duda un manual de referencia con ejemplos cortitos, y eso es lo que alguien más pensó para hacer esta galería de demos.
 
