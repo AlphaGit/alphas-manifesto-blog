@@ -9,11 +9,8 @@ tags:
   - película
   - teorema
 description: >-
-  Descubre cómo películas y el mundo de las matemáticas están relacionados.
-  Revisa la sección de salas en MathsMovies para ver diversas categorías y
-  ejemplos de películas, como Little Tate, Primer y la saga de El Cubo, así como
-  referencias matemáticas en Futurama. ¡Comparte tu conocimiento sobre Cine y
-  Matemáticas!
+  Sitio web recopila datos sobre películas relacionadas a matemáticas, Futurama
+  y El Cubo mencionadas, Cine y Matemática recopila información.
 ---
 
 

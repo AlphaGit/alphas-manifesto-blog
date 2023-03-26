@@ -1,18 +1,20 @@
 ---
-
 title: 'Link del día: Mockups iPhone, funcionales!'
-date: '2011-05-23 12:24:09 +0000'
-date_gmt: '2011-05-23 14:24:09 +0000'
+date: 2011-05-23 12:24:09 +0000
+date_gmt: 2011-05-23 14:24:09 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- HTML
-- web application
-- iPhone
-- experiencia del usuario
-- simpleza
-
+  - HTML
+  - web application
+  - iPhone
+  - experiencia del usuario
+  - simpleza
+description: >-
+  Crear elementos gráficos para iPhone, intuitivo, fácil, verificar en iPhone,
+  guardar HTML, usar producto, todo con un click.
 ---
+
 
 Acordándome de cuando hablé de _Create Free iPhone Apps_, quería charlar sobre esta aplicación web llamada [Mokk.me](http://mokk.me/), una aplicación que nos permite visualmente construir elementos de un diseño gráfico para iPhone y personalizar esos elementos a gusto.
 

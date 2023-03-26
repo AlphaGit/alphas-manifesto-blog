@@ -10,10 +10,7 @@ tags:
   - visualización
   - experiencia del usuario
   - user experience
-description: >-
-  Descubre cómo usar Flash y Silverlight para mejorar la experiencia de usuario
-  de tus aplicaciones, con Pretty Loaded, la galería de pre-cargadores con los
-  mejores ejemplos.
+description: Google indexa sitios Flash, Pretty Loaded muestra pre-cargadores ejemplos.
 ---
 
 

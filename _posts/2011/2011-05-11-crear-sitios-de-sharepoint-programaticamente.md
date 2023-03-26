@@ -13,7 +13,6 @@ tags:
 - SharePoint
 - métodos de extensión
 - singleton
-
 ---
 
 ## El objetivo

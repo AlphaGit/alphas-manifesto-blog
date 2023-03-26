@@ -10,8 +10,8 @@ tags:
   - Eclipse
   - ninja
 description: >-
-  Mejora tu productividad y práctica de Test Driven Design con TDGotchi: una
-  mascota virtual para darle un toque interesante a tus procesos tediosos.
+  Aprende TDD con TDGotchi, una mascota virtual divertida para mejorar
+  concentración y productividad.
 ---
 
 

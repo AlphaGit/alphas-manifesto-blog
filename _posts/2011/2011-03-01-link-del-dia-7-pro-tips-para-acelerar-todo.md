@@ -8,10 +8,7 @@ tags:
   - productividad
   - MicroSiervos
   - artículo
-description: >-
-  Maximiza tu productividad con el ordenador: descubre 7 formas de automatizar
-  tu trabajo para centrarte en lo que realmente importa. Conoce herramientas
-  para delegar tareas sin necesidad de saber programar.
+description: Automatizar tareas repetitivas para ganar tiempo en ordenador sin programar.
 ---
 
 

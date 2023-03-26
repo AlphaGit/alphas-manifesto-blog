@@ -11,10 +11,8 @@ tags:
   - artículo
   - ingeniería social
 description: >-
-  Descubre cómo la ingeniería social y el datamining pueden ayudar a conocer
-  mejor a tu pareja en una primera cita y cómo esto podría aplicarse a la
-  seguridad. OkCupid publicó un artículo sobre los mejores preguntas para una
-  primera cita. ¡Leélo ahora!
+  Análisis OkCupid para descubrir preguntas útiles en primera cita, relación con
+  seguridad.
 ---
 
 

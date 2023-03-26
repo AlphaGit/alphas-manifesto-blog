@@ -1,21 +1,21 @@
 ---
-
 title: 'Link del día: Clases en Stanford'
-date: '2011-08-19 12:19:08 +0000'
-date_gmt: '2011-08-19 14:19:08 +0000'
+date: 2011-08-19 12:19:08 +0000
+date_gmt: 2011-08-19 14:19:08 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- bases de datos
-- databases
-- inteligencia artificial
-- MicroSiervos
-- online
-- aprendizaje
-- cursos
-- training
-
+  - bases de datos
+  - databases
+  - inteligencia artificial
+  - MicroSiervos
+  - online
+  - aprendizaje
+  - cursos
+  - training
+description: Stanford ofrece cursos online con certificación firmada por profesores.
 ---
+
 
 Ya hemos hablado mucho de educación online con las distintas posibilidades que la internet ofrece a través de videos, podcasts y demás multimedia. Sin embargo, por lo general es raro que las instituciones que crean este contenido se vinculen demasiado con los consumidores de dicho contenido.
 

@@ -1,16 +1,16 @@
 ---
-
 title: 'Link del día: Typography Deconstructed'
-date: '2011-05-04 12:51:12 +0000'
-date_gmt: '2011-05-04 14:51:12 +0000'
+date: 2011-05-04 12:51:12 +0000
+date_gmt: 2011-05-04 14:51:12 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- análisis
-- tipografía
-- diseño gráfico
-
+  - análisis
+  - tipografía
+  - diseño gráfico
+description: 'Explorar tipografía: elementos, características, ejemplos, poster, online.'
 ---
+
 
 Para aquellos interesados en el mundo del diseño gráfico, aquí me llega un elemento muy importante en la forma de analizar el texto en los diseños: la forma de elegir la tipografía, pero en este caso, analizando cuáles son los elementos en particular que hacen a una tipografía distinta de otra, y qué características tiene cada una que la hace única.
 

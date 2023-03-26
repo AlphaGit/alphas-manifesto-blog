@@ -11,10 +11,8 @@ tags:
   - dispositivos móviles
   - aplicación móvil
 description: >-
-  Conozca Color, la aplicación móvil que nos permite compartir con otras
-  personas lo que hemos visto en un evento, permitiéndonos ver los detalles que
-  nos perdimos. ¡Es como hacer social en el mundo virtual lo que ya es social en
-  el mundo real!
+  Compartir eventos virtualmente, localización, capturar detalles, concepto
+  interesante, aplicaciones directas.
 ---
 
 

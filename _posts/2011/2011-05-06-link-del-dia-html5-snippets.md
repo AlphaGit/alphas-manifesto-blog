@@ -1,18 +1,18 @@
 ---
-
 title: 'Link del día: HTML5 Snippets'
-date: '2011-05-06 12:36:52 +0000'
-date_gmt: '2011-05-06 14:36:52 +0000'
+date: 2011-05-06 12:36:52 +0000
+date_gmt: 2011-05-06 14:36:52 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- CSS
-- desarrollo web
-- HTML5
-- CSS3
-
+  - JavaScript
+  - CSS
+  - desarrollo web
+  - HTML5
+  - CSS3
+description: Explorar HTML5 con snippets, JSFiddle, ayudando a crecer.
 ---
+
 
 Todavía me encuentro intentando aplicar los conceptos nuevos de HTML5 en algún proyecto, y  dsafortunadamente todavía no he encontrado la oportunidad. Pero sé que al momento de hacerlo, voy a dudar y voy a necesitar cierta ayuda para poder trabajar con sus nuevas características y cómo ellas se reflejan en resultados tangibles.
 

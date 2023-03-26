@@ -1,16 +1,18 @@
 ---
-
 title: 'Link del día: Buenas Prácticas UX'
-date: '2011-11-08 09:45:06 +0000'
-date_gmt: '2011-11-08 14:45:06 +0000'
+date: 2011-11-08 09:45:06 +0000
+date_gmt: 2011-11-08 14:45:06 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- experiencia del usuario
-- user experience
-- preguntas
-
+  - experiencia del usuario
+  - user experience
+  - preguntas
+description: >-
+  Foro UX Stack Exchange preguntas útiles, pet peeves, gotchas, bases UX,
+  análisis, adiciones, leer, compartir, buena experiencia.
 ---
+
 
 Encontré tres preguntas particularmente útiles en el foro de [UX de Stack Exchange](http://ux.stackexchange.com), las cuales son:
 

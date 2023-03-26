@@ -14,11 +14,8 @@ tags:
   - CSS3
   - iPad
 description: >-
-  ¡Descubre el simulador de iPad hecho en CSS y JS! Prueba todas las funciones:
-  moverse sobre las pantallas, botón de Sleep, botón de Power, cambiar la
-  posición de los iconos, borrar aplicaciones, Safari, Lock/Unlock y Búsqueda.
-  Por Altyrne, creador de experimentos con navegadores, JavaScript, HTML5, CSS3
-  y jQuery.
+  Simulador de iPad hecho con CSS y JS; prueba funcionalidades; Altyrne blog
+  experimentos JavaScript, HTML5, CSS3.
 ---
 
 

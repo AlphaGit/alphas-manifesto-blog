@@ -8,12 +8,7 @@ tags:
   - JavaScript
   - desarrollo web
   - navegadores
-description: >-
-  Aprende a "hackear" archivos JavaScript para crear nuevas funcionalidades o
-  sobreescribir las existentes en los navegadores. Explora una gran fuente de
-  conocimiento y descubre cómo crear gráficos, reproducir MIDI desde el
-  navegador y mucho más. ¿Tienes lo que se necesita? ¡Prueba tu destreza con
-  JavaScript!
+description: Hacking JavaScript para añadir funcionalidades, aprender, ¡y Felices Pascuas!
 ---
 
 

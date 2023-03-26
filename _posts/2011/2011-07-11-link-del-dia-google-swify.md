@@ -1,17 +1,19 @@
 ---
-
 title: 'Link del día: Google Swify'
-date: '2011-07-11 11:21:36 +0000'
-date_gmt: '2011-07-11 13:21:36 +0000'
+date: 2011-07-11 11:21:36 +0000
+date_gmt: 2011-07-11 13:21:36 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Google
-- JavaScript
-- HTML5
-- Flash
-
+  - Google
+  - JavaScript
+  - HTML5
+  - Flash
+description: >-
+  Google Swify convierte archivos Flash a HTML5, mejorando accesibilidad en
+  plataformas.
 ---
+
 
 De la gama de productos Google que todavía están en beta y en laboratorios (una buena cantidad), ahora tenemos a [Google Swify](http://swiffy.googlelabs.com/), cuya funcionalidad es tomar archivos de Flash para convertirlos a HTML5.
 

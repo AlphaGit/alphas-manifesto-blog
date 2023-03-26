@@ -1,16 +1,16 @@
 ---
-
 title: 'Link del día: Plataformas de Cloud presentes y por venir'
-date: '2011-05-02 13:20:19 +0000'
-date_gmt: '2011-05-02 15:20:19 +0000'
+date: 2011-05-02 13:20:19 +0000
+date_gmt: 2011-05-02 15:20:19 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- cloud computing
-- PaaS
-
+  - cloud computing
+  - PaaS
+description: Listado de productos PaaS, gratuitos y de prueba, actualizado.
 ---
+
 
 Este link de hoy no es tan sustancial como el resto de los que estamos acostumbrados, pero no por eso deja de ser útil. En este caso, es un listado que productos [Platform as a Service (PaaS)](http://en.wikipedia.org/wiki/Platform_as_a_service). No todos son pagos, y algunos pagos tienen free trials, si a alguno le interesa probar alguna aproximación de computación distribuída, esta es su oportunidad.
 

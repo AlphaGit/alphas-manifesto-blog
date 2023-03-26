@@ -8,11 +8,7 @@ tags:
   - problema
   - MicroSiervos
   - artículo
-description: >-
-  Aprende a resolver los problemas técnicos inexplicables con estos 10 consejos
-  útiles. Descubre cómo solucionar los problemas de la forma más rápida y
-  efectiva para evitar frustración. ¡Aprovecha este aprendizaje que paga
-  rápidamente!
+description: 'Resolver problemas técnicos inexplicables: 10 consejos para ayudar.'
 ---
 
 

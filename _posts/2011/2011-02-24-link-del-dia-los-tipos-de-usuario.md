@@ -9,9 +9,8 @@ tags:
   - artículo
   - usuario
 description: >-
-  Conoce los 5 tipos de usuarios de informática a los que suele enfrentarse un
-  profesional de TI. En [En Español](http://www.enespanol.com.ar) te mostramos
-  qué actitud es la adecuada para cada uno. ¡Descúbrelos!
+  Gente informática, usuarios finales, distintas actitudes, 5 tipos usuarios
+  infierno, entendimiento recomendado.
 ---
 
 

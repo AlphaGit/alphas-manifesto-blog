@@ -12,10 +12,8 @@ tags:
   - user experience
   - videogame
 description: >-
-  Descubre los conceptos fundamentales detrás de los buenos tutoriales de
-  videojuegos según Extra Credits. Infórmate sobre menos texto y más
-  interacción, feedback de usuarios reales, y sobre cómo hacerlos interesantes y
-  divertidos.
+  Tutorials 101: menos texto, interacción, interesante, divertido, feedback,
+  salto, ayuda, usuarios, reales, aprendizaje.
 ---
 
 

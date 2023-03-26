@@ -11,9 +11,8 @@ tags:
   - artículo
   - generación de código
 description: >-
-  Aprende cómo usar la generación automática de código para crear programas más
-  eficientes y efectivos. Combínala con programación procedural y algoritmos
-  genéticos y verás los resultados.
+  Explicación lenta y paso a paso de generación automática de código C# con
+  algoritmos genéticos.
 ---
 
 

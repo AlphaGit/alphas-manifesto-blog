@@ -1,17 +1,19 @@
 ---
-
 title: 'Link del día: Multiversiones IE'
-date: '2011-09-09 08:59:30 +0000'
-date_gmt: '2011-09-09 13:59:30 +0000'
+date: 2011-09-09 08:59:30 +0000
+date_gmt: 2011-09-09 13:59:30 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- testing
-- Internet Explorer
-- Firefox
-- cross-browser
-
+  - testing
+  - Internet Explorer
+  - Firefox
+  - cross-browser
+description: >-
+  Testing IE versions con Utilu IE Collection y Firefox con Utilu Mozilla
+  Firefox Collection.
 ---
+
 
 Alguna vez les conté de Xenocode, una suerte de plugins que ejecutándose virtualizaban distintas versiones de Internet Explorer (aunque me pregunto en dónde dejé ese artículo). Ahora que no está más disponible, entre nuestras opciones disponibles para hacer testing de IE está [Utilu IE Collection](http://utilu.com/IECollection/), un conjunto de versiones standalone de Internet explorer (desde la 2.0!) para poder utilizar en nuestro testing de cross-browsing.
 

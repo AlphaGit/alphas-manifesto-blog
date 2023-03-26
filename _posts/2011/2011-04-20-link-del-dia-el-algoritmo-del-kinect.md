@@ -11,9 +11,8 @@ tags:
   - gaming
   - paper
 description: >-
-  Descubre el algoritmo detrás del Kinect que Microsoft acaba de revelar en un
-  paper reciente. Conoce cómo se hace el reconocimiento de gestos y ¡sé el
-  próximo en armar tu aplicación Kinect-like!
+  Microsoft reveló algoritmo Kinect para reconocimiento gestos. Paper publicado
+  sobre reconocimiento humano desde imágenes. ¿Quién será el próximo?
 ---
 
 
