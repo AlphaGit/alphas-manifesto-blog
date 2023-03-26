@@ -10,7 +10,6 @@ tags:
 - Música
 - poster
 subtitle: using Queen.GreatestHits;
-
 ---
 
 ![]({{ site.baseurl }}/assets/posterBohemianRhapsodyCS.png)

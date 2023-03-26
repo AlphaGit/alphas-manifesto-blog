@@ -14,7 +14,6 @@ tags:
 - motivación
 - rutina
 subtitle: Las técnicas de John Resig y mis resultados
-
 ---
 
 ![]({{ site.baseurl }}/assets/Calendar_marked.png)

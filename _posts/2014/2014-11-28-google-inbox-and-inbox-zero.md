@@ -13,7 +13,6 @@ tags:
 - Google Inbox
 - methodologies
 subtitle: I'm so on board, this is why
-
 ---
 
 ![]({{ site.baseurl }}/assets/Inbox.png)

@@ -1,27 +1,21 @@
 ---
 excerpt_separator: <!--more-->
 title: Dealing with "unreasonable" clients
-date: 2017-03-20 20:26:33 +0000
-date_gmt: 2017-03-21 01:26:33 +0000
+date: '2017-03-20 20:26:33 +0000'
+date_gmt: '2017-03-21 01:26:33 +0000'
 categories:
-  - Projects
-  - Technology
+- Projects
+- Technology
 tags:
-  - management
-  - project management
-  - commented
-  - technical debt
-  - customer
-  - client
-  - money
+- management
+- project management
+- commented
+- technical debt
+- customer
+- client
+- money
 subtitle: Customer management
-description: >-
-  Discover why it is important to have good communication with your customer in
-  order to understand their needs and make the right decisions when it comes to
-  software development. Learn how to assess what your customer wants and how to
-  make sure it aligns with their goal.
 ---
-
 
 ![]({{ site.baseurl }}/assets/StickFigure.png)
 

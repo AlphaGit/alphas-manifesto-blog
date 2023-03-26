@@ -21,7 +21,6 @@ tags:
 - proceso
 - Scrum
 subtitle: Proyecto final y producto real
-
 ---
 
 ![]({{ site.baseurl }}/assets/commonJobs.png)

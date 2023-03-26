@@ -2,20 +2,13 @@
 excerpt_separator: <!--more-->
 title: Practical Statistics for data scientists
 categories:
-  - Books
+    - Books
 tags:
-  - data science
-  - statistics
-  - books
+    - data science
+    - statistics
+    - books
 subtitle: Book review
-description: >-
-  A must-have book for data scientists & statisticians - Practical Statistics
-  for Data Scientists by Peter & Andrew Bruce. Learn Exploratory Data Analysis,
-  Data & Sampling Distributions, Statistical Experiments & Significance Testing,
-  Regression & Prediction, Classification & more. Includes R examples & quick
-  strategies for data cleanup.
 ---
-
 
 ![Practical Statistics for data Scientists]({{ site.baseurl }}/assets/practical-statistics-ds-cover.jpg)
 

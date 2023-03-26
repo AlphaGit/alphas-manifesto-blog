@@ -1,24 +1,19 @@
 ---
 excerpt_separator: <!--more-->
 title: Taming your tools
-date: 2016-02-28 16:02:35 +0000
-date_gmt: 2016-02-28 22:02:35 +0000
+date: '2016-02-28 16:02:35 +0000'
+date_gmt: '2016-02-28 22:02:35 +0000'
 categories:
-  - Projects
-  - Technology
+- Projects
+- Technology
 tags:
-  - Technology
-  - IDE
-  - TDD
-  - productivity
-  - learning
-  - tool
-description: >-
-  Learn to use the right tools for the job and understand them to the point
-  where you can tell when something is wrong. Discover why some tools are better
-  than others and how to use them to make your work easier and more reliable.
+- Technology
+- IDE
+- TDD
+- productivity
+- learning
+- tool
 ---
-
 
 ![]({{ site.baseurl }}/assets/whip.png)
 

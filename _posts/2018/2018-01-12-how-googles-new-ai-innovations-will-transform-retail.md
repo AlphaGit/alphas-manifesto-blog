@@ -10,28 +10,21 @@ author:
     - title: Y Media Labs
       url: https://ymedialabs.com/
       icon: fas fa-link
-date: 2018-01-12 20:19:58 +0000
-date_gmt: 2018-01-13 01:19:58 +0000
+date: '2018-01-12 20:19:58 +0000'
+date_gmt: '2018-01-13 01:19:58 +0000'
 categories:
-  - Technology
-  - AI
+- Technology
+- AI
 tags:
-  - Google
-  - artificial intelligence
-  - machine learning
-  - retail
-  - e-commerce
-  - Google I/O
-  - Google Lens
+- Google
+- artificial intelligence
+- machine learning
+- retail
+- e-commerce
+- Google I/O
+- Google Lens
 subtitle: by Rae Steinbach, in cooperation with Y Media Labs
-description: >-
-  Explore how businesses can leverage Google's AI & machine learning
-  technologies to create a more convenient and intuitive customer experience.
-  Learn how retailers can use Google's AI vision and voice technology to
-  facilitate transactions, store items in universal carts, and provide
-  audio/visual elements.
 ---
-
 
 ![]({{ site.baseurl }}/assets/googleimg.jpg)
 

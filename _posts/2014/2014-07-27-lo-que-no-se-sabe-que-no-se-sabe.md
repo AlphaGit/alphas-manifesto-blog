@@ -15,7 +15,6 @@ tags:
 - ignoracia
 - epistemología
 subtitle: Manejo del conocimiento, parte 2
-
 ---
 
 > Temo por cualquiera atrapado entre lo que sabe y lo que todavía no sabe que no sabe.

@@ -1,30 +1,25 @@
 ---
 excerpt_separator: <!--more-->
 title: 'My sh*tpost generator: screaming-bot'
-date: 2018-07-29 14:53:11 +0000
-date_gmt: 2018-07-29 18:53:11 +0000
+date: '2018-07-29 14:53:11 +0000'
+date_gmt: '2018-07-29 18:53:11 +0000'
 categories:
-  - Projects
-  - AI
+- Projects
+- AI
 tags:
-  - humor
-  - Tumblr
-  - bot
-  - text generation
-  - docker
-  - python
-  - nltk
-  - markov
-  - markov chain
-  - Tumblr API
-  - shitpost
+- humor
+- Tumblr
+- bot
+- text generation
+- docker
+- python
+- nltk
+- markov
+- markov chain
+- Tumblr API
+- shitpost
 subtitle: Text generation with nltk, markovify, Tumblr, docker
-description: >-
-  Discover how to create your own screaming robot with NLTK, Markovify, Tumblr
-  and Docker. Generate hilarious nonsense posts with the help of this fun
-  tutorial!
 ---
-
 
 ![]({{ site.baseurl }}/assets/20120227-robotthatscreams-1.png)
 

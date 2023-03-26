@@ -1,25 +1,19 @@
 ---
 excerpt_separator: <!--more-->
 title: 'Preventing an AI arms race: open research'
-date: 2018-05-30 19:58:57 +0000
-date_gmt: 2018-05-30 23:58:57 +0000
+date: '2018-05-30 19:58:57 +0000'
+date_gmt: '2018-05-30 23:58:57 +0000'
 categories:
-  - AI
+- AI
 tags:
-  - artificial intelligence
-  - open software
-  - news
-  - research
-  - AI
-  - open research
+- artificial intelligence
+- open software
+- news
+- research
+- AI
+- open research
 subtitle: Secrecy is the halt of humanity's progress
-description: >-
-  AI research is advancing rapidly, and OpenAI is a response to the potential
-  risks of some nations or corporations taking advantage. Recently, AI
-  researchers have spoken up against the opacity in research journals,
-  advocating for research and technology to benefit all humanity.
 ---
-
 
 ![]({{ site.baseurl }}/assets/papers.png)
 

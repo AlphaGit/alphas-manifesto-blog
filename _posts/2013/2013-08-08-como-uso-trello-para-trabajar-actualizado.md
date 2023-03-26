@@ -14,7 +14,6 @@ tags:
 - Trello
 - estrategia
 subtitle: Cambios a mi flujo de trabajo para más productividad
-
 ---
 
 ![]({{ site.baseurl }}/assets/TrelloWorkUpdated.jpg)
