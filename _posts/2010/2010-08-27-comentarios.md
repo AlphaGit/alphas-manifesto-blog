@@ -1,5 +1,6 @@
 ---
 
+
 title: Comentarios
 date: '2010-08-27 19:51:47 +0000'
 date_gmt: '2010-08-27 21:51:47 +0000'
@@ -7,6 +8,7 @@ categories:
 - Miscelaneous
 tags: []
 ---
+
 
 Hola, sí, qué tal?
 

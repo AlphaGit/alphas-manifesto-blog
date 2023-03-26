@@ -1,5 +1,6 @@
 ---
 
+
 title: Alpha's Manifesto ahora tiene menú configurable
 date: '2013-03-12 23:24:53 +0000'
 date_gmt: '2013-03-13 04:24:53 +0000'
@@ -17,6 +18,7 @@ tags:
 subtitle: Y cómo agregar propiedades a menús
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/configurableMenu.jpg)
 

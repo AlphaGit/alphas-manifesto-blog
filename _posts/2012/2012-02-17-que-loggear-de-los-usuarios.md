@@ -1,5 +1,6 @@
 ---
 
+
 title: " ¿Qué loggear de los usuarios?"
 date: '2012-02-17 11:55:25 +0000'
 date_gmt: '2012-02-17 16:55:25 +0000'
@@ -14,6 +15,7 @@ tags:
 subtitle: Orientado a mejorar la experiencia del usuario
 
 ---
+
 
 Un problema común en cuanto a mejorar la experiencia del usuario es que muchas veces no se sabe cuál es el problema, o cómo los usuarios interactúan con la aplicación. Si bien algo de eso mencionamos cuando hablamos de [22 herramientas para mejorar la usabilidad]({{ site.baseUrl }}{% link _posts/2012/2012-02-14-22-herramientas-para-probar-usabilidad.md %}), hoy el problema es interno de la aplicación, y se trata de loggear las acciones de los usuarios para identificar qué necesita mejora.
 

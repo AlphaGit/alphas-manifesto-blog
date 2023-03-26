@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: IE9, bien encaminado'
 date: '2010-05-12 10:46:22 +0000'
 date_gmt: '2010-05-12 12:46:22 +0000'
@@ -12,6 +13,7 @@ tags:
 - desarrollo
 - navegadores
 ---
+
 
 Llamó mi atención un artículo en SixRevisions llamado [Five Things IE9 is (Actually) Doing Right](http://sixrevisions.com/web-development/five-things-ie9-is-actually-doing-right/), y me sorprendió leer que este navegador está tomando un rumbo muy interesante. Más allá de personalmente creer que no llega al nivel de usabilidad que logran otros navegadores (aunque es una opinión personal), realmente está dando un giro refrescante.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: La belleza entra por los ojos
 date: '2012-06-06 09:56:17 +0000'
 date_gmt: '2012-06-06 14:56:17 +0000'
@@ -19,6 +20,7 @@ tags:
 subtitle: Una historia real
 
 ---
+
 
 Una muy bonita anécdota que tenemos para contar cómo nuestro trabajo en User Experience comienza a dar sus frutos es una historia que a [César](https://twitter.com/#!/cesardonofrio) le gusta contar, específicamente por la fuerza que esta historia tiene.
 

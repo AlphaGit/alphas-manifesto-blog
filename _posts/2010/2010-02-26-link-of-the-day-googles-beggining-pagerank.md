@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link of the day: Google''s beggining & PageRank'
 date: '2010-02-26 11:52:56 +0000'
 date_gmt: '2010-02-26 13:52:56 +0000'
@@ -12,6 +13,7 @@ tags:
 - desarrollo web
 - investigación
 ---
+
 
 I think that most of you already know the story: [Google](http://www.google.com) started as an academic project, and in that project, they introduced several new ideas that were used to detect the "relevant" pages among a great number of them. That is what we today know as PageRank.
 

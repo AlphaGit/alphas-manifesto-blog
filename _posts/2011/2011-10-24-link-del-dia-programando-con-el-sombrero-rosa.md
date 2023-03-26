@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Programando con el sombrero rosa'
 date: '2011-10-24 10:20:48 +0000'
 date_gmt: '2011-10-24 15:20:48 +0000'
@@ -14,6 +15,7 @@ tags:
 - methodologies
 
 ---
+
 
 La gente de [Babcock y Jenkins](http://www.bnj.com/) escribió un artículo sobre una actividad que ellos denominan "Coybow coding", que como lo pueden imaginar, tiene que ver con la codificación temeraria. En este caso, se trata sobre la programación o remediación de defectos directa en servidores de producción. Su artículo se titula [Cowboy Coding and the Pink Sombrero](http://www.bnj.com/cowboy-coding-pink-sombrero/).
 

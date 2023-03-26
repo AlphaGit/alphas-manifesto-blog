@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Cómo esconder passwords públicamente'
 date: '2010-05-03 11:04:49 +0000'
 date_gmt: '2010-05-03 13:04:49 +0000'
@@ -11,6 +12,7 @@ tags:
 - passwords
 - esteganografía
 ---
+
 
 últimamente se ha puesto de moda una buena idea que la gente de [PasswordCard](http://passwordcard.org/) ha propuesto. PasswordCard es la idea de tener una tarjeta de colores y símbolos y una combinación de letras mayúsculas, minúsculas y números.
 

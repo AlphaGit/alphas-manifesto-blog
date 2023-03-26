@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Faceted searches with MongoDB and mongoose
 date: 2015-01-03 17:13:04 +0000
@@ -20,6 +21,7 @@ description: >-
   mongo-faceted. Learn what faceted search is and its best practices, plus see a
   live example with this library.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/mongo-faceted-logo-300x290.png)

@@ -1,5 +1,6 @@
 ---
 
+
 title: Los favoritos
 date: '2013-05-12 10:16:43 +0000'
 date_gmt: '2013-05-12 15:16:43 +0000'
@@ -19,6 +20,7 @@ tags:
 subtitle: El fenómeno 2.0 del soporte y el gusto personal
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/Favorites.jpg)
 

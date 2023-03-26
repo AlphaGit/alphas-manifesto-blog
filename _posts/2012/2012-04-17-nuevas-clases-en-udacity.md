@@ -1,5 +1,6 @@
 ---
 
+
 title: Nuevas clases en Udacity
 date: '2012-04-17 09:09:51 +0000'
 date_gmt: '2012-04-17 14:09:51 +0000'
@@ -17,6 +18,7 @@ tags:
 - udacity
 
 ---
+
 
 Hace unos días me llegó un email sobre Udacity (del cual [yo ya había hablado]({{ site.baseUrl }}{% link _posts/2012/2012-01-31-udacity.md %})) avisando que hay nuevas clases disponibles allí.
 

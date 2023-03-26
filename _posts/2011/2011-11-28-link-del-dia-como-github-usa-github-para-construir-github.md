@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Cómo GitHub usa GitHub para construir GitHub'
 date: '2011-11-28 08:58:42 +0000'
 date_gmt: '2011-11-28 13:58:42 +0000'
@@ -13,6 +14,7 @@ tags:
 - methodologies
 
 ---
+
 
 Pensé que esta iba a ser otra presentación de producto como cualquier otra, pero no es el caso. La exposición de Zach Holman de cómo se utiliza GitHub es realmente épica, en cuanto a lo simple de su mensaje y lo profundo de la filosofía de trabajo que tienen.
 

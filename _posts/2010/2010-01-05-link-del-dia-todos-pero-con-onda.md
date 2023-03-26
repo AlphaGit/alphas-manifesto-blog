@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: TODOs pero con onda'
 date: '2010-01-05 12:45:31 +0000'
 date_gmt: '2010-01-05 14:45:31 +0000'
@@ -9,6 +10,7 @@ tags:
 - web application
 - organización
 ---
+
 
 Creo que ya éramos varios los que estábamos en busca de alguna aplicación al estilo agenda, pero sin horarios (es decir, no es una agenda). Algo al estilo de listado de cosas pendientes, que pudiéramos acceder y actualizar de distintos lados. Que fuera simple, que fuera fácil de entender, que no haya que rellenar muchas cosas.
 

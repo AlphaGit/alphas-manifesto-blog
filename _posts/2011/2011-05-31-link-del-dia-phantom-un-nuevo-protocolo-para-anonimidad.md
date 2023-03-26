@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Phantom, un nuevo protocolo para anonimidad'
 date: '2011-05-31 13:16:05 +0000'
 date_gmt: '2011-05-31 15:16:05 +0000'
@@ -15,6 +16,7 @@ tags:
 - redes
 
 ---
+
 
 Recuerdan [Freenet]({{ site.baseUrl }}{% link _posts/2009/2009-11-27-link-del-dia-freenet.md %}) y cómo se basaba en el concepto de crear una internet paralela, totalmente descentralizada e indetectable? La idea sigue creciendo y el proyecto sigue obteniendo sus aportes, pero también han surgido esfuerzos paralelos, que también intentan solucionar alguno de los problemas que este proyecto tuvo.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: '"Hackearon mi server"'
 date: '2012-05-16 09:47:32 +0000'
 date_gmt: '2012-05-16 14:47:32 +0000'
@@ -25,6 +26,7 @@ subtitle: ¿Y ahora qué hago?
 
 ---
 
+
 Uno de los posts que causaron revuelo en las preguntas de Server Fault fue _[My server's been hacked EMERGENCY](http://serverfault.com/questions/218005/my-servers-been-hacked-emergency) (Hackearon mi server, EMERGENCIA)_, un post cuya respuesta fue totalmente inesperada para muchos y muy útil y planeada para situaciones tan sorpresa.
 
 Me pareció tan útil que además de sólo linkear la pregunta y su respuesta, quise traducir la elongada explicación que [Robert Moir](https://twitter.com/#!/RobertoMoir), bajo el usuario de [DJ Pon3](http://serverfault.com/users/7783/dj-pon3) nos ha brindado. Esta traducción se basa en su respuesta pública, sin permiso explícito.
@@ -35,6 +37,7 @@ A continuación, [su respuesta](http://serverfault.com/a/218011/90562):
 
 
 ---
+
 
 Es difícil dar un consejo específico desde lo que has posteado aquí, pero tengo algunos consejos genéricos basados en un post que escribí mucho tiempo atrás cuando todavía podía molestarme en bloggear.
 
@@ -132,5 +135,6 @@ Sobre todo: no entres en pánico. Piensa antes de actuar. Actúa firmemente una 
 
 
 ---
+
 
 _Soy un zorrinito hackeado (gracias Julián!)_

@@ -1,5 +1,6 @@
 ---
 
+
 title: Misceláneos del fin de semana
 date: '2011-09-25 22:06:08 +0000'
 date_gmt: '2011-09-26 03:06:08 +0000'
@@ -13,6 +14,7 @@ tags:
 - book
 
 ---
+
 
 Por un lado, esto es una excusa para probar [IfTTT](http://ifttt.com/). Luego hablaré sobre esto.
 

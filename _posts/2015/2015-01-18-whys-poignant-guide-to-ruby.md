@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Why's (poignant) guide to Ruby
 date: 2015-01-18 12:44:50 +0000
@@ -20,6 +21,7 @@ description: >-
   the language full of funny stories and detailed explanations of
   metaprogramming, and get to create a complete Ruby program.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/WhysFox.png)

@@ -1,5 +1,6 @@
 ---
 
+
 title: Crear sitios de SharePoint programáticamente
 date: '2011-05-11 03:19:26 +0000'
 date_gmt: '2011-05-11 05:19:26 +0000'
@@ -15,6 +16,7 @@ tags:
 - singleton
 
 ---
+
 
 ## El objetivo
 

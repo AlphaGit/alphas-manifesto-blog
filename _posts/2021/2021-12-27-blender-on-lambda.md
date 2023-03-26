@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Blender on Lambda
 subtitle: Rendering Blender Scenes in AWS Lambda
@@ -18,6 +19,7 @@ description: >-
   to debug with Docker and RIE. Check out my GitHub repository for the source
   code.
 ---
+
 
 
 [GitHub repository](https://github.com/AlphaGit/blender-lambda)

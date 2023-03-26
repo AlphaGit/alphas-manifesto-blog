@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Atributos .NET'
 date: '2011-11-10 10:19:57 +0000'
 date_gmt: '2011-11-10 15:19:57 +0000'
@@ -12,6 +13,7 @@ tags:
 - características
 
 ---
+
 
 Los atributos de .NET son una de esas características del lenguaje que están presentes desde hace un buen tiempo, pero es una de esas características que tardamos en descubrir y utilizar.
 

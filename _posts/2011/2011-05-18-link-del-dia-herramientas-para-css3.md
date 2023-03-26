@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Herramientas para CSS3'
 date: '2011-05-18 13:56:35 +0000'
 date_gmt: '2011-05-18 15:56:35 +0000'
@@ -13,6 +14,7 @@ tags:
 - artículo
 
 ---
+
 
 Desde hace rato que tengo ganas de hacer algo en CSS3, y no dudo que muchos de ustedes también. La gran pregunta que todos debemos tener es "Cómo empezar?". El qué hacer es un tema aparte, pero el cómo hacerlo es algo que seguramente podemos solucionar con algunas herramientas.
 

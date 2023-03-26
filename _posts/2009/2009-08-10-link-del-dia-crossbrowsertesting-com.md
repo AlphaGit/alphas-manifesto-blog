@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: CrossBrowserTesting.com'
 date: '2009-08-10 10:22:34 +0000'
 date_gmt: '2009-08-10 12:22:34 +0000'
@@ -7,6 +8,7 @@ categories:
 - Link del día
 tags: []
 ---
+
 
 Este es otro servicio que sirve mucho a los desarrolladores web, más que nada para lidiar con el problema de tener que probar el HTML desarrollado en distintos navegadores, cuando no siempre es posible tener instalados localmente todos los navegadores para probar. Es el caso, por ejemplo, de los Internet Explorer, en donde tener una versión determinada nos impide tener las demás.
 

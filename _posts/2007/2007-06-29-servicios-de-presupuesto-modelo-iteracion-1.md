@@ -1,5 +1,6 @@
 ---
 
+
 title: Servicios de Presupuesto - Modelo Iteración 1
 date: '2007-06-29 01:19:00 +0000'
 date_gmt: '2007-06-29 01:19:00 +0000'
@@ -8,11 +9,13 @@ categories:
 tags: []
 ---
 
+
 Como ejercicio para la universidad, tengo que desarrollar un servicio de presupuestación para una empresa ficticia. Voy a ir publicando de a poco lo que voy haciendo, muy probablemente le sea útil a alguien más.
 
 Notesé que vamos (somos dos personas en grupo) a estar trabajando en un sistema iterativo en espiral, por lo que en estas primeras entregas no vamos a tener el sistema terminado, sino que de a poco se irán acercando a la versión final.
 
 ---
+
 
 Mail mío del 28/06/2007:
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Recursivi(recursivi(recursivi.dad)dad)dad'
 date: '2010-07-07 14:13:37 +0000'
 date_gmt: '2010-07-07 16:13:37 +0000'
@@ -12,6 +13,7 @@ tags:
 - recursividad
 - programming
 ---
+
 
 Probablemente conozcamos ya el concepto de recursividad. Si no lo conocen, para entenderlo van a tener que entender el concepto de recursividad. =P
 

@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: How to perform a good code review
 date: 2016-11-17 14:23:22 +0000
@@ -21,6 +22,7 @@ description: >-
   approach code reviews in a way that minimizes time and increases the
   efficiency of the process.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/CodeReviewFilter2.jpg)

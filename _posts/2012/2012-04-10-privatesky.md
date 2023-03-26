@@ -1,5 +1,6 @@
 ---
 
+
 title: PrivateSky
 date: '2012-04-10 09:27:34 +0000'
 date_gmt: '2012-04-10 14:27:34 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Accesible para uno, secreto para todos
 
 ---
+
 
 [PrivateSky](http://privatesky.me/) no es ni el primer ni el último intento de un servicio de seguridad en la nube. Lo que los distingue es que, según dicen, ni ellos mismos tienen acceso a los datos que nosotros guardamos, y que ni al momento de que el gobierno les requiera los datos, ellos los darían. (O eso dice su CEO.)
 

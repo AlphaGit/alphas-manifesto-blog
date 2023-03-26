@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Practical Statistics for data scientists
 categories:
@@ -15,6 +16,7 @@ description: >-
   Regression & Prediction, Classification & more. Includes R examples & quick
   strategies for data cleanup.
 ---
+
 
 
 ![Practical Statistics for data Scientists]({{ site.baseurl }}/assets/practical-statistics-ds-cover.jpg)

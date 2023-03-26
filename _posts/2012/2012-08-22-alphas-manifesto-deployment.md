@@ -1,5 +1,6 @@
 ---
 
+
 title: Alpha's Manifesto deployment
 date: '2012-08-22 18:00:59 +0000'
 date_gmt: '2012-08-22 23:00:59 +0000'
@@ -18,6 +19,7 @@ tags:
 subtitle: Open source & automatic deployments
 
 ---
+
 
 Aquí hay dos noticias en realidad: Por un lado, _Alpha's Manifesto_, el theme de este blog, es ahora open source (work in progress) y por otro lado, logré configurar deployments automáticos para cuando ocurran cambios en este theme.
 

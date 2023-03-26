@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Normalize CSS'
 date: '2011-06-03 13:55:30 +0000'
 date_gmt: '2011-06-03 15:55:30 +0000'
@@ -13,6 +14,7 @@ tags:
 - cross-browser
 
 ---
+
 
 A pesar de lo que parece, [Normalize CSS](http://necolas.github.com/normalize.css/) no es lo mismo que reset CSS. El reset común vuelve todos los valores que los navegadores por defecto tienen distinto a 0, para que cualquier cambio que hagamos tenga el valor que nosotros asignemos.
 

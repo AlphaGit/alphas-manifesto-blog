@@ -1,4 +1,5 @@
 ---
+
 title: 'Link del día: Simulador de iPad'
 date: 2011-01-05 11:34:03 +0000
 date_gmt: 2011-01-05 13:34:03 +0000
@@ -20,6 +21,7 @@ description: >-
   Por Altyrne, creador de experimentos con navegadores, JavaScript, HTML5, CSS3
   y jQuery.
 ---
+
 
 
 Gracias a [@Woork](http://twitter.com/Woork/status/22338930942672896) me enteré de este [Simulador de iPad](http://alexw.me/ipad/) totalmente hecho en CSS y JS. Si lo prueban un poco se darán cuenta que la mayoría de las aplicaciones no están implementadas todavía, pero hay cosas que sí están implementadas y pueden probarse hoy, por supuesto, de la misma forma que funcionaría en un iPad real:

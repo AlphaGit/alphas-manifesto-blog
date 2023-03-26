@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día:  ¿Qué es el A/B Testing?'
 date: '2010-07-26 11:21:38 +0000'
 date_gmt: '2010-07-26 13:21:38 +0000'
@@ -12,6 +13,7 @@ tags:
 - técnicas
 - review
 ---
+
 
 Quizá para muchos sea un concepto totalmente básico y muy simple de comprender, pero para aquellos que no lo tenemos tan asimilado, seguramente no estemos apreciando el importantísimo concepto que representa.
 

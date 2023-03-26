@@ -1,5 +1,6 @@
 ---
 
+
 title: CommonLibrary.NET
 date: '2012-07-23 10:31:15 +0000'
 date_gmt: '2012-07-23 15:31:15 +0000'
@@ -15,6 +16,7 @@ tags:
 subtitle: Don't repeat yourself
 
 ---
+
 
 En cierto punto en el camino de evolución de una compañía o un desarrollador, se encuentra como hecho el estar siempre re-haciendo las mismas partes, o reutilizando partes comunes que alguna vez ya se usaron para un proyecto anterior. Esto es muy común, y ciertamente no es algo malo. De hecho, es deseable, y en el ámbito recibe el nombre de _[DRY principle](http://en.wikipedia.org/wiki/Don't_repeat_yourself)._
 

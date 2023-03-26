@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Genetic Algorithms'
 date: '2009-06-17 10:49:38 +0000'
 date_gmt: '2009-06-17 12:49:38 +0000'
@@ -8,6 +9,7 @@ categories:
 - Technology
 tags: []
 ---
+
 
 Recuerdan que en algún caso publiqué una [introducción a algoritmos genéticos]({{ site.baseUrl }}{% link _posts/2007/2007-11-07-link-del-dia-introduction-to-genetic-algorithms.md %}) (que incluía visualizaciones gráficas y todo)? Bueno, varios luego de ver eso me preguntaron "Y esto para qué sirve?" y aparte de la chorrera de palabras que habré largado, poco convincentes, hoy publico también [15 Real-World Applications of Genetic Algorithms](http://brainz.org/15-real-world-applications-genetic-algorithms/).
 

@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Testability vs. simple design
 date: 2016-03-22 20:21:31 +0000
@@ -24,6 +25,7 @@ description: >-
   coupling and even private members. Read this blog post to learn how to strike
   the balance between code simplicity and testability.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/arrow.jpg)

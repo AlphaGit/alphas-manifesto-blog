@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: 'MOOC: Android Dev Part 1'
 date: 2015-08-02 15:14:17 +0000
@@ -18,6 +19,7 @@ description: >-
   applications and gain an understanding of the Android platform. Visit the
   course now to get started!
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/android.png)

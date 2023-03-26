@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: SiteCake'
 date: '2011-08-10 12:26:58 +0000'
 date_gmt: '2011-08-10 14:26:58 +0000'
@@ -15,6 +16,7 @@ tags:
 - demo
 
 ---
+
 
 Hablando de user experience en algo tan complejo como puede llegar a ser construir un sitio, hay pocos ejemplos que realmente muestran cómo puede hacerse fácil a la vez. Ya alguna vez CD me había mostrado [Unbounce](http://unbounce.com/), una aplicación web que más que construir una página nos da varias herramientas útiles para marketing, como A/B Tests, analíticas y varias otras capacidades.
 

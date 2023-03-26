@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Bases de datos pre-armadas'
 date: '2010-07-12 10:13:30 +0000'
 date_gmt: '2010-07-12 12:13:30 +0000'
@@ -13,6 +14,7 @@ tags:
 - geografía
 - empleo
 ---
+
 
 Esperemos que pronto podamos volver a la frecuencia común de los links del día. Mientras tanto, intentemos mantenerlos cortitos para que no tomen demasiado tiempo.
 

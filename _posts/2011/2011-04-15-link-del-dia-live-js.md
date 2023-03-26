@@ -1,4 +1,5 @@
 ---
+
 title: 'Link del día: Live.js'
 date: 2011-04-15 12:50:04 +0000
 date_gmt: 2011-04-15 14:50:04 +0000
@@ -15,6 +16,7 @@ description: >-
   ver los resultados en tu navegador. ¡Mejora tu productividad con dos
   monitores!
 ---
+
 
 
 Para diseñar y trabajar sobre HTML, mientras más atajos tomemos, mejor. Mucho del trabajo es repetitivo, y cuando queremos aplicar estilos, la cantidad de idas y vueltas de una ventana a otra es innumerable, por lo menos, hasta que logramos la perfección del diseño original.

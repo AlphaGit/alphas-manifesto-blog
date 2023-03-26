@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: La belleza de los algoritmos'
 date: '2010-08-24 14:44:42 +0000'
 date_gmt: '2010-08-24 16:44:42 +0000'
@@ -12,6 +13,7 @@ tags:
 - procedural
 - algoritmos genéticos
 ---
+
 
 Sí, ya sé que suena demasiado geek, pero cualquiera que pueda abtraerse un poco del algoritmo en sí, de qué haga o cómo lo haga verá que de alguna forma su "orden" logra un algo extra que puede ser realmente hermoso.
 

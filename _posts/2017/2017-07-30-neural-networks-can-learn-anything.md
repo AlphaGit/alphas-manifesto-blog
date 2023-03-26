@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Neural Networks can learn anything
 date: 2017-07-30 13:58:57 +0000
@@ -21,6 +22,7 @@ description: >-
   and non-linear combinations, activation functions, and neural network nodes
   and architectures.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/SkunkBalls.jpg)

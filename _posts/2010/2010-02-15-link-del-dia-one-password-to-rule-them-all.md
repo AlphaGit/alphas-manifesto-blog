@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: One password to rule them all...'
 date: '2010-02-15 11:22:15 +0000'
 date_gmt: '2010-02-15 13:22:15 +0000'
@@ -11,6 +12,7 @@ tags:
 - privacidad
 - web application
 ---
+
 
 [LastPass](https://lastpass.com/) es un sistema centralizador de passwords que se integra con una gran variedad de navegadores para que autocomplete nuestros datos en los sitios que visitemos. De esta forma, podemos tener una buena cantidad de passwords de alta complejidad sin necesidad de tener que recordarlos de memoria, pudiendo sólo utilizar un password que usaremos en LastPass.
 

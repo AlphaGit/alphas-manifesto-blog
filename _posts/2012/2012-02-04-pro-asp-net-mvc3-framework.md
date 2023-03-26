@@ -1,5 +1,6 @@
 ---
 
+
 title: Pro ASP.NET MVC3 Framework
 date: '2012-02-04 19:19:31 +0000'
 date_gmt: '2012-02-05 00:19:31 +0000'
@@ -20,6 +21,7 @@ tags:
 - AOP
 
 ---
+
 
 Acabo de terminar de leer [Pro ASP.NET MVC3 Framework](http://www.apress.com/9781430234043), un libro de Apress, escrito por Adam Freeman y Steven Sanderson. En pocas palabras, el libro es muy bueno, no exageradamente detallado pero buena aproximación para quiénes quieran ganar un nivel principiante/intermedio en la plataforma. Determinadas características han quedado afuera, y por supuesto, detalles de la implementación del framework también. Eso habría sido material para una buena cantidad de otros libros. Este en particular está muy orientado al ejemplo práctico, y es ideal para afianzar teoría con pequeños snippets de código que la hacen práctica. Cubre algunos aspectos relacionados a esto para darle un buen contexto y es una buena opción por su precio, pero no es suficiente para el que quiera entrar demasiado profundo en los interiores de la plataforma.
 

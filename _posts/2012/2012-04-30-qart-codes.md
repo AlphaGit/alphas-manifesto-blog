@@ -1,5 +1,6 @@
 ---
 
+
 title: QArt Codes
 date: '2012-04-30 09:27:56 +0000'
 date_gmt: '2012-04-30 14:27:56 +0000'
@@ -17,6 +18,7 @@ tags:
 subtitle: Imágenes en QR Codes
 
 ---
+
 
 Russ Cox publicó hace no mucho un artículo sobre lo que él denomina [QArt Codes](http://research.swtch.com/qart), que son QR Codes con una imagen en ellos.
 

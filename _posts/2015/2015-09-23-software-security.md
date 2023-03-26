@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Software Security
 date: 2015-09-23 07:08:27 +0000
@@ -23,6 +24,7 @@ description: >-
   methods. Take the Software Security course on Coursera, part of the
   Cybersecurity specialization.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/candado.png)

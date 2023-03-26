@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: 'My sh*tpost generator: screaming-bot'
 date: 2018-07-29 14:53:11 +0000
@@ -24,6 +25,7 @@ description: >-
   and Docker. Generate hilarious nonsense posts with the help of this fun
   tutorial!
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/20120227-robotthatscreams-1.png)

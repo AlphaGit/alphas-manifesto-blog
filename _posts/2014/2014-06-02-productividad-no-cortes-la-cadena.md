@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Productividad: no cortes la cadena'
 date: '2014-06-02 21:46:22 +0000'
 date_gmt: '2014-06-03 02:46:22 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Las técnicas de John Resig y mis resultados
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/Calendar_marked.png)
 

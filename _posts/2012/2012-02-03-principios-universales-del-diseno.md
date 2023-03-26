@@ -1,5 +1,6 @@
 ---
 
+
 title: Principios Universales del Diseño
 date: '2012-02-03 10:44:27 +0000'
 date_gmt: '2012-02-03 15:44:27 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Partiendo desde la base de lo básico
 
 ---
+
 
 Este es otro de esos encuentros que hago en los foros de [StackExchange](http://stackexchange.com/), específicamente en el de [User Experience](http://ux.stackexchange.com/). Aquí alguien preguntó [ ¿Cómo es que los bordes redondeados afectan la usabilidad?](http://ux.stackexchange.com/questions/11150/how-do-rounded-corners-affect-usability)
 

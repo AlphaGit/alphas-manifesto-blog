@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link of the Day: Liberate your data!'
 date: '2010-03-05 11:26:24 +0000'
 date_gmt: '2010-03-05 13:26:24 +0000'
@@ -11,6 +12,7 @@ tags:
 - Google
 - Microsoft
 ---
+
 
 I know that Google has products for everything, and they're still creating new things, making more and more enemies in different business. Besides that, we have the user's data concern: what about privacy? What about having other options? What happens to our Google data?
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Ahora hay que reaprender PHP'
 date: '2010-07-14 10:03:50 +0000'
 date_gmt: '2010-07-14 12:03:50 +0000'
@@ -13,6 +14,7 @@ tags:
 - desarrollo
 - programming
 ---
+
 
 Gracias a [@Analton](https://twitter.com/Analton) llegué a un artículo llamado [Never user $_GET again](http://www.phparch.com/2010/07/08/never-use-_get-again/), que habla de cómo ya no deberíamos utilizar más las archi-conocidas variables globales de GET y POST al programar en PHP. No sólo eso, sino que explicando los conceptos de validación y sanitización nos deja como paso siguiente ir al manual de PHP, y explorar una sección que quizá muchos ya no tengamos del todo frescas.
 

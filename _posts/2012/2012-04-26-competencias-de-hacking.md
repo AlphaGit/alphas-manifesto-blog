@@ -1,5 +1,6 @@
 ---
 
+
 title: Competencias de hacking
 date: '2012-04-26 09:59:10 +0000'
 date_gmt: '2012-04-26 14:59:10 +0000'
@@ -18,6 +19,7 @@ tags:
 subtitle: Desafíos de hacking y seguridad
 
 ---
+
 
 Fue exactamente hace un par de días cuando hablé de [Explot Exercises]({{ site.baseUrl }}{% link _posts/2012/2012-04-24-exploit-exercises.md %}), pero más de cuatro años (wow) cuando _hablé de HackThisSite_, pero ahora sí tengo un listado grande de sitios que permiten hacer pruebas de seguridad y aprender online. Basado en [esta pregunta en IT Security](http://security.stackexchange.com/questions/3592/what-hacking-competitions-challenges-exist), este es un buen listado de sitios para practicar seguridad o participar de desafíos. Cada uno tiene su propia modalidad, pero les dejo como ejercicio a ustedes elegir la más apropiada:
 

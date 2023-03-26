@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: SMShing'
 date: '2010-12-30 12:18:29 +0000'
 date_gmt: '2010-12-30 14:18:29 +0000'
@@ -13,6 +14,7 @@ tags:
 - phishing
 - troll
 ---
+
 
 A este punto del desarrollo de la tecnología, cualquier cosa puede ser víctima de un ataque de phishing. Para quién no lo sepa, el phishing es el engaño que se realiza para obtener información de uno que pueda ser útil para alguien más, sea para el motivo que sea. Por lo general se hace a través de email intentando obtener datos de uno para luego estafar de alguna forma (contraseñas, datos personales, etc.). Dado que un engaño puede realizarse por múltiples vías, incluso en algunas de las cuales podemos caer sin siquiera sospecharlo (pharming, content-injection phishing, etc.).
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: Desacoplando $scope
 date: '2014-04-29 23:36:42 +0000'
 date_gmt: '2014-04-30 04:36:42 +0000'
@@ -17,6 +18,7 @@ tags:
 subtitle: Tomando la sopa por el mango de la cuchara
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/scopeSoupMin.png)
 

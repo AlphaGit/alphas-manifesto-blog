@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Google Tech Talks'
 date: '2009-10-23 10:47:33 +0000'
 date_gmt: '2009-10-23 15:47:33 +0000'
@@ -8,6 +9,7 @@ categories:
 - Technology
 tags: []
 ---
+
 
 De casualidad me enteré de la existencia de un canal de Youtube llamado [Google Tech Talks](http://www.youtube.com/user/googletechtalks/), en donde Google ha subido muchas conferencias sobre distintos temas. Según lo que ellas dicen: "_Google TechTalks (Las conferencias técnicas de Google) están diseñadas para diseminar un amplio espectro de vistas sobre varios temas, incluyendo temas de actualidad, ciencia, medicina, ingeniería, negocios, humanidades, derecho, entretenimiento y las artes._"
 

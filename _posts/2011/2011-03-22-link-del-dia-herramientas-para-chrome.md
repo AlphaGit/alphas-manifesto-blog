@@ -1,4 +1,5 @@
 ---
+
 title: 'Link del día: Herramientas para Chrome'
 date: 2011-03-22 10:44:21 +0000
 date_gmt: 2011-03-22 12:44:21 +0000
@@ -17,6 +18,7 @@ description: >-
   herramientas para personalizar tu experiencia de desarrollo. ¡No te pierdas
   esta increíble selección!
 ---
+
 
 
 Aquellos que tenemos que ver con el desarrollo web muy seguramente nos hemos apegado mucho a nuestro querido Firefox, gracias a la enorme cantidad de herramientas que la comunidad tiene para poder desarrollar. Muchos de nosotros también han encontrado en Chrome una alternativa muy interesante y hasta preferible, pero siempre tuvimos el problema de que la cantidad de extensiones para desarrollo era muy limitada.

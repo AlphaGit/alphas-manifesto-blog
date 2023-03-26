@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Herramientas .NET'
 date: '2010-09-14 11:12:42 +0000'
 date_gmt: '2010-09-14 13:12:42 +0000'
@@ -13,6 +14,7 @@ tags:
 - IDE
 - infografía
 ---
+
 
 Buscando una herramienta en específica me di cuenta que Microsoft dispone de una sección para todas las herramientas extras para .NET, llamada [.NET Framework Tools](http://msdn.microsoft.com/en-us/library/d9kh6s92.aspx). Me pareció que había muchas cosas interesantes para los que trabajamos en ese entorno.
 

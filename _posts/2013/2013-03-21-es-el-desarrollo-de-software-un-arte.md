@@ -1,5 +1,6 @@
 ---
 
+
 title: " ¿Es el desarrollo de software un arte?"
 date: '2013-03-21 13:56:03 +0000'
 date_gmt: '2013-03-21 18:56:03 +0000'
@@ -15,6 +16,7 @@ tags:
 subtitle: ¿O acaso no lo es?
 
 ---
+
 
 Hoy me venía este pensamiento a la mente:  ¿es el desarrollo de software un arte? Sé que muchos estarían de acuerdo en decir que sí, pero quiero plantear la pregunta con un rigor científico, algo que la frase que comúnmente usamos no contiene.
 

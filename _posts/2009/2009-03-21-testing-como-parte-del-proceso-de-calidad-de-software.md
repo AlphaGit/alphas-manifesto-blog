@@ -1,5 +1,6 @@
 ---
 
+
 title: Testing como parte del proceso de calidad de software
 date: '2009-03-21 22:24:30 +0000'
 date_gmt: '2009-03-22 00:24:30 +0000'
@@ -8,6 +9,7 @@ categories:
 - Technology
 tags: []
 ---
+
 <div>
 
 Hoy finalizó el curso de tres días de Testing como parte del proceso de calidad de software, organizado por [ATICMA](http://www.aticma.org.ar/), [Universidad FASTA](http://www.ufasta.edu.ar/) y [SEPYME](http://www.sepyme.gov.ar/), en conjunto con el [INTI](http://www.inti.gov.ar/). Dicho curso, dictado por Victoria Martínez Suárez del Laboratorio de Testing y Aseguramiento de Calidad de Software del INTI Córdoba, constó de una serie de puntos a tener en cuenta en el momento a comenzar con el proceso de testing y cómo integrarlo a un proceso de desarrollo ya implantado en nuestras empresas. El curso constó de 7 (siete) horas por día durante 3 (tres) días, siendo los mismos Jueves 19, Viernes 20 y Sábado 21 de Marzo de 2009.

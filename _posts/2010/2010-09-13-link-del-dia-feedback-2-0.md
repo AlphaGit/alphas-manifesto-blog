@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Feedback 2.0'
 date: '2010-09-13 10:31:27 +0000'
 date_gmt: '2010-09-13 12:31:27 +0000'
@@ -11,6 +12,7 @@ tags:
 - experiencia del usuario
 - user experience
 ---
+
 
 En el momento en que una aplicación web es publicada, es muy importante que podamos tener algún tipo de feedback o resultados de opinión de los usuarios mismos. No solamente nos brindarían información sobre qué fallas han detectado (lo que, por supuesto, esperamos que sean las menos posibles) sino sobre nuevas ideas y posibles caminos que esta aplicación podría comenzar a transitar. Pero el proceso de toma de esa decisión es algo difícil.
 

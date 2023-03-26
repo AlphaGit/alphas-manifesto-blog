@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Algorithms, transhumanism and futurism
 categories:
@@ -16,6 +17,7 @@ description: >-
   techniques, as explained in "Algorithms to live by" by Brian Christian and Tom
   Griffiths. Learn how to maximize success and minimize cost in our daily lives.
 ---
+
 
 
 I'm halfway through reading _Algorithms to live by_, by Brian Christian and Tom Griffiths. The book is really good -- but this is not a review about the book. Rather, a thought that came to my mind while reading it.

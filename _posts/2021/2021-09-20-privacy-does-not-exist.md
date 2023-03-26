@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Real privacy does not exist
 subtitle: Why the illusion of privacy is only an illusion
@@ -16,6 +17,7 @@ description: >-
   implications of data tracking, the ethical implications of data gathering, and
   learn how to be safe in the current landscape.
 ---
+
 
 
 There was a particular gag I came across in a Youtube video. One where, from the point of view of a long-term future, an advance human race made fun of us for having expectations of privacy in our lives.

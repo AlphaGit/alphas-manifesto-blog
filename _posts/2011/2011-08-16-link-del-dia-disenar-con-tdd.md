@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Diseñar con TDD'
 date: '2011-08-16 13:58:06 +0000'
 date_gmt: '2011-08-16 15:58:06 +0000'
@@ -12,6 +13,7 @@ tags:
 - TDD
 
 ---
+
 
 Para los que no conocen la sigla, TDD representa el concepto de [Test Driven Development](http://en.wikipedia.org/wiki/Test-driven_development), la metodología de hacer las pruebas de lo que queremos lograr antes del código.
 

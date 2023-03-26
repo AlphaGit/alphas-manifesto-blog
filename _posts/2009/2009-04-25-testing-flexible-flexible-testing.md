@@ -1,5 +1,6 @@
 ---
 
+
 title: Testing Flexible | Flexible Testing
 date: '2009-04-25 19:06:11 +0000'
 date_gmt: '2009-04-25 21:06:11 +0000'
@@ -7,6 +8,7 @@ categories:
 - Projects
 tags: []
 ---
+
 
 **Español:**
 
@@ -25,6 +27,7 @@ Desafortunadamente, no puedo detallar información sobre los tipos de testing qu
 _Soy un zorrinito adaptable._
 
 ---
+
 
 **English:**
 

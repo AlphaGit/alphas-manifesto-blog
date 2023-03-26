@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Bytecode for Dummies'
 date: '2010-11-15 17:20:51 +0000'
 date_gmt: '2010-11-15 19:20:51 +0000'
@@ -14,6 +15,7 @@ tags:
 - compilador
 - plataforma
 ---
+
 
 Para aquellos que desarrollamos sobre lo que se llaman plataformas (como por ejemplo .NET o Java), sabemos que el código que nosotros escribimos no se compila a lenguaje de máquina realmente, sino que se compila en algún lenguaje intermedio que luego es interpretado para una mejor ejecución en la máquina apropiada sobre la que esté corriendo la plataforma.
 

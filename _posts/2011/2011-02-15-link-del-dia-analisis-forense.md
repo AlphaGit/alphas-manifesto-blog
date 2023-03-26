@@ -1,4 +1,5 @@
 ---
+
 title: 'Link del día: Análisis forense'
 date: 2011-02-15 00:29:34 +0000
 date_gmt: 2011-02-15 02:29:34 +0000
@@ -14,6 +15,7 @@ description: >-
   y profiling de aplicaciones. Descubre herramientas de análisis y ejemplos para
   ayudarte a entender el proceso. ¡No te pierdas la oportunidad!
 ---
+
 
 
 Hace poco me crucé con un artículo proveniente de [HackTimes](http://www.hacktimes.com/), y sabiendo de donde viene, lo leí sabiendo que iba a ser interesante. Este artículo en particular, llamado [Introducción al análisis forense en VMWare](http://www.hacktimes.com/introducci_n_al_an_lisis_forense_en_vmware/) nos promete tener algunas continuaciones.

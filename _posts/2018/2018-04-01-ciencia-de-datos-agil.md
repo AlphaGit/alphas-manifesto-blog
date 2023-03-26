@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Ciencia de datos ágil
 date: 2018-04-01 11:48:41 +0000
@@ -20,6 +21,7 @@ description: >-
   funciona un proyecto ágil común y corriente. ¡Vale la pena la inversión de 2
   horas y 15 dólares!
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/7puentes.jpg)

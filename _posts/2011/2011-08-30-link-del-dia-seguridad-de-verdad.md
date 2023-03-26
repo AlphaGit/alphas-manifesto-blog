@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Seguridad, de verdad'
 date: '2011-08-30 10:22:38 +0000'
 date_gmt: '2011-08-30 15:22:38 +0000'
@@ -12,6 +13,7 @@ tags:
 - permisos
 
 ---
+
 
 Seguramente nosotros nos sentimos protegidos porque tenemos... qué? Un antivirus y un firewall? Muchos de nosotros ni eso debemos tener.
 

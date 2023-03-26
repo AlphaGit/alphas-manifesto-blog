@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Javascript PDFs'
 date: '2010-06-22 10:14:30 +0000'
 date_gmt: '2010-06-22 12:14:30 +0000'
@@ -14,6 +15,7 @@ tags:
 - open source
 - ASCII
 ---
+
 
 Hace no mucho se hizo popular un script llamado [pdf.js](http://maraksquires.com/pdf.js/), un agregado sobre [node.js](http://nodejs.org/) que permite la generación de archivos PDFs directamente desde el navegador. Más allá de la novedad, parece que este es solo un proyecto de los muchos que tiene [Marak Squires](http://maraksquires.com/), un ingeniero de software que publica cosas muy interesantes, sin mentir (como lo dice él).
 

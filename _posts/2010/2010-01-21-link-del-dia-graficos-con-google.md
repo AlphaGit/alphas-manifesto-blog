@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Gráficos con Google'
 date: '2010-01-21 12:12:44 +0000'
 date_gmt: '2010-01-21 14:12:44 +0000'
@@ -12,6 +13,7 @@ tags:
 - cloud computing
 - jQuery
 ---
+
 
 Hace un tiempo anduvimos en búsqueda de un buen plugin / framework / herramienta web que me permitiera utilizar gráficos en una aplicación web que nos encontrabamos desarrollando. Pasamos por varias opciones, algunas de las más interesantes siendo [jqPlot](http://www.jqplot.com/) para jQuery, o [flot](http://code.google.com/p/flot/) (también para jQuery), pero terminamos decidiéndonos por [OpenFlashChart](http://teethgrinder.co.uk/open-flash-chart/).
 

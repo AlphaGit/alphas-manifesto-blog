@@ -1,4 +1,5 @@
 ---
+
 title: 'Link del día: HTML5 Ilustrado'
 date: 2010-04-26 12:22:13 +0000
 date_gmt: 2010-04-26 14:22:13 +0000
@@ -19,6 +20,7 @@ description: >-
   junto con CSS3. Descubre nuevos sitios innovadores que muestran lo que se
   puede lograr con HTML5 y no te quedes atrás.
 ---
+
 
 
 Nunca viene mal otro link extra sobre HTML5, sabemos que es algo que ya está empezando a tomar fuerza, y de alguna forma todavía es novedad. Mientras esperamos que se decida qué es lo que va a ocurrir con los códecs de video, podemos ir entrenándonos y aprovechando otras features que gran cantidad de navegadores ya aprovechan.

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Software libre y gratuito para todo'
 date: '2010-03-04 11:19:09 +0000'
 date_gmt: '2010-03-04 13:19:09 +0000'
@@ -10,6 +11,7 @@ tags:
 - free software
 - freeware
 ---
+
 
 Si bien ya alguna vez publiqué _un link_ en donde había un listado de software libre ordenado por categorías, estoy seguro que ese listado ni es extensivo, ni es completo, ni cubre las necesidades de todos. El software gratuito y libre abunda y, aunque opino que no existe software de calidad necesaria para reemplazar a todo el software prioritario, no podemos decir que nuestras necesidades no se encuentran cubiertas bajo el paraguas del no-pagar.
 

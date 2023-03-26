@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Sentient AI (July 2022)
 subtitle: A discussion on what transpired in these last months
@@ -12,6 +13,7 @@ header:
     image: assets/papers.png
     image_description: #TODO
 ---
+
 
 It finally made the news that Blake Lemoine was fired from Google "for claiming that LaMDA is sentient". At least, that's his version and the title going around.
 

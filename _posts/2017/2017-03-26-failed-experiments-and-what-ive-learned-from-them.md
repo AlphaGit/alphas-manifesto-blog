@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Failed experiments and what I've learned from them
 date: 2017-03-26 21:54:14 +0000
@@ -23,6 +24,7 @@ description: >-
   code, avoiding difficult data structures, & using languages that help prevent
   errors. Make sure your code works correctly & avoid silly mistakes like mine.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/Experiment.png)

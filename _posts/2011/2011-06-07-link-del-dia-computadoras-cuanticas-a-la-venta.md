@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Computadoras cuánticas, a la venta'
 date: '2011-06-07 12:35:16 +0000'
 date_gmt: '2011-06-07 14:35:16 +0000'
@@ -12,6 +13,7 @@ tags:
 - computación cuántica
 
 ---
+
 
 Quería dejar pasar un poco más de tiempo para poder indagar en detalle sobre esto, pero aparentemente no hay demasiada información, o al menos no más allá de lo que los fabricantes disponen para el público.
 

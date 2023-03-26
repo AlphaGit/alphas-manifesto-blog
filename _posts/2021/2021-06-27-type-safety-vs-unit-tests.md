@@ -1,4 +1,5 @@
 ---
+
 title: Type safety vs. unit tests
 subtitle: A debate of several years...
 categories:
@@ -17,6 +18,7 @@ description: >-
   languages are more than just syntax-sugar and how they can save us from the
   back-and-forth of checkings.
 ---
+
 
 
 Can unit tests that assert type safety be enough to compete against strong-typed languages?

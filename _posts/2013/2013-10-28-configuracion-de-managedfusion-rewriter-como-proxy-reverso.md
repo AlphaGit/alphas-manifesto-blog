@@ -1,5 +1,6 @@
 ---
 
+
 title: Configuración de ManagedFusion.Rewriter como proxy reverso
 date: '2013-10-28 21:43:25 +0000'
 date_gmt: '2013-10-29 02:43:25 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Guía rápida para tener un proxy reverso en 5 pasos
 
 ---
+
 
 En mi post anterior de [alternativas para superar la limitación de la Same Origin Policy]({{ site.baseUrl }}{% link _posts/2013/2013-10-13-amar-al-proxy-mo.md %}), expliqué brevemente el por qué de mi preferencia por los reverse proxy.
 

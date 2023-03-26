@@ -1,5 +1,6 @@
 ---
 
+
 title: Flujos de trabajo en git
 date: '2014-06-21 18:26:08 +0000'
 date_gmt: '2014-06-21 23:26:08 +0000'
@@ -20,6 +21,7 @@ tags:
 subtitle: Los más comunes y el historial de cambios que generan
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/gitTree.png)
 

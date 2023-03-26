@@ -1,5 +1,6 @@
 ---
 
+
 title: HtmlUnit en .NET
 date: '2012-04-18 08:00:53 +0000'
 date_gmt: '2012-04-18 13:00:53 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Unit testing para web frontends
 
 ---
+
 
 Hay un artículo en particular de Steve Sanderson llamado [Using HtmlUnit on .NET Headless browser automation](http://blog.stevensanderson.com/2010/03/30/using-htmlunit-on-net-for-headless-browser-automation/) que indaga sobre los beneficios de utilizar esa librería para simular un browser completamente funcional que podemos utilizar para nuestro unit testing, y, por qué no, para automatizar tareas en un browser. La idea principal es poder ejecutar tareas como si de un browser se tratara, e inspeccionar los elementos de la página e interactuar con ellos.
 

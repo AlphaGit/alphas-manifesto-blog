@@ -1,5 +1,6 @@
 ---
 
+
 title: Consejos para un no-programador
 date: '2013-06-22 21:18:32 +0000'
 date_gmt: '2013-06-23 02:18:32 +0000'
@@ -25,6 +26,7 @@ tags:
 subtitle: O "cómo no perderse en este bosque"
 
 ---
+
 
 Una amiga mía me comentó que quería comenzar a programar, y de alguna forma lo entendí implícitamente como un buen momento para dar consejos de orientación. No es por sonar arrogante, pero sabemos que la programación puede ser una tarea desafiante, y me pregunté cuáles serían los mejores consejos para alguien que está empezando.
 

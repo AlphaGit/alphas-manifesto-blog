@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Consejos de comunicación, parte 2: No eludas la pregunta'
 date: '2013-08-11 19:58:51 +0000'
 date_gmt: '2013-08-12 00:58:51 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Ser conciso y no-ambiguo
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/Respuesta.png)
 

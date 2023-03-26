@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link of the day: Procedurally speaking...'
 date: '2010-09-10 10:51:26 +0000'
 date_gmt: '2010-09-10 12:51:26 +0000'
@@ -14,6 +15,7 @@ tags:
 - algoritmos genéticos
 - programming
 ---
+
 
 Remember that [link where I spoke about different algorithms]({{ site.baseUrl }}{% link _posts/2010/2010-08-24-link-del-dia-la-belleza-de-los-algoritmos.md %})? I made a quick reference to [Pixel City](http://www.youtube.com/watch?v=-d2-PtK4F6Y). If you had the chance to see it, and furthermore, if you have had the chance to download it and test it yourself, you might have seen that for a really little binary executable we can get really great things.
 

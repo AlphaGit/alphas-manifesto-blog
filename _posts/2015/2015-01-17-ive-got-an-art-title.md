@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: I've got an art degree!
 date: 2015-01-17 19:54:26 +0000
@@ -19,6 +20,7 @@ description: >-
   more about the course, the projects and the experience, and get inspired to
   create your own art.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/Art.png)

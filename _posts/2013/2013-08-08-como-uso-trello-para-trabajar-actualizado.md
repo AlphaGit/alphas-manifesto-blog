@@ -1,5 +1,6 @@
 ---
 
+
 title: Cómo uso Trello para trabajar, actualizado
 date: '2013-08-08 18:13:36 +0000'
 date_gmt: '2013-08-08 23:13:36 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Cambios a mi flujo de trabajo para más productividad
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/TrelloWorkUpdated.jpg)
 

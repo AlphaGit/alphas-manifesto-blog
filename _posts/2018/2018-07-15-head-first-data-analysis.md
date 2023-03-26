@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Head First Data Analysis
 date: 2018-07-15 10:20:48 +0000
@@ -17,6 +18,7 @@ description: >-
   book with real-world examples and exercises. An essential guide for those just
   starting or brushing up on data science.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/headfirstdataanalysis.jpg)

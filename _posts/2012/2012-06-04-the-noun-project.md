@@ -1,5 +1,6 @@
 ---
 
+
 title: The Noun Project
 date: '2012-06-04 08:50:43 +0000'
 date_gmt: '2012-06-04 13:50:43 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Iconos minimalistas para todas las ocasiones
 
 ---
+
 
 [The Noun Project](http://thenounproject.com/) es una colección de iconos minimalistas, la gran mayoría libres para usar. Cada imagen tiene asociada un sustantivo que lo describe, y por lo general la imagen es una buena representación de esa palabra. Disponible tanto en inglés como en español para buscar, esta galería de imágenes nos permite inspirarnos como diseñadores y conseguir una buena cantidad de iconos para nuestros sistemas de necesitarlos.
 

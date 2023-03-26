@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Write it down!
 date: '2014-12-22 05:57:29 +0000'
@@ -15,6 +16,7 @@ tags:
 subtitle: Before it makes you frown
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/multitasking.png)
 

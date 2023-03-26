@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Worklogger
 date: 2017-11-11 10:39:02 +0000
@@ -20,6 +21,7 @@ description: >-
   that reads from Google Calendar and sends data to JIRA and HarvestApp. Easily
   filter, transform and log your work for billing & reporting.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/time.jpg)

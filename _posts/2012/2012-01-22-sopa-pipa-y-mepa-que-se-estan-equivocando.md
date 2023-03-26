@@ -1,5 +1,6 @@
 ---
 
+
 title: SOPA, PIPA, y MEPA que se están equivocando
 date: '2012-01-22 00:16:44 +0000'
 date_gmt: '2012-01-22 05:16:44 +0000'
@@ -19,6 +20,7 @@ tags:
 subtitle: El problema es la receta, no la sopa.
 
 ---
+
 
 Hace mucho que todos estamos siendo bombardeados por la historia de esta ley que casi sigue su curso, pero hay un tema en particular que no veo nombrar y que creo es el más importante. Es como si todos se quejaran de un dolor de cabeza pero no se preguntaran por la enfermedad, sino sobre como quitárselo.
 

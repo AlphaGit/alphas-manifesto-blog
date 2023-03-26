@@ -1,5 +1,6 @@
 ---
 
+
 title: 'CommonJobs: el fin de una etapa'
 date: '2014-10-02 18:20:54 +0000'
 date_gmt: '2014-10-02 23:20:54 +0000'
@@ -23,6 +24,7 @@ tags:
 subtitle: Proyecto final y producto real
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/commonJobs.png)
 

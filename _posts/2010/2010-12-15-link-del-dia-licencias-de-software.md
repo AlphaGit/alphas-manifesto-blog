@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Licencias de software'
 date: '2010-12-15 12:46:03 +0000'
 date_gmt: '2010-12-15 14:46:03 +0000'
@@ -14,6 +15,7 @@ tags:
 - GPL
 - MIT
 ---
+
 
 Gracias a un interesante post que me compartió el kangrejo, estuve leyendo un poco sobre las diferentes licencias de software que están por ahí. El artículo en cuestión es de [OnSoftware](http://onsoftware.softonic.com/), y el artículo se llama [El Software libre y las licencias de uso](http://onsoftware.softonic.com/el-software-libre-y-las-licencias-de-uso).
 

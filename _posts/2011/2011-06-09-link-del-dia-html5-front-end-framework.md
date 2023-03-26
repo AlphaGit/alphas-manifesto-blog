@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: HTML5 Front End Framework'
 date: '2011-06-09 11:49:10 +0000'
 date_gmt: '2011-06-09 13:49:10 +0000'
@@ -15,6 +16,7 @@ tags:
 - librería
 
 ---
+
 
 Para todos aquellos que necesitábamos una forma de fácilmente comenzar con trabajos en HTML5, tenemos la opción de comenzar con algo ya estructurado sobre lo que podemos hacer nuestras modificaciones a gusto.
 

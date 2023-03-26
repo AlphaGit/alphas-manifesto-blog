@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Google Swify'
 date: '2011-07-11 11:21:36 +0000'
 date_gmt: '2011-07-11 13:21:36 +0000'
@@ -12,6 +13,7 @@ tags:
 - Flash
 
 ---
+
 
 De la gama de productos Google que todavía están en beta y en laboratorios (una buena cantidad), ahora tenemos a [Google Swify](http://swiffy.googlelabs.com/), cuya funcionalidad es tomar archivos de Flash para convertirlos a HTML5.
 

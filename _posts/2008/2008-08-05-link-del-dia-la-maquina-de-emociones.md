@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: La máquina de emociones'
 date: '2008-08-05 11:54:00 +0000'
 date_gmt: '2008-08-05 11:54:00 +0000'
@@ -8,6 +9,7 @@ categories:
 - Link del día
 tags: []
 ---
+
 
 Aunque se quejen, sí, es un link para leer, y mucho. Yo solo leí un poco y me fascinó, lo dejo en mi listadito de lectura para cuando me ponga, quizá incluso vaya a comprar una copia impresa.
 

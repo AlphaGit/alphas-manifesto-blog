@@ -1,5 +1,6 @@
 ---
 
+
 title: Métricas de code review
 date: '2009-02-24 22:03:53 +0000'
 date_gmt: '2009-02-25 00:03:53 +0000'
@@ -8,6 +9,7 @@ categories:
 - Technology
 tags: []
 ---
+
 <div>
 
 En estos días me encuentro desarrollando técnicas para la automatización y estadarización de resultados de code reviews de los distintos proyectos que estén siendo implementados. La idea es poder tener una idea cuasi-numérica de qué tan bien o qué tan mal está desarrollada una aplicación.

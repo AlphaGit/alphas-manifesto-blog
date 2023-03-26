@@ -1,4 +1,5 @@
 ---
+
 title: 'Link del día: Google como fuente de información'
 date: 2011-02-08 12:36:47 +0000
 date_gmt: 2011-02-08 14:36:47 +0000
@@ -16,6 +17,7 @@ description: >-
   todavía funciona para esos propósitos. ¿Los resultados de una búsqueda en
   Google pueden ser un indicador de algo? Lee el blog del autor para saber más.
 ---
+
 
 
 Hay una serie de chistes que provienen de [XKCD](http://www.xkcd.com/) (perdón, pero no tengo un link directo a esos chistes en particular) en donde el chiste se basa sobre una gráfica X-Y de la cantidad de resultados que Google devuelve para una combinación de palabras. (Por ejemplo: <a href="http://xkcd.com/467/"><X> Girls <Y> Cups</a>.)

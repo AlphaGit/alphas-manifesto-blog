@@ -1,5 +1,6 @@
 ---
 
+
 title: Amar al proxy-mo
 date: '2013-10-13 18:01:45 +0000'
 date_gmt: '2013-10-13 23:01:45 +0000'
@@ -21,6 +22,7 @@ tags:
 subtitle: Desarrollando en localhost, same-origin policy & REST APIs
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/ProxyLove.png)
 
@@ -90,5 +92,6 @@ Un reverse proxy sería, en nuestro propio servidor, montar un mecanismo que int
 Esta es mi solución favorita, porque soporta cualquier tipo de petición, es transparente para el cliente, es fácilmente configurable (una línea de configuración en el cliente para saber a dónde llamar, dos líneas de configuración para configurar el proxy), y no necesitamos permitir ejecución arbitraria de código, o las complicaciones de prohibirla.
 
 ---
+
 
 Quisiera escuchar feedback de otra gente.  ¿Cómo suelen resolver este problema?  ¿Qué les ha servido mejor a ustedes?

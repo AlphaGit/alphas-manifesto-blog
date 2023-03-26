@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Working effectively with legacy code (review)
 date: 2018-09-01 16:32:24 +0000
@@ -20,6 +21,7 @@ description: >-
   bugs and get things done right. Read Michael Feathers' _Working effectively
   with legacy code_ to find out more!
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/working-effectively-legacy.jpg)

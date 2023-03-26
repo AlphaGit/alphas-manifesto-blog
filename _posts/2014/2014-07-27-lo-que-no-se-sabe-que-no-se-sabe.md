@@ -1,5 +1,6 @@
 ---
 
+
 title: Lo que no se sabe que no se sabe
 date: '2014-07-27 11:14:43 +0000'
 date_gmt: '2014-07-27 16:14:43 +0000'
@@ -17,6 +18,7 @@ tags:
 subtitle: Manejo del conocimiento, parte 2
 
 ---
+
 
 > Temo por cualquiera atrapado entre lo que sabe y lo que todavía no sabe que no sabe.
 > 

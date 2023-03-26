@@ -1,5 +1,6 @@
 ---
 
+
 title: Windows Azure
 date: '2009-09-04 22:01:57 +0000'
 date_gmt: '2009-09-05 00:01:57 +0000'
@@ -7,6 +8,7 @@ categories:
 - Technology
 tags: []
 ---
+
 
 Varios de mis últimos proyectos han tenido que ver con [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx), la versión Microsoft de cloud computing. Azure se divide en algunas secciones básicas, que al comienzo pueden ser difíciles de entender pero luego se hacen bastante naturales.
 

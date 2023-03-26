@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Technical Leaders and Career Paths
 subtitle: You shouldn't have to stop coding
@@ -18,6 +19,7 @@ description: >-
   relying on you. Balancing technical and leadership roles is key for a
   successful role as a technical leader.
 ---
+
 
 
 I came across [this question](https://workplace.stackexchange.com/q/181842/25611), which is a fairly common concern I have come across with people around me. Here's the gist of it:

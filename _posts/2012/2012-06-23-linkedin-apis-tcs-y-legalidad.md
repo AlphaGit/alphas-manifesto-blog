@@ -1,5 +1,6 @@
 ---
 
+
 title: LinkedIn APIs T&Cs y legalidad
 date: '2012-06-23 18:20:28 +0000'
 date_gmt: '2012-06-23 23:20:28 +0000'
@@ -15,6 +16,7 @@ tags:
 subtitle: O "shenanigams para que nadie use nuestro sistema"
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/illegalfry.jpg)
 
@@ -108,6 +110,7 @@ Fuck! Nada, de NADA podemos hacer con las APIs. Nuestra aplicación debería ser
 
 
 ---
+
 
 Haber leído estos términos y condiciones me decepciona mucho. Tenía la esperanza de usar estas APIs para algo interesante y realmente parecen estar bien construidas, de forma que son simples de usar y tienen muchas opciones interesantes. Desafortunadamente, me encuentro en un hueco legal que no puedo evitar. Invito a abogados o a especialistas en el tema corregir cualquier error que yo haya podido cometer, pero mi interpretación de esta licencia es que, haga lo que haga, voy a caer en una violación de la misma.
 

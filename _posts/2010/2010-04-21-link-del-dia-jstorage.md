@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: jStorage'
 date: '2010-04-21 09:53:56 +0000'
 date_gmt: '2010-04-21 11:53:56 +0000'
@@ -10,6 +11,7 @@ tags:
 - HTML5
 - jQuery
 ---
+
 
 Seguro ya aprendimos que todo lo que comience con una jota minúscula viene relacionado con la familia de jQuery. Y aunque no sean todos los casos así, este sí lo es.
 

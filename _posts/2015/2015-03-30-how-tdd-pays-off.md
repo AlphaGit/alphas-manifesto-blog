@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: How TDD pays off
 date: 2015-03-30 22:34:26 +0000
@@ -21,6 +22,7 @@ description: >-
   Understand why it's valuable and why it saves developers time. Get an update
   on the mongo-faceted project and how TDD helped rewrite it in just 3 hours.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/Semaforo1.png)

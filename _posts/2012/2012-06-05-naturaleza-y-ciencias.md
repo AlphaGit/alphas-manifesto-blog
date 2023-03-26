@@ -1,5 +1,6 @@
 ---
 
+
 title: Naturaleza y ciencias
 date: '2012-06-05 08:54:13 +0000'
 date_gmt: '2012-06-05 13:54:13 +0000'
@@ -18,6 +19,7 @@ tags:
 subtitle: Sobre el punto en donde dos mundos se tocan
 
 ---
+
 
 ¿Puede la naturaleza ser un modelo de cómo resolver problemas de las ciencias? La pregunta tiene una respuesta obvia. Sabemos que sí, sabemos que muchos procesos pueden copiarse desde la naturaleza para mejorar la forma en la que resolvemos determinados problemas. Desafortunadamente, muchas veces, determinadas áreas de las ciencias quedan fuera porque la relación con el mundo natural está algo alejado. Por ejemplo, las ciencias de la computación o la aritmética.
 

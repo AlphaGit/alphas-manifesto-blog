@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: A dibujar, HTML5 full powered'
 date: '2010-08-09 11:13:54 +0000'
 date_gmt: '2010-08-09 13:13:54 +0000'
@@ -10,6 +11,7 @@ tags:
 - art
 - Canvas
 ---
+
 
 Hace tiempo que se viene hablando de las bondades de HTML5, y varios lugares ya han aprovechado sus características para ofrecer algún servicio extra, como video de forma distinta, como otro tipo de campos de navegación, como una arquitectura más semántica... pero creo que esta es la primera vez que lo veo en su uso completo.
 

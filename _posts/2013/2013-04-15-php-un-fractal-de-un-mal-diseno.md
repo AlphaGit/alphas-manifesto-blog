@@ -1,5 +1,6 @@
 ---
 
+
 title: 'PHP: Un fractal de mal diseño'
 date: '2013-04-15 21:53:23 +0000'
 date_gmt: '2013-04-16 02:53:23 +0000'
@@ -26,6 +27,7 @@ subtitle: O mil y un razones para alejarse de PHP
 description: Traducción al español del post "A Fractal of Bad Design" de Eevee, una explicación detallada de los malos patrones existentes en PHP y por qué deberías alejarte de él.
 ---
 
+
 Durante mucho tiempo utilicé PHP, y de hecho, lo sigo utilizando. Sin embargo, siempre sentí como que algunas cosas no encajaban, y aunque varias veces me propuse aprender un paradigma de PHP de forma seria, nunca lo logré. Mucho tiempo después me enteré del gran odio generalizado a PHP y los problemas que ha tenido y leyendo esos artículos me encontré el que voy a traducir a continuación. [PHP: A fractal of Bad Design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/) es una recopilación de [Eevee](http://me.veekun.com/), quien muy amablemente accedió a que yo lo traduzca. La elegí porque es exageradamente detallada y certera.
 
 Debería aclarar que no estoy de acuerdo con todos los puntos mencionados como negativos o siquiera problemas, pero respeto el artículo original del autor sin interrupciones.
@@ -48,6 +50,7 @@ Pero tengo que quitarme esto de encima. Así que aquí va, un último intento.
 
 ---
 
+
 ## Una analogía
 
 > Se me acaba de escapar esto explicando mi frustración a Mel y ella insistió en que lo reprodujera aquí:
@@ -67,6 +70,7 @@ Pero tengo que quitarme esto de encima. Así que aquí va, un último intento.
 > Eso es lo que está mal con PHP.
 
 ---
+
 
 ## Postura
 
@@ -90,6 +94,7 @@ No puedo proveer un párrafo de comentario para cada problema explicando por qu�
 
 ---
 
+
 ## No comentes con estas cosas
 
 He estado _mucho_ en discusiones sobre PHP. Escucho muchos argumentos muy genéricos que están solo diseñados para detener la conversación inmediatamente. No me vengas con estos por favor. :(
@@ -106,6 +111,7 @@ Observación al margen: me encaaaaaaaaanta Python. También podría felizmente h
 Y nunca he conocido a un programador de PHP que puede hacer lo mismo con PHP. Pero me he encontrado con muchos que son rápidos para disculparse por cualquier cosa y todo lo que PHP hace. Esa mentalidad es terrible.
 
 ---
+
 
 ## PHP
 
@@ -530,6 +536,7 @@ El intérprete de PHP mismo ha tenido algunos problemas de seguridad _fascinante
 Podría seguir desenterrando más, pero el punto no es que hay X exploits -- el software siempre tiene bugs, pasa, no importa. La _naturaleza_ de estos es horripilante. Y no me puse a buscar estos; sólo aparecieron en mi puerta en los últimos meses.
 
 ---
+
 
 ## Conclusión
 

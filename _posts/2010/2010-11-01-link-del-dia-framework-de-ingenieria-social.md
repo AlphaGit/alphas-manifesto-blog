@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Framework de Ingeniería Social'
 date: '2010-11-01 11:06:55 +0000'
 date_gmt: '2010-11-01 13:06:55 +0000'
@@ -12,6 +13,7 @@ tags:
 - exploit
 - ingeniería social
 ---
+
 
 Muchos de nosotros debemos pensar que la ingeniería social tiene mucho de talento innato, mucho de arte y mucho de particular. Por la forma en que muchas cosas se desarrollan en este área de la seguridad, creemos que hay realmente poco de reutilizable, exceptuando ciertos detalles técnicos, ciertas acciones que pueden desarrollarse a través del ámbito virtual.
 

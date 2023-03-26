@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Animaciones en JavaScript'
 date: '2010-02-10 14:10:58 +0000'
 date_gmt: '2010-02-10 16:10:58 +0000'
@@ -10,6 +11,7 @@ tags:
 - desarrollo web
 - framework
 ---
+
 
 Me encontré con un artículo en [Adminx Web](http://www.admixweb.com/) llamado [17 Javascript Animation Frameworks Worth Checking Out](http://www.admixweb.com/2010/01/07/17-javascript-animation-frameworks-worth-to-seing/), una muy buena compilación de frameworks JavaScript que, más o menos fácil (depende de cada uno) podemos integrar a nuestras aplicaciones web para hacerlas más usables, o simplemente más lindas.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: LoadTest'
 date: '2011-08-23 11:22:46 +0000'
 date_gmt: '2011-08-23 13:22:46 +0000'
@@ -13,6 +14,7 @@ tags:
 - load testing
 
 ---
+
 
 Como ya sabemos, la web está llena de herramientas gratis que podemos utilizar, y el load testing no queda excluído. Hace poco me crucé con una herramienta llamada [LoadImpact](http://loadimpact.com/), que, como su nombre nos da a pensar, es una herramienta web que permite hacer test de stress sobre websites. En este caso, para acceder a la totalidad de sus funcionalidades deberíamos subscribirnos y abonar un pago, pero también podemos acceder sin registrarnos a una batería de tests gratuitos.
 

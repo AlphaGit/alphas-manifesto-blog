@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Using Dependabot with Yarn 2
 subtitle: Not currently supported out of the box
@@ -15,6 +16,7 @@ description: >-
   lack of Yarn 2 support with a workaround. Automatically merge Pull Requests
   with github actions to ensure that everything is alright.
 ---
+
 
 
 A few weeks ago I migrated [worklogger](https://github.com/AlphaGit/worklogger) to TypeScript and yarn 2.

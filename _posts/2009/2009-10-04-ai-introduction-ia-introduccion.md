@@ -1,5 +1,6 @@
 ---
 
+
 title: 'AI: Introduction | IA: Introducción'
 date: '2009-10-04 03:43:17 +0000'
 date_gmt: '2009-10-04 05:43:17 +0000'
@@ -9,6 +10,7 @@ categories:
 - Technology
 tags: []
 ---
+
 
 As a personal debt, liking and project, I proposed myself to read the whole book _Artificial Intelligence: A Modern Approach_ (among others) by authors Stuart Russel and Peter Norvig. It is a very recommended book in the subject and just by the size one can tell why. The second edition is the one in my hands and the one I attempt to comment. Due to the same reason (which is it's great extension and detail), my notes about the book and the subjects this one treats won't be a summary of them, but personal notes or ideas that may come out of it.
 
@@ -27,6 +29,7 @@ With this, my notes on the first chapter of this book finishes, hoping I'll be a
 _I'm an artificial little skunk._
 
 ---
+
 
 Como deuda personal, gusto personal, y proyecto personal, me propongo leer completito el libro _Inteligencia Artificial: Un Enfoque Moderno_ (entre otros), de los autores Stuart Russel y Peter Norvig. Es un libro muy recomendado en el área y sólo por su tamaño uno puede entender bien por qué. La segunda edición es la que poseo en mis manos y la que me propongo comentar. Por la misma razón (la cual es, su enorme extensión y detallismo), mis notas sobre el libro y los temas que este toque no serán resúmenes de lo que incluya, sino más bien notas personales o ideas que me surgen de las mismas.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Linux en tu explorador'
 date: '2011-05-19 12:35:30 +0000'
 date_gmt: '2011-05-19 14:35:30 +0000'
@@ -15,6 +16,7 @@ tags:
 - emulador
 
 ---
+
 
 De los creadores de _Compiladores en línea_ y de _Más compiladores online_ y compitiendo con [Máquinas virtuales en la web]({{ site.baseUrl }}{% link _posts/2010/2010-07-21-link-del-dia-maquinas-virtuales-en-la-web.md %}) nos llega un linux que podemos correr en nuestro navegador. Emulado. En JavaScript.
 

@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Reducing size of Docker images
 date: 2018-09-23 20:16:19 +0000
@@ -19,6 +20,7 @@ description: >-
   simpler approaches to reducing the image size, more in-depth filesystem
   troubleshooting, and the benefits of multistage builds.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/Docker-heavy.png)

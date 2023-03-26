@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Notificon'
 date: '2011-10-18 07:37:42 +0000'
 date_gmt: '2011-10-18 12:37:42 +0000'
@@ -13,6 +14,7 @@ tags:
 - favicon
 
 ---
+
 
 La gente de Github no me deja de sorprender, parece que siempre tuvieran algo nuevo. En este caso, me crucé con algo que no es demasiado funcional, pero sí muy interesante para lograr buenas interfaces de usuario.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: IE6 Upgrade Warning'
 date: '2009-07-30 10:58:21 +0000'
 date_gmt: '2009-07-30 12:58:21 +0000'
@@ -8,6 +9,7 @@ categories:
 - Technology
 tags: []
 ---
+
 
 Este link del día, debo confesar, va acompañando un remordimiento propio y en representación del de muchos programadores web. Muchos de nosotros sabemos que Internet Explorer es uno de los navegadores más difundidos, y que más tiempo ha estado presente desde 1997 en su versión 4, que fue una de las más difundidas. Tiempo después, muchas cosas cambiaron y en el 2001, la versión 6 vio la luz.
 

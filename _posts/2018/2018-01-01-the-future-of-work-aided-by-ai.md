@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: The future of work, aided by AI?
 date: 2018-01-01 11:21:41 +0000
@@ -22,6 +23,7 @@ description: >-
   complex domain rules and how emergent properties can be applied to create new
   domains of human creation.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/BeeDrones.jpg)

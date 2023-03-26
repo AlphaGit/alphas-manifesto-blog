@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Entendiendo REST'
 date: '2010-05-04 11:45:17 +0000'
 date_gmt: '2010-05-04 13:45:17 +0000'
@@ -14,6 +15,7 @@ tags:
 - modelo
 - sistema
 ---
+
 
 Un tiempo atrás tuvimos una lectura que trataba de _una visión simple de la arquitectura REST_. Sin embargo, hay mucho más por comprender en esta arquitectura.
 

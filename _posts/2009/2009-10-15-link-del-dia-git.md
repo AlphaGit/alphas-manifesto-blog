@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Git#'
 date: '2009-10-15 11:23:11 +0000'
 date_gmt: '2009-10-15 13:23:11 +0000'
@@ -7,6 +8,7 @@ categories:
 - Link del día
 tags: []
 ---
+
 
 Y de vuelta, otro sistemita que está portado a C# (lo lamento VBUsers, yo soy de la otra camada, aunque en su momento fui alguno de ustedes). En este caso, se trata de [Git](http://git-scm.com/), el famoso sistema de control de versiones que estaba pensado para ser rápido, performante y light.
 

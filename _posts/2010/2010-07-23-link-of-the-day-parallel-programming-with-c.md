@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link of the day: Parallel programming with C#'
 date: '2010-07-23 12:38:33 +0000'
 date_gmt: '2010-07-23 14:38:33 +0000'
@@ -14,6 +15,7 @@ tags:
 - Visual Studio
 - programming
 ---
+
 
 I just found out that the "Start page" for Visual Studio can really provide nice interesting articles and news. It's there where I found a link to an unfinished series of posts called [Parallel Programming](http://blogs.msdn.com/b/csharpfaq/archive/tags/parallel_2d00_programming/). These are part of the [C# Frequently Asked Questions](http://blogs.msdn.com/b/csharpfaq/) blog, one of the very interesting blogs around the MSDN.
 

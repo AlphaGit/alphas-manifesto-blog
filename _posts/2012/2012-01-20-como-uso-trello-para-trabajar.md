@@ -1,4 +1,5 @@
 ---
+
 title: Cómo uso Trello para trabajar
 date: 2012-01-20 18:31:00 +0000
 date_gmt: 2012-01-20 23:31:00 +0000
@@ -23,6 +24,7 @@ description: >-
   versión?_".
 
 ---
+
 
 
 Hace un tiempo ya, y realmente, el día que salió, yo ya tenía una cuenta de [Trello](http://trello.com). Era simple, era bonito, era rápido, pero no veía el gran poder que tenía. Es porque, como muchas cosas, hay que saber utilizarlas.

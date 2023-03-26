@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Optimización web vs. desarrollo prolijo'
 date: '2010-11-08 11:23:28 +0000'
 date_gmt: '2010-11-08 13:23:28 +0000'
@@ -13,6 +14,7 @@ tags:
 - CSS
 - desarrollo web
 ---
+
 
 Hace tiempo ya estaba comentando con un colega sobre la enorme cantidad de medidas que pueden tomarse para mejorar la performance de una aplicación web. Existen miles de factores involucrados, entre los cuales hay muchas configuraciones y tweaks que pueden hacerse al servidor, pero muchos otros tienen que ver con el código en sí mismo. Sí señores, estamos hablando de HTML, CSS y JS.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Texto y Javascript'
 date: '2009-08-07 11:05:25 +0000'
 date_gmt: '2009-08-07 13:05:25 +0000'
@@ -7,6 +8,7 @@ categories:
 - Link del día
 tags: []
 ---
+
 
 Arranquemos primero por el lado de Javascript, para lo cual tenemos una pequeña aplicación llamada [Text Escaping and Unescaping in Javascript](http://0xcc.net/jsescape/) (del cual una extraña traducción podría ser "_Texto en Javascript que escapa y regresa._").
 

@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: AI "sidesteps" scientific method
 subtitle: Not really but still a breakthrough
@@ -17,6 +18,7 @@ description: >-
   made all of the time. Learn the benefits of this algorithm and the
   philosophical changes it brings to the scientific world.
 ---
+
 
 
 There's an article published in TheNewStack.io that is titled _[Machine Learning Algorithm Sidesteps the scientific method](https://thenewstack.io/machine-learning-algorithm-sidesteps-the-scientific-method/)_. While I do consider this to be clickbait, I still consider some truth behind it worth discussing.

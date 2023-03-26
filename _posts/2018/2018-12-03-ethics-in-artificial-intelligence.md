@@ -1,4 +1,5 @@
 ---
+
 title: Ethics in Artificial Intelligence
 categories:
   - AI
@@ -19,6 +20,7 @@ description: >-
   Chris McKillop on the topic. Explore the implications of cognitive biases, the
   trolley dilemma and more.
 ---
+
 
 
 I recently participated in a meetup with the promising title "Ethics in AI". Dr. Chris McKillop conducted the meetup, and she did not only has a lot of theoretical background under her arm, but also a great deal of experience with working on the field of Data Science and AI.

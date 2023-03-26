@@ -1,5 +1,6 @@
 ---
 
+
 title: Análisis de la Batalla Naval
 date: '2012-05-30 11:23:10 +0000'
 date_gmt: '2012-05-30 16:23:10 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Pasos para crear una buena estrategia
 
 ---
+
 
 Ya que están pasando [Battleship](http://www.imdb.com/title/tt1440129/) en el cine, me pareció muy apropiada la publicación de este link. De parte de [MicroSiervos](http://juegos.microsiervos.com/clasicos/batalla-naval-analisis.html), Nick Berry de DataGenetics nos habla de un [análisis estadístico para la estrategia de la Batalla Naval](http://www.datagenetics.com/blog/december32011/index.html).
 

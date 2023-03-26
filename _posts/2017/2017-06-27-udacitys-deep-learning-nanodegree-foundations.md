@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Udacity's Deep Learning Nanodegree Foundations
 date: 2017-06-27 20:28:32 +0000
@@ -20,6 +21,7 @@ description: >-
   & community support. 5 projects, Tensorflow, AWS, GitHub, FloydHub, Python,
   Anaconda & Jupyter Notebook. Visit the course page to learn more.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/nd101.png)

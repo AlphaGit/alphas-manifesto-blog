@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: CSS3 para navegadores viejos'
 date: '2010-11-03 11:15:42 +0000'
 date_gmt: '2010-11-03 13:15:42 +0000'
@@ -11,6 +12,7 @@ tags:
 - Internet Explorer
 - CSS3
 ---
+
 
 Todos sabemos que cuando queremos avanzar en las tendencias tecnológicas, muchas veces debemos dejar atrás a una serie de usuarios que no quieren o no pueden actualizar sus plataformas. Para muchos desarrolladores web, Internet Explorer es hoy el problema de dar soporte a todos los posibles usuarios, más específicamente en las versiones antiguas de este navegador. (Según parece, todavía hay gente que utiliza la versión 5.)
 

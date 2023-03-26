@@ -1,5 +1,6 @@
 ---
 
+
 title: Barras de progreso y velocidad aparente
 date: '2012-06-21 07:42:51 +0000'
 date_gmt: '2012-06-21 12:42:51 +0000'
@@ -18,6 +19,7 @@ tags:
 subtitle: La gran diferencia del detalle
 
 ---
+
 
 ## Indicando progreso
 
@@ -66,6 +68,7 @@ La pausa final, que ocurre muy comunmente si se está haciendo un procesamiento 
 
 
 ---
+
 
 Los estudios originales son:
 

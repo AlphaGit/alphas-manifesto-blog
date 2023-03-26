@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Reportando bugs de browsers: qué, cómo
   y por qué'
 date: '2011-09-12 08:16:30 +0000'
@@ -16,6 +17,7 @@ tags:
 - Opera
 
 ---
+
 
 [Este artículo de Smashing Magazine](http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/) habla muy en detalle sobre la comunidad de desarrolladores de navegadores (una buena gran mayoría de ellos) y cómo es bienvenido el feedback de los usuarios para mejorar los navegadores mismos.
 

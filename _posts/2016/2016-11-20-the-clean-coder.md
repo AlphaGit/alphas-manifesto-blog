@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: The Clean Coder
 date: 2016-11-20 18:01:46 +0000
@@ -22,6 +23,7 @@ description: >-
   manage projects, avoid technical debt, and the importance of automated testing
   in creating reliable software.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/the-clean-coder-cover.jpg)

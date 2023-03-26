@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link of the day: Internet Safety'
 date: '2010-07-30 10:25:01 +0000'
 date_gmt: '2010-07-30 12:25:01 +0000'
@@ -10,6 +11,7 @@ tags:
 - seguridad
 - copyright
 ---
+
 
 A couple of days ago, one internet link surfaced between all of the popular ones for being one-big-and-for-all resource for online safety. This safety I'm talking about is not only the kind of safety where you want to protect your data, but the one where you want to protect yourself and your family. If you're close to technology, and if you live part of your life online, this is surely something you must think of sometime.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: If This Then That'
 date: '2011-09-26 12:40:23 +0000'
 date_gmt: '2011-09-26 17:40:23 +0000'
@@ -15,6 +16,7 @@ tags:
 - web 2.0
 
 ---
+
 
 [IfTTT.com](http://ifttt.com/) es un servicio que me atrevo a calificar de "maravilloso" en donde nos permiten integrar distintas redes sociales o servicios 2.0 en workflows que nosotros definiremos. Dependiendo del uso que le demos, puede sernos más o menos útiles.
 

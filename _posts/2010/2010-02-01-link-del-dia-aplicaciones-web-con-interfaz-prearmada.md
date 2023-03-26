@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Aplicaciones web, con interfaz prearmada'
 date: '2010-02-01 13:43:43 +0000'
 date_gmt: '2010-02-01 15:43:43 +0000'
@@ -12,6 +13,7 @@ tags:
 - web application
 - desarrollo web
 ---
+
 
 Aquellos que diseñan o programan aplicaciones web saben que, por un lado, se tienen que acortar a ciertos estándares. La innovación demasiado lejana podría confundir a los usuarios. Por otro lado, saben que es muy refrescante innovar y crear formas de interacción nuevas, y la web les permite muchas variantes.
 

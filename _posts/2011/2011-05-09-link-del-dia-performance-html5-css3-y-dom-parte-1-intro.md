@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Performance HTML5, CSS3 y DOM, Parte 1: Intro'
 date: '2011-05-09 13:16:35 +0000'
 date_gmt: '2011-05-09 15:16:35 +0000'
@@ -19,6 +20,7 @@ tags:
 - herramientas
 
 ---
+
 
 Acabo de ver dos videos de Paul Irish, del grupo de Google Chrome. Uno de ellos era [Google Chrome Developer Tools: 12 Tricks to Develop Quicker](http://www.youtube.com/watch?v=nOEw9iiopwI). Aquí básicamente nos da una explicación de los Chrome Developer Tools con algunos trucos que no son tan sabidos. Interesante y útil.
 

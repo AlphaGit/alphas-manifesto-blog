@@ -1,5 +1,6 @@
 ---
 
+
 title: 'The Emotion Machine: Emotional States, Attachments and Goals, From Pain to
   Suffering'
 date: '2009-09-20 02:21:17 +0000'
@@ -8,6 +9,7 @@ categories:
 - Books
 tags: []
 ---
+
 
 Alguna vez [publiqué algo](https://blog.alphasmanifesto.com.ar/2008/08/05/link-del-dia-la-maquina-de-emociones/) de información sobre el libro de Marvin Minsky, _La Máquina de Emociones _(_The Emotion Machine_), pero nunca había tenido la oportunidad de leerlo en profundidad. Finalmente, a través del paso del tiempo, fui avanzando sobre las páginas &ndash; si es que es válida la expresión &ndash; del mismo.
 
@@ -26,6 +28,7 @@ Hasta aquí ha llegado mi lectura del mismo, pero espero pronto poder continuarl
 _Soy un zorrinito con recursos._
 
 ---
+
 
 Once ago I [published some information](https://blog.alphasmanifesto.com.ar/2008/08/05/link-del-dia-la-maquina-de-emociones/) about Marvin Minsky's book, _The Emotion Machine_, but I never had the chance to get to read it deeply. Finally, with time flying by, I kept on crawling through along the pages.
 

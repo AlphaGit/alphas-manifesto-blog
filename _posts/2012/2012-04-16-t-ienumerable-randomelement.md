@@ -1,5 +1,6 @@
 ---
 
+
 title: T IEnumerable.RandomElement()
 date: '2012-04-16 09:56:01 +0000'
 date_gmt: '2012-04-16 14:56:01 +0000'
@@ -15,6 +16,7 @@ tags:
 subtitle: Seleccionar un elemento cualquiera de un conjunto
 
 ---
+
 
 Otro de mis pequeños snippets, este es útil para unit testing.
 

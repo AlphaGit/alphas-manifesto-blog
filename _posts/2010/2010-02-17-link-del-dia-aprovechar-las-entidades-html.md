@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Aprovechar las entidades HTML'
 date: '2010-02-17 11:17:30 +0000'
 date_gmt: '2010-02-17 13:17:30 +0000'
@@ -10,6 +11,7 @@ tags:
 - CSS
 - design
 ---
+
 
 El artículo de [WebDesignerWall](http://www.webdesignerwall.com/) llamado [Using HTML Symbol Entities](http://www.webdesignerwall.com/tutorials/using-html-symbol-entities/) nos muestra cuáles son las principales ventajas de usar entidades HTML (ya saben, esas que se escriben con su código, como _&amp;quot;_), y cómo utilizarlas de forma que se vean elegantes y apropiadas. Nos previene de varios errores comunes y luego, cosa que no era menos, nos deja links a otros artículos relacionados de otros sitios.
 

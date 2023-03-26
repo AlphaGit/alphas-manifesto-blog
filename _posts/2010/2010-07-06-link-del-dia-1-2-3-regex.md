@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: 1, 2, 3... Regex!'
 date: '2010-07-06 10:22:28 +0000'
 date_gmt: '2010-07-06 12:22:28 +0000'
@@ -8,6 +9,7 @@ categories:
 - Technology
 tags: []
 ---
+
 
  ¿Recuerdan los posts viejos sobre cómo convertir un texto en una expresión regular acorde (_Text2RE_), y sobre cómo visualizar las expresiones regulares (_ReAnimator_)?
 

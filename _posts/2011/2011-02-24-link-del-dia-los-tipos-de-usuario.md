@@ -1,4 +1,5 @@
 ---
+
 title: 'Link del día: Los tipos de usuario'
 date: 2011-02-24 12:56:58 +0000
 date_gmt: 2011-02-24 14:56:58 +0000
@@ -13,6 +14,7 @@ description: >-
   profesional de TI. En [En Español](http://www.enespanol.com.ar) te mostramos
   qué actitud es la adecuada para cada uno. ¡Descúbrelos!
 ---
+
 
 
 Para quienes trabajamos en la informática es algo común tener que lidiar con algún usuario final, incluso aunque nos dediquemos a algo muy específico y no directamente relacionado con la experiencia del usuario. Sabemos que también no todas las personas son iguales, y mientras unas son más afines a la tecnología y otras no, también existen distintas actitudes que la gente tiene ante un problema en particular.

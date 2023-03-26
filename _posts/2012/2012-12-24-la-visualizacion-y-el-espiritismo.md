@@ -1,5 +1,6 @@
 ---
 
+
 title: La visualización y el espiritismo
 date: '2012-12-24 11:10:16 +0000'
 date_gmt: '2012-12-24 16:10:16 +0000'
@@ -22,6 +23,7 @@ tags:
 subtitle: ¿Por qué es tan importante visualizar?
 
 ---
+
 
 <figure class="align-center">
   <img src="{{ site.baseurl }}/assets/perceptionsmall.jpg" />

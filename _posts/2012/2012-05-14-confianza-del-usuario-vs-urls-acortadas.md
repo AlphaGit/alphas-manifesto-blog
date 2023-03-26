@@ -1,5 +1,6 @@
 ---
 
+
 title: " ¿Confianza del usuario vs. URLs acortadas?"
 date: '2012-05-14 08:43:24 +0000'
 date_gmt: '2012-05-14 13:43:24 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Desmintiendo si las URLs acortadas afectan o no la confianza del usuario
 
 ---
+
 
 Hoy voy a dejar un caso de una pregunta abierta, nuevamente, originada en los foros de [User Experience](http://ux.stackexchange.com/questions/20541/do-users-trust-shortened-urls). La pregunta es: _ ¿Los usuarios confían en URLs acortadas?_
 

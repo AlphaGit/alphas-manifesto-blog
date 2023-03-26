@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Img to CSS'
 date: '2011-05-17 12:15:51 +0000'
 date_gmt: '2011-05-17 14:15:51 +0000'
@@ -12,6 +13,7 @@ tags:
 - email
 
 ---
+
 
 Del cajón de las utilidades curiosas y técnicas que algún día puede que utilicemos, llega la aplicación web llamada [Img to CSS](http://www.imgtocss.com/), que, como su nombre lo indica, transforma imágenes en CSS.
 

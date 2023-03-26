@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Death to Singletons!
 date: 2016-05-13 20:08:44 +0000
@@ -26,6 +27,7 @@ description: >-
   object-oriented programming, initialization, concurrency and lifetime. Learn
   what to consider before using the singleton design pattern.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/Singleton.png)

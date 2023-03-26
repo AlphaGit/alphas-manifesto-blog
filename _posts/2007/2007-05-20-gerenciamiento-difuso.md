@@ -1,5 +1,6 @@
 ---
 
+
 title: Gerenciamiento difuso
 date: '2007-05-20 20:40:00 +0000'
 date_gmt: '2007-05-20 20:40:00 +0000'
@@ -9,6 +10,7 @@ categories:
 tags: []
 comments: []
 ---
+
 
 Muchas veces nos hemos encontrado con el problema de querer decidir las cosas por simple democracia. El proceso es simple. Se da un problema, se proponen soluciones, cada uno pone su voto por una y solo una solución, y la solución con más votos es la llevada a cabo por el grupo. A pesar de que muchos no estén de acuerdo, es lo que la mayoría quiere y por tanto es lo que mejor se cree en general que se puede hacer.
 
@@ -40,6 +42,7 @@ Sin embargo, existe un grave problema en estas situaciones. Supongamos que P<sub
 Muchas veces se supone que eso nunca va a ocurrir (como en las elecciones políticas), muchas veces se resuelve por medio del azar (como arrojando una moneda al aire entre amigos), o muchas veces se coloca una ponderación sobre los votos (como en los grupos dirigentes de empresas - si el director de la empresa eligió S<sub>2 </sub>entonces ante la indecisión, se sigue ese camino).
 
 ----
+
 
 
 Hace poco se me pidió que diseñe un sistema de votación para un grupo reducido (par - pueden haber empates), en donde no puede haber ponderación de votos, y el azar no es un método fiable por los medios que este grupo maneja.
@@ -109,11 +112,13 @@ Siguiendo el anterior ejemplo, podríamos ver que si P<sub>1 </sub>no está en e
 ---
 
 
+
 En el caso hipotético en que las soluciones resultantes tuvieran igual puntuación, se puede implementar la teoría del método _Delphi_. Este método habla de hacer sucesivas rondas. En la primera ronda, cada uno hace una ponderación de las opciones, sin conocer la puntuación que los demás otorgan. Al no ser satisfactoria la solución, se hace una segunda ronda. Obviamente, al haber visto los puntajes de los demás, algunos considerarán que algunas ponderaciones propias no eran del todo correctas y las variarán.
 
 Si luego de la segunda o tercera ronda de hacer estos cambios, aún no se llega a una determinación satisfactoria, cada integrante explica las razones de su propias puntuaciones, detallando los pro y los contra que le llevó a poner un determinado puntaje a una determinada solución. Luego de esto, se hace otra ronda más, en donde cada integrante pone una nueva puntuación a cada una de las soluciones propuestas, pensando en todos los pros y los contras expuestos.
 
 ---
+
 
 Con este sistema, no sólo se hace mucho más difícil el problema que tiene la "democracia par", que es el de los empates y su resolución, sino que además no se descartan soluciones sino que se tienen en cuenta según el grado de aceptación que estas tienen, que es lo más administrativamente correcto para poder llevar un buen manejo de las decisiones tomadas.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: ng-pattern-restrict
 date: '2014-02-17 21:12:11 +0000'
 date_gmt: '2014-02-18 02:12:11 +0000'
@@ -16,6 +17,7 @@ tags:
 subtitle: Limitando la entrada del usuario según una RegEx, AngularJS style
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/ng-pattern-restrict.png)
 

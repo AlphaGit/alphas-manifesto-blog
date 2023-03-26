@@ -1,5 +1,6 @@
 ---
 
+
 title: La prueba de la pizza
 date: '2013-01-26 18:04:06 +0000'
 date_gmt: '2013-01-26 23:04:06 +0000'
@@ -18,6 +19,7 @@ tags:
 subtitle: La versión casera de pruebas de carga cognitiva
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/Pizza.jpg)
 

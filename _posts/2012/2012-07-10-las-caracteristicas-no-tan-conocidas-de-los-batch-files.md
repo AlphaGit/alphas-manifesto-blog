@@ -1,5 +1,6 @@
 ---
 
+
 title: Las características no tan conocidas de los batch files
 date: '2012-07-10 09:24:36 +0000'
 date_gmt: '2012-07-10 14:24:36 +0000'
@@ -17,6 +18,7 @@ tags:
 subtitle: Unleash the power of .bat!
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/batchfile.png)
 

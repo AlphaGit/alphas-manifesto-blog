@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Cloud Computing Ecosystem'
 date: '2009-12-21 11:17:08 +0000'
 date_gmt: '2009-12-21 13:17:08 +0000'
@@ -12,6 +13,7 @@ tags:
 - cloud computing
 - Microsoft
 ---
+
 
 Hace no mucho hablamos un poco sobre la importancia y los beneficios del cloud computing, o la computación en la nube, como muchos quieren traducir el término. Volviendo sobre la idea, es el concepto de tener sistemas distribuidos para los cuales muchas computadoras físicas a lo largo y a lo ancho de internet están colaborando para un fin común. Puede que estas computadoras sean computadoras personales, o puede que sean servidores dispuestos a ese fin en algún lugar fuera de nuestro alcance.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: La confianza por el equipo
 date: '2012-07-30 08:59:31 +0000'
 date_gmt: '2012-07-30 13:59:31 +0000'
@@ -24,6 +25,7 @@ tags:
 subtitle: El manual de Nick Fury para coordinar equipos
 
 ---
+
 
 Cuando escribí _mi review de la película Avengers_ mencioné lo siguiente:
 

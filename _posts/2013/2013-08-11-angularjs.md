@@ -1,5 +1,6 @@
 ---
 
+
 title: AngularJS
 date: '2013-08-11 20:28:53 +0000'
 date_gmt: '2013-08-12 01:28:53 +0000'
@@ -18,6 +19,7 @@ tags:
 subtitle: Libro introductorio sobre AngularJS y sus prácticas
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/angularjs.jpg)
 

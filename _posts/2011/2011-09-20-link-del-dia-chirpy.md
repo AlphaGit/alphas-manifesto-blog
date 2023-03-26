@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Chirpy'
 date: '2011-09-20 09:21:47 +0000'
 date_gmt: '2011-09-20 14:21:47 +0000'
@@ -14,6 +15,7 @@ tags:
 - plugin
 
 ---
+
 
 Ayer hablé un ratito más con JH y siendo que no hay una sola charla que pueda tener con él en donde no aprenda algo, me comentó de su más reciente descubrimiento: [Chirpy](http://chirpy.codeplex.com/).
 

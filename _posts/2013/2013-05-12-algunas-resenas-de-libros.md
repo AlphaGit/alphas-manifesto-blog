@@ -1,5 +1,6 @@
 ---
 
+
 title: Algunas reseñas de libros
 date: '2013-05-12 13:02:06 +0000'
 date_gmt: '2013-05-12 18:02:06 +0000'
@@ -24,6 +25,7 @@ subtitle: Gatos conspiradores, algoritmos, ciencia y juegos HTML5
 
 ---
 
+
 Hay algunos libros que he leído desde mi última reseña, y al igual que con las películas, dejaré de hacer reseñas individuales. ¡Celebren, porque habrá menos spam para ustedes!
 
 En este caso, los libros de los que voy a hablar son:
@@ -36,6 +38,7 @@ En este caso, los libros de los que voy a hablar son:
 <!--more-->
 
 ---
+
 
 ## How to tell if your cat is plotting to kill you
 
@@ -55,6 +58,7 @@ Quiero alardear un poquito sobre el hecho de que Matthew Inman ("el chico de los
 Resumiendo: buen humor, aunque no destacable, simple. Libro corto.
 
 ---
+
 
 ## Algorithms in a Nutshell
 
@@ -76,6 +80,7 @@ Este libro tiene una muy buena premisa y propósito: hacer entender el concepto 
 En definitiva, tuve una mala experiencia pero no fue totalmente negativa. Logré entender varios de los puntos que querían hacerse y logré sacar algunas cosas del libro. Además, podría ser útil como material de referencia (si es que uno trabaja en C o en Java, porque hay muy poco pseudocódigo).
 ---
 
+
 ## The Grand Design
 
 _por Stephen Hawking_
@@ -89,6 +94,7 @@ Sin embargo, aunque menciona estos puntos, el libro está centrado en explicar e
 
 Un punto muy importante que también explica es el principio antrópico y cómo ha hecho la ciencia para responder esas respuestas. Estén satisfechos o no con esa respuesta, está claro que expone una respuesta a esos problemas y lo explica de una forma muy amena, no hace falta ser un físico teórico para comprender de qué se habla. Como siempre, me quito el sombrero ante Hawking por su capacidad de explicar temas tan complejos de una forma tan simple.
 ---
+
 
 ## HTML5 Games
 

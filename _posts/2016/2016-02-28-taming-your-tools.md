@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Taming your tools
 date: 2016-02-28 16:02:35 +0000
@@ -18,6 +19,7 @@ description: >-
   where you can tell when something is wrong. Discover why some tools are better
   than others and how to use them to make your work easier and more reliable.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/whip.png)

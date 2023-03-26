@@ -1,5 +1,6 @@
 ---
 
+
 title: StackOverflow me hizo replantear mis actitudes
 date: '2014-08-09 20:07:33 +0000'
 date_gmt: '2014-08-10 01:07:33 +0000'
@@ -13,6 +14,7 @@ tags:
 subtitle: "Resolviendo: quién vigila al vigilante"
 
 ---
+
 
 Hace unos días me ocurrió algo genial: fui evaluado y mi evaluación fue mala. Como producto de eso tuve una pequeña epifanía.  ¿Cómo puede ser?
 

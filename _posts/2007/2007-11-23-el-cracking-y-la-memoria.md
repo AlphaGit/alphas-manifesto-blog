@@ -1,5 +1,6 @@
 ---
 
+
 title: El cracking y la memoria
 date: '2007-11-23 13:00:00 +0000'
 date_gmt: '2007-11-23 13:00:00 +0000'
@@ -8,6 +9,7 @@ categories:
 - Technology
 tags: []
 ---
+
 
 Hace un par de días encontré un hueco de seguridad muy grande en un foro conocido (no voy a dar direcciones por protección del mismo), y dicha falla permitía acceso directo a su base de datos.
 

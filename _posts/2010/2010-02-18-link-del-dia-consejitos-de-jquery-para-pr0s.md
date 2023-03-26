@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: consejitos de jQuery para pr0s'
 date: '2010-02-18 11:39:04 +0000'
 date_gmt: '2010-02-18 13:39:04 +0000'
@@ -13,6 +14,7 @@ tags:
 - desarrollo web
 - jQuery
 ---
+
 
 Ayer [Xyborg](http://twitter.com/Xyborg) compartió un link llamado [jQuery and general Javascript Tips to improve your code](http://www.tripwiremagazine.com/2009/10/jquery-and-general-javascript-tips-to-improve-your-code.html). No sólo me encantaron los consejos que ahí aparecían, sino que me encontré con que dicho artículo tiene una secuela, llamada [More jQuery and General Javascript Tips to improve your code](http://www.tripwiremagazine.com/2009/11/more-jquery-and-general-javascript-tips-to-improve-your-code.html).
 

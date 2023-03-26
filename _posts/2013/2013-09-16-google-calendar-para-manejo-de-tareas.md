@@ -1,5 +1,6 @@
 ---
 
+
 title: " ¿Google Calendar para manejo de tareas?"
 date: '2013-09-16 20:40:18 +0000'
 date_gmt: '2013-09-17 01:40:18 +0000'
@@ -17,6 +18,7 @@ tags:
 subtitle: Una aproximación simple a un problema complejo
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/calendar.png)
 

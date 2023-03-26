@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Google Inbox and Inbox Zero
 date: '2014-11-28 18:53:10 +0000'
@@ -15,6 +16,7 @@ tags:
 subtitle: I'm so on board, this is why
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/Inbox.png)
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link of the day: Rich text editing'
 date: '2010-12-03 13:06:25 +0000'
 date_gmt: '2010-12-03 15:06:25 +0000'
@@ -11,6 +12,7 @@ tags:
 - desarrollo web
 - design
 ---
+
 
 There are a couple of subjects in web design and web development that will never grow old. One of them is this one: rich text editing. At least until browsers and web standards include a way for rich text editing to be done on the client side, there will be custom implementations through JavaScript and HTML markup that will provide users of WYSIWYG editors.
 

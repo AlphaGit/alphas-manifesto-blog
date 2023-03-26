@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Deep Learning (book review)
 date: 2018-06-10 12:43:23 +0000
@@ -21,6 +22,7 @@ description: >-
   advanced read with a high-density of information and references to papers and
   sources.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/deep-learning.jpg)

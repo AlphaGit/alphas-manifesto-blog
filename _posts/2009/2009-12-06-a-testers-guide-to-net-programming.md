@@ -1,5 +1,6 @@
 ---
 
+
 title: A Tester's Guide to .NET Programming
 date: '2009-12-06 22:08:00 +0000'
 date_gmt: '2009-12-07 00:08:00 +0000'
@@ -17,6 +18,7 @@ tags:
 - VS 2008
 - book
 ---
+
 
 Terminé hace poco de leer el libro _A Tester's Guide to .NET Programming_, de Randal Root y Mary Romero Sweeney, un interesante libro aproximativo a .NET de unas 630 páginas.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Notas sobre HTTP Load testing'
 date: '2011-05-25 02:53:17 +0000'
 date_gmt: '2011-05-25 04:53:17 +0000'
@@ -14,6 +15,7 @@ tags:
 - métricas
 
 ---
+
 
 Hace poquito encontré esta serie de notas que conformaron un artículo sobre [HTTP Load Testing](http://www.mnot.net/blog/2011/05/18/http_benchmark_rules). El artículo trata distintos puntos relativos a cómo se ve afectada la calidad del testing, a la vez de distintas técnicas para tener (o para evitar) de forma que los resultados del testing sean lo suficientemente confiables como para significar algo.
 

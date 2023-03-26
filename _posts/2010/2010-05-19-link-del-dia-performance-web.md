@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Performance Web'
 date: '2010-05-19 14:17:35 +0000'
 date_gmt: '2010-05-19 16:17:35 +0000'
@@ -16,6 +17,7 @@ tags:
 - Yahoo
 - best practices
 ---
+
 
 A pedido de JF que está luchando con la performance de algunas aplicaciones web, hago un compilado de ciertos links que fui encontrando hace tiempo, y que de seguro serán útiles a más de una persona para mejorar la velocidad con la que funciona una web application. Especialmente ahora que es [tenido en cuenta para su Page Ranking](http://googlewebmastercentral.blogspot.com/2010/04/using-site-speed-in-web-search-ranking.html).
 

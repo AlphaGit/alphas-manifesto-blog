@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: JSONSelect'
 date: '2011-05-26 12:05:07 +0000'
 date_gmt: '2011-05-26 14:05:07 +0000'
@@ -14,6 +15,7 @@ tags:
 - librería
 
 ---
+
 
 Para aquellos que hayan trabajado con jQuery (o con otras librerías JavaScript) sabrá que la sintaxis para usar los selectores es prácticamente algo mágico, que hace muchísimo más simple nuestro trabajo.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día:  ¿Cómo rankear contenidos?'
 date: '2010-07-27 11:24:07 +0000'
 date_gmt: '2010-07-27 13:24:07 +0000'
@@ -15,6 +16,7 @@ tags:
 - AJAX
 - rating
 ---
+
 
 Hace un tiempo me puse a investigar sobre cómo utilizar alguna técnica que me permitiera rankear contenidos. Es decir, tener algún feedback de parte de los usuarios para saber qué contenido gustaba más y cuál no tanto. "_Copiémosnos de los grandes_", pensé yo, y busqué algún ranking de estrellas, al mejor estilo Youtube.
 

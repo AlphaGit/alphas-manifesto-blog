@@ -1,5 +1,6 @@
 ---
 
+
 title: Selectores CSS4
 date: '2012-02-07 11:50:23 +0000'
 date_gmt: '2012-02-07 16:50:23 +0000'
@@ -15,6 +16,7 @@ tags:
 subtitle: No está el 3, vamos por el 4!
 
 ---
+
 
 Síp, los selectores CSS4 ya hicieron su apareción en uno de los primeros drafts de la [W3c en septiembre del 2011](http://www.w3.org/TR/selectors4/). Sin embargo, les falta un buen camino para que siquiera vayan a implementarse en cualquier navegador, por lo que no están listos para ser usados, ni siquiera para ser probados.
 

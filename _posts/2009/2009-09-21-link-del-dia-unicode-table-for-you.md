@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Unicode Table For You'
 date: '2009-09-21 11:22:50 +0000'
 date_gmt: '2009-09-21 13:22:50 +0000'
@@ -8,6 +9,7 @@ categories:
 - Technology
 tags: []
 ---
+
 
 Recuerdan que alguna vez hablé [un poquito de encodings]({{ site.baseUrl }}{% link _posts/2009/2009-04-23-link-del-dia-un-poquito-de-encodings.md %}), y allí explicaba cómo surgían varios tipos de codificación? Entre ellos está el famoso Unicode, que tiene de fantástico ser una especie de codificación "que nos va a servir para todo! (o al menos para varios años más)"... ahora, lo problemático de este encoding es su vasto tamaño, casi como que no podemos saber qué tiene, porque se supone que está casi todo pero no tenemos alguna forma cómoda de navegarlo.
 

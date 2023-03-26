@@ -1,5 +1,6 @@
 ---
 
+
 title: Programando Arkanoid - Parte 2
 date: '2013-04-01 20:23:58 +0000'
 date_gmt: '2013-04-02 01:23:58 +0000'
@@ -21,6 +22,7 @@ tags:
 subtitle: El escenario de juego y el jugador en él
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/Building2lq.jpg)
 

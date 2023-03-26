@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: En defensa de los hacks CSS'
 date: '2011-06-01 13:47:07 +0000'
 date_gmt: '2011-06-01 15:47:07 +0000'
@@ -14,6 +15,7 @@ tags:
 - hacks
 
 ---
+
 
 Para mi sorpresa, me encontré con un artículo de Mathias Bynens llamado [In defense of CSS hacks &ndash; introducing "safe CSS hacks"](http://mathiasbynens.be/notes/safe-css-hacks). él habla e introduce el concepto de los hacks CSS. Permítanme hablar un poco sobre su idea.
 

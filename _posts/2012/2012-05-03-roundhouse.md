@@ -1,5 +1,6 @@
 ---
 
+
 title: RoundhousE
 date: '2012-05-03 11:43:39 +0000'
 date_gmt: '2012-05-03 16:43:39 +0000'
@@ -20,6 +21,7 @@ tags:
 subtitle: ¡Chuck Norris al rescate!
 
 ---
+
 
 Hace poco me crucé con un proyecto que utilizaba RoundhousE y mi curiosidad me llevó a ver qué era. Me encontré con que es un sistema de migraciones de bases de datos muy conocido para .NET, particularmente para SQL Server, pero también soporta MySQL, Oracle, PostgreSQL, e incluso SQLite.
 

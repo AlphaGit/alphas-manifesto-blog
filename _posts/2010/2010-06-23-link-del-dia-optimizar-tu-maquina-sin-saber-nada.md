@@ -1,5 +1,6 @@
 ---
 
+
 title: 'Link del día: Optimizar tu máquina, sin saber nada'
 date: '2010-06-23 10:08:20 +0000'
 date_gmt: '2010-06-23 12:08:20 +0000'
@@ -12,6 +13,7 @@ tags:
 - presentación
 - aplicación de escritorio
 ---
+
 
 Me gusta cuando las aplicaciones son capaces de encerrar mucha complejidad detrás de algo simple de entender y fácil de usar. Este es uno de esos casos. La finalidad de esta aplicación, llamada [Soluto](http://www.soluto.com/) ("Anti-Frustration Software"), es de permitir monitorear el inicio de las distintas aplicaciones (sólo Windows por ahora), elegir cuáles deben cargar y cuáles no, cuáles deben ser demoradas para un momento posterior y de esa forma mejorar el tiempo de inicio.
 

@@ -1,5 +1,6 @@
 ---
 
+
 title: jQuery Novice to Ninja
 date: '2012-07-01 23:27:13 +0000'
 date_gmt: '2012-07-02 04:27:13 +0000'
@@ -18,6 +19,7 @@ tags:
 subtitle: Manos a la obra desde lo más básico
 
 ---
+
 
 ![]({{ site.baseurl }}/assets/jqueryNoviceToNinja.jpg)
 

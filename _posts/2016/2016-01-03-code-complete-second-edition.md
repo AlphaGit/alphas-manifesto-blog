@@ -1,4 +1,5 @@
 ---
+
 excerpt_separator: <!--more-->
 title: Code Complete, Second Edition
 date: 2016-01-03 22:03:45 +0000
@@ -20,6 +21,7 @@ description: >-
   architecture, design, planning, code performance-tuning and more from this
   2000+ page book.
 ---
+
 
 
 ![]({{ site.baseurl }}/assets/codecomplete.jpg)

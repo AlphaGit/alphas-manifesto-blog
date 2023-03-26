@@ -1,4 +1,5 @@
 ---
+
 title: 'Link del día: Firefox 4 + Mozilla demos'
 date: 2011-03-23 11:41:11 +0000
 date_gmt: 2011-03-23 13:41:11 +0000
@@ -21,6 +22,7 @@ description: >-
   aprender y probar HTML5. Descarga Firefox 4 y ve el movimiento en tiempo real
   de sus descargas.
 ---
+
 
 
 Ayer salió a la luz la versión definitiva de Firefox 4, y en unas 24 horas ya logró tener más de 6 millones y medio de descargas. Un navegador popular, sin dudas. Podemos bajarlo y al mismo tiempo ver el movimiento en tiempo real de descargas a través de [Firefox 4 Download Stats](http://glow.mozilla.org/).
