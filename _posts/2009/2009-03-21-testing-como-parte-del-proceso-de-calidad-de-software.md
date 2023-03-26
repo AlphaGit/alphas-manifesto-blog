@@ -7,11 +7,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Curso de Testing como parte del proceso de calidad de Software organizado por
-  ATICMA, Universidad FASTA y SEPYME conjuntamente con el INTI. Se abordaron
-  temas como ventajas/desventajas del testing, estándares internacionales, ciclo
-  de vida del proceso de testing, metodologías, automatización, etc. Victoria
-  Martínez Suárez del INTI Córdoba fue la docente.
+  Curso de Testing finalizó con éxito, organizado por ATICMA, FASTA, SEPYME e
+  INTI.
 ---
 
 <div>

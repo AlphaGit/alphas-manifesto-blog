@@ -6,8 +6,7 @@ categories:
   - Miscelaneous
 tags: []
 description: >-
-  Descubre por qué las actualizaciones del blog dejaron de aparecer y cómo
-  solucionar el problema de configuración.
+  Feedreader problema solucionado, esperando rato leer.
 ---
 
 

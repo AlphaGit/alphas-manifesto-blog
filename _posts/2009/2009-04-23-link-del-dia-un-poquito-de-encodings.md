@@ -7,11 +7,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Descubre el significado de los caracteres, símbolos y encodings en la web,
-  leyendo el artículo de Joel Spolsky "The Absolute Minimum Every Software
-  Developer Absolutely, Positively Must Know About Unicode and Character Sets
-  (No Excuses!)" y visitando la página oficial de Unicode. Prueba distintos
-  encodings con la herramienta en línea para ver los resultados.
+  Lectura sobre codificación de caracteres, Unicode, encodings, pruebas,
+  latin-1.
 ---
 
 

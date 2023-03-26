@@ -7,9 +7,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Descubre WWW SQL Designer, un proyecto open source que te permite crear
-  visualmente esquemas de bases de datos, tablas y relaciones de manera fácil e
-  intuitiva. Descarga la herramienta gratuitamente desde Google Code.
+  Crear esquemas de bases de datos visualmente con HTML, CSS, Javascript, open
+  source, Google Code.
 ---
 
 

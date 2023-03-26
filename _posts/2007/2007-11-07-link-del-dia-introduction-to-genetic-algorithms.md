@@ -6,9 +6,8 @@ categories:
   - Link del día
 tags: []
 description: >-
-  Descubre cómo los algoritmos genéticos evolucionan para lograr objetivos
-  desconocidos usando un enfoque matemático y probabilístico en vez del clásico
-  biológico.
+  Introducción a algoritmos genéticos, enfoque matemático y probabilístico,
+  programa para ver en funcionamiento.
 ---
 
 

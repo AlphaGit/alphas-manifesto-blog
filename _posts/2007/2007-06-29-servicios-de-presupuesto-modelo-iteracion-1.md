@@ -6,17 +6,14 @@ categories:
   - Projects
 tags: []
 description: >-
-  Descubre cómo diseñar un servicio de presupuestación para una empresa
-  ficticia. Aprende a implementar clases para lógica de negocio y interfaces, y
-  los items que mueven el sistema, como artículos, productos y servicios.
-  ¡Aprendé todo lo que necesitás para diseñar el sistema de presupuestación!
+  Desarrollo sistema presupuestario, Usuario, Empresario, Cliente, Item,
+  Artículo, Servicio, ProductoComplejo, ListadoItems, Presupuesto.
 ---
 
 
 Como ejercicio para la universidad, tengo que desarrollar un servicio de presupuestación para una empresa ficticia. Voy a ir publicando de a poco lo que voy haciendo, muy probablemente le sea útil a alguien más.
 
 Notesé que vamos (somos dos personas en grupo) a estar trabajando en un sistema iterativo en espiral, por lo que en estas primeras entregas no vamos a tener el sistema terminado, sino que de a poco se irán acercando a la versión final.
-
 
 ---
 

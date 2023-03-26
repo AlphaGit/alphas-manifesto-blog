@@ -6,9 +6,8 @@ categories:
   - Projects
 tags: []
 description: >-
-  Descubre la magia de Thot: descarga la aplicación y descubre cómo escalado y
-  centrado de imágenes pueden reducir el error de pruebas desde un 90% a un 70%.
-  ¡Descarga ahora!
+  Redes neuronales, intuición, magia, Thot, escalado, centrado, pruebas, error,
+  descenso, descarga.
 ---
 
 

@@ -1,22 +1,24 @@
 ---
-
 title: 'Link del día: Máquinas Virtuales'
-date: '2009-12-17 12:15:40 +0000'
-date_gmt: '2009-12-17 14:15:40 +0000'
+date: 2009-12-17 12:15:40 +0000
+date_gmt: 2009-12-17 14:15:40 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- virtualización
-- máquina virtual
-- simulación
-- testing
-- VMWare
-- VirtualBox
-- download
-- sistemas operativos
-
+  - virtualización
+  - máquina virtual
+  - simulación
+  - testing
+  - VMWare
+  - VirtualBox
+  - download
+  - sistemas operativos
+description: >-
+  Virtualización, herramienta poderosa, capacidades prueba simulación, imagenes
+  pre-armadas, descargar disco, sistema operativo pre-instalado.
 ---
+
 
 Es bien conocido que la virtualización es una herramienta muy poderosa que amplía vastamente nuestras capacidades de prueba y simulación sobre sistemas para los cuales no disponemos el hardware real &ndash; o el dinero equivalente. Hoy por hoy las máquinas virtuales pueden llegar a ser tan poderosas como máquinas reales (con obvias limitaciones) y satisfacer muy bien ciertas necesidades (hosting con administración remota, ambiente de pruebas, testing de stress, investigación, etc.).
 

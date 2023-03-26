@@ -6,10 +6,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Aprende acerca de Visual Studio 2008, .NET 3.5, Workflow, Windows
-  Communication Foundation, Windows Presentation Foundation, Silverlight,
-  Expression Studio y más con una capacitación interna de MUG. ¡Agradecemos a
-  Adrián Cura por acompañarnos durante los 3 días de capacitación!
+  MUG, Visual Studio 2008, .NET 3.5, Workflow, WCF, WPF, Silverlight, Expression
+  Studio, capacitación, Adrián Cura.
 ---
 
 <div>
