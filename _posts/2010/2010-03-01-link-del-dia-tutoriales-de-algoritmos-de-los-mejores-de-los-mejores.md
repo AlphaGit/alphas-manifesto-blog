@@ -1,17 +1,19 @@
 ---
-
 title: 'Link del día: Tutoriales de algoritmos de los mejores de los mejores'
-date: '2010-03-01 13:36:58 +0000'
-date_gmt: '2010-03-01 15:36:58 +0000'
+date: 2010-03-01 13:36:58 +0000
+date_gmt: 2010-03-01 15:36:58 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- capacitación
-- creatividad
-- desarrollo
-- tiempo
-
+  - capacitación
+  - creatividad
+  - desarrollo
+  - tiempo
+description: >-
+  Competencias de programación, TopCoder Algorithm Tutorials, diversas técnicas
+  de desarrollo, interesante, bien explicado, aplicar en el día a día.
 ---
+
 
 Yo me enteré mucho tiempo atrás de [TopCoder](http://www.topcoder.com/) cuando se hizo famoso casi comenzando (y cuando el diseño del sitio era totalmente distinto), por las competencias entre programadores, y como una especie de entrenamiento para mejorar. Todo el tiempo se están realizando competencias de programación. Antes eran solamente de desarollo, pero ahora se pueden hacer competencias de diseño de arquitecturas, de diseño de programas, de suites de testeo, en fin, de un montón de cosas relacionadas al desarrollo de software.
 

@@ -1,20 +1,20 @@
 ---
-
 title: 'Link del día: Gráficos para tu web, Flash + HTML5'
-date: '2010-09-20 10:54:35 +0000'
-date_gmt: '2010-09-20 12:54:35 +0000'
+date: 2010-09-20 10:54:35 +0000
+date_gmt: 2010-09-20 12:54:35 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- HTML5
-- Flash
-- JSON
-- gráficos
-- AJAX
-- gratis
-- diagrama
-
+  - HTML5
+  - Flash
+  - JSON
+  - gráficos
+  - AJAX
+  - gratis
+  - diagrama
+description: Generar gráficos interactivos con AJAX, HTML5, Flash, gratis con link y texto.
 ---
+
 
 Gracias a DN pude checkear la web de [ZingChart](http://www.zingchart.com/), un producto que nos proporciona la posibilidad de generar gráficos interactivos a través de datos JSON. Toda esta interactividad puede lograrse a través de AJAX, permitiendo una buena experiencia del usuario y una riqueza gráfica interesante.
 

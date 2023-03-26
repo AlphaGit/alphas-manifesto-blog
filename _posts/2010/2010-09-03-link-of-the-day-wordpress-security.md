@@ -1,20 +1,22 @@
 ---
-
 title: 'Link of the day: WordPress security'
-date: '2010-09-03 11:50:55 +0000'
-date_gmt: '2010-09-03 13:50:55 +0000'
+date: 2010-09-03 11:50:55 +0000
+date_gmt: 2010-09-03 13:50:55 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- hacking
-- blog
-- seguridad
-- presentación
-- WordPress
-- exploit
-- spam
-
+  - hacking
+  - blog
+  - seguridad
+  - presentación
+  - WordPress
+  - exploit
+  - spam
+description: >-
+  Brad Williams' WordPress Security presentation with plugins and security tips
+  to prevent hacking.
 ---
+
 
 [Brad Williams](http://strangework.com/) made available a great slide presentation at Wordpress WordCamp 2009 in NYC. It is called [WordPress Security](http://www.slideshare.net/williamsba/wordpress-security-updated), and it's really complete explaining about certain spam techniques or hacking tips on Wordpress. Of course, those are things that can be avoided and he tells us how.
 

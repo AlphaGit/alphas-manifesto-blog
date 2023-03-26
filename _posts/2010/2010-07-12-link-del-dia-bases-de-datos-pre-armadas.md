@@ -1,19 +1,19 @@
 ---
-
 title: 'Link del día: Bases de datos pre-armadas'
-date: '2010-07-12 10:13:30 +0000'
-date_gmt: '2010-07-12 12:13:30 +0000'
+date: 2010-07-12 10:13:30 +0000
+date_gmt: 2010-07-12 12:13:30 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- datos
-- web application
-- desarrollo
-- SQL
-- geografía
-- empleo
-
+  - datos
+  - web application
+  - desarrollo
+  - SQL
+  - geografía
+  - empleo
+description: Compartir scripts SQL útiles para bases de datos.
 ---
+
 
 Esperemos que pronto podamos volver a la frecuencia común de los links del día. Mientras tanto, intentemos mantenerlos cortitos para que no tomen demasiado tiempo.
 

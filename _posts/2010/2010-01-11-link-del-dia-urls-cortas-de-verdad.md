@@ -1,15 +1,17 @@
 ---
-
 title: 'Link del día: URLs cortas de verdad'
-date: '2010-01-11 12:26:46 +0000'
-date_gmt: '2010-01-11 14:26:46 +0000'
+date: 2010-01-11 12:26:46 +0000
+date_gmt: 2010-01-11 14:26:46 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- internet
-- web application
-
+  - internet
+  - web application
+description: >-
+  Compartir links: acortamiento, tracking, servicios, Tonga, Bit.Ly, ShortURL,
+  Tiny.CC, Zwap.to, Goo.gl, Real-URL.
 ---
+
 
 Para algunos servicios en donde se comparten links, como redes sociales, o como simple comodidad para compartirlos, es muy útil que las URLs sean acortadas. Es decir, que en lugar de tener un `http://www.example.com/posts.php?postid=2313&amp;searchterm=search&amp;l=en`, podemos tener algo como `http://bit.ly/6bCxjl`, que lleva al mismo lugar. No sólo eso, muchos servicios de acortamiento de URLs (como Bit.Ly, que acabo de mencionar), ofrecen URL-tracking, que nos permite saber cuánto o de dónde se han usado las URLs que hayamos compartido.
 

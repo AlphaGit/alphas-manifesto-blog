@@ -1,21 +1,24 @@
 ---
-
 title: Validating for real alphabetic
-date: '2010-09-08 15:50:14 +0000'
-date_gmt: '2010-09-08 17:50:14 +0000'
+date: 2010-09-08 15:50:14 +0000
+date_gmt: 2010-09-08 17:50:14 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- JavaScript
-- ".NET"
-- Java
-- validation
-- user experience
-- multilanguage
-- Unicode
-
+  - JavaScript
+  - .NET
+  - Java
+  - validation
+  - user experience
+  - multilanguage
+  - Unicode
+description: >-
+  Validation essential for data entered, extended Latin alphabet, JavaScript
+  regex for rich user experience, Unicode codepoints, regex for accented
+  characters.
 ---
+
 
 Validation is an essential part of any application. We need to check that the data entered is in the range of the set of data we can handle. And not only security purposes, but also to make sure that is is into what we can process.
 

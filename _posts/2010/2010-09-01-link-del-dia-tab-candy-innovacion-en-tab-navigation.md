@@ -1,19 +1,21 @@
 ---
-
 title: 'Link del día: Tab Candy, innovación en tab navigation'
-date: '2010-09-01 14:02:03 +0000'
-date_gmt: '2010-09-01 16:02:03 +0000'
+date: 2010-09-01 14:02:03 +0000
+date_gmt: 2010-09-01 16:02:03 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- internet
-- blog
-- Firefox
-- tabs
-- experiencia del usuario
-
+  - internet
+  - blog
+  - Firefox
+  - tabs
+  - experiencia del usuario
+description: >-
+  Firefox TabCandy project: visual organization, context, sharing,
+  customization, collaboration, recommendation, fast, low memory.
 ---
+
 
 Gracias al blog de [Thalskarth's Ma&euml;lstrom](http://www.thalskarth.com.ar/2010/07/24/tab-candy-o-como-firefox-busca-revolucionar-la-navegacion-por-pestanas/) (cuándo podré escribir eso sin copy-paste?) me enteré de un proyecto interesante que se está desarrollando. Dicho proyecto se llama [TabCandy](http://azarask.in/projects/tabcandy/) y hay un video explicativo al respecto que podemos ver aquí: [An Introduction to Firefox's TabCandy](http://vimeo.com/13560319).
 

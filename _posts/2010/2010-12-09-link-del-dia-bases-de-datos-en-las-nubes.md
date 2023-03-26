@@ -1,18 +1,20 @@
 ---
-
 title: 'Link del día: Bases de datos en las nubes'
-date: '2010-12-09 11:29:02 +0000'
-date_gmt: '2010-12-09 13:29:02 +0000'
+date: 2010-12-09 11:29:02 +0000
+date_gmt: 2010-12-09 13:29:02 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- bases de datos
-- cloud computing
-- desarrollo
-- databases
-- gratis
-
+  - bases de datos
+  - cloud computing
+  - desarrollo
+  - databases
+  - gratis
+description: >-
+  Computación en la nube con Database.com gratuito, SalesForce desarrollado,
+  replicación, backups, tuning, generación ambientes.
 ---
+
 
 Está de moda últimamente hablar de la computación en la nube (y no es para menos, ya que realmente propone un cambio interesante en la forma en que se mantiene el software).  Lo más común para esto son servicios en donde podemos alojar nuestros sistemas con más o menos control de la plataforma, pero pocos de ellos se han centrado solamente en los datos.
 

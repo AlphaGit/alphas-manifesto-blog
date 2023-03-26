@@ -1,18 +1,20 @@
 ---
-
 title: 'Link del día: OpenGraph Protocol'
-date: '2010-05-05 09:51:33 +0000'
-date_gmt: '2010-05-05 11:51:33 +0000'
+date: 2010-05-05 09:51:33 +0000
+date_gmt: 2010-05-05 11:51:33 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Facebook
-- redes sociales
-- desarrollo web
-- protocolo
-- web semántica
-
+  - Facebook
+  - redes sociales
+  - desarrollo web
+  - protocolo
+  - web semántica
+description: >-
+  Facebook anunció OpenGraph en f8, usarlo, documentación para desarrolladores,
+  After f8: Implementing OpenGraph protocol.
 ---
+
 
 Hace muy poco tiempo fue que en [f8](http://www.facebook.com/f8) se anunciaron varios de los proyectos de Facebook para el futuro de la web. Causaron conmoción noticias como la colaboración de enormes empresas (por ejemplo CNN, MTV, Microsoft) y más específicamente, la presentación de OpenGraph, que intenta volver social a la web completa.
 
