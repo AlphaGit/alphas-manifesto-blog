@@ -1,20 +1,23 @@
 ---
-
 title: 'Link del día: Lineamientos de seguridad'
-date: '2011-10-05 09:45:49 +0000'
-date_gmt: '2011-10-05 14:45:49 +0000'
+date: 2011-10-05 09:45:49 +0000
+date_gmt: 2011-10-05 14:45:49 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- web application
-- seguridad
-- guía
-- checklist
-- Mozilla
-- autenticación
-- validación
-- CommonSense
+  - web application
+  - seguridad
+  - guía
+  - checklist
+  - Mozilla
+  - autenticación
+  - validación
+  - CommonSense
+description: >-
+  Mozilla impone lineamientos de seguridad para desarrolladores, lista rápida
+  para verificaciones.
 ---
+
 
 Desde los geniales posts que nuestro amigo Alan Pasho ha escrito para el blog de CommonSense, en la serie de [Is Your Website or App Secure?](http://blog.getcs.com/search-results/?cx=partner-pub-3273924736835096%3A2f5a9xbeodv&amp;cof=FORID%3A11&amp;ie=ISO-8859-1&amp;q=is+your+website+secure&amp;x=0&amp;y=0&amp;siteurl=blog.getcs.com%2Fpage%2F4%2F) (recomiendo la lectura de todos ellos), me encontré ayer con los lieamientos que Mozilla impone a sus desarrolladores como medidas de seguridad al momento de desarrollar aplicaciones.
 

@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: JSONSelect'
-date: '2011-05-26 12:05:07 +0000'
-date_gmt: '2011-05-26 14:05:07 +0000'
+date: 2011-05-26 12:05:07 +0000
+date_gmt: 2011-05-26 14:05:07 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- datos
-- JavaScript
-- desarrollo web
-- jQuery
-- JSON
-- librería
+  - datos
+  - JavaScript
+  - desarrollo web
+  - jQuery
+  - JSON
+  - librería
+description: >-
+  Magia de jQuery para seleccionar datos en JSON, librería en etapa
+  experimental, ventajas para acceder a datos complejos.
 ---
+
 
 Para aquellos que hayan trabajado con jQuery (o con otras librerías JavaScript) sabrá que la sintaxis para usar los selectores es prácticamente algo mágico, que hace muchísimo más simple nuestro trabajo.
 

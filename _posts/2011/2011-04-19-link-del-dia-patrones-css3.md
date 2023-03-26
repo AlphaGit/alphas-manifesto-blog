@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Patrones CSS3'
-date: '2011-04-19 13:02:46 +0000'
-date_gmt: '2011-04-19 15:02:46 +0000'
+date: 2011-04-19 13:02:46 +0000
+date_gmt: 2011-04-19 15:02:46 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- desarrollo web
-- blog
-- design
-- CSS3
-- galería
+  - desarrollo web
+  - blog
+  - design
+  - CSS3
+  - galería
+description: >-
+  Explorar galería CSS3 patrones interactiva, cambiar valores, practicar CSS3,
+  blog Lea Verou.
 ---
+
 
 La magia de CSS3 nos da la posibilidad de crear una enorme cantidad de figuras complejas, y lo bueno es que son características propias del lenguaje, no se tratan de hacks o de implementaciones propias de navegadores.
 

@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Visualizar las estructuras'
-date: '2011-05-03 12:48:24 +0000'
-date_gmt: '2011-05-03 14:48:24 +0000'
+date: 2011-05-03 12:48:24 +0000
+date_gmt: 2011-05-03 14:48:24 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- HTML5
-- algoritmo
-- visualización
-- estructura de datos
+  - HTML5
+  - algoritmo
+  - visualización
+  - estructura de datos
+description: >-
+  Software Java, HTML5, visualizar estructuras datos, entretenido, David Galles,
+  La Belleza Algoritmos, zorrinito estructurado.
 ---
+
 
 Los trabajadores de la informática tienen muy asimilados estos conceptos: pilas, colas, árboles, el camino más corto, ordenamiento, algoritmo, grafo, etc. Todos estos conceptos los hemos ido aprendiendo de una forma u otra, pero al momento de aplicarlos es cuando realmente se prueba nuestro aprendizaje. Personalmente creo que ningún aprendizaje está completo sin una buena visualización de la materia, y es aquí en donde, para las estructuras de datos, hay que inventar algo.
 

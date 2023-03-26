@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: HackArmoury'
-date: '2011-10-04 09:28:43 +0000'
-date_gmt: '2011-10-04 14:28:43 +0000'
+date: 2011-10-04 09:28:43 +0000
+date_gmt: 2011-10-04 14:28:43 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- hacking
-- seguridad
-- herramientas
-- redes
+  - hacking
+  - seguridad
+  - herramientas
+  - redes
+description: >-
+  Repositorio de herramientas de seguridad HackArmoury, accesible a través de
+  diversos protocolos.
 ---
+
 
 Como de costumbre, la gente de [DragonJar](http://www.dragonjar.org/hackarmoury-herramientas-de-seguridad-siempre-disponibles.xhtml) postea cosas muy útiles e informativas en el ámbito de la seguridad. En este caso se trata de dar a conocer [HackArmoury](http://www.hackarmoury.com/), un sitio dedicado a ser un repositorio de herramientas lo más accesible posible, de forma que estemos en donde estemos, con las restricciones que tengamos, siempre podamos acceder a las herramientas útiles en el ámbito de la seguridad.
 

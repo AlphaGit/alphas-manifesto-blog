@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: CSS Crush'
-date: '2011-06-02 11:28:29 +0000'
-date_gmt: '2011-06-02 13:28:29 +0000'
+date: 2011-06-02 11:28:29 +0000
+date_gmt: 2011-06-02 13:28:29 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- CSS
-- desarrollo web
-- PHP
-- preprocesador
-- server-side
+  - CSS
+  - desarrollo web
+  - PHP
+  - preprocesador
+  - server-side
+description: >-
+  Librería php para extender capacidades CSS, cacheable, variables, completo,
+  generación código consistente.
 ---
+
 
 Siguiendo con la seguidilla de links sobre CSS, hoy les traigo [CSS Crush](http://github.com/peteboere/css-crush/). En este caso en particular, se trata de una librería php que muy gentilmente se encarga de extender nuestras capacidades sobre CSS para evitar la repetición de código, mientras que la información que se envía al cliente es totalmente distinta.
 

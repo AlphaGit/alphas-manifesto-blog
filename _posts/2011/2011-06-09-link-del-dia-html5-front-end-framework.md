@@ -1,19 +1,20 @@
 ---
-
 title: 'Link del día: HTML5 Front End Framework'
-date: '2011-06-09 11:49:10 +0000'
-date_gmt: '2011-06-09 13:49:10 +0000'
+date: 2011-06-09 11:49:10 +0000
+date_gmt: 2011-06-09 13:49:10 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- proyecto
-- HTML
-- CSS
-- desarrollo web
-- HTML5
-- framework
-- librería
+  - proyecto
+  - HTML
+  - CSS
+  - desarrollo web
+  - HTML5
+  - framework
+  - librería
+description: Iniciar proyectos HTML5 con Boilerplate y G5 Framework. Zorrinito HTML5.
 ---
+
 
 Para todos aquellos que necesitábamos una forma de fácilmente comenzar con trabajos en HTML5, tenemos la opción de comenzar con algo ya estructurado sobre lo que podemos hacer nuestras modificaciones a gusto.
 

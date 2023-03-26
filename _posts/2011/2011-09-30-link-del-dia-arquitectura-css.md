@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Arquitectura CSS'
-date: '2011-09-30 08:18:05 +0000'
-date_gmt: '2011-09-30 13:18:05 +0000'
+date: 2011-09-30 08:18:05 +0000
+date_gmt: 2011-09-30 13:18:05 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- CSS
-- arquitectura
-- design
-- modular
-- escalabilidad
+  - CSS
+  - arquitectura
+  - design
+  - modular
+  - escalabilidad
+description: >-
+  Idea fantástica, desarrollo no tanto, CSS modular, 4 clasificaciones, puntos
+  grises, cuidado, elemento marcado, buen comienzo, ideas, poderoso.
 ---
+
 
 La idea me parece fantástica, pero la forma en la que se desarrolló, no tanto. La idea era, [Scalable and Modular Architecture for CSS](http://smacss.com/book/), una organización del código CSS de una aplicación para que fuera dividido en forma modular. De esta forma, habría determinados estilos base, y otros estilos pertenecientes a módulos que especificarían cosas extra, o modificarían detalles (aunque no deberían) de los estilos base.
 

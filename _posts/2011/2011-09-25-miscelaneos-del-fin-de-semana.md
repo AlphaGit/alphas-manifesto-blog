@@ -1,17 +1,20 @@
 ---
-
 title: Misceláneos del fin de semana
-date: '2011-09-25 22:06:08 +0000'
-date_gmt: '2011-09-26 03:06:08 +0000'
+date: 2011-09-25 22:06:08 +0000
+date_gmt: 2011-09-26 03:06:08 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- blog
-- película
-- seguridad
-- teoría
-- book
+  - blog
+  - película
+  - seguridad
+  - teoría
+  - book
+description: >-
+  Prueba con IfTTT, libro Minsky, IMDB, microblogging, Cross Domain POST, Cross
+  Site Ajax, Killer Elite review.
 ---
+
 
 Por un lado, esto es una excusa para probar [IfTTT](http://ifttt.com/). Luego hablaré sobre esto.
 

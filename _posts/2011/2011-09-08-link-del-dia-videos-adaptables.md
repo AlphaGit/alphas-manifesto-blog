@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Videos Adaptables'
-date: '2011-09-08 09:22:10 +0000'
-date_gmt: '2011-09-08 14:22:10 +0000'
+date: 2011-09-08 09:22:10 +0000
+date_gmt: 2011-09-08 14:22:10 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Youtube
-- jQuery
-- Vimeo
-- videos
-- plugin
+  - Youtube
+  - jQuery
+  - Vimeo
+  - videos
+  - plugin
+description: >-
+  Plugin jQuery para videos fluidos, escalar proporcionalmente, soporta
+  Youtube/Vimeo, buena solución.
 ---
+
 
 De la misma forma que hace poco hablamos de [Adaptive Images]({{ site.baseUrl }}{% link _posts/2011/2011-09-02-link-del-dia-adaptive-images-mobile.md %}), hoy tenemos una propuesta parecida para videos, llamada [FitVids](http://fitvidsjs.com/) (también de parte de la gente de [CSS Tricks](http://css-tricks.com/14103-fitvids-js/)). Más que una configuración del lado del servidor, FitVids se trata de un plugin de jQuery que nos permite hacer el tamaño de los videos fluidos, ajustados al máximo de su contenedor, permitiendo que las cajas de los videos sean también fluidos con el diseño de la página.
 

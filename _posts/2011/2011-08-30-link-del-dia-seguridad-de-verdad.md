@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Seguridad, de verdad'
-date: '2011-08-30 10:22:38 +0000'
-date_gmt: '2011-08-30 15:22:38 +0000'
+date: 2011-08-30 10:22:38 +0000
+date_gmt: 2011-08-30 15:22:38 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- seguridad
-- ataques
-- encriptación
-- permisos
+  - seguridad
+  - ataques
+  - encriptación
+  - permisos
+description: >-
+  Aprender cómo protegerse con antivirus, firewall, encriptación, honeypot,
+  permisos de navegador.
 ---
+
 
 Seguramente nosotros nos sentimos protegidos porque tenemos... qué? Un antivirus y un firewall? Muchos de nosotros ni eso debemos tener.
 

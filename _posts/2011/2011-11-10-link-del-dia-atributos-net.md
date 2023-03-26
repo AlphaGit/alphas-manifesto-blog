@@ -1,16 +1,17 @@
 ---
-
 title: 'Link del día: Atributos .NET'
-date: '2011-11-10 10:19:57 +0000'
-date_gmt: '2011-11-10 15:19:57 +0000'
+date: 2011-11-10 10:19:57 +0000
+date_gmt: 2011-11-10 15:19:57 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- C#
-- lenguajes
-- StackOverflow
-- características
+  - C#
+  - lenguajes
+  - StackOverflow
+  - características
+description: Atributos de .NET útiles para C# en Stack Overflow.
 ---
+
 
 Los atributos de .NET son una de esas características del lenguaje que están presentes desde hace un buen tiempo, pero es una de esas características que tardamos en descubrir y utilizar.
 

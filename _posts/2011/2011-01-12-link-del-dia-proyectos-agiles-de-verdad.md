@@ -1,18 +1,22 @@
 ---
-
 title: 'Link del día: Proyectos ágiles de verdad'
-date: '2011-01-12 10:55:28 +0000'
-date_gmt: '2011-01-12 12:55:28 +0000'
+date: 2011-01-12 10:55:28 +0000
+date_gmt: 2011-01-12 12:55:28 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- proyecto
-- Google Chrome
-- ciclo de vida
-- desarrollo
-- planificación
-- programming
+  - proyecto
+  - Google Chrome
+  - ciclo de vida
+  - desarrollo
+  - planificación
+  - programming
+description: >-
+  Google Chrome Dev Channel, dinámico proceso de desarrollo, Anthony LaForge,
+  Chrome Release Cycle, adaptación de estrategia, tiempos y problemas,
+  resultados visibles, Woork, Zorrinito Apurado.
 ---
+
 
 No sé si alguno de ustedes está subscripto al [Dev Channel de Google Chrome](http://www.chromium.org/getting-involved/dev-channel), en donde pueden obtener features nuevas más rápidamente, por supuesto, sabiendo que no están del todo probadas. Si están ahí, sabrán que la cantidad de cambios y updates es realmente mucha, y que a pesar de todo eso, el proyecto sigue creciendo y trabajando en el ambiente, uno se pregunta:
 

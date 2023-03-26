@@ -1,15 +1,18 @@
 ---
-
 title: 'Link del día: Cómo corregir las distracciones'
-date: '2011-03-07 15:33:31 +0000'
-date_gmt: '2011-03-07 17:33:31 +0000'
+date: 2011-03-07 15:33:31 +0000
+date_gmt: 2011-03-07 17:33:31 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- productividad
-- psicología
-- work
+  - productividad
+  - psicología
+  - work
+description: >-
+  Controlar distracciones mediante dopamina, XKCD, prohibición inefectiva,
+  excusas mentales, dificultad para alcanzarlas, satisfacción desaparece.
 ---
+
 
 Algún tiempo atrás hablamos sobre [la naturaleza de las distracciones]({{ site.baseUrl }}{% link _posts/2010/2010-08-19-link-del-dia-como-trabajar-con-distracciones.md %}) y si realmente eran un problema o no. Más allá de eso, sabemos que si no se mantienen controladas, son definitivamente contraproducentes.
 

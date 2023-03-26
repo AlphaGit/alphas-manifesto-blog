@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: Minify'
-date: '2011-06-20 11:36:47 +0000'
-date_gmt: '2011-06-20 13:36:47 +0000'
+date: 2011-06-20 11:36:47 +0000
+date_gmt: 2011-06-20 13:36:47 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- performance
-- CSS
-- desarrollo web
-- PHP
-- librería
+  - JavaScript
+  - performance
+  - CSS
+  - desarrollo web
+  - PHP
+  - librería
+description: >-
+  Minify es una librería PHP para mejorar performance, minimizar, unificar,
+  cachear y definir nombres. Es extensible, dinámico y fácil de usar.
 ---
+
 
 Tratando de retomar la periodicidad de los links del día, hoy quiero hablar de Minify. [Minify](http://code.google.com/p/minify/) es una librería PHP de código abierto autocontenida que podemos utilizar para minimizar, unificar, cachear y definir nombres propios para recursos que queremos utilizar y mejorar la performance de nuestro sitio.
 

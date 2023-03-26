@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: Cómo hacer un buen tutorial'
-date: '2011-03-28 12:23:21 +0000'
-date_gmt: '2011-03-28 14:23:21 +0000'
+date: 2011-03-28 12:23:21 +0000
+date_gmt: 2011-03-28 14:23:21 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- video
-- tutorial
-- juego
-- experiencia del usuario
-- user experience
-- videogame
+  - video
+  - tutorial
+  - juego
+  - experiencia del usuario
+  - user experience
+  - videogame
+description: >-
+  Tutorials 101: menos texto, interacción, interesante, divertido, feedback,
+  salto, ayuda, usuarios, reales, aprendizaje.
 ---
+
 
 Como ya había  contado en unos links anteriores que ando siguiendo una serie de videos llamados Extra Credits, de parte de [The Escapist](http://www.escapistmagazine.com/) (_[1]_, _[2]_), unos videos sobre diseño y análisis de video juegos extremadamente interesante. Más interesante que los videojuegos (desde mi punto de vista), es todo lo que se puede aprender sobre diseño, psicología, sociología y marketing. Pero todo eso es otra historia.
 

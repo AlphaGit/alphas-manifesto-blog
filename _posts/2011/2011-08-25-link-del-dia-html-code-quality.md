@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: HTML Code Quality'
-date: '2011-08-25 12:26:20 +0000'
-date_gmt: '2011-08-25 14:26:20 +0000'
+date: 2011-08-25 12:26:20 +0000
+date_gmt: 2011-08-25 14:26:20 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Google
-- HTML
-- CSS
-- código
-- calidad
-- programming
+  - Google
+  - HTML
+  - CSS
+  - código
+  - calidad
+  - programming
+description: >-
+  Medir calidad código HTML/CSS, Google trackear, punto importante, mejora,
+  criterio útil, profundizar tema.
 ---
+
 
 Sabemos que medir numéricamente la calidad de cierto código no es nada fácil, tratesé del lenguaje que se trate. Siempre hay muchos factores que no afectan en nada a lo funcional, pero que sí afectan a qué tan legible es el código, qué tan mantenible es, y qué tanto puede evolucionar de forma "grácil" sin ser un peso para el futuro de los programadores.
 

@@ -1,18 +1,19 @@
 ---
-
 title: 'Link del día: La transición a IPv6'
-date: '2011-02-09 13:05:26 +0000'
-date_gmt: '2011-02-09 15:05:26 +0000'
+date: 2011-02-09 13:05:26 +0000
+date_gmt: 2011-02-09 15:05:26 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- internet
-- protocolo
-- redes
-- IPv6
-- IPv4
-- IP
+  - internet
+  - protocolo
+  - redes
+  - IPv6
+  - IPv4
+  - IP
+description: Migración a IPv6, día mundial 8 Junio, qué pasó con IPv5.
 ---
+
 
 Ahora que se acabaron las direcciones IP como las conocíamos y se viene el nuevo apocalípsis (?), pronto comenzará la migración paulatina a la utilización de IPv6. Esto ya no es algo relativamente nuevo, pero si es que no sabías al respecto, te recomiendo un artículo de Bitelia que lo explica todo: [La transición de IPv4 a IPv6: Lo que necesitas saber](http://bitelia.com/2011/02/transicion-ipv4-a-ipv6-lo-que-necesitas-saber) (gracias [@fieritacatalano](http://twitter.com/fieritacatalano/status/34979774560468993)!), muy bien explicado e ilustrado sobre qué ocurrirá.
 

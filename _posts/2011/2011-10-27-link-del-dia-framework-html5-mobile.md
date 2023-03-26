@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Framework HTML5 Mobile'
-date: '2011-10-27 07:40:52 +0000'
-date_gmt: '2011-10-27 12:40:52 +0000'
+date: 2011-10-27 07:40:52 +0000
+date_gmt: 2011-10-27 12:40:52 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- HTML5
-- desarrollo móvil
-- framework
+  - JavaScript
+  - HTML5
+  - desarrollo móvil
+  - framework
+description: >-
+  Proyecto The-M-Project promete aplicaciones móviles multi-plataforma. Demo
+  disponible para ver en GitHub.
 ---
+
 
 Muchas buzzwords en el título, pero no deja de ser verdad. Hace un tiempito ya anda dando vueltas [The-M-Project](http://the-m-project.net/), bajo el título de "HTML5 JavaScript Framework, escribe aplicaciones móviles multi-plataforma". Si eso no es prometedor, no sé qué lo es.
 

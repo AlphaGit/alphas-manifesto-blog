@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: Scrollability'
-date: '2011-07-21 13:01:26 +0000'
-date_gmt: '2011-07-21 15:01:26 +0000'
+date: 2011-07-21 13:01:26 +0000
+date_gmt: 2011-07-21 15:01:26 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- iPhone
-- Apple
-- experiencia del usuario
-- user experience
-- librería
-- iOS
+  - iPhone
+  - Apple
+  - experiencia del usuario
+  - user experience
+  - librería
+  - iOS
+description: >-
+  Scrollability: librería para scroll en móviles, HTML5, canvas, usar web sin
+  pedir permiso.
 ---
+
 
 [Scrollability](http://joehewitt.github.com/scrollability/) es un pequeño proyecto/librería que podemos utilizar para dar una suerte de scroll para páginas móviles, del mismo tipo que los dispositivos iOS presentan en sus interfaces nativas. Por supuesto, queremos aprovechar esa características para poder dar al usuario una experiencia mucho más cercana a la que ya posee en su teléfono.
 

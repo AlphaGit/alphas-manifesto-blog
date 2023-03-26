@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Análisis forense'
-date: '2011-02-15 00:29:34 +0000'
-date_gmt: '2011-02-15 02:29:34 +0000'
+date: 2011-02-15 00:29:34 +0000
+date_gmt: 2011-02-15 02:29:34 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- VMWare
-- profiling
-- artículo
-- análisis forense
+  - VMWare
+  - profiling
+  - artículo
+  - análisis forense
+description: >-
+  Análisis forense, VMWare, virtualización, tutorial, herramientas, profiling,
+  detallado, oportunidad, virtualización, zorrinito forense.
 ---
+
 
 Hace poco me crucé con un artículo proveniente de [HackTimes](http://www.hacktimes.com/), y sabiendo de donde viene, lo leí sabiendo que iba a ser interesante. Este artículo en particular, llamado [Introducción al análisis forense en VMWare](http://www.hacktimes.com/introducci_n_al_an_lisis_forense_en_vmware/) nos promete tener algunas continuaciones.
 

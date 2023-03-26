@@ -1,19 +1,22 @@
 ---
-
 title: 'Link del día: If This Then That'
-date: '2011-09-26 12:40:23 +0000'
-date_gmt: '2011-09-26 17:40:23 +0000'
+date: 2011-09-26 12:40:23 +0000
+date_gmt: 2011-09-26 17:40:23 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Youtube
-- Twitter
-- Facebook
-- redes sociales
-- automatización
-- productividad
-- web 2.0
+  - Youtube
+  - Twitter
+  - Facebook
+  - redes sociales
+  - automatización
+  - productividad
+  - web 2.0
+description: >-
+  Integrar servicios 2.0 con workflows definidos. Twittear, enviar fotos,
+  guardar y leer contenido. Beta con recetas y servicios interactivos.
 ---
+
 
 [IfTTT.com](http://ifttt.com/) es un servicio que me atrevo a calificar de "maravilloso" en donde nos permiten integrar distintas redes sociales o servicios 2.0 en workflows que nosotros definiremos. Dependiendo del uso que le demos, puede sernos más o menos útiles.
 

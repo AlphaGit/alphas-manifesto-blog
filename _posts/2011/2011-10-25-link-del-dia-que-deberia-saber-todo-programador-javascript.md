@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Qué debería saber todo programador JavaScript'
-date: '2011-10-25 07:56:44 +0000'
-date_gmt: '2011-10-25 12:56:44 +0000'
+date: 2011-10-25 07:56:44 +0000
+date_gmt: 2011-10-25 12:56:44 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- desarrollo web
-- RIA
-- StackOverflow
-- programming
+  - JavaScript
+  - desarrollo web
+  - RIA
+  - StackOverflow
+  - programming
+description: >-
+  JavaScript potente, StackOverflow pregunta, interesantes puntos, referencias
+  completas, quiz, respuestas llamativas, puntos curiosos, zorrinito JavaScript.
 ---
+
 
 Aquellos que están en el mundo web, y más que nada en el mundo de las RIA (Rich Internet Applications), no dudarán en decirme que JavaScript es sin duda una de las herramientas más potentes que tenemos disponibles. Otros sabrán de muchas de las mejoras que se vienen en este área, pero no es lo que quería comentar hoy.
 

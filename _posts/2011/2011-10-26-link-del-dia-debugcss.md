@@ -1,17 +1,18 @@
 ---
-
 title: 'Link del día: debugCSS'
-date: '2011-10-26 09:46:00 +0000'
-date_gmt: '2011-10-26 14:46:00 +0000'
+date: 2011-10-26 09:46:00 +0000
+date_gmt: 2011-10-26 14:46:00 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- HTML
-- CSS
-- desarrollo web
-- bookmarklet
+  - JavaScript
+  - HTML
+  - CSS
+  - desarrollo web
+  - bookmarklet
+description: Herramienta útil para mejorar CSS y HTML, en forma de bookmarklet.
 ---
+
 
 Como todo elemento del desarrollo web, los CSS también pueden tener errores, y nuestra forma de utilizarlo puede no ser la óptima. Hay muchas herramientas que nos permiten ver cómo podríamos mejorarlo, pero hasta ahora no había visto ninguna que se enfocara directamente en corregir las buenas prácticas (junto con los errores, claro).
 
