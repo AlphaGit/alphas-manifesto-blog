@@ -1,23 +1,25 @@
 ---
-
 title: Transcendent Man
-date: '2012-04-25 02:03:02 +0000'
-date_gmt: '2012-04-25 07:03:02 +0000'
+date: 2012-04-25 02:03:02 +0000
+date_gmt: 2012-04-25 07:03:02 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- Technology
-- película
-- robótica
-- documental
-- review
-- Singularidad
-- Kurzweil
-- nanotecnología
-- genética
+  - Technology
+  - película
+  - robótica
+  - documental
+  - review
+  - Singularidad
+  - Kurzweil
+  - nanotecnología
+  - genética
 subtitle: Un documental sobre Raymond Kurzweil y su pensamiento
-
+description: >-
+  Documentary on Ray Kurzweil's transhumanist philosophy; interesting but
+  tendentious and poorly structured.
 ---
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZreGeZ8w4qE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"> </iframe>
 

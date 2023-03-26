@@ -1,30 +1,33 @@
 ---
-
 title: 'Pruebas con VS11: Día uno'
-date: '2012-05-11 15:11:03 +0000'
-date_gmt: '2012-05-11 20:11:03 +0000'
+date: 2012-05-11 15:11:03 +0000
+date_gmt: 2012-05-11 20:11:03 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- ".NET"
-- C#
-- Microsoft
-- Imágenes
-- desarrollo
-- herramientas
-- color
-- Visual Studio
-- interfaz
-- IDE
-- cálculo lambda
-- colores
-- ".NET 4.5"
-- Beta
-- programming
+  - .NET
+  - C#
+  - Microsoft
+  - Imágenes
+  - desarrollo
+  - herramientas
+  - color
+  - Visual Studio
+  - interfaz
+  - IDE
+  - cálculo lambda
+  - colores
+  - .NET 4.5
+  - Beta
+  - programming
 subtitle: Comenzando a explorar lo que la beta nos ofrece.
-
+description: >-
+  Investigando características de Visual Studio 11 Beta. Investigación personal,
+  interfaz refinada, instalación lenta, errores, uso paralelo, coloreado,
+  lambdas, quick watch, async tasks.
 ---
+
 
 Comencé como un proceso de autocapacitación mi investigación personal de las características que Visual Studio 11, todavía en Beta, nos ofrece. Pretendo documentar mi experiencia personal porque si bien no va a ser una buena indicación de cómo es el producto, puede que detecte muchos pequeños problemitas o cosas que estarían buenos tener en cuenta, al menos prepararse para ellos. Conociendo mi suerte, estoy seguro de que algo voy a romper.
 

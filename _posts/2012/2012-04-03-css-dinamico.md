@@ -1,22 +1,24 @@
 ---
-
 title: CSS Dinámico
-date: '2012-04-03 08:51:43 +0000'
-date_gmt: '2012-04-03 13:51:43 +0000'
+date: 2012-04-03 08:51:43 +0000
+date_gmt: 2012-04-03 13:51:43 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- CSS
-- buenas prácticas
-- comunidad
-- dinámico
-- Less
-- razones
-- colores
+  - CSS
+  - buenas prácticas
+  - comunidad
+  - dinámico
+  - Less
+  - razones
+  - colores
 subtitle: Post procesamiento vs. preprocesamiento
-
+description: >-
+  CSS capacidades, discutir, facilitar tareas, buenas prácticas, dinámico,
+  reutilizable, hacks, calc(), scoped styles, zorrinito.
 ---
+
 
 Para los que conocemos y usamos [Less o sus variantes]({{ site.baseUrl }}{% link _posts/2012/2012-02-10-dotless.md %}), nos alegraríamos mucho de saber que CSS pueda agregar capacidades similares. A pesar de que [gran parte de la comunidad esté en desacuerdo](http://www.css3.info/summary-of-the-two-current-css-constants-proposals/) (¡Gracias, AM!), yo creo que serían útiles, por varias razones. (Invito a discutir a quién piense distinto.)
 

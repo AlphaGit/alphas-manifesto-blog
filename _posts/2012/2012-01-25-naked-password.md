@@ -1,19 +1,21 @@
 ---
-
 title: Naked password
-date: '2012-01-25 11:56:47 +0000'
-date_gmt: '2012-01-25 16:56:47 +0000'
+date: 2012-01-25 11:56:47 +0000
+date_gmt: 2012-01-25 16:56:47 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- jQuery
-- seguridad
-- passwords
-- plugin
-- StackExchange
+  - jQuery
+  - seguridad
+  - passwords
+  - plugin
+  - StackExchange
 subtitle: yeaaah, venga esa complejidad!
-
+description: >-
+  Descubre Naked Password plugin jQuery, asustar usuario, no hacer nada,
+  recompensar características extras, zorrinito de poca complejidad.
 ---
+
 
 De los rincones recónditos de User Experience en StackExchange y una pregunta de [cómo incitar a los usuarios a poner passwords fuertes](http://ux.stackexchange.com/questions/16433/what-is-the-best-way-to-inspire-users-to-choose-strong-password), me entero de la existencia de [Naked Password](http://www.nakedpassword.com/), un plugin de jQuery que en sitios informales (_muy_ informales) incentiva a los usuarios a usar passwords complejos, de forma... digamos... "natural". Pueden probar el demo en su misma página.
 

@@ -1,20 +1,22 @@
 ---
-
 title: Sálvenos del REST!
-date: '2012-03-19 13:25:02 +0000'
-date_gmt: '2012-03-19 18:25:02 +0000'
+date: 2012-03-19 13:25:02 +0000
+date_gmt: 2012-03-19 18:25:02 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- REST
-- artículo
-- HTTP
-- web
-- complejidad
-- semántica
+  - REST
+  - artículo
+  - HTTP
+  - web
+  - complejidad
+  - semántica
 subtitle: RESTful thinking
-
+description: >-
+  Rob Connery critica uso excesivo de REST en aplicaciones web, discusión sin
+  estándar, exageración de posiciones.
 ---
+
 
 [Someone save us from REST](http://wekeroad.com/2012/02/28/someone-save-us-from-rest/) es el título de un curioso artículo de Rob Connery. Lo curioso es que por lo general REST es una buena práctica y es muy popular y deseado en cuanto a la organización semántica de nuestras aplicaciones web (o de los servicios que estas expongan).
 

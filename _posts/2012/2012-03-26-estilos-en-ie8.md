@@ -1,19 +1,22 @@
 ---
-
 title: Estilos en IE8-
-date: '2012-03-26 22:05:56 +0000'
-date_gmt: '2012-03-27 03:05:56 +0000'
+date: 2012-03-26 22:05:56 +0000
+date_gmt: 2012-03-27 03:05:56 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- CSS
-- HTML5
-- blog
-- Internet Explorer
-- estilos
+  - CSS
+  - HTML5
+  - blog
+  - Internet Explorer
+  - estilos
 subtitle: Y mi sobrada misericordia
-
+description: >-
+  IE8- no acepta elementos HTML5, perdono a minoría usuarios, solucioné
+  problema, añadí dos colores, búsqueda disponible, soy zorrinito
+  misericordioso.
 ---
+
 
 Me acabo de dar cuenta, de casualidad, que los estilos del blog [no estaban funcionando en IE8-](http://stackoverflow.com/questions/6491882/css-styles-not-being-loaded-in-ie8), debido a la presencia de elementos de HTML5, que, para ser breve, rompían todo. Tengo sentimientos encontrados y noticias acordes.
 

@@ -1,21 +1,23 @@
 ---
-
 title: Las 10 reglas del trabajador Zen
-date: '2012-02-29 10:17:37 +0000'
-date_gmt: '2012-02-29 15:17:37 +0000'
+date: 2012-02-29 10:17:37 +0000
+date_gmt: 2012-02-29 15:17:37 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- blog
-- Zen
-- artículo
-- book
-- samurai
-- eBook
-- programming
+  - blog
+  - Zen
+  - artículo
+  - book
+  - samurai
+  - eBook
+  - programming
 subtitle: La noble tarea de trabajar, efectivo y eficaz y en paz.
-
+description: >-
+  Samurais, Zen Programmer, 10 rules, noble task, spiritual, Christian
+  Grobmeier, eBook, blog category, details, examples.
 ---
+
 
 Sé que AP acaba de publicar esto (¡Gracias!), pero creo que su relevancia es tanta que voy a republicarlo también. él publicó un link a un artículo llamado [The 10 rules of a Zen Programmer](http://www.grobmeier.de/the-10-rules-of-a-zen-programmer-03022012.html) y antes de que digan nada: casi no tiene nada que ver con programación (de ahí el título que yo le dí). Las reglas que expone son imprescindibles para un buen trabajo, organizado y tranquilo. Estoy totalmente de acuerdo con todas.
 

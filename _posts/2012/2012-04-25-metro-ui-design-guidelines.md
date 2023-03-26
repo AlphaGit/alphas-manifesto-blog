@@ -1,22 +1,22 @@
 ---
-
 title: Metro UI design guidelines
-date: '2012-04-25 10:35:00 +0000'
-date_gmt: '2012-04-25 15:35:00 +0000'
+date: 2012-04-25 10:35:00 +0000
+date_gmt: 2012-04-25 15:35:00 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- design
-- buenas prácticas
-- user experience
-- diseño gráfico
-- experiencia de usuario
-- Metro
-- guidelines
-- guías
+  - design
+  - buenas prácticas
+  - user experience
+  - diseño gráfico
+  - experiencia de usuario
+  - Metro
+  - guidelines
+  - guías
 subtitle: Recursos de UX y UI para Metro
-
+description: Guía para aplicar Metro estilo en interfaces.
 ---
+
 Sabemos que [Metro](http://en.wikipedia.org/wiki/Metro_(design_language)) es un nuevo estilo, una aproximación completamente distinta cuando se trata de interfaces. Como nuevo, muchos nosotros podemos encontrarnos confundidos al momento de querer aplicarlo. Es para eso que es necesaria alguna guía, alguna indicación que nos indicará si estamos en el camino correcto o no. Gracias a [una pregunta en los foros de User Experience](http://ux.stackexchange.com/questions/7219/where-can-i-find-style-guide-for-metro-ui-for-web-applications) encontré estos links, que pueden ser de mucha utilidad:`
 
 - [User Experience Design Guidelines for Windows Phone](http://msdn.microsoft.com/en-us/library/hh202915%28v=VS.92%29.aspx) (MSDN)

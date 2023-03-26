@@ -1,26 +1,28 @@
 ---
-
 title: Colección de libros sobre UX
-date: '2012-05-24 11:44:30 +0000'
-date_gmt: '2012-05-24 16:44:30 +0000'
+date: 2012-05-24 11:44:30 +0000
+date_gmt: 2012-05-24 16:44:30 +0000
 categories:
-- Books
-- Link del día
+  - Books
+  - Link del día
 tags:
-- desarrollo web
-- design
-- desarrollo
-- interfaz
-- user experience
-- diseño gráfico
-- web
-- referencia
-- experiencia de usuario
-- book
-- UX
+  - desarrollo web
+  - design
+  - desarrollo
+  - interfaz
+  - user experience
+  - diseño gráfico
+  - web
+  - referencia
+  - experiencia de usuario
+  - book
+  - UX
 subtitle: Libros obligatorios de lectura sobre UX
-
+description: >-
+  Libros de lectura obligatoria de User Experience y Diseño de Interfaces.
+  Listado largo y completo.
 ---
+
 
 Otra de las joyitas rescatadas de los foros de User Experience, es la pregunta sobre [libros de lectura obligatoria de user experience y diseño de interfaces](http://ux.stackexchange.com/questions/74/must-read-user-interface-book). El listado es más que completo y sorprendentemente vasto.
 

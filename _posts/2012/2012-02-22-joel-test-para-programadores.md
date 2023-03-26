@@ -1,19 +1,19 @@
 ---
-
 title: Joel Test para programadores
-date: '2012-02-22 11:38:03 +0000'
-date_gmt: '2012-02-22 16:38:03 +0000'
+date: 2012-02-22 11:38:03 +0000
+date_gmt: 2012-02-22 16:38:03 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- preguntas
-- entrevista
-- respuestas
-- competencia
-- indicadores
+  - preguntas
+  - entrevista
+  - respuestas
+  - competencia
+  - indicadores
 subtitle: Simpleza autocrítica
-
+description: Evaluar programadores con Joel Test y preguntas Quora.
 ---
+
 
 Para quienes no conocen el [Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html), es una prueba muy simple, solo 12 preguntas que nos guían a darnos cuenta si nuestro equipo de desarrollo va por el buen camino o tenemos cosas que arreglar.
 

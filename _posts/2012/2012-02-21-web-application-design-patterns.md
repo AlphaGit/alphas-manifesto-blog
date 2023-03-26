@@ -1,26 +1,29 @@
 ---
-
 title: Web Application Design Patterns
-date: '2012-02-21 05:06:17 +0000'
-date_gmt: '2012-02-21 10:06:17 +0000'
+date: 2012-02-21 05:06:17 +0000
+date_gmt: 2012-02-21 10:06:17 +0000
 categories:
-- Books
+  - Books
 tags:
-- web application
-- desarrollo web
-- usabilidad
-- design
-- experiencia del usuario
-- user experience
-- diseño gráfico
-- review
-- experiencia de usuario
-- book
-- patterns
-- software engineering
+  - web application
+  - desarrollo web
+  - usabilidad
+  - design
+  - experiencia del usuario
+  - user experience
+  - diseño gráfico
+  - review
+  - experiencia de usuario
+  - book
+  - patterns
+  - software engineering
 subtitle: Una librería de referencias de patrones de usabilidad
-
+description: >-
+  Libro Web Application Design Patterns; patrones usabilidad, interfaz gráfica;
+  formularios, autenticación, navegación; búsqueda, listas,
+  internacionalización, accesibilidad; librerías patrones, buenas prácticas.
 ---
+
 
 ![]({{ site.baseurl }}/assets/web-application-design-patterns.jpg)
 
