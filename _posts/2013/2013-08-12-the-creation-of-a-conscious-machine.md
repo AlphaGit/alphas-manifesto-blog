@@ -1,21 +1,23 @@
 ---
-
 title: The Creation of a Conscious Machine
-date: '2013-08-12 21:08:35 +0000'
-date_gmt: '2013-08-13 02:08:35 +0000'
+date: 2013-08-12 21:08:35 +0000
+date_gmt: 2013-08-13 02:08:35 +0000
 categories:
-- Books
+  - Books
 tags:
-- religión
-- inteligencia artificial
-- conciencia
-- review
-- book
-- máquina
-- decepción
+  - religión
+  - inteligencia artificial
+  - conciencia
+  - review
+  - book
+  - máquina
+  - decepción
 subtitle: La destrucción de una buena idea
-
+description: >-
+  Libro de J.E. Tardy sobre inteligencia artificial confuso, con opiniones
+  personales y sin definiciones formales.
 ---
+
 
 ![]({{ site.baseurl }}/assets/The_Creation_of_a_Conscious_Machine.jpg)
 

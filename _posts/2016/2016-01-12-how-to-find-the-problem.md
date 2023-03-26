@@ -19,10 +19,8 @@ tags:
   - solutions
 subtitle: Applied skepticism
 description: >-
-  Learn how to tackle programming problems methodically and gain knowledge from
-  mistakes with this blog post. Understand the concept of applied skepticism,
-  how to design tests to confirm or deny assumptions, and how to fix problems
-  with data types.
+  Methodical approach to solve problems, fact-check assumptions, confirm and
+  learn from mistakes.
 ---
 
 

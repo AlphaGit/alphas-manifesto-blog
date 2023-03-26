@@ -16,10 +16,8 @@ tags:
   - variables
 subtitle: A simple explanation on the basis of neural network learning
 description: >-
-  Learn about how neural networks work and the concept of function approximation
-  with this blog post. Understand the basics of function approximation, linear
-  and non-linear combinations, activation functions, and neural network nodes
-  and architectures.
+  Neural networks approximate functions with weights and inputs to generate
+  outputs.
 ---
 
 

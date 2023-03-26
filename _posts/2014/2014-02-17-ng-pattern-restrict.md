@@ -1,21 +1,24 @@
 ---
-
 title: ng-pattern-restrict
-date: '2014-02-17 21:12:11 +0000'
-date_gmt: '2014-02-18 02:12:11 +0000'
+date: 2014-02-17 21:12:11 +0000
+date_gmt: 2014-02-18 02:12:11 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- proyecto
-- JavaScript
-- HTML
-- open source
-- UX
-- AngularJS
+  - proyecto
+  - JavaScript
+  - HTML
+  - open source
+  - UX
+  - AngularJS
 subtitle: Limitando la entrada del usuario según una RegEx, AngularJS style
-
+description: >-
+  Limitación de valores para campos HTML con ng-pattern-restrict (AngularJS).
+  Componente, expresiones regulares, UX, debug, cursos, dinámico, open source,
+  gratuito.
 ---
+
 
 ![]({{ site.baseurl }}/assets/ng-pattern-restrict.png)
 

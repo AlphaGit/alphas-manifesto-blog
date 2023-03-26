@@ -13,10 +13,8 @@ tags:
   - development
 subtitle: That little green trash can
 description: >-
-  Learn the basics of Android development with the University of Maryland's
-  Android Development Part 1 course. Get hands-on experience creating working
-  applications and gain an understanding of the Android platform. Visit the
-  course now to get started!
+  Android development course review; Java knowledge required; well explained;
+  hands-on labs; functional applications; investigate advanced topics.
 ---
 
 

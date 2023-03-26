@@ -11,12 +11,7 @@ tags:
 header:
   image: assets/lambda.webp
   image_description: AWS Lambda
-description: >-
-  Learn how I used AWS Lambdas and Docker containers to create a distributed
-  rendering engine with the Producer-Queue-Consumer pattern. I discuss the
-  architecture and how to execute Blender from the command line, as well as how
-  to debug with Docker and RIE. Check out my GitHub repository for the source
-  code.
+description: Cloud rendering with Lambdas and GPUs using Blender, SQS, and Terraform.
 ---
 
 

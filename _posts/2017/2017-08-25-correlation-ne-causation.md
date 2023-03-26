@@ -14,12 +14,8 @@ tags:
   - correlation
   - data science
   - statistics
-subtitle: But causation ⇒ correlation
-description: >-
-  Learn about the differences between correlation and causation and how data
-  mining can help us find hidden causations. Find out how the phrase "Women and
-  Children First" was popularized by the Titanic example and how data mining can
-  help us better understand correlations.
+subtitle: But causation ⇒ correlation|
+description: Data mining helps find correlations and potential causal relationships.
 ---
 
 

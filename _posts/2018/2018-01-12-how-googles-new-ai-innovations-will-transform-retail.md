@@ -25,11 +25,8 @@ tags:
   - Google Lens
 subtitle: by Rae Steinbach, in cooperation with Y Media Labs
 description: >-
-  Explore how businesses can leverage Google's AI & machine learning
-  technologies to create a more convenient and intuitive customer experience.
-  Learn how retailers can use Google's AI vision and voice technology to
-  facilitate transactions, store items in universal carts, and provide
-  audio/visual elements.
+  Google Assistant AI to boost retail convenience, transactions, storage,
+  visual/audio elements, and machine learning.
 ---
 
 

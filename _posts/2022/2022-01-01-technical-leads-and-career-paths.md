@@ -13,10 +13,8 @@ header:
   image: assets/TechnicalManagementRoadMeme.webp
   image_description: Management (Technical) vs. Technical Management
 description: >-
-  Learn why technical leaders must write code, how to make decisions regarding
-  your own and teammates' time, and how to create a functional team without
-  relying on you. Balancing technical and leadership roles is key for a
-  successful role as a technical leader.
+  Technical leadership involves designing solutions, delegating, balancing team
+  work, and writing code.
 ---
 
 

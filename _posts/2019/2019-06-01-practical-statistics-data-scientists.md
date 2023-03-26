@@ -9,11 +9,8 @@ tags:
   - books
 subtitle: Book review
 description: >-
-  A must-have book for data scientists & statisticians - Practical Statistics
-  for Data Scientists by Peter & Andrew Bruce. Learn Exploratory Data Analysis,
-  Data & Sampling Distributions, Statistical Experiments & Significance Testing,
-  Regression & Prediction, Classification & more. Includes R examples & quick
-  strategies for data cleanup.
+  Must-have book for data scientists, deep explanation of topics, quickly moves
+  to concepts, examples in R, good reference and quick-reference book.
 ---
 
 

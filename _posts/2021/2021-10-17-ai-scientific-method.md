@@ -12,10 +12,9 @@ header:
   image: assets/roboticskunk.webp
   image_description: AI
 description: >-
-  Explore how a machine learning algorithm sidesteps the scientific method and
-  how it could bring us back to the golden age of science with discoveries being
-  made all of the time. Learn the benefits of this algorithm and the
-  philosophical changes it brings to the scientific world.
+  Machine learning algorithm predicts planetary motions from observational data,
+  accelerating scientific discovery but potentially disconnecting theory from
+  experimentation.
 ---
 
 

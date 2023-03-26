@@ -25,9 +25,9 @@ tags:
   - web development
 subtitle: by Colin Cieloha from Skilled.co
 description: >-
-  Learn best practices to boost your canvas performance & use HTML Canvas more
-  efficiently w/ our cheat sheet. Colin Cieloha of Skilled.co shares tips on how
-  to optimize your use of canvas for better results.
+  Performance tips for HTML Canvas, multiple objects, pre-render, shadowBlur,
+  incremental differences, canvasWidth trick, JSPerf tool, indent code,
+  Skilled.co cheat sheet.
 ---
 
 

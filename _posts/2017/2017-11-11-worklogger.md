@@ -16,9 +16,8 @@ tags:
   - worklogger
 subtitle: Automatic timesheet entry
 description: >-
-  Automate your time tracking with Worklogger: an open source, configurable tool
-  that reads from Google Calendar and sends data to JIRA and HarvestApp. Easily
-  filter, transform and log your work for billing & reporting.
+  Software-worker time tracking automated with Worklogger for various customer
+  requirements.
 ---
 
 

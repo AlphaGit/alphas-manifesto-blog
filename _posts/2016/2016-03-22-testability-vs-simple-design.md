@@ -19,10 +19,9 @@ tags:
   - MSTest
 subtitle: Testing requires decoupling
 description: >-
-  Discover how to design code for testability, while still keeping it simple.
-  Find out how Microsoft Fakes Assemblies can help you test code with high
-  coupling and even private members. Read this blog post to learn how to strike
-  the balance between code simplicity and testability.
+  Proponent for simplicity and testability; decoupled classes; Microsoft Fakes
+  Assemblies; break code into pieces; unit test private members; power with
+  responsibility.
 ---
 
 

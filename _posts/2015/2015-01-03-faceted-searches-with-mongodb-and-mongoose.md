@@ -15,10 +15,7 @@ tags:
   - design patterns
   - filters
 subtitle: Generating facet search results
-description: >-
-  Discover how to perform fast and reliable faceted searches in MongoDB with
-  mongo-faceted. Learn what faceted search is and its best practices, plus see a
-  live example with this library.
+description: Faceted search in MongoDB made easy with mongo-faceted library.
 ---
 
 

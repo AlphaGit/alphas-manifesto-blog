@@ -17,9 +17,8 @@ tags:
   - automated testing
 subtitle: A success story from the side of the doubtful
 description: >-
-  Discover why Test-Driven Development (TDD) matters and how it pays off.
-  Understand why it's valuable and why it saves developers time. Get an update
-  on the mongo-faceted project and how TDD helped rewrite it in just 3 hours.
+  Software engineers use Test-Driven Development to remember details, save time,
+  and avoid major rewrites.
 ---
 
 

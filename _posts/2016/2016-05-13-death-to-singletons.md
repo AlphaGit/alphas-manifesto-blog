@@ -21,10 +21,9 @@ tags:
   - convention
 subtitle: Singleton.Instance.SelfDestruct();
 description: >-
-  This blog post explains the advantages and disadvantages of the singleton
-  design pattern and how it affects unit testing, dependency injection,
-  object-oriented programming, initialization, concurrency and lifetime. Learn
-  what to consider before using the singleton design pattern.
+  Singleton pattern restricts instantiation to one object; advantages, but also
+  problems with unit testing, DI, OOP, initialization, concurrency, lifetime,
+  and intent.
 ---
 
 

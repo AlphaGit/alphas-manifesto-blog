@@ -11,9 +11,8 @@ header:
   image: assets/automatic-merges-header.webp
   image_description: Automatic merges
 description: >-
-  Learn how to migrate a project to TypeScript and Yarn 2, and fix Dependabot's
-  lack of Yarn 2 support with a workaround. Automatically merge Pull Requests
-  with github actions to ensure that everything is alright.
+  Migrated to TypeScript and Yarn 2, automated GitHub Actions workflow,
+  generated valid yarn.lock, triggered tests, merged automatically.
 ---
 
 

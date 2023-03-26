@@ -17,10 +17,9 @@ tags:
   - ethics
 subtitle: a.k.a. "Software Professionalism"
 description: >-
-  Discover the ethical approach to software development and the importance of
-  professionalism in Uncle Bob's book "The Clean Coder". Learn how to better
-  manage projects, avoid technical debt, and the importance of automated testing
-  in creating reliable software.
+  Software engineering ethics, professionalism, TDD, commitments, technical
+  debt, Uncle Bob's controversial views, personal anecdotes, examples,
+  reflection, facilitation.
 ---
 
 

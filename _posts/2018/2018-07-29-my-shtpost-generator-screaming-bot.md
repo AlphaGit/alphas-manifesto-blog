@@ -19,10 +19,7 @@ tags:
   - Tumblr API
   - shitpost
 subtitle: Text generation with nltk, markovify, Tumblr, docker
-description: >-
-  Discover how to create your own screaming robot with NLTK, Markovify, Tumblr
-  and Docker. Generate hilarious nonsense posts with the help of this fun
-  tutorial!
+description: Create shitposting robot using NLTK, markovify, Tumblr, Docker.
 ---
 
 

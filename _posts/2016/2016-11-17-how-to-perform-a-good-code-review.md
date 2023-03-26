@@ -16,10 +16,8 @@ tags:
   - technical debt
 subtitle: Reaching agreement from a bunch of code
 description: >-
-  Learn how to review someone else's code efficiently and effectively, from
-  identifying problems to providing meaningful feedback. Get tips on how to
-  approach code reviews in a way that minimizes time and increases the
-  efficiency of the process.
+  Review code efficiently, provide clear feedback, check code quality, avoid
+  confusion, be polite.
 ---
 
 

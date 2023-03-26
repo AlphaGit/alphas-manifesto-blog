@@ -12,10 +12,8 @@ tags:
   - experiences
 subtitle: 'Spoiler: not a journal about guns'
 description: >-
-  Learn how Bullet Journalism can help you plan your day better and achieve
-  more. Get tips on how to signal tasks, plan your month, handle inspirations,
-  and use physical journals for a more productive, rewarding, and stress-free
-  experience.
+  Bullet Journals revolutionize daily planning - writing down, topics, indexing,
+  reflecting, rewarding.
 ---
 
 

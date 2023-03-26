@@ -9,11 +9,7 @@ tags:
   - OpenAI
   - paper
 subtitle: Why we need multiple skills in the search for AGI
-description: >-
-  OpenAI is addressing philosophical, ethical, social and epistemological limits
-  of knowledge to tackle the matter of intelligence head on. Come and see how
-  this could be a major breakthrough in legal science, international legal
-  science, sociology, history and anthropology.
+description: OpenAI realizes need for research on humans, ethics, and decision-making.
 ---
 
 

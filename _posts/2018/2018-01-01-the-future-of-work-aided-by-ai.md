@@ -17,10 +17,8 @@ tags:
   - heuristics
 subtitle: How machine learning algorithms may take on our work
 description: >-
-  Explore the potential of AI and IA for augmenting human creativity, from
-  automated font-making to driverless cars. Discover how AI algorithms can learn
-  complex domain rules and how emergent properties can be applied to create new
-  domains of human creation.
+  AI and IA explored, creativity enabled, vectored emergent properties,
+  automated work, feedback cycle, revolutionizing humanity.
 ---
 
 

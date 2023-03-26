@@ -12,9 +12,9 @@ tags:
   - books
 subtitle: Chicken soup for the rational progress
 description: >-
-  Discover how everyday decisions can be optimized with computer science
-  techniques, as explained in "Algorithms to live by" by Brian Christian and Tom
-  Griffiths. Learn how to maximize success and minimize cost in our daily lives.
+  Transhumanism, Kurzweil predictions, Algorithms to Live By, technology,
+  optimization, strategies, productivity, science, everyday scenarios, slow
+  adaptation.
 ---
 
 

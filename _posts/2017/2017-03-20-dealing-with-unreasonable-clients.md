@@ -16,10 +16,9 @@ tags:
   - money
 subtitle: Customer management
 description: >-
-  Discover why it is important to have good communication with your customer in
-  order to understand their needs and make the right decisions when it comes to
-  software development. Learn how to assess what your customer wants and how to
-  make sure it aligns with their goal.
+  Communicate with customers, understand problem, compromise, explain needs,
+  challenge assumptions, consider impacts, trust technical expertise, decide
+  when to walk away, don't treat customers as enemies.
 ---
 
 

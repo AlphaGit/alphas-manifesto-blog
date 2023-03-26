@@ -11,8 +11,8 @@ tags:
   - smart alarm
 subtitle: Smart alarms
 description: >-
-  Improve your sleep quality with smart alarms - find out why they work and how
-  to use them with tips from Azumio's Sleep Time app.
+  Sleeping better with smart alarms and motion sensors. Data-freaks can track
+  vitals. Enjoy life's third.
 ---
 
 

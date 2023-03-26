@@ -19,9 +19,8 @@ tags:
   - continuous integration
 subtitle: Quick guide to get these bad boys cooperating
 description: >-
-  Discover how to get your Angular + Protractor + TravisCI + SauceLabs setup
-  working together. Learn what tools and configurations were necessary, and how
-  to test locally and in SauceLabs.
+  Achieving Angular+Protractor+Travis+SauceLabs integration, with local and live
+  testing.
 ---
 
 

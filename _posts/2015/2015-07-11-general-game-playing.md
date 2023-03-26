@@ -14,10 +14,8 @@ tags:
   - artificial intelligence
 subtitle: Automatic players that don't complain when they lose
 description: >-
-  Learn how to create AI game players with Stanford's General Game Playing
-  course. Discover the concepts and techniques used to create agents that can
-  learn, adapt, and compete in any game. Try your skills in the annual Tiltyard
-  competition.
+  AI course on game playing, learn language parsing, heuristics, memory, search
+  methods, Tiltyard competition, Java, HTTP knowledge, fun, adaptive strategies.
 ---
 
 

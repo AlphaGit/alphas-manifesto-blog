@@ -15,10 +15,8 @@ tags:
   - machine learning
 subtitle: Course contents and structure
 description: >-
-  Graduate from Udacity's Deep Learning Foundations Nanodegree program. Learn
-  the basics of deep learning from state of the art techniques, tools, projects
-  & community support. 5 projects, Tensorflow, AWS, GitHub, FloydHub, Python,
-  Anaconda & Jupyter Notebook. Visit the course page to learn more.
+  Graduated Udacity Deep Learning Nanodegree, five projects, tools, community,
+  content covered, worth it.
 ---
 
 

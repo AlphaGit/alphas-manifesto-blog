@@ -13,9 +13,8 @@ tags:
   - networking
 subtitle: A few simple steps from Wordpress to Jekyll format
 description: >-
-  Learn how to export your Wordpress blog to Markdown and generate a static site
-  with this step-by-step guide, including instructions for Docker, exporting,
-  and manual review.
+  Exported Wordpress blog using Jekyll-import, running ruby, manual retouching,
+  featured images, HTML content, front matter, subtitle retrieval.
 ---
 
 

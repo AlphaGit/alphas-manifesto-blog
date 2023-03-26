@@ -19,9 +19,8 @@ tags:
   - data structures
 subtitle: Hey, I messed up but at least I learnt from it!
 description: >-
-  Learn how to save time & prevent headaches: read about testing & modularizing
-  code, avoiding difficult data structures, & using languages that help prevent
-  errors. Make sure your code works correctly & avoid silly mistakes like mine.
+  Testing saves time, avoid unfit data structures, static type checking helps,
+  modularize, prevent mistakes from propagating, do things right.
 ---
 
 

@@ -1,20 +1,23 @@
 ---
 excerpt_separator: <!--more-->
 title: Google Inbox and Inbox Zero
-date: '2014-11-28 18:53:10 +0000'
-date_gmt: '2014-11-28 23:53:10 +0000'
+date: 2014-11-28 18:53:10 +0000
+date_gmt: 2014-11-28 23:53:10 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- Google
-- productividad
-- aplicación
-- inbox zero
-- Google Inbox
-- methodologies
+  - Google
+  - productividad
+  - aplicación
+  - inbox zero
+  - Google Inbox
+  - methodologies
 subtitle: I'm so on board, this is why
-
+description: >-
+  Inbox Zero technique, Google Inbox, declutter, reward, task list, reminders,
+  snoozing, bundling, downsides, opinions.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Inbox.png)
 

@@ -1,26 +1,28 @@
 ---
-
 title: Amar al proxy-mo
-date: '2013-10-13 18:01:45 +0000'
-date_gmt: '2013-10-13 23:01:45 +0000'
+date: 2013-10-13 18:01:45 +0000
+date_gmt: 2013-10-13 23:01:45 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- JavaScript
-- desarrollo web
-- JSON
-- open source
-- seguridad
-- REST
-- API
-- web
-- estándares
-- JSONP
-- proxy
+  - JavaScript
+  - desarrollo web
+  - JSON
+  - open source
+  - seguridad
+  - REST
+  - API
+  - web
+  - estándares
+  - JSONP
+  - proxy
 subtitle: Desarrollando en localhost, same-origin policy & REST APIs
-
+description: >-
+  Desarrollar aplicación con API externa, same-origin policy, soluciones
+  (document.domain, CORS, postMessage, JSONP, Reverse Proxy).
 ---
+
 
 ![]({{ site.baseurl }}/assets/ProxyLove.png)
 

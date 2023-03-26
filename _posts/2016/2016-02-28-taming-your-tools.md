@@ -14,9 +14,8 @@ tags:
   - learning
   - tool
 description: >-
-  Learn to use the right tools for the job and understand them to the point
-  where you can tell when something is wrong. Discover why some tools are better
-  than others and how to use them to make your work easier and more reliable.
+  Tools make work easier, reliable, and eliminate errors. Learn tools, challenge
+  pitfalls, understand risks.
 ---
 
 
