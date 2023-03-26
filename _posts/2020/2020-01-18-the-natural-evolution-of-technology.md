@@ -10,11 +10,8 @@ tags:
   - evolution
 subtitle: Is there such a thing? I believe there is.
 description: >-
-  Explore how technology is affected by natural selection and the role of
-  ethical decisions when considering its progress. Understand how "progress" is
-  driven by consumer adoption and its benefits, not just the allure of progress
-  itself. Learn what we can do to influence ethical progress and how our
-  decisions are a form of progress in themselves.
+  Technology progress is driven by natural selection, not corporations, and can
+  be stopped by collective decisions on ethical progress.
 ---
 
 

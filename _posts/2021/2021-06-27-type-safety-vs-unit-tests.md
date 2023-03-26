@@ -12,10 +12,8 @@ header:
   image: assets/strong-typing-vs-unit-testing/type-safety.webp
   image_description: Type Safety
 description: >-
-  Uncover the benefits of strong-typed languages in this blog post and learn how
-  type safety can be ensured through unit tests. Discover why strong-typed
-  languages are more than just syntax-sugar and how they can save us from the
-  back-and-forth of checkings.
+  Strong typed languages offer more than type-unit tests, better abstracting
+  developers away from type-checking.
 ---
 
 

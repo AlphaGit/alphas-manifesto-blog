@@ -17,11 +17,8 @@ tags:
   - introduction
 subtitle: MOOC by the University of Maryland
 description: >-
-  Learn software security basics and how to detect vulnerabilities. Get an
-  introduction to buffer overflows, string format attacks, and arbitrary code
-  execution. Understand network security and the evolution of protection
-  methods. Take the Software Security course on Coursera, part of the
-  Cybersecurity specialization.
+  Completed Software Security course, C and pointer knowledge required, topics
+  discussed, labs conducted, certificates received.
 ---
 
 

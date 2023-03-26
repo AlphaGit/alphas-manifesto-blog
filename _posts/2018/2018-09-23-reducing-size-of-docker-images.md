@@ -15,9 +15,8 @@ tags:
   - ci
 subtitle: Making efficient final images
 description: >-
-  Learn how to shrink your big Docker image size with this guide. We cover
-  simpler approaches to reducing the image size, more in-depth filesystem
-  troubleshooting, and the benefits of multistage builds.
+  Inspect Docker images to identify space hogs and reduce size using multistage
+  builds.
 ---
 
 

@@ -15,10 +15,8 @@ tags:
   - books
 subtitle: I love chunky bacon
 description: >-
-  Discover the unconventional way to learn Ruby: "Why's Poignant Guide to Ruby"
-  - an unusual and freely available book. Follow the author on an exploration of
-  the language full of funny stories and detailed explanations of
-  metaprogramming, and get to create a complete Ruby program.
+  Learning Ruby with Why's Poignant Guide, funny but dense content,
+  metaprogramming described with pill analogy.
 ---
 
 

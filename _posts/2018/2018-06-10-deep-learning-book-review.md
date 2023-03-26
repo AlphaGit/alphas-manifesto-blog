@@ -16,10 +16,9 @@ tags:
   - reference
 subtitle: by Goodfellow, Bengio and Courville
 description: >-
-  Explore the fundamentals of deep learning with the best reference book on the
-  market, Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville. An
-  advanced read with a high-density of information and references to papers and
-  sources.
+  Deep Learning book detailed, mathematical, difficult, comprehensive,
+  references, reframes problems, focus required, 800 pages, research-oriented,
+  advanced.
 ---
 
 

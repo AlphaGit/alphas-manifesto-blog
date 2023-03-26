@@ -1,24 +1,26 @@
 ---
-
 title: Los favoritos
-date: '2013-05-12 10:16:43 +0000'
-date_gmt: '2013-05-12 15:16:43 +0000'
+date: 2013-05-12 10:16:43 +0000
+date_gmt: 2013-05-12 15:16:43 +0000
 categories:
-- Miscelaneous
-- Technology
+  - Miscelaneous
+  - Technology
 tags:
-- Youtube
-- Twitter
-- web 2.0
-- Tumblr
-- favoritos
-- sitios
-- DeviantArt
-- apoyo
-- cultura 2.0
+  - Youtube
+  - Twitter
+  - web 2.0
+  - Tumblr
+  - favoritos
+  - sitios
+  - DeviantArt
+  - apoyo
+  - cultura 2.0
 subtitle: El fenómeno 2.0 del soporte y el gusto personal
-
+description: >-
+  Explorar uso de favoritos en Internet, criterios para favoritear, compartir
+  con otros, revisar con el tiempo.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Favorites.jpg)
 

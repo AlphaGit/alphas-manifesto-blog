@@ -15,10 +15,9 @@ tags:
   - code
 subtitle: Aspects of software construction, deconstructed
 description: >-
-  Discover the concepts and lessons of software construction from Code Complete,
-  a comprehensive reference manual for software development. Learn about
-  architecture, design, planning, code performance-tuning and more from this
-  2000+ page book.
+  Complete reference manual of software development, 2000+ pages, 35 chapters,
+  well organized, evidence-based, intellectual relationship, experience gained,
+  C and Java examples, recommend to all levels.
 ---
 
 

@@ -1,23 +1,25 @@
 ---
-
 title: Programando Arkanoid - Parte 1
-date: '2013-03-13 20:46:58 +0000'
-date_gmt: '2013-03-14 01:46:58 +0000'
+date: 2013-03-13 20:46:58 +0000
+date_gmt: 2013-03-14 01:46:58 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- JavaScript
-- CSS
-- desarrollo web
-- HTML5
-- desarrollo
-- CSS3
-- Canvas
-- código
+  - JavaScript
+  - CSS
+  - desarrollo web
+  - HTML5
+  - desarrollo
+  - CSS3
+  - Canvas
+  - código
 subtitle: Cómo hacer un pequeño juego en JavaScript y HTML5 canvas
-
+description: >-
+  Crear juego Arkanoid con JavaScript, aprender documentación, HTML5 Canvas,
+  CSS, variables locales, inicializar canvas y opciones.
 ---
+
 
 ![]({{ site.baseurl }}/assets/arkanoid.jpg)
 

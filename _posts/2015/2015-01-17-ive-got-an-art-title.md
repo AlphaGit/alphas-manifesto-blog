@@ -15,9 +15,8 @@ tags:
   - certificate
 subtitle: Well, sort of...
 description: >-
-  Discover how I explored the world of Computational Arts with an MOOC. Learn
-  more about the course, the projects and the experience, and get inspired to
-  create your own art.
+  Completed art course, MOOC platform, Processing, Photoshop, GIMP, Audacity,
+  Logic, Soundation, final project, experience mind-opening.
 ---
 
 

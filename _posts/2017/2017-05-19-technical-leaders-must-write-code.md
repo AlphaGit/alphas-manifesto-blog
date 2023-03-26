@@ -16,12 +16,8 @@ tags:
   - TL
 subtitle: And here's why
 description: >-
-  A Technical Leader is often more focused on leading the team and managing
-  technical debt than on coding, but coding is a crucial part of their job. It
-  allows them to have empathy for their team, spot blind spots, and feel more
-  connected to the group. Working on different parts of the system, as well as
-  special subsystems, is a great way for a TL to use coding to improve their
-  leadership.
+  Technical Leaders lead, guide, review, teach, and coordinate teams while also
+  coding.
 ---
 
 

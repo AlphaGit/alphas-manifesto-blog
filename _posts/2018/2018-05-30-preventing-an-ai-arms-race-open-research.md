@@ -14,10 +14,8 @@ tags:
   - open research
 subtitle: Secrecy is the halt of humanity's progress
 description: >-
-  AI research is advancing rapidly, and OpenAI is a response to the potential
-  risks of some nations or corporations taking advantage. Recently, AI
-  researchers have spoken up against the opacity in research journals,
-  advocating for research and technology to benefit all humanity.
+  Advancement in AI technology should benefit all humanity. OpenAI's platform
+  and boycotting of research journals support this.
 ---
 
 

@@ -13,9 +13,9 @@ tags:
   - head first series
 subtitle: Introductory solid book on Data Analysis
 description: >-
-  Learn data analysis with "Head First Data Analysis", an easily approachable
-  book with real-world examples and exercises. An essential guide for those just
-  starting or brushing up on data science.
+  Reading "Head First Data Analysis" - approachable, practical, real-life
+  examples, mental models, data visualization, experimentation, heuristics, R,
+  Excel, brush-up.
 ---
 
 

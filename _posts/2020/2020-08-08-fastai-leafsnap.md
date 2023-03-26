@@ -16,10 +16,8 @@ header:
   image: /assets/fastai-leafsnap/cover.webp
   image_description: LeafSnap
 description: >-
-  Experience the power of AI and DataScience with FastAI. Test drive the
-  easy-to-use framework that sits on top of PyTorch and get up to 94% accuracy
-  on datasets like Leafsnap without any prior knowledge. Quickly whip up a model
-  and learn about AI concepts as you go.
+  FastAI framework tested on Leafsnap dataset with 94% accuracy, code provided,
+  easy and fast to use.
 ---
 
 

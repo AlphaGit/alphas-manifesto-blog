@@ -1,28 +1,31 @@
 ---
-
 title: 'CommonJobs: el fin de una etapa'
-date: '2014-10-02 18:20:54 +0000'
-date_gmt: '2014-10-02 23:20:54 +0000'
+date: 2014-10-02 18:20:54 +0000
+date_gmt: 2014-10-02 23:20:54 +0000
 categories:
-- Life
-- Projects
+  - Life
+  - Projects
 tags:
-- proyecto
-- vida
-- CommonSense
-- documentación
-- GitHub
-- ASP.NET MVC 3
-- MakingSense
-- BackboneJS
-- tesis
-- CommonJobs
-- RavenDB
-- proceso
-- Scrum
+  - proyecto
+  - vida
+  - CommonSense
+  - documentación
+  - GitHub
+  - ASP.NET MVC 3
+  - MakingSense
+  - BackboneJS
+  - tesis
+  - CommonJobs
+  - RavenDB
+  - proceso
+  - Scrum
 subtitle: Proyecto final y producto real
-
+description: >-
+  Proyecto de tesis oficial con CommonJobs. Aprendizaje, experimentación,
+  proceso equilibrado, comunicación por Trello. Resultado aceptable, titulación
+  lograda.
 ---
+
 
 ![]({{ site.baseurl }}/assets/commonJobs.png)
 

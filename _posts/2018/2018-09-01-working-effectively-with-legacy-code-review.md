@@ -16,9 +16,8 @@ tags:
   - system design
 subtitle: Your weapons against any badly designed code
 description: >-
-  Learn how to effectively work with legacy code to reduce risk of introducing
-  bugs and get things done right. Read Michael Feathers' _Working effectively
-  with legacy code_ to find out more!
+  Book explains strategies to understand and change legacy code without
+  introducing bugs.
 ---
 
 

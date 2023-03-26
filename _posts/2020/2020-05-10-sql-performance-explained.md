@@ -17,10 +17,8 @@ header:
   image: /assets/2020-05-10-SQL-Performance-Explained/book-cover.webp
   image_description: SQL Performance explained
 description: >-
-  Learn how to optimize your relational database operations with Markus Winand's
-  free SQL Performance Explained book. Understand the basics of indexes,
-  performance improvements & limitations, and more. Available in web version &
-  for purchase on Amazon.
+  Free book on SQL performance, concise and to the point, covers multiple
+  engines, explains indexes, great balance between reference and introduction.
 ---
 
 

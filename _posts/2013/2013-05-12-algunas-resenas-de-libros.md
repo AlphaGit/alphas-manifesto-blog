@@ -1,28 +1,28 @@
 ---
-
 title: Algunas reseñas de libros
-date: '2013-05-12 13:02:06 +0000'
-date_gmt: '2013-05-12 18:02:06 +0000'
+date: 2013-05-12 13:02:06 +0000
+date_gmt: 2013-05-12 18:02:06 +0000
 categories:
-- Books
+  - Books
 tags:
-- JavaScript
-- ciencia
-- física
-- HTML5
-- humor
-- Juegos
-- best practices
-- buenas prácticas
-- review
-- código
-- book
-- The Oatmeal
-- algoritmos
-- informática
+  - JavaScript
+  - ciencia
+  - física
+  - HTML5
+  - humor
+  - Juegos
+  - best practices
+  - buenas prácticas
+  - review
+  - código
+  - book
+  - The Oatmeal
+  - algoritmos
+  - informática
 subtitle: Gatos conspiradores, algoritmos, ciencia y juegos HTML5
-
+description: 'Libros leídos: humor, algoritmos, física, HTML5, buenas prácticas.'
 ---
+
 
 Hay algunos libros que he leído desde mi última reseña, y al igual que con las películas, dejaré de hacer reseñas individuales. ¡Celebren, porque habrá menos spam para ustedes!
 

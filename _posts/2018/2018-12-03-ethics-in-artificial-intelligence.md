@@ -14,10 +14,8 @@ tags:
 excerpt_separator: <!--more-->
 subtitle: Review of a very interesting meetup by Dr McKillop
 description: >-
-  Learn about the ethical considerations surrounding AI and the impact of
-  technology on people's opinion in this blog post, featuring a meetup by Dr.
-  Chris McKillop on the topic. Explore the implications of cognitive biases, the
-  trolley dilemma and more.
+  Ethics in AI discussed, including cognitive biases, impact on public, and
+  responsibility.
 ---
 
 

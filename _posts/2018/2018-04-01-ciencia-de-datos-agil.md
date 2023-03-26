@@ -14,11 +14,8 @@ tags:
   - agile
 subtitle: Curso de Ernesto Mislej
 description: >-
-  Descubre cómo llevar adelante un proyecto de Data Science de forma ágil y
-  eficiente con el curso de Udemy: Ciencia de datos ágil. Ernesto Mislej,
-  co-fundador de 7puentes, te llevará paso a paso para que entiendas cómo
-  funciona un proyecto ágil común y corriente. ¡Vale la pena la inversión de 2
-  horas y 15 dólares!
+  Terminé curso Ciencia de datos ágil. Buena inversión, recomiendo. Visitar en
+  Udemy.
 ---
 
 

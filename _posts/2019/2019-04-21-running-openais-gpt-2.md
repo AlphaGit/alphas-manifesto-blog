@@ -8,9 +8,8 @@ tags:
   - OpenAI
 subtitle: Play with the most powerful text generator so far
 description: >-
-  Explore the OpenAI GPT-2 model with an easy-to-use Google Colaboratory
-  notebook and using a local version with Docker. Learn how to fine-tune,
-  generate text with and without initial seeds and more.
+  Run GPT-2 using Google Colaboratory or OpenAI Docker image, adjust parameters
+  for text generation, fine-tune using Max Woolf's example source code.
 ---
 
 

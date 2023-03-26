@@ -11,10 +11,8 @@ header:
   image: assets/cookies.webp
   image_description: Inspecting cookies
 description: >-
-  Explore the debate surrounding the loss of privacy in an increasingly
-  data-driven world, from the lense of a data scientist. Understand the
-  implications of data tracking, the ethical implications of data gathering, and
-  learn how to be safe in the current landscape.
+  Privacy battle is difficult; companies, governments, and individuals misuse
+  power; be mindful of information shared; draw line and advocate.
 ---
 
 

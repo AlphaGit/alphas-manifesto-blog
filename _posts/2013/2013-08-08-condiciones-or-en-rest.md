@@ -1,25 +1,25 @@
 ---
-
 title: Condiciones OR en REST
-date: '2013-08-08 17:42:13 +0000'
-date_gmt: '2013-08-08 22:42:13 +0000'
+date: 2013-08-08 17:42:13 +0000
+date_gmt: 2013-08-08 22:42:13 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- JSON
-- REST
-- HTTP
-- estándares
-- notación posfijo
-- notación polaca inversa
-- precedencia
-- operaciones
-- sintaxis
-- GET
+  - JSON
+  - REST
+  - HTTP
+  - estándares
+  - notación posfijo
+  - notación polaca inversa
+  - precedencia
+  - operaciones
+  - sintaxis
+  - GET
 subtitle: Aplicando condiciones complejas a requests HTTP REST
-
+description: Expresar condiciones rest como jerarquía con JSON.
 ---
+
 
 ![]({{ site.baseurl }}/assets/ToRestOrNotToRest.jpg)
 

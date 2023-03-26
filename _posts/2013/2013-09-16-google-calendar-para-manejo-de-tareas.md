@@ -1,22 +1,24 @@
 ---
-
-title: " ¿Google Calendar para manejo de tareas?"
-date: '2013-09-16 20:40:18 +0000'
-date_gmt: '2013-09-17 01:40:18 +0000'
+title: ' ¿Google Calendar para manejo de tareas?'
+date: 2013-09-16 20:40:18 +0000
+date_gmt: 2013-09-17 01:40:18 +0000
 categories:
-- Projects
+  - Projects
 tags:
-- proyecto
-- organización
-- productividad
-- planificación
-- Trello
-- tareas
-- Stack Exchange
-- Google Calendar
+  - proyecto
+  - organización
+  - productividad
+  - planificación
+  - Trello
+  - tareas
+  - Stack Exchange
+  - Google Calendar
 subtitle: Una aproximación simple a un problema complejo
-
+description: >-
+  Uso Google Calendar para priorizar tareas, codificadas por color con
+  prioridad. Flexible, simple y efectivo!
 ---
+
 
 ![]({{ site.baseurl }}/assets/calendar.png)
 
