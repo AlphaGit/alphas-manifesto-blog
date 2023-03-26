@@ -138,3 +138,4 @@ I'm quite happy with the result. It's not perfect, but it's a good start. I'm su
 
 Feel free to look at it and provide any feedback you might have. I'm happy to make it useful to others: [jekyll-seo-ai-action](https://www.github.com/AlphaGit/jekyll-seo-ai-action).
 
+PS: [Watch it in action here!](https://github.com/AlphaGit/alphas-manifesto-blog/pull/21)
