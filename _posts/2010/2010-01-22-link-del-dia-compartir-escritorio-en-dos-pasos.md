@@ -8,7 +8,6 @@ categories:
 tags:
 - internet
 - web application
-
 ---
 
 Alguna vez comenté de los beneficios de un sistema llamado _Crossloop_, que tenía la ventaja de ser un programita que bajamos, instalamos, y en dos clicks ya estamos compartiendo nuestro escritorio. Esto hacía muy fácil la posibilidad de ayudar a alguien o brindar servicio técnico a distancia (y de hecho, es el uso primario que se le está dando y lo están mejorando para avanzar en esa dirección), pero a veces no necesitamos tanto control, sino solo poder mostrar la pantalla en tiempo real a alguien más, y queremos alguna herramienta que solo con un click, ya tengamos funcionando eso.

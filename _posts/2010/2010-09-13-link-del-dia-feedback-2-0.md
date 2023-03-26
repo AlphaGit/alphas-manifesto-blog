@@ -10,7 +10,6 @@ tags:
 - web 2.0
 - experiencia del usuario
 - user experience
-
 ---
 
 En el momento en que una aplicación web es publicada, es muy importante que podamos tener algún tipo de feedback o resultados de opinión de los usuarios mismos. No solamente nos brindarían información sobre qué fallas han detectado (lo que, por supuesto, esperamos que sean las menos posibles) sino sobre nuevas ideas y posibles caminos que esta aplicación podría comenzar a transitar. Pero el proceso de toma de esa decisión es algo difícil.

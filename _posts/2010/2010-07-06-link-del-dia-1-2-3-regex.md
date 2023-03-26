@@ -7,7 +7,6 @@ categories:
 - Link del día
 - Technology
 tags: []
-
 ---
 
  ¿Recuerdan los posts viejos sobre cómo convertir un texto en una expresión regular acorde (_Text2RE_), y sobre cómo visualizar las expresiones regulares (_ReAnimator_)?

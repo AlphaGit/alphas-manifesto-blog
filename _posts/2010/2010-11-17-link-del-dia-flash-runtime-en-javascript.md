@@ -13,7 +13,6 @@ tags:
 - SVG
 - Apple
 - dispositivos móviles
-
 ---
 
 Ha habido mucho debate sobre Flash últimamente, más específicamente desde que los teléfonos móviles más famosos del mercado no lo admiten como parte de la interactividad que van a brindar. Por si fuera poco, no sólo no piensan admitirlos como parte del mundo móvil sino que Apple publicó una carta abierta sobre el tema, [Thoughts on Flash](http://www.apple.com/hotnews/thoughts-on-flash/), en donde exponen varias razones (muchas de ellas debatibles en mi opinión) por las cuales Flash no sería una buena idea para ningún dispositivo móvil en general.

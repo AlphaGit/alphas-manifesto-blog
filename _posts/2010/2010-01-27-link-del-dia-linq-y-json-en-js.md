@@ -14,7 +14,6 @@ tags:
 - Microsoft
 - LINQ
 - JSON
-
 ---
 
 Aquellos que trabajamos en C# y hemos jugueteado un poco con el lenguaje de LINQ sabemos lo interesante que es poder fácilmente trabajar con datos. Hacer una búsqueda por algún campo de un array antes podía ser algo tan trabajoso como recorrer uno por uno, poner en una lista nueva los que cumplían con este criterio, luego utilizar la nueva lista y volver a filtrar si es que lo necesitamos. Ni hablar de trabajar con dos o más listas al mismo tiempo. Sin embargo, LINQ nos permitió realizar trabajos como ese en códigos de una línea como lista.Where(condicion).Select(campo).

@@ -12,7 +12,6 @@ tags:
 - web application
 - CSS
 - desarrollo web
-
 ---
 
 Para cerrar la semana vamos a ver un poquito de nuevas tecnologías web que están aflorando desde hace un tiempo. Comencemos por CSS 3, HTML 5, SVG o Canvas, que son cosas que últimamente están ganando mucho la atención de los desarrolladores multimedia. La pregunta es: cuándo sabremos que esto está disponible para usarse y en donde? Para responder de forma fácil esa pregunta es que tenemos a una aplicación web llamada [When can I use...](http://a.deveria.com/caniuse/), en donde podemos filtrar según nuestros deseos de compatibilidad y ver qué tan cerca estamos de poder usar estas posibilidades sabiendo que será soportado por el público al que apuntamos.

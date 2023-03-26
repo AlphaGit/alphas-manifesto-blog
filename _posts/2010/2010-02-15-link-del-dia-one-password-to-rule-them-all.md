@@ -10,7 +10,6 @@ tags:
 - filtraciones
 - privacidad
 - web application
-
 ---
 
 [LastPass](https://lastpass.com/) es un sistema centralizador de passwords que se integra con una gran variedad de navegadores para que autocomplete nuestros datos en los sitios que visitemos. De esta forma, podemos tener una buena cantidad de passwords de alta complejidad sin necesidad de tener que recordarlos de memoria, pudiendo sólo utilizar un password que usaremos en LastPass.

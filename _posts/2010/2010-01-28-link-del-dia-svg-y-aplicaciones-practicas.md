@@ -15,7 +15,6 @@ tags:
 - Microsoft
 - SVG
 - Internet Explorer
-
 ---
 
 [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) son las siglas de Scalable Vector Graphics, algo que no es relativamente nuevo (siendo su primera versión en el 2001), pero algo que hace no mucho comenzaron a aceptar los exploradores (qué les tomó tanto tiempo?). Dejando de lado a Internet Explorer, que aún no parece soportarlo de forma nativa (aunque hay plugins), la gran mayoría de los exploradores ya lo soportan, dando la posibilidad de que podamos insertar gráficos interactivos y hasta dinámicos en nuestras aplicaciones web, sólo escribiendo XML.

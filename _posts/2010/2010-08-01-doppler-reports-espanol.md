@@ -20,7 +20,6 @@ tags:
 - modular
 - tiempo real
 - reporte
-
 ---
 
 ## Hola a todos

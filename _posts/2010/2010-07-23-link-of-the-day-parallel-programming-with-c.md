@@ -13,7 +13,6 @@ tags:
 - concurrencia
 - Visual Studio
 - programming
-
 ---
 
 I just found out that the "Start page" for Visual Studio can really provide nice interesting articles and news. It's there where I found a link to an unfinished series of posts called [Parallel Programming](http://blogs.msdn.com/b/csharpfaq/archive/tags/parallel_2d00_programming/). These are part of the [C# Frequently Asked Questions](http://blogs.msdn.com/b/csharpfaq/) blog, one of the very interesting blogs around the MSDN.

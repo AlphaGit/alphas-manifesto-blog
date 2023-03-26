@@ -13,7 +13,6 @@ tags:
 - web semántica
 - modelo
 - sistema
-
 ---
 
 Un tiempo atrás tuvimos una lectura que trataba de _una visión simple de la arquitectura REST_. Sin embargo, hay mucho más por comprender en esta arquitectura.

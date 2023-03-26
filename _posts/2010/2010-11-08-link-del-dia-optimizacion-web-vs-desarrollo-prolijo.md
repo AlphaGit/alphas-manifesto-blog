@@ -12,7 +12,6 @@ tags:
 - performance
 - CSS
 - desarrollo web
-
 ---
 
 Hace tiempo ya estaba comentando con un colega sobre la enorme cantidad de medidas que pueden tomarse para mejorar la performance de una aplicación web. Existen miles de factores involucrados, entre los cuales hay muchas configuraciones y tweaks que pueden hacerse al servidor, pero muchos otros tienen que ver con el código en sí mismo. Sí señores, estamos hablando de HTML, CSS y JS.

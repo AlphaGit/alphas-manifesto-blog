@@ -10,7 +10,6 @@ tags:
 - seguridad
 - educación
 - concurso
-
 ---
 
 Esta noticia llegó a mí gracias a un tweet de [@offsectraining](http://twitter.com/offsectraining), el usuario de Twitter de [Offensive Security](http://www.offensive-security.com/), que decía: "Quieren ganar un ticket gratuito de BlackHat a las Vegas? Vengan y hackeen por caridad!".

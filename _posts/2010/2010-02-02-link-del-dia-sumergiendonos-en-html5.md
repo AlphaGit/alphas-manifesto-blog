@@ -13,7 +13,6 @@ tags:
 - capacitación
 - desarrollo web
 - book
-
 ---
 
 Hace rato ya que vengo hablando de [nuevas tendencias para la web]({{ site.baseUrl }}{% link _posts/2010/2010-01-08-link-del-dia-tecnologias-web.md %}), como [SVG]({{ site.baseUrl }}{% link _posts/2010/2010-01-28-link-del-dia-svg-y-aplicaciones-practicas.md %}), por ejemplo. No fue hasta hace poquito que terminé de leer un libro online introductorio a HTML5, llamado [Dive Into HTML5](http://diveintohtml5.org/). Me tomó poco tiempo leerlo, debo confesar, porque el libro aún no se encuentra terminado. Verán, de hecho, que los links en la tabla de contenidos se encuentran incompletos, e incluso la sección sobre Canvas se encuentra sin terminar.

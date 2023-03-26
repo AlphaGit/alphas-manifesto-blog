@@ -12,7 +12,6 @@ tags:
 - Visual Studio
 - IDE
 - infografía
-
 ---
 
 Buscando una herramienta en específica me di cuenta que Microsoft dispone de una sección para todas las herramientas extras para .NET, llamada [.NET Framework Tools](http://msdn.microsoft.com/en-us/library/d9kh6s92.aspx). Me pareció que había muchas cosas interesantes para los que trabajamos en ese entorno.

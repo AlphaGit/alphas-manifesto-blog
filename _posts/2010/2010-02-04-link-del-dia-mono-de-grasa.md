@@ -11,7 +11,6 @@ tags:
 - automatización
 - Firefox
 - Chrome
-
 ---
 
 Si es que no han tenido la suerte de probarlo, [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/748) (sí, "mono de grasa") entonces les cuento que es básicamente un plugin de FireFox que permite "agregar plugins" extras. En realidad lo que hace es algo ligeramente distinto: en lugar de modificar la estructura de Firefox, permite inyectar Javascript en las páginas, agregándole / quitándole funcionalidad o automatizando tareas que preferiríamos no hacer a mano. Ya alguna vez comenté de [un script de Greasemonkey que funcionaba como CAPTCHA decoder para Megaupload]({{ site.baseUrl }}{% link _posts/2009/2009-02-12-link-del-dia-javascript-captcha-decoder.md %}).
