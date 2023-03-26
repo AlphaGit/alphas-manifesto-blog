@@ -1,19 +1,23 @@
 ---
 excerpt_separator: <!--more-->
 title: Ciencia de datos ágil
-date: '2018-04-01 11:48:41 +0000'
-date_gmt: '2018-04-01 15:48:41 +0000'
+date: 2018-04-01 11:48:41 +0000
+date_gmt: 2018-04-01 15:48:41 +0000
 categories:
-- AI
+  - AI
 tags:
-- MOOC
-- education
-- data science
-- Spanish
-- udemy
-- agile
+  - MOOC
+  - education
+  - data science
+  - Spanish
+  - udemy
+  - agile
 subtitle: Curso de Ernesto Mislej
+description: >-
+  Terminé curso Ciencia de datos ágil. Buena inversión, recomiendo. Visitar en
+  Udemy.
 ---
+
 
 ![]({{ site.baseurl }}/assets/7puentes.jpg)
 

@@ -1,16 +1,17 @@
 ---
-
 title: BohemianRhapsody.cs
-date: '2013-11-02 19:50:41 +0000'
-date_gmt: '2013-11-03 00:50:41 +0000'
+date: 2013-11-02 19:50:41 +0000
+date_gmt: 2013-11-03 00:50:41 +0000
 categories:
-- Store
+  - Store
 tags:
-- C#
-- Música
-- poster
+  - C#
+  - Música
+  - poster
 subtitle: using Queen.GreatestHits;
+description: Creación de poster de Bohemian Rhapsody en C#, mirar en Zazzle.
 ---
+
 
 ![]({{ site.baseurl }}/assets/posterBohemianRhapsodyCS.png)
 

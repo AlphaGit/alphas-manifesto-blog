@@ -2,14 +2,16 @@
 excerpt_separator: <!--more-->
 title: Interdisciplinary AI
 categories:
-    - AI
+  - AI
 tags:
-    - ethics
-    - AI
-    - OpenAI
-    - paper
+  - ethics
+  - AI
+  - OpenAI
+  - paper
 subtitle: Why we need multiple skills in the search for AGI
+description: OpenAI realizes need for research on humans, ethics, and decision-making.
 ---
+
 
 About a month ago OpenAI published a [post][OpenAI post] where they open their gates for social scientists into their organization. I think this is part of a profound matter that has not been completely discussed in that blog post. Aside from a short version of some points of it, I'll also provide what is this subject that hasn't been discussed yet.
 

@@ -1,24 +1,28 @@
 ---
 excerpt_separator: <!--more-->
 title: Failed experiments and what I've learned from them
-date: '2017-03-26 21:54:14 +0000'
-date_gmt: '2017-03-27 02:54:14 +0000'
+date: 2017-03-26 21:54:14 +0000
+date_gmt: 2017-03-27 02:54:14 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- testing
-- design
-- modular
-- TDD
-- troubleshooting
-- software development
-- methodologies
-- development
-- strong typed languages
-- data structures
+  - testing
+  - design
+  - modular
+  - TDD
+  - troubleshooting
+  - software development
+  - methodologies
+  - development
+  - strong typed languages
+  - data structures
 subtitle: Hey, I messed up but at least I learnt from it!
+description: >-
+  Testing saves time, avoid unfit data structures, static type checking helps,
+  modularize, prevent mistakes from propagating, do things right.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Experiment.png)
 

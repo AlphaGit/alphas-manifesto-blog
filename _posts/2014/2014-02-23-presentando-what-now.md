@@ -1,30 +1,33 @@
 ---
-
 title: 'Presentando: What now?'
-date: '2014-02-23 19:25:39 +0000'
-date_gmt: '2014-02-24 00:25:39 +0000'
+date: 2014-02-23 19:25:39 +0000
+date_gmt: 2014-02-24 00:25:39 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- proyecto
-- open source
-- Ruby
-- DOM
-- GitHub
-- AngularJS
-- D3
-- yeoman
-- karma test-runner
-- jshint
-- grunt
-- bower
-- npm
-- SASS
-- Travis CI
-- what-now
+  - proyecto
+  - open source
+  - Ruby
+  - DOM
+  - GitHub
+  - AngularJS
+  - D3
+  - yeoman
+  - karma test-runner
+  - jshint
+  - grunt
+  - bower
+  - npm
+  - SASS
+  - Travis CI
+  - what-now
 subtitle: A todo-list with a twist
+description: >-
+  Experimento con tecnologías para crear aplicación de listado de tareas con
+  dependencias.
 ---
+
 
 Como excusa para probar d3.js, yeoman, travis, heroku, y con el propósito de hacer algo interesante, me propuse el desarrollo de _what-now_, un listado de tareas para hacer (típico to-do list) pero con un desafío extra: mostrar las tareas dependientes de otras y mostrar el camino crítico para la resolución del "proyecto".
 

@@ -3,15 +3,17 @@ excerpt_separator: <!--more-->
 title: Blender on Lambda
 subtitle: Rendering Blender Scenes in AWS Lambda
 categories:
-    - Development
+  - Development
 tags:
-    - Terraform
-    - Infrastructure
-    - Automated Workflows
+  - Terraform
+  - Infrastructure
+  - Automated Workflows
 header:
-    image: assets/lambda.webp
-    image_description: AWS Lambda
+  image: assets/lambda.webp
+  image_description: AWS Lambda
+description: Cloud rendering with Lambdas and GPUs using Blender, SQS, and Terraform.
 ---
+
 
 [GitHub repository](https://github.com/AlphaGit/blender-lambda)
 

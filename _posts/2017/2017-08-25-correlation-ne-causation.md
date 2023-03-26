@@ -1,21 +1,23 @@
 ---
 excerpt_separator: <!--more-->
 title: Correlation &ne; causation
-date: '2017-08-25 16:29:36 +0000'
-date_gmt: '2017-08-25 21:29:36 +0000'
+date: 2017-08-25 16:29:36 +0000
+date_gmt: 2017-08-25 21:29:36 +0000
 categories:
-- Technology
-- AI
+  - Technology
+  - AI
 tags:
-- data mining
-- titanic
-- data analysis
-- causation
-- correlation
-- data science
-- statistics
+  - data mining
+  - titanic
+  - data analysis
+  - causation
+  - correlation
+  - data science
+  - statistics
 subtitle: But causation ⇒ correlation|
+description: Data mining helps find correlations and potential causal relationships.
 ---
+
 
 ![]({{ site.baseurl }}/assets/AB.jpg)
 

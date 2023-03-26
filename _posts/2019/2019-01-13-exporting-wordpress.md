@@ -2,17 +2,21 @@
 excerpt_separator: <!--more-->
 title: Exporting from Wordpress to Jekyll
 categories:
-    - Technology
+  - Technology
 tags:
-    - wordpress
-    - jekyll
-    - import
-    - export
-    - html
-    - docker
-    - networking
+  - wordpress
+  - jekyll
+  - import
+  - export
+  - html
+  - docker
+  - networking
 subtitle: A few simple steps from Wordpress to Jekyll format
+description: >-
+  Exported Wordpress blog using Jekyll-import, running ruby, manual retouching,
+  featured images, HTML content, front matter, subtitle retrieval.
 ---
+
 
 I just exported my Wordpress blog by using the [jekyll-import](https://import.jekyllrb.com/docs/wordpress/) tool. This is my first post in this new tool. I very much like the simplified approach of writing markdown and having a static site rather than running a server and a database on my own.
 

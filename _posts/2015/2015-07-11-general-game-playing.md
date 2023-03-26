@@ -1,19 +1,23 @@
 ---
 excerpt_separator: <!--more-->
 title: General Game Playing
-date: '2015-07-11 15:41:41 +0000'
-date_gmt: '2015-07-11 20:41:41 +0000'
+date: 2015-07-11 15:41:41 +0000
+date_gmt: 2015-07-11 20:41:41 +0000
 categories:
-- AI
+  - AI
 tags:
-- Stanford
-- general game playing
-- coursera
-- course
-- MOOC
-- artificial intelligence
+  - Stanford
+  - general game playing
+  - coursera
+  - course
+  - MOOC
+  - artificial intelligence
 subtitle: Automatic players that don't complain when they lose
+description: >-
+  AI course on game playing, learn language parsing, heuristics, memory, search
+  methods, Tiltyard competition, Java, HTTP knowledge, fun, adaptive strategies.
 ---
+
 
 ![]({{ site.baseurl }}/assets/robotchessplayer.png)
 

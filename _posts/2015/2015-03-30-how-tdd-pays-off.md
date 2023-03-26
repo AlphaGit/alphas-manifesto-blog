@@ -1,22 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: How TDD pays off
-date: '2015-03-30 22:34:26 +0000'
-date_gmt: '2015-03-31 03:34:26 +0000'
+date: 2015-03-30 22:34:26 +0000
+date_gmt: 2015-03-31 03:34:26 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- testing
-- TDD
-- unit testing
-- mongo-faceted
-- software development
-- software engineering
-- methodologies
-- automated testing
+  - testing
+  - TDD
+  - unit testing
+  - mongo-faceted
+  - software development
+  - software engineering
+  - methodologies
+  - automated testing
 subtitle: A success story from the side of the doubtful
+description: >-
+  Software engineers use Test-Driven Development to remember details, save time,
+  and avoid major rewrites.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Semaforo1.png)
 

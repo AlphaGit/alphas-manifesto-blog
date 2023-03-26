@@ -3,16 +3,20 @@ excerpt_separator: <!--more-->
 title: Technical Leaders and Career Paths
 subtitle: You shouldn't have to stop coding
 categories:
-    - Development
+  - Development
 tags:
-    - Management
-    - Leadership
-    - Technical Management
-    - Time Management
+  - Management
+  - Leadership
+  - Technical Management
+  - Time Management
 header:
-    image: assets/TechnicalManagementRoadMeme.webp
-    image_description: Management (Technical) vs. Technical Management
+  image: assets/TechnicalManagementRoadMeme.webp
+  image_description: Management (Technical) vs. Technical Management
+description: >-
+  Technical leadership involves designing solutions, delegating, balancing team
+  work, and writing code.
 ---
+
 
 I came across [this question](https://workplace.stackexchange.com/q/181842/25611), which is a fairly common concern I have come across with people around me. Here's the gist of it:
 

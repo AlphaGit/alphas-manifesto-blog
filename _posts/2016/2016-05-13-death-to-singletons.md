@@ -1,26 +1,31 @@
 ---
 excerpt_separator: <!--more-->
 title: Death to Singletons!
-date: '2016-05-13 20:08:44 +0000'
-date_gmt: '2016-05-14 01:08:44 +0000'
+date: 2016-05-13 20:08:44 +0000
+date_gmt: 2016-05-14 01:08:44 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- C#
-- design
-- OOP
-- API
-- singleton
-- unit testing
-- design pattern
-- concurrency
-- multi-threading
-- static
-- race condition
-- evil
-- convention
+  - C#
+  - design
+  - OOP
+  - API
+  - singleton
+  - unit testing
+  - design pattern
+  - concurrency
+  - multi-threading
+  - static
+  - race condition
+  - evil
+  - convention
 subtitle: Singleton.Instance.SelfDestruct();
+description: >-
+  Singleton pattern restricts instantiation to one object; advantages, but also
+  problems with unit testing, DI, OOP, initialization, concurrency, lifetime,
+  and intent.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Singleton.png)
 

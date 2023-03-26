@@ -2,13 +2,17 @@
 excerpt_separator: <!--more-->
 title: Practical Statistics for data scientists
 categories:
-    - Books
+  - Books
 tags:
-    - data science
-    - statistics
-    - books
+  - data science
+  - statistics
+  - books
 subtitle: Book review
+description: >-
+  Must-have book for data scientists, deep explanation of topics, quickly moves
+  to concepts, examples in R, good reference and quick-reference book.
 ---
+
 
 ![Practical Statistics for data Scientists]({{ site.baseurl }}/assets/practical-statistics-ds-cover.jpg)
 

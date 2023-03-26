@@ -1,22 +1,23 @@
 ---
-
 title: La prueba de la pizza
-date: '2013-01-26 18:04:06 +0000'
-date_gmt: '2013-01-26 23:04:06 +0000'
+date: 2013-01-26 18:04:06 +0000
+date_gmt: 2013-01-26 23:04:06 +0000
 categories:
-- Projects
+  - Projects
 tags:
-- experiencia del usuario
-- user experience
-- dispositivos móviles
-- mobile
-- UX
-- decisión
-- Rackspace
-- pizza
-- claridad
+  - experiencia del usuario
+  - user experience
+  - dispositivos móviles
+  - mobile
+  - UX
+  - decisión
+  - Rackspace
+  - pizza
+  - claridad
 subtitle: La versión casera de pruebas de carga cognitiva
+description: 'Administrar servidores con pizza: Cómodo, rápido y divertido.'
 ---
+
 
 ![]({{ site.baseurl }}/assets/Pizza.jpg)
 

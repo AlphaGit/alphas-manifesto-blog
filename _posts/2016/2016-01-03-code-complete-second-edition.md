@@ -1,20 +1,25 @@
 ---
 excerpt_separator: <!--more-->
 title: Code Complete, Second Edition
-date: '2016-01-03 22:03:45 +0000'
-date_gmt: '2016-01-04 04:03:45 +0000'
+date: 2016-01-03 22:03:45 +0000
+date_gmt: 2016-01-04 04:03:45 +0000
 categories:
-- Books
+  - Books
 tags:
-- software
-- review
-- book
-- management
-- software development
-- development
-- code
+  - software
+  - review
+  - book
+  - management
+  - software development
+  - development
+  - code
 subtitle: Aspects of software construction, deconstructed
+description: >-
+  Complete reference manual of software development, 2000+ pages, 35 chapters,
+  well organized, evidence-based, intellectual relationship, experience gained,
+  C and Java examples, recommend to all levels.
 ---
+
 
 ![]({{ site.baseurl }}/assets/codecomplete.jpg)
 

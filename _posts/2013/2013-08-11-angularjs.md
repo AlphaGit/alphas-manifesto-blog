@@ -1,22 +1,25 @@
 ---
-
 title: AngularJS
-date: '2013-08-11 20:28:53 +0000'
-date_gmt: '2013-08-12 01:28:53 +0000'
+date: 2013-08-11 20:28:53 +0000
+date_gmt: 2013-08-12 01:28:53 +0000
 categories:
-- Books
+  - Books
 tags:
-- JavaScript
-- librería
-- review
-- MVC
-- TDD
-- book
-- AngularJS
-- data binding
-- templating
+  - JavaScript
+  - librería
+  - review
+  - MVC
+  - TDD
+  - book
+  - AngularJS
+  - data binding
+  - templating
 subtitle: Libro introductorio sobre AngularJS y sus prácticas
+description: >-
+  Libro buena introducción para AngularJS, con buenas prácticas y errores
+  menores.
 ---
+
 
 ![]({{ site.baseurl }}/assets/angularjs.jpg)
 

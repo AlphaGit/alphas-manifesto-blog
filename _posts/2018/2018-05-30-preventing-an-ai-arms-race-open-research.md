@@ -1,19 +1,23 @@
 ---
 excerpt_separator: <!--more-->
 title: 'Preventing an AI arms race: open research'
-date: '2018-05-30 19:58:57 +0000'
-date_gmt: '2018-05-30 23:58:57 +0000'
+date: 2018-05-30 19:58:57 +0000
+date_gmt: 2018-05-30 23:58:57 +0000
 categories:
-- AI
+  - AI
 tags:
-- artificial intelligence
-- open software
-- news
-- research
-- AI
-- open research
+  - artificial intelligence
+  - open software
+  - news
+  - research
+  - AI
+  - open research
 subtitle: Secrecy is the halt of humanity's progress
+description: >-
+  Advancement in AI technology should benefit all humanity. OpenAI's platform
+  and boycotting of research journals support this.
 ---
+
 
 ![]({{ site.baseurl }}/assets/papers.png)
 

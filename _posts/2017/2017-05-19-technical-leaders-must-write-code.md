@@ -1,21 +1,25 @@
 ---
 excerpt_separator: <!--more-->
 title: Technical Leaders **must** write code
-date: '2017-05-19 19:11:30 +0000'
-date_gmt: '2017-05-20 00:11:30 +0000'
+date: 2017-05-19 19:11:30 +0000
+date_gmt: 2017-05-20 00:11:30 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- coding
-- team work
-- development
-- technical leader
-- leadership
-- practice
-- TL
+  - coding
+  - team work
+  - development
+  - technical leader
+  - leadership
+  - practice
+  - TL
 subtitle: And here's why
+description: >-
+  Technical Leaders lead, guide, review, teach, and coordinate teams while also
+  coding.
 ---
+
 
 ![]({{ site.baseurl }}/assets/ForgottenKeyboard.png)
 

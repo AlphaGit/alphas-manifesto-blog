@@ -1,23 +1,26 @@
 ---
-
 title: 'Ember.js: queueHttpResponder'
-date: '2014-07-05 18:50:06 +0000'
-date_gmt: '2014-07-05 23:50:06 +0000'
+date: 2014-07-05 18:50:06 +0000
+date_gmt: 2014-07-05 23:50:06 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- proyecto
-- JavaScript
-- unit testing
-- data binding
-- test
-- EmberJS
-- fakehr
-- Ember helpers
-- automated testing
+  - proyecto
+  - JavaScript
+  - unit testing
+  - data binding
+  - test
+  - EmberJS
+  - fakehr
+  - Ember helpers
+  - automated testing
 subtitle: Solucionando incompatibilidad entre httpResponder + Ember 1.4.0+
+description: >-
+  Incompatibilidad entre Ember.Testing y httpRespond impide testeo automático
+  sin servidor. Solución temporal: queueHttpResponder.
 ---
+
 
 Hace un tiempo encontré una incompatibilidad bastante grande entre los sistemas de Ember.Testing y httpRespond, que impedían a muchos programadores testear sus sistemas de forma automática sin necesidad de un servidor de pruebas. Más adelante explicaré qué fue lo que generó este problema, por qué es un problema grave y el workaround que trabajamos con algunos colegas y algunos miembros del equipo de Ember.
 

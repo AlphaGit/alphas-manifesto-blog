@@ -1,24 +1,25 @@
 ---
-
 title: Flujos de trabajo en git
-date: '2014-06-21 18:26:08 +0000'
-date_gmt: '2014-06-21 23:26:08 +0000'
+date: 2014-06-21 18:26:08 +0000
+date_gmt: 2014-06-21 23:26:08 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- desarrollo
-- work
-- desarollo
-- GitHub
-- git
-- control de versiones
-- what-now
-- rebase
-- merge
-- historial de cambios
+  - desarrollo
+  - work
+  - desarollo
+  - GitHub
+  - git
+  - control de versiones
+  - what-now
+  - rebase
+  - merge
+  - historial de cambios
 subtitle: Los más comunes y el historial de cambios que generan
+description: Git rebase squash proporciona línea de tiempo simple y útil.
 ---
+
 
 ![]({{ site.baseurl }}/assets/gitTree.png)
 

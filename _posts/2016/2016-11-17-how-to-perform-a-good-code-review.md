@@ -1,21 +1,25 @@
 ---
 excerpt_separator: <!--more-->
 title: How to perform a good code review
-date: '2016-11-17 14:23:22 +0000'
-date_gmt: '2016-11-17 20:23:22 +0000'
+date: 2016-11-17 14:23:22 +0000
+date_gmt: 2016-11-17 20:23:22 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- code review
-- code
-- pull request
-- code quality
-- functional requirements
-- requirements
-- technical debt
+  - code review
+  - code
+  - pull request
+  - code quality
+  - functional requirements
+  - requirements
+  - technical debt
 subtitle: Reaching agreement from a bunch of code
+description: >-
+  Review code efficiently, provide clear feedback, check code quality, avoid
+  confusion, be polite.
 ---
+
 
 ![]({{ site.baseurl }}/assets/CodeReviewFilter2.jpg)
 

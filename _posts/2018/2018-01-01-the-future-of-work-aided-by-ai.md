@@ -1,22 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: The future of work, aided by AI?
-date: '2018-01-01 11:21:41 +0000'
-date_gmt: '2018-01-01 16:21:41 +0000'
+date: 2018-01-01 11:21:41 +0000
+date_gmt: 2018-01-01 16:21:41 +0000
 categories:
-- Technology
-- AI
+  - Technology
+  - AI
 tags:
-- artificial intelligence
-- futurism
-- creativity
-- augmented intelligence
-- optimization algorithms
-- search algorithms
-- font design
-- heuristics
+  - artificial intelligence
+  - futurism
+  - creativity
+  - augmented intelligence
+  - optimization algorithms
+  - search algorithms
+  - font design
+  - heuristics
 subtitle: How machine learning algorithms may take on our work
+description: >-
+  AI and IA explored, creativity enabled, vectored emergent properties,
+  automated work, feedback cycle, revolutionizing humanity.
 ---
+
 
 ![]({{ site.baseurl }}/assets/BeeDrones.jpg)
 

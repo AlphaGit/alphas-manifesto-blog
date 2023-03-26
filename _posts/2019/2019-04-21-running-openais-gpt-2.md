@@ -2,12 +2,16 @@
 excerpt_separator: <!--more-->
 title: Running OpenAI's GPT-2
 categories:
-    - AI
+  - AI
 tags:
-    - AI
-    - OpenAI
+  - AI
+  - OpenAI
 subtitle: Play with the most powerful text generator so far
+description: >-
+  Run GPT-2 using Google Colaboratory or OpenAI Docker image, adjust parameters
+  for text generation, fine-tune using Max Woolf's example source code.
 ---
+
 
 ![GPT-2]({{ site.baseurl }}/assets/gpt2.jpg)
 

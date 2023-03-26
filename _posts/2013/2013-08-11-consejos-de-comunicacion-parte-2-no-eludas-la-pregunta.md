@@ -1,20 +1,21 @@
 ---
-
 title: 'Consejos de comunicación, parte 2: No eludas la pregunta'
-date: '2013-08-11 19:58:51 +0000'
-date_gmt: '2013-08-12 00:58:51 +0000'
+date: 2013-08-11 19:58:51 +0000
+date_gmt: 2013-08-12 00:58:51 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- comunicación
-- preguntas
-- consejos
-- respuestas
-- conversación
-- brevedad
-- precisión
+  - comunicación
+  - preguntas
+  - consejos
+  - respuestas
+  - conversación
+  - brevedad
+  - precisión
 subtitle: Ser conciso y no-ambiguo
+description: Responder directamente pregunta, evitar explicaciones innecesarias.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Respuesta.png)
 

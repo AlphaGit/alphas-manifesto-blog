@@ -1,24 +1,28 @@
 ---
 excerpt_separator: <!--more-->
 title: How to find the problem
-date: '2016-01-12 22:36:05 +0000'
-date_gmt: '2016-01-13 04:36:05 +0000'
+date: 2016-01-12 22:36:05 +0000
+date_gmt: 2016-01-13 04:36:05 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- Technology
-- development
-- epiphany
-- knowledge management
-- learning
-- bug
-- bug fixing
-- assumptions
-- problems
-- solutions
+  - Technology
+  - development
+  - epiphany
+  - knowledge management
+  - learning
+  - bug
+  - bug fixing
+  - assumptions
+  - problems
+  - solutions
 subtitle: Applied skepticism
+description: >-
+  Methodical approach to solve problems, fact-check assumptions, confirm and
+  learn from mistakes.
 ---
+
 
 ![]({{ site.baseurl }}/assets/chemistryskunk.png)
 

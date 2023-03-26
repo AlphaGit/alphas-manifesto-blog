@@ -1,24 +1,28 @@
 ---
 excerpt_separator: <!--more-->
 title: 'ATPS: Angular, Protractor, Travis, SauceLabs'
-date: '2015-09-06 14:01:23 +0000'
-date_gmt: '2015-09-06 19:01:23 +0000'
+date: 2015-09-06 14:01:23 +0000
+date_gmt: 2015-09-06 19:01:23 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- AngularJS
-- npm
-- Travis CI
-- automated testing
-- development
-- Protractor
-- SauceLabs
-- web development
-- Selenium
-- continuous integration
+  - AngularJS
+  - npm
+  - Travis CI
+  - automated testing
+  - development
+  - Protractor
+  - SauceLabs
+  - web development
+  - Selenium
+  - continuous integration
 subtitle: Quick guide to get these bad boys cooperating
+description: >-
+  Achieving Angular+Protractor+Travis+SauceLabs integration, with local and live
+  testing.
 ---
+
 
 ![]({{ site.baseurl }}/assets/juggling.png)
 

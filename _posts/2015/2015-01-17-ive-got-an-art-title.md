@@ -1,20 +1,24 @@
 ---
 excerpt_separator: <!--more-->
 title: I've got an art degree!
-date: '2015-01-17 19:54:26 +0000'
-date_gmt: '2015-01-18 01:54:26 +0000'
+date: 2015-01-17 19:54:26 +0000
+date_gmt: 2015-01-18 01:54:26 +0000
 categories:
-- Miscelaneous
-- Life
+  - Miscelaneous
+  - Life
 tags:
-- Java
-- art
-- computational arts
-- Processing
-- portfolio
-- certificate
+  - Java
+  - art
+  - computational arts
+  - Processing
+  - portfolio
+  - certificate
 subtitle: Well, sort of...
+description: >-
+  Completed art course, MOOC platform, Processing, Photoshop, GIMP, Audacity,
+  Logic, Soundation, final project, experience mind-opening.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Art.png)
 

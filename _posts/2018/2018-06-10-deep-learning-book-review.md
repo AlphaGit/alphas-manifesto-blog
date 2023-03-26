@@ -1,21 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: Deep Learning (book review)
-date: '2018-06-10 12:43:23 +0000'
-date_gmt: '2018-06-10 16:43:23 +0000'
+date: 2018-06-10 12:43:23 +0000
+date_gmt: 2018-06-10 16:43:23 +0000
 categories:
-- Books
-- AI
+  - Books
+  - AI
 tags:
-- book
-- artificial intelligence
-- book review
-- deep learning
-- neural network
-- research
-- reference
+  - book
+  - artificial intelligence
+  - book review
+  - deep learning
+  - neural network
+  - research
+  - reference
 subtitle: by Goodfellow, Bengio and Courville
+description: >-
+  Deep Learning book detailed, mathematical, difficult, comprehensive,
+  references, reframes problems, focus required, 800 pages, research-oriented,
+  advanced.
 ---
+
 
 ![]({{ site.baseurl }}/assets/deep-learning.jpg)
 

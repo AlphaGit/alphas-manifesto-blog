@@ -1,22 +1,26 @@
 ---
 excerpt_separator: <!--more-->
 title: Software Security
-date: '2015-09-23 07:08:27 +0000'
-date_gmt: '2015-09-23 12:08:27 +0000'
+date: 2015-09-23 07:08:27 +0000
+date_gmt: 2015-09-23 12:08:27 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- coursera
-- course
-- MOOC
-- development
-- security
-- buffer overflow
-- string format attack
-- static analysis
-- introduction
+  - coursera
+  - course
+  - MOOC
+  - development
+  - security
+  - buffer overflow
+  - string format attack
+  - static analysis
+  - introduction
 subtitle: MOOC by the University of Maryland
+description: >-
+  Completed Software Security course, C and pointer knowledge required, topics
+  discussed, labs conducted, certificates received.
 ---
+
 
 ![]({{ site.baseurl }}/assets/candado.png)
 

@@ -1,24 +1,29 @@
 ---
 excerpt_separator: <!--more-->
 title: Testability vs. simple design
-date: '2016-03-22 20:21:31 +0000'
-date_gmt: '2016-03-23 01:21:31 +0000'
+date: 2016-03-22 20:21:31 +0000
+date_gmt: 2016-03-23 01:21:31 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- testing
-- ".NET"
-- C#
-- Microsoft
-- design
-- unit testing
-- dependencies
-- classes
-- coupling
-- Fakes Assemblies
-- MSTest
+  - testing
+  - .NET
+  - C#
+  - Microsoft
+  - design
+  - unit testing
+  - dependencies
+  - classes
+  - coupling
+  - Fakes Assemblies
+  - MSTest
 subtitle: Testing requires decoupling
+description: >-
+  Proponent for simplicity and testability; decoupled classes; Microsoft Fakes
+  Assemblies; break code into pieces; unit test private members; power with
+  responsibility.
 ---
+
 
 ![]({{ site.baseurl }}/assets/arrow.jpg)
 

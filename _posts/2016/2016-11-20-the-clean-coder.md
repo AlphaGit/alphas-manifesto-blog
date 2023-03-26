@@ -1,22 +1,27 @@
 ---
 excerpt_separator: <!--more-->
 title: The Clean Coder
-date: '2016-11-20 18:01:46 +0000'
-date_gmt: '2016-11-21 00:01:46 +0000'
+date: 2016-11-20 18:01:46 +0000
+date_gmt: 2016-11-21 00:01:46 +0000
 categories:
-- Books
-- Technology
+  - Books
+  - Technology
 tags:
-- software
-- book
-- code
-- book review
-- professionalism
-- software engineerng
-- developing
-- ethics
+  - software
+  - book
+  - code
+  - book review
+  - professionalism
+  - software engineerng
+  - developing
+  - ethics
 subtitle: a.k.a. "Software Professionalism"
+description: >-
+  Software engineering ethics, professionalism, TDD, commitments, technical
+  debt, Uncle Bob's controversial views, personal anecdotes, examples,
+  reflection, facilitation.
 ---
+
 
 ![]({{ site.baseurl }}/assets/the-clean-coder-cover.jpg)
 

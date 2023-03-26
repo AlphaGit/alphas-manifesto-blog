@@ -1,19 +1,23 @@
 ---
 excerpt_separator: <!--more-->
 title: Taming your tools
-date: '2016-02-28 16:02:35 +0000'
-date_gmt: '2016-02-28 22:02:35 +0000'
+date: 2016-02-28 16:02:35 +0000
+date_gmt: 2016-02-28 22:02:35 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- Technology
-- IDE
-- TDD
-- productivity
-- learning
-- tool
+  - Technology
+  - IDE
+  - TDD
+  - productivity
+  - learning
+  - tool
+description: >-
+  Tools make work easier, reliable, and eliminate errors. Learn tools, challenge
+  pitfalls, understand risks.
 ---
+
 
 ![]({{ site.baseurl }}/assets/whip.png)
 

@@ -1,17 +1,21 @@
 ---
 excerpt_separator: <!--more-->
 title: My experience with bullet journals
-date: '2015-02-19 17:35:46 +0000'
-date_gmt: '2015-02-19 23:35:46 +0000'
+date: 2015-02-19 17:35:46 +0000
+date_gmt: 2015-02-19 23:35:46 +0000
 categories:
-- Life
+  - Life
 tags:
-- journal
-- bullet journal
-- productivity
-- experiences
-subtitle: "Spoiler: not a journal about guns"
+  - journal
+  - bullet journal
+  - productivity
+  - experiences
+subtitle: 'Spoiler: not a journal about guns'
+description: >-
+  Bullet Journals revolutionize daily planning - writing down, topics, indexing,
+  reflecting, rewarding.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Journal.gif)
 

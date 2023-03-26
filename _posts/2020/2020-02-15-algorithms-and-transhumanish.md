@@ -2,16 +2,21 @@
 excerpt_separator: <!--more-->
 title: Algorithms, transhumanism and futurism
 categories:
-    - Technology
+  - Technology
 tags:
-    - Technology
-    - futurism
-    - transhumanism
-    - algorithms
-    - Kurzweil
-    - books
+  - Technology
+  - futurism
+  - transhumanism
+  - algorithms
+  - Kurzweil
+  - books
 subtitle: Chicken soup for the rational progress
+description: >-
+  Transhumanism, Kurzweil predictions, Algorithms to Live By, technology,
+  optimization, strategies, productivity, science, everyday scenarios, slow
+  adaptation.
 ---
+
 
 I'm halfway through reading _Algorithms to live by_, by Brian Christian and Tom Griffiths. The book is really good -- but this is not a review about the book. Rather, a thought that came to my mind while reading it.
 

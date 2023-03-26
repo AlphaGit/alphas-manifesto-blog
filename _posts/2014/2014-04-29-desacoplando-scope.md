@@ -1,21 +1,24 @@
 ---
-
 title: Desacoplando $scope
-date: '2014-04-29 23:36:42 +0000'
-date_gmt: '2014-04-30 04:36:42 +0000'
+date: 2014-04-29 23:36:42 +0000
+date_gmt: 2014-04-30 04:36:42 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- design
-- unit testing
-- AngularJS
-- controllers
-- desacoplamiento
-- separación de responsabilidades
-- "$scope"
+  - design
+  - unit testing
+  - AngularJS
+  - controllers
+  - desacoplamiento
+  - separación de responsabilidades
+  - $scope
 subtitle: Tomando la sopa por el mango de la cuchara
+description: >-
+  Separar métodos de controladores de $scope; tests enfocados en lógica, no en
+  estado; privado, público y contractual; ejemplo práctico.
 ---
+
 
 ![]({{ site.baseurl }}/assets/scopeSoupMin.png)
 

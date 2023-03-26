@@ -1,18 +1,22 @@
 ---
 excerpt_separator: <!--more-->
 title: 'MOOC: Android Dev Part 1'
-date: '2015-08-02 15:14:17 +0000'
-date_gmt: '2015-08-02 20:14:17 +0000'
+date: 2015-08-02 15:14:17 +0000
+date_gmt: 2015-08-02 20:14:17 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- mobile
-- Android
-- coursera
-- course
-- development
+  - mobile
+  - Android
+  - coursera
+  - course
+  - development
 subtitle: That little green trash can
+description: >-
+  Android development course review; Java knowledge required; well explained;
+  hands-on labs; functional applications; investigate advanced topics.
 ---
+
 
 ![]({{ site.baseurl }}/assets/android.png)
 

@@ -1,19 +1,23 @@
 ---
 excerpt_separator: <!--more-->
 title: Write it down!
-date: '2014-12-22 05:57:29 +0000'
-date_gmt: '2014-12-22 11:57:29 +0000'
+date: 2014-12-22 05:57:29 +0000
+date_gmt: 2014-12-22 11:57:29 +0000
 categories:
-- Life
+  - Life
 tags:
-- work
-- team work
-- multitasking
-- everyday stuff
-- time management
-- delegating
+  - work
+  - team work
+  - multitasking
+  - everyday stuff
+  - time management
+  - delegating
 subtitle: Before it makes you frown
+description: >-
+  Write down urgent issues to reduce cognitive load and multitask more
+  efficiently.
 ---
+
 
 ![]({{ site.baseurl }}/assets/multitasking.png)
 

@@ -1,20 +1,23 @@
 ---
-
 title: 'Productividad: no cortes la cadena'
-date: '2014-06-02 21:46:22 +0000'
-date_gmt: '2014-06-03 02:46:22 +0000'
+date: 2014-06-02 21:46:22 +0000
+date_gmt: 2014-06-03 02:46:22 +0000
 categories:
-- Projects
+  - Projects
 tags:
-- proyecto
-- problema
-- tiempo
-- productividad
-- código
-- motivación
-- rutina
+  - proyecto
+  - problema
+  - tiempo
+  - productividad
+  - código
+  - motivación
+  - rutina
 subtitle: Las técnicas de John Resig y mis resultados
+description: >-
+  John Resig proposes daily productivity technique to reduce frustration,
+  increase progress and motivate.
 ---
+
 
 ![]({{ site.baseurl }}/assets/Calendar_marked.png)
 

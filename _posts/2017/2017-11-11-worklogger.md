@@ -1,21 +1,25 @@
 ---
 excerpt_separator: <!--more-->
 title: Worklogger
-date: '2017-11-11 10:39:02 +0000'
-date_gmt: '2017-11-11 16:39:02 +0000'
+date: 2017-11-11 10:39:02 +0000
+date_gmt: 2017-11-11 16:39:02 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- open source
-- time tracking
-- timesheet
-- automation
-- task automation
-- project
-- worklogger
+  - open source
+  - time tracking
+  - timesheet
+  - automation
+  - task automation
+  - project
+  - worklogger
 subtitle: Automatic timesheet entry
+description: >-
+  Software-worker time tracking automated with Worklogger for various customer
+  requirements.
 ---
+
 
 ![]({{ site.baseurl }}/assets/time.jpg)
 

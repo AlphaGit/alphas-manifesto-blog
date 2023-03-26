@@ -10,21 +10,25 @@ author:
     - title: Y Media Labs
       url: https://ymedialabs.com/
       icon: fas fa-link
-date: '2018-01-12 20:19:58 +0000'
-date_gmt: '2018-01-13 01:19:58 +0000'
+date: 2018-01-12 20:19:58 +0000
+date_gmt: 2018-01-13 01:19:58 +0000
 categories:
-- Technology
-- AI
+  - Technology
+  - AI
 tags:
-- Google
-- artificial intelligence
-- machine learning
-- retail
-- e-commerce
-- Google I/O
-- Google Lens
+  - Google
+  - artificial intelligence
+  - machine learning
+  - retail
+  - e-commerce
+  - Google I/O
+  - Google Lens
 subtitle: by Rae Steinbach, in cooperation with Y Media Labs
+description: >-
+  Google Assistant AI to boost retail convenience, transactions, storage,
+  visual/audio elements, and machine learning.
 ---
+
 
 ![]({{ site.baseurl }}/assets/googleimg.jpg)
 
