@@ -1,22 +1,24 @@
 ---
-
 title: 'Mobile:  ¿Web o lenguajes nativos?'
-date: '2012-06-27 00:30:28 +0000'
-date_gmt: '2012-06-27 05:30:28 +0000'
+date: 2012-06-27 00:30:28 +0000
+date_gmt: 2012-06-27 05:30:28 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- JavaScript
-- HTML
-- CSS
-- HTML5
-- desarrollo móvil
-- CSS3
-- decisión
-- estrategia
+  - JavaScript
+  - HTML
+  - CSS
+  - HTML5
+  - desarrollo móvil
+  - CSS3
+  - decisión
+  - estrategia
 subtitle: Sobre cómo elegir la tecnología correcta
-
+description: >-
+  Organización elegir web/nativo para presencia mobile, considerando
+  estratégicos objetivos, usuario, recursos, llegada.
 ---
+
 
 Cuando una organización, por grande o pequeña que sea, quiere comenzar su presencia en el mercado mobile, hay una pregumta que siempre surge y que muchas veces no les resulta fácil resolver.  ¿Qué es más conveniente: utilizar tecnologías web y sus capabilidades para llegar a todos los dispositivos, o utilizar el framework propio de los dispositivos para utilizar todo el potencial que ellos ofrecen?
 

@@ -1,20 +1,22 @@
 ---
-
 title: ASP.NET MVC UserVoice
-date: '2012-03-21 11:09:18 +0000'
-date_gmt: '2012-03-21 16:09:18 +0000'
+date: 2012-03-21 11:09:18 +0000
+date_gmt: 2012-03-21 16:09:18 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- open source
-- feedback
-- comunidad
-- ASP.NET
-- ASP.NET MVC
-- participación
+  - open source
+  - feedback
+  - comunidad
+  - ASP.NET
+  - ASP.NET MVC
+  - participación
 subtitle: Para que la comunidad se construya a sí misma
-
+description: >-
+  Microsoft ASP.NET MVC open-source, feedback via UserVoice, CodePlex, no code
+  contribution.
 ---
+
 
 ¿Recuerdan que alguna vez conté de [UserVoice y cómo permite obtener feedback de la comunidad]({{ site.baseUrl }}{% link _posts/2010/2010-09-13-link-del-dia-feedback-2-0.md %})? Bueno, la gente de Microsoft me leyó (?) y el mismo desarrollo de ASP.NET MVC está siendo permitido por la comunidad. Una de las formas es este mismo user voice, que pueden encontrar en el [ASP.NET MVC UserVoice Site](http://aspnet.uservoice.com/forums/41201-asp-net-mvc).
 

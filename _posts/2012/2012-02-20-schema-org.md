@@ -1,20 +1,22 @@
 ---
-
 title: Schema.org
-date: '2012-02-20 09:40:55 +0000'
-date_gmt: '2012-02-20 14:40:55 +0000'
+date: 2012-02-20 09:40:55 +0000
+date_gmt: 2012-02-20 14:40:55 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Google
-- standard
-- SEO
-- estándares
-- microformato
-- schema
+  - Google
+  - standard
+  - SEO
+  - estándares
+  - microformato
+  - schema
 subtitle: Repositorio público de esquemas de markup
-
+description: >-
+  Mejorar meta-información sitio para motores de búsqueda con Schema.org,
+  Microformats.org y estándares de microdata.
 ---
+
 
 En el punto intermedio entre estándares y SEO está [Schema.org](http://www.schema.org/), un sitio que haciendo uso de los [estándares de microdata](http://dev.w3.org/html5/md-LC/) permitiría mejorar la meta-información que un sitio está aportando, específicamente para hacerlo más apropiado a los motores de búsqueda. La página de [Getting Started](http://www.schema.org/docs/gs.html) nos da una buena idea de qué trata esto.
 

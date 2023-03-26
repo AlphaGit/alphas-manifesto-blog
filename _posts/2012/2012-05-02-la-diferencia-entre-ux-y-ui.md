@@ -1,22 +1,22 @@
 ---
-
 title: La diferencia entre UX y UI
-date: '2012-05-02 10:48:42 +0000'
-date_gmt: '2012-05-02 15:48:42 +0000'
+date: 2012-05-02 10:48:42 +0000
+date_gmt: 2012-05-02 15:48:42 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- design
-- interfaz
-- user experience
-- UI
-- experiencia de usuario
-- cereal
-- UX
-- analogía
+  - design
+  - interfaz
+  - user experience
+  - UI
+  - experiencia de usuario
+  - cereal
+  - UX
+  - analogía
 subtitle: Una imagen tiene menos de mil copos de cereal
-
+description: Infographic uses cereal examples to explain UX and UI design concepts.
 ---
+
 
 De parte de [Design.org](http://design.org/blog/difference-between-ux-and-ui-subtleties-explained-cereal) me llega una ingeniosa representación infográfica de Ed Lea, quién plasmó diferentes conceptos de diseño e interfaz en ejemplos visuales con un plato de cereal.
 

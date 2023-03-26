@@ -1,19 +1,19 @@
 ---
-
 title: Cálculo lambda para chicos
-date: '2012-03-01 12:59:09 +0000'
-date_gmt: '2012-03-01 17:59:09 +0000'
+date: 2012-03-01 12:59:09 +0000
+date_gmt: 2012-03-01 17:59:09 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- enseñanza
-- training
-- didáctica
-- cálculo lambda
-- ciencia de la computación
+  - enseñanza
+  - training
+  - didáctica
+  - cálculo lambda
+  - ciencia de la computación
 subtitle: Con cocodrilos y huevos
-
+description: Aprendizaje divertido de cálculo lambda con cocodrilos y huevos.
 ---
+
 
 Ayer encontré en el foro de Theoretical Computer Science una pregunta sobre [cómo aproximar la ciencia de la computación a chicos entre 8 y 14 años](http://cstheory.stackexchange.com/questions/10365/concepts-in-theoretical-cs-that-would-be-approachable-ages-8-14), muy apropiado también para alguien como yo que tiene muy poco conocimiento sólido de muchas de las estructuras y ciencias involucradas.
 

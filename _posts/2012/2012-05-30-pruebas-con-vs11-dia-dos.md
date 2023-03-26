@@ -1,23 +1,23 @@
 ---
-
 title: 'Pruebas con VS11: Día dos'
-date: '2012-05-30 16:37:08 +0000'
-date_gmt: '2012-05-30 21:37:08 +0000'
+date: 2012-05-30 16:37:08 +0000
+date_gmt: 2012-05-30 21:37:08 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- C#
-- organización
-- Visual Studio
-- código
-- complejidad
-- ".NET 4.5"
-- asíncrono
-- síncrono
+  - C#
+  - organización
+  - Visual Studio
+  - código
+  - complejidad
+  - .NET 4.5
+  - asíncrono
+  - síncrono
 subtitle: async y await
-
+description: C# 5.0 async/await simplify asynchronous code complexity, enabling innovation.
 ---
+
 
 Continuando con mi serie de posts e investigación sobre lo que VS11 ofrece ([Parte 1]({{ site.baseUrl }}{% link _posts/2012/2012-05-11-pruebas-con-vs11-dia-uno.md %})), quisiera tomar una aproximación separada. Si bien la exploración es interesante, es poco apropiada cuando uno quiere aprovechar el tiempo.
 

@@ -1,21 +1,23 @@
 ---
-
 title: Universal Principles of Design
-date: '2012-09-30 18:12:00 +0000'
-date_gmt: '2012-09-30 23:12:00 +0000'
+date: 2012-09-30 18:12:00 +0000
+date_gmt: 2012-09-30 23:12:00 +0000
 categories:
-- Books
+  - Books
 tags:
-- design
-- educación
-- interfaz
-- review
-- referencia
-- book
-- concepto
+  - design
+  - educación
+  - interfaz
+  - review
+  - referencia
+  - book
+  - concepto
 subtitles: Referencia de conceptos básicos de diseño
-
+description: >-
+  Libro de diseño general recomendable; 125 conceptos; ejemplos y estudios;
+  buena referencia para aprendizaje; 4/5 zorrinitos.
 ---
+
 
 _Universal Principles of Design_ es un libro más que recomendable sobre conceptos de diseño en general: no se limita ni al software ni al diseño de productos físicos. De hecho, ni siquiera se centra tanto en el diseño como en los conceptos que están detrás de los buenos diseños, a quienes les da la atención principal.
 

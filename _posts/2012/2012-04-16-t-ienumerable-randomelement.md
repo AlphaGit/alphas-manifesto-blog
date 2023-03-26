@@ -1,20 +1,20 @@
 ---
-
 title: T IEnumerable.RandomElement()
-date: '2012-04-16 09:56:01 +0000'
-date_gmt: '2012-04-16 14:56:01 +0000'
+date: 2012-04-16 09:56:01 +0000
+date_gmt: 2012-04-16 14:56:01 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- datos
-- testing
-- C#
-- snippet
-- unit testing
-- objeto
+  - datos
+  - testing
+  - C#
+  - snippet
+  - unit testing
+  - objeto
 subtitle: Seleccionar un elemento cualquiera de un conjunto
-
+description: Obtener objeto al azar para unit testing independiente de los datos.
 ---
+
 
 Otro de mis pequeños snippets, este es útil para unit testing.
 

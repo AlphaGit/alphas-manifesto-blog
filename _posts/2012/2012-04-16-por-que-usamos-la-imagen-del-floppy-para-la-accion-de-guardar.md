@@ -1,21 +1,22 @@
 ---
-
-title: ' ¿Por qué usamos la imagen del floppy para la acción de
-  "guardar"?'
-date: '2012-04-16 10:16:12 +0000'
-date_gmt: '2012-04-16 15:16:12 +0000'
+title: ' ¿Por qué usamos la imagen del floppy para la acción de "guardar"?'
+date: 2012-04-16 10:16:12 +0000
+date_gmt: 2012-04-16 15:16:12 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- user experience
-- diseño gráfico
-- metáfora
-- modismo
-- símbolo
-- "íconos"
+  - user experience
+  - diseño gráfico
+  - metáfora
+  - modismo
+  - símbolo
+  - íconos
 subtitle: Y ¿por qué no la cambiamos?
-
+description: >-
+  Discutir por qué usamos icono de disco floppy para guardar, modismo, nuevas
+  alternativas, problemas, inventar algo abstracto.
 ---
+
 
 Un comentario que mucho tiempo hemos visto discutido por ahí es [por qué todavía usamos la figura del floppy disk para indicar la acción de guardar](http://ux.stackexchange.com/questions/3117/save-icon-is-the-floppy-disk-icon-dead), cuando hace tiempo que estos discos se dejaron de usar. Peor aún, hay gente que ni siquiera sabe qué son.
 

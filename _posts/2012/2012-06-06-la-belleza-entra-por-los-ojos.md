@@ -1,24 +1,26 @@
 ---
-
 title: La belleza entra por los ojos
-date: '2012-06-06 09:56:17 +0000'
-date_gmt: '2012-06-06 14:56:17 +0000'
+date: 2012-06-06 09:56:17 +0000
+date_gmt: 2012-06-06 14:56:17 +0000
 categories:
-- Life
-- Projects
+  - Life
+  - Projects
 tags:
-- proyecto
-- design
-- user experience
-- propuesta
-- diseño gráfico
-- UX
-- anécdota
-- screenshot
-- MakingSense
+  - proyecto
+  - design
+  - user experience
+  - propuesta
+  - diseño gráfico
+  - UX
+  - anécdota
+  - screenshot
+  - MakingSense
 subtitle: Una historia real
-
+description: >-
+  MakingSense trabaja con un nuevo cliente, muestran UX, el CEO se impresiona,
+  convirtiendo la propuesta en proyecto.
 ---
+
 
 Una muy bonita anécdota que tenemos para contar cómo nuestro trabajo en User Experience comienza a dar sus frutos es una historia que a [César](https://twitter.com/#!/cesardonofrio) le gusta contar, específicamente por la fuerza que esta historia tiene.
 

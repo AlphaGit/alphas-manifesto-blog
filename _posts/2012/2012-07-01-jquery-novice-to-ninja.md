@@ -1,23 +1,25 @@
 ---
-
 title: jQuery Novice to Ninja
-date: '2012-07-01 23:27:13 +0000'
-date_gmt: '2012-07-02 04:27:13 +0000'
+date: 2012-07-01 23:27:13 +0000
+date_gmt: 2012-07-02 04:27:13 +0000
 categories:
-- Books
+  - Books
 tags:
-- JavaScript
-- desarrollo web
-- jQuery
-- desarrollo
-- buenas prácticas
-- review
-- código
-- book
-- práctica
+  - JavaScript
+  - desarrollo web
+  - jQuery
+  - desarrollo
+  - buenas prácticas
+  - review
+  - código
+  - book
+  - práctica
 subtitle: Manos a la obra desde lo más básico
-
+description: >-
+  Libro jQuery Novice to Ninja: buenas prácticas, teoría y práctica, progressive
+  enhancement, theming y plugins, recomendado para frontend.
 ---
+
 
 ![]({{ site.baseurl }}/assets/jqueryNoviceToNinja.jpg)
 

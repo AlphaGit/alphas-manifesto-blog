@@ -1,22 +1,24 @@
 ---
-
 title: QArt Codes
-date: '2012-04-30 09:27:56 +0000'
-date_gmt: '2012-04-30 14:27:56 +0000'
+date: 2012-04-30 09:27:56 +0000
+date_gmt: 2012-04-30 14:27:56 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Facebook
-- Imágenes
-- marketing
-- artículo
-- estándar
-- QR Code
-- formato
-- corrección de errores
+  - Facebook
+  - Imágenes
+  - marketing
+  - artículo
+  - estándar
+  - QR Code
+  - formato
+  - corrección de errores
 subtitle: Imágenes en QR Codes
-
+description: >-
+  QR codes con imagen, anécdota de empresas, funcionamiento, formato, código
+  Google, margen para lectura, Facebook, Phillips, Google Plus.
 ---
+
 
 Russ Cox publicó hace no mucho un artículo sobre lo que él denomina [QArt Codes](http://research.swtch.com/qart), que son QR Codes con una imagen en ellos.
 

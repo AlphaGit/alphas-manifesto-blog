@@ -1,23 +1,25 @@
 ---
-
 title: Barras de progreso y velocidad aparente
-date: '2012-06-21 07:42:51 +0000'
-date_gmt: '2012-06-21 12:42:51 +0000'
+date: 2012-06-21 07:42:51 +0000
+date_gmt: 2012-06-21 12:42:51 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- design
-- animación
-- interfaz
-- user experience
-- experiencia de usuario
-- UX
-- progreso
-- barra de progreso
-- indicador de progreso
+  - design
+  - animación
+  - interfaz
+  - user experience
+  - experiencia de usuario
+  - UX
+  - progreso
+  - barra de progreso
+  - indicador de progreso
 subtitle: La gran diferencia del detalle
-
+description: >-
+  Interfaces han evolucionado con indicadores de progreso, afectando la
+  velocidad percibida y jugando con la mente.
 ---
+
 
 ## Indicando progreso
 
@@ -63,7 +65,6 @@ Recuerdo haber leído que entre Windows Vista y Windows 7, este había sido uno 
 ### Evitar pausas al final
 
 La pausa final, que ocurre muy comunmente si se está haciendo un procesamiento al final de la tarea, arruina la sensación completa de velocidad que el proceso había ganado. Por supuesto, seguramente estemos en un punto en donde el usuario ya no decide cancelar la acción, pero con ella hemos logrado arruinar la sensación de un proceso rápido que el usuario sentía. Esta puede ser la diferencia entre volver a usar nuestro sistema o no en un futuro, así que cuidado.
-
 
 ---
 

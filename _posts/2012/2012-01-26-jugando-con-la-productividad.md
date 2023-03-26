@@ -1,23 +1,25 @@
 ---
-
 title: Jugando con la productividad
-date: '2012-01-26 11:50:08 +0000'
-date_gmt: '2012-01-26 16:50:08 +0000'
+date: 2012-01-26 11:50:08 +0000
+date_gmt: 2012-01-26 16:50:08 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- productividad
-- iPhone
-- work
-- tareas
-- StackExchange
-- pomodoro
-- inbox zero
-- wishlist
-- gamification
+  - productividad
+  - iPhone
+  - work
+  - tareas
+  - StackExchange
+  - pomodoro
+  - inbox zero
+  - wishlist
+  - gamification
 subtitle: Conseguí una lapicera dorada +20!
-
+description: >-
+  Gamification popular, EpicWin, Task XP, RLRPG, automatización, Inbox Zero,
+  Pomodoro, wishlist, dados, jugador.
 ---
+
 
 La gamification (...jueguización? ugh) es algo muy común y popular en estos días para aplicar a distintas actividades, y alguien en Productivity de StackExchange decidió preguntar si [existen técnicas de productividad basadas en juegos](http://productivity.stackexchange.com/questions/2397/do-game-based-methods-exist). Desafortunadamente las respuestas no son muchas y no hay demasiadas opciones, pero las pocas que hay son iluminadoras.
 
