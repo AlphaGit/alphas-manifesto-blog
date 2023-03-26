@@ -22,7 +22,6 @@ tags:
 - QA
 - project management
 subtitle: El manual de Nick Fury para coordinar equipos
-
 ---
 
 Cuando escribí _mi review de la película Avengers_ mencioné lo siguiente:

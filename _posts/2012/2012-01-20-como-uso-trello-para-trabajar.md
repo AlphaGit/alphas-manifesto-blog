@@ -1,35 +1,27 @@
 ---
+
 title: Cómo uso Trello para trabajar
-date: 2012-01-20 18:31:00 +0000
-date_gmt: 2012-01-20 23:31:00 +0000
+date: '2012-01-20 18:31:00 +0000'
+date_gmt: '2012-01-20 23:31:00 +0000'
 categories:
-  - Miscelaneous
-  - Projects
+- Miscelaneous
+- Projects
 tags:
-  - organización
-  - preguntas
-  - Trello
-  - ítems
-  - tareas
-  - tarjetas
-  - listas
-  - pizarras
-  - respuestas
+- organización
+- preguntas
+- Trello
+- "ítems"
+- tareas
+- tarjetas
+- listas
+- pizarras
+- respuestas
 subtitle: Mi guía novata a la organización
-description: >-
-  Organízate mejor con Trello: aprende cómo usar esta herramienta para mejorar
-  tu productividad, organizar tus proyectos y responder preguntas como "_¿en qué
-  estaba?_", "_¿terminaremos para hoy/mañana?_" y "_¿qué está presente en esta
-  versión?_".
-
 ---
-
 
 Hace un tiempo ya, y realmente, el día que salió, yo ya tenía una cuenta de [Trello](http://trello.com). Era simple, era bonito, era rápido, pero no veía el gran poder que tenía. Es porque, como muchas cosas, hay que saber utilizarlas.
 
 Hoy es para mi una herramienta fundamental en mi organización (personal y laboral) y me ha vuelto más productivo y ha evitado muchos de esos momentos de "_ ¿y ahora qué?_" o "_ ¿en qué estaba?_". Voy a compartirles el como para que sepan cómo lo hago yo, y espero comentarios de cómo lo hacen ustedes. Hasta que arregle los comentarios del blog, pueden responderme a [@AlphaTwi](http://twitter.com/AlphaTwi).
-
-<!--more-->
 
 ## Trello por default
 

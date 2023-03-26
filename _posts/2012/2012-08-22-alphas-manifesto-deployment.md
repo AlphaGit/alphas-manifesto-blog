@@ -16,7 +16,6 @@ tags:
 - bash
 - theme
 subtitle: Open source & automatic deployments
-
 ---
 
 Aquí hay dos noticias en realidad: Por un lado, _Alpha's Manifesto_, el theme de este blog, es ahora open source (work in progress) y por otro lado, logré configurar deployments automáticos para cuando ocurran cambios en este theme.

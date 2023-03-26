@@ -13,7 +13,6 @@ tags:
 - microformato
 - schema
 subtitle: Repositorio público de esquemas de markup
-
 ---
 
 En el punto intermedio entre estándares y SEO está [Schema.org](http://www.schema.org/), un sitio que haciendo uso de los [estándares de microdata](http://dev.w3.org/html5/md-LC/) permitiría mejorar la meta-información que un sitio está aportando, específicamente para hacerlo más apropiado a los motores de búsqueda. La página de [Getting Started](http://www.schema.org/docs/gs.html) nos da una buena idea de qué trata esto.

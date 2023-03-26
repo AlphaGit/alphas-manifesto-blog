@@ -13,7 +13,6 @@ tags:
 - unit testing
 - objeto
 subtitle: Seleccionar un elemento cualquiera de un conjunto
-
 ---
 
 Otro de mis pequeños snippets, este es útil para unit testing.

@@ -21,7 +21,6 @@ tags:
 - bandwidth
 - dominio
 subtitle: La razón detrás de las URLs raras...
-
 ---
 
 Sabemos que el nombre no es más que un nombre y que no importa cuál sea el servidor actual en donde se están alojando los datos, pero parecería que es una práctica común de muchos sitios grandes (léase: Facebook, Twitter, Google, etc.) hacer referencia a muchos de sus recursos en dominios externos. Por ejemplo, las imágenes de Facebook se encuentran alojadas debajo de _http://static.ak.fbcdn.net/_ y no debajo de _http://www.facebook.com/_, ni siquiera debajo de _http://imgs.facebook.com/_.  ¿Por qué?

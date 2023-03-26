@@ -19,7 +19,6 @@ tags:
 - patterns
 - software engineering
 subtitle: Una librería de referencias de patrones de usabilidad
-
 ---
 
 ![]({{ site.baseurl }}/assets/web-application-design-patterns.jpg)
