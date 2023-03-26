@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Tareas para publicar un website'
-date: '2010-11-24 11:23:01 +0000'
-date_gmt: '2010-11-24 13:23:01 +0000'
+date: 2010-11-24 11:23:01 +0000
+date_gmt: 2010-11-24 13:23:01 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- desarrollo web
-- user testing
-- publicación
-- cheatsheet
+  - desarrollo web
+  - user testing
+  - publicación
+  - cheatsheet
+description: >-
+  Publicar website: checklist para tareas, consistencia, ortografía, imágenes,
+  seguridad, linkeo.
 ---
+
 
 Muchos de los que estamos en el ámbito sabemos qué cosas hay que hacer para publicar un website. Más allá de las tareas de desarrollarlo, hay un montón de detalles extras a tener en cuenta en el momento de la publicación. Hablo de cosas como verificar la consistencia de los textos, verificar que no queden textos de prueba, verificar la ortografía, verificar que tenemos el uso correcto de las imágenes, testeos de seguridad, correcto linkeo de páginas... ese tipo de cosas.
 

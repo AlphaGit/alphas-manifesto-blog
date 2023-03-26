@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Recursivi(recursivi(recursivi.dad)dad)dad'
-date: '2010-07-07 14:13:37 +0000'
-date_gmt: '2010-07-07 16:13:37 +0000'
+date: 2010-07-07 14:13:37 +0000
+date_gmt: 2010-07-07 16:13:37 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- matemática
-- blog
-- creatividad
-- recursividad
-- programming
+  - matemática
+  - blog
+  - creatividad
+  - recursividad
+  - programming
+description: >-
+  Recursividad: concepto, matemáticas, programación, conceptual, Zip Files, Russ
+  Cox, autorreferencial, auto-generación, código fuente, zorrinito.
 ---
+
 
 Probablemente conozcamos ya el concepto de recursividad. Si no lo conocen, para entenderlo van a tener que entender el concepto de recursividad. =P
 

@@ -1,21 +1,24 @@
 ---
-
 title: 'Link del día: Máquinas virtuales en la web'
-date: '2010-07-21 12:05:17 +0000'
-date_gmt: '2010-07-21 14:05:17 +0000'
+date: 2010-07-21 12:05:17 +0000
+date_gmt: 2010-07-21 14:05:17 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- proyecto
-- virtualización
-- máquina virtual
-- testing
-- web application
-- seguridad
-- educación
-- enseñanza
+  - proyecto
+  - virtualización
+  - máquina virtual
+  - testing
+  - web application
+  - seguridad
+  - educación
+  - enseñanza
+description: >-
+  Peteris Krumins anuncia StackVM para virtualizar entornos web, demostrar,
+  enseñar, testear y probar software.
 ---
+
 
 Hace pocas horas Peteris Krumins ([@pkrumins](http://www.twitter.com/pkrumins)) anunció que en poco tiempo estará saliendo al público su nuevo proyecto con [James Halliday](http://substack.net/).
 

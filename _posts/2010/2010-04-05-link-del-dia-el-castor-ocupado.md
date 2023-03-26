@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: El castor ocupado'
-date: '2010-04-05 12:20:14 +0000'
-date_gmt: '2010-04-05 14:20:14 +0000'
+date: 2010-04-05 12:20:14 +0000
+date_gmt: 2010-04-05 14:20:14 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- simulación
-- Youtube
-- teoría de la información
-- algoritmo
+  - simulación
+  - Youtube
+  - teoría de la información
+  - algoritmo
+description: >-
+  Máquina de Turing, alfabeto, estados, Castor Ocupado, algoritmo, computación,
+  teoría, artística, video, imagen.
 ---
+
 
 Para quién no lo sabe, una Máquina de Turing es una máquina conceptual que consta de una "cabeza" sobre una "cinta" que puede moverse a izquierda o derecha, y leer o escribir. Se supone que con esas cuatro operaciones básicas, la máquina conceptual de Turing es capaz de realizar cualquier algoritmo computable existente. Sí, desde sumar dos números hasta calcular los dígitos de &pi;. Desde revertir una cadena de texto hasta ser un servidor web (aunque lo veo como poco eficiente para eso). Para diagramar los algoritmos que ejecutan, se utilizan _estados_ sobre los pasos que están ejecutando, y lo que se puede leer o escribir trata de un _alfabeto_ en particular (es decir, algún conjunto de símbolos que se le llama _alfabeto_ de esa máquina).
 

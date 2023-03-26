@@ -1,18 +1,21 @@
 ---
-
 title: 'Link of the day: Mouse trace your visitors'
-date: '2010-11-05 13:29:53 +0000'
-date_gmt: '2010-11-05 15:29:53 +0000'
+date: 2010-11-05 13:29:53 +0000
+date_gmt: 2010-11-05 15:29:53 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- testing
-- usabilidad
-- web 2.0
-- experiencia del usuario
-- user experience
-- user testing
+  - testing
+  - usabilidad
+  - web 2.0
+  - experiencia del usuario
+  - user experience
+  - user testing
+description: >-
+  Tool tracks user mouse movements to improve website layout. Haven't tried it
+  yet, share experiences.
 ---
+
 
 We've already presented some tools ([[1]]({{ site.baseUrl }}{% link _posts/2010/2010-10-04-link-del-dia-que-recuerdan-los-usuarios-de-tu-sitio.md %}), [[2]]({{ site.baseUrl }}{% link _posts/2010/2010-01-29-link-del-dia-testeo-de-usabilidad.md %}), _[3]_) that allows you to easily have some feedback of what the users do at your site or web application, or how do you need to improve it to make it better for their user experience.
 

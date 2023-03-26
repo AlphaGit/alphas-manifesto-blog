@@ -1,14 +1,17 @@
 ---
-
 title: 'Link of the Day: How to effectively take notes in a meeting / course'
-date: '2010-02-12 11:24:39 +0000'
-date_gmt: '2010-02-12 13:24:39 +0000'
+date: 2010-02-12 11:24:39 +0000
+date_gmt: 2010-02-12 13:24:39 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- capacitación
-- habilidades
+  - capacitación
+  - habilidades
+description: >-
+  Improve note taking techniques, Lifehacker article, capture details, public
+  speaking, study, skunk analogy.
 ---
+
 
 I found this article at [LifeHacker](http://lifehacker.com/) (which does have lots of interesting articles about technology and life-improving techniques) called [Geek to Live: Take great notes - Capture Tools](http://lifehacker.com/167307/geek-to-live--take-great-notes), and, as simple as it gets on the advices that it gives, it is amazingly interesting to share and to start working on.
 

@@ -1,22 +1,23 @@
 ---
-
 title: 'Link del día: Consejitos jQuery, MySQL, AJAX y PHP'
-date: '2010-05-31 11:18:14 +0000'
-date_gmt: '2010-05-31 13:18:14 +0000'
+date: 2010-05-31 11:18:14 +0000
+date_gmt: 2010-05-31 13:18:14 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- digg
-- web application
-- Twitter
-- Facebook
-- desarrollo web
-- jQuery
-- MySQL
-- PHP
-- desarrollo
-- AJAX
+  - digg
+  - web application
+  - Twitter
+  - Facebook
+  - desarrollo web
+  - jQuery
+  - MySQL
+  - PHP
+  - desarrollo
+  - AJAX
+description: Buscar ejemplos de aplicaciones web con jQuery, MySQL, AJAX y PHP.
 ---
+
 
 Sabemos que los cuatro componentes mencionados (jQuery, MySQL, AJAX y PHP) deben de ser unos de los más comunes para generar aplicaciones web. Cada uno tiene una gran variedad de tutoriales o aproximaciones, podemos buscar y encontrar manuales, libros, ejemplos en abundancia.
 

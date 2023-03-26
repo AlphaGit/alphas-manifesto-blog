@@ -1,20 +1,24 @@
 ---
-
 title: 'Link del día: Academia Virtual de Microsoft'
-date: '2010-01-26 10:56:17 +0000'
-date_gmt: '2010-01-26 12:56:17 +0000'
+date: 2010-01-26 10:56:17 +0000
+date_gmt: 2010-01-26 12:56:17 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- internet
-- capacitación
-- desarrollo web
-- Microsoft
-- desarrollo móvil
-- desarrollo Windows
-- Technology
-- Sun
+  - internet
+  - capacitación
+  - desarrollo web
+  - Microsoft
+  - desarrollo móvil
+  - desarrollo Windows
+  - Technology
+  - Sun
+description: >-
+  Cursos gratuitos, profesionales, Microsoft Virtual Academy, TechNet, Live ID,
+  Desarrollador 5 Estrellas, Sun Learning Connection, Academic Earth, Free
+  Lectures, zorrinito alumno.
 ---
+
 
 Todos saben lo mucho que me apasiona poder encontrar lugares online en donde se den cursos gratuitos de forma medianamente seria, con profesionales que sepan del tema que hablan, y a veces hasta con exámenes que permitan evaluar y certificar que uno sabe lo que estudió. Mi primera aproximación a uno de estos fue con el programa [Desarrollador 5 Estrellas de Microsoft](http://www.mslatam.com/latam/msdn/comunidad/dce2005/) (del cual todavía estoy debiendo un par de exámenes), y luego [Sun Learning Connection](https://sunlearningconnection.skillport.com/) (el cual vi muy completo pero nunca tuve tiempo suficiente de hacer cursos). Ahora me encuentro con otro más, aparte de la cantidad de links que ya he provisto antes, como el proyecto de _Academic Earth_, o la compilación de _Free Lectures_, pero no es el caso de ellos.
 

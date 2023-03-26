@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Escribir JavaScript, al estilo Google'
-date: '2010-09-08 16:02:31 +0000'
-date_gmt: '2010-09-08 18:02:31 +0000'
+date: 2010-09-08 16:02:31 +0000
+date_gmt: 2010-09-08 18:02:31 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- Google
-- JavaScript
-- web 2.0
-- coding
+  - Google
+  - JavaScript
+  - web 2.0
+  - coding
+description: >-
+  Google publica manual de estilo JavaScript; información sobre variables,
+  clausuras y memory leaks.
 ---
+
 
 Dejando de lado a [Google Closure]({{ site.baseUrl }}{% link _posts/2009/2009-12-16-link-del-dia-google-closure.md %}), una herramienta de la que hablamos hace tiempo, hay algo que a muchos otros nos interesa al momento de programar: la forma en la que el código _se ve_. Por supuesto, más allá de ese extraño gusto por un código artísticamente elaborado, hay ciertas líneas que podemos seguir para que no sólo sea más bonito, sino más fácil de leer, interpretar y más eficaz.
 

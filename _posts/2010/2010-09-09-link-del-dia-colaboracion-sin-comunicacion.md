@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: Colaboración sin comunicación'
-date: '2010-09-09 14:56:54 +0000'
-date_gmt: '2010-09-09 16:56:54 +0000'
+date: 2010-09-09 14:56:54 +0000
+date_gmt: 2010-09-09 16:56:54 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- cloud computing
-- Juegos
-- MicroSiervos
-- colaboración
-- computación distribuída
-- juego
+  - cloud computing
+  - Juegos
+  - MicroSiervos
+  - colaboración
+  - computación distribuída
+  - juego
+description: >-
+  Juego de coordinación para formar figuras, pocas opciones para comunicarse,
+  premia la colaboración, Twitter para noticias.
 ---
+
 
 En [Juegos.MicroSiervos](http://juegos.microsiervos.com/misc/swarmation-dibujando-pixeles.html) publicaron un pequeño artículo sobre un juego llamado [SwarmNation](http://swarmation.com/). El juego es realmente simple, pero no por eso fácil. Dejenmé describirlo:
 

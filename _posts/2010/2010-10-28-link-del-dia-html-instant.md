@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: HTML Instant'
-date: '2010-10-28 16:30:56 +0000'
-date_gmt: '2010-10-28 18:30:56 +0000'
+date: 2010-10-28 16:30:56 +0000
+date_gmt: 2010-10-28 18:30:56 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- HTML
-- CSS
-- desarrollo web
+  - JavaScript
+  - HTML
+  - CSS
+  - desarrollo web
+description: >-
+  Aplicación web HTML Instant para maquetar HTML, CSS y JavaScript con
+  resultados instantáneos.
 ---
+
 
 Gracias a la gente de [BreakingDev](http://twitter.com/BreakingDev) me enteré de una aplicación web llamada [HTML Instant](http://www.htmlinstant.com/), en donde podemos comenzar a maquetear HTML instantáneo, viendo los resultados ahí mismo en donde estamos trabajando.
 

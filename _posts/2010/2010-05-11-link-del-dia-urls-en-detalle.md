@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: URLs en detalle'
-date: '2010-05-11 11:17:07 +0000'
-date_gmt: '2010-05-11 13:17:07 +0000'
+date: 2010-05-11 11:17:07 +0000
+date_gmt: 2010-05-11 13:17:07 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- desarrollo web
-- standard
-- web semántica
-- SEO
+  - desarrollo web
+  - standard
+  - web semántica
+  - SEO
+description: >-
+  URLs, RFC 2396, Alan Skorkin, Path Parameters, SEO, user-friendliness, web,
+  aprender, conceptos, compartir.
 ---
+
 
 Las URLs son un elemento que usamos en nuestro día a día, más seguramente si trabajamos o estudiamos en algo relacionado a la informática. URLs para sitios web, URLs para aplicaciones 2.0, URLs para web services, URLs para todo. Y sin embargo, es posible que usándolos tanto, aún no sepamos cómo se componen en detalle.
 

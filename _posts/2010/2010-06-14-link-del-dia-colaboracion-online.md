@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Colaboración online'
-date: '2010-06-14 10:41:35 +0000'
-date_gmt: '2010-06-14 12:41:35 +0000'
+date: 2010-06-14 10:41:35 +0000
+date_gmt: 2010-06-14 12:41:35 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- cloud computing
-- iPhone
-- herramientas
-- colaboración
+  - cloud computing
+  - iPhone
+  - herramientas
+  - colaboración
+description: >-
+  Colaboración online con HyveWorks, Kenai, Kohive, flexibilidad, crear
+  perfíles, navegadores, Growl, iPhone, uso y experiencia.
 ---
+
 
 Hemos venido escuchando hace tiempo la idea de colaboración online, con distintas aplicaciones de distinta índole y orientadas a distinto tipo de usuarios.
 

@@ -1,16 +1,19 @@
 ---
-
 title: 'Link of the day: Face detection code'
-date: '2010-12-10 11:34:26 +0000'
-date_gmt: '2010-12-10 13:34:26 +0000'
+date: 2010-12-10 11:34:26 +0000
+date_gmt: 2010-12-10 13:34:26 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- blog
-- Imágenes
-- open source
-- procesamiento de imágenes
+  - blog
+  - Imágenes
+  - open source
+  - procesamiento de imágenes
+description: >-
+  Face recognition technology, OpenCV library, image processing, different
+  languages, Tukiun blog post, simple, ported, suitable, recognized, skunk.
 ---
+
 
 Well, face recognitions systems are not actually the last thing in technology, but still may be something new for us who couldn't have a grasp of it and try it out in our own code. Of course, maybe we're not fancy enough to come up with an algorithm out of ourselves and may just have ideas to use it, not to develop it.
 

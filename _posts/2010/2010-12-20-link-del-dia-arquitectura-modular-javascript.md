@@ -1,19 +1,22 @@
 ---
-
 title: 'Link del día: Arquitectura Modular JavaScript'
-date: '2010-12-20 12:00:10 +0000'
-date_gmt: '2010-12-20 14:00:10 +0000'
+date: 2010-12-20 12:00:10 +0000
+date_gmt: 2010-12-20 14:00:10 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- Twitter
-- desarrollo web
-- arquitectura
-- design
-- presentación
-- modular
+  - JavaScript
+  - Twitter
+  - desarrollo web
+  - arquitectura
+  - design
+  - presentación
+  - modular
+description: >-
+  Nicholas Zakas presenta arquitectura modular extensible para desarrollo web,
+  ejemplificada con Twitter.
 ---
+
 
 Gracias a JH me llega esta interesantísima presentación sobre un ámbito algo descuidado por lo general del desarrollo web: la parte programática de la interfaz. En esta presentación llamada [Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture), [Nicholas Zakas](http://www.nczonline.net/) nos presenta una arquitectura modular extensible, en donde cada módulo independiente solamente conoce el sandbox en el cual interactúa, aislado de todos los demás módulos, y sin  siquiera conocer cómo es la aplicación web en la que está funcionando.
 

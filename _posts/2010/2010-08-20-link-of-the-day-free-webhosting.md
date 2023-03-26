@@ -1,14 +1,15 @@
 ---
-
 title: 'Link of the day: Free webhosting'
-date: '2010-08-20 15:03:27 +0000'
-date_gmt: '2010-08-20 17:03:27 +0000'
+date: 2010-08-20 15:03:27 +0000
+date_gmt: 2010-08-20 17:03:27 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- gratis
-- hosting
+  - gratis
+  - hosting
+description: Searchable index for free web hosting services and upgrades.
 ---
+
 
 Yeah, yeah, I know that there are plenty of different web hosters that offers great deals for free. But, wouldn't you like to have some kind of search between them, so you can choose the one that goes best according to your preferences?
 

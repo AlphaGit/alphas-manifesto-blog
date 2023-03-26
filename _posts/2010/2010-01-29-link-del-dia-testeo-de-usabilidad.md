@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: Testeo de usabilidad'
-date: '2010-01-29 11:59:01 +0000'
-date_gmt: '2010-01-29 13:59:01 +0000'
+date: 2010-01-29 11:59:01 +0000
+date_gmt: 2010-01-29 13:59:01 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- internet
-- testing
-- web application
-- desarrollo web
-- usabilidad
+  - internet
+  - testing
+  - web application
+  - desarrollo web
+  - usabilidad
+description: >-
+  Usabilidad, testing, Usabilla, competidores, intuitiva, resultados, planes,
+  consignas, visualizar, Loop11.
 ---
+
 
 Muchas veces la usabilidad de un sistema es un requerimiento tan primordial como el funcionamiento en sí, y más en un mundo como puede ser el mundo web, en donde tenemos miles de competidores para servicios similares que podemos estar ofreciendo online. Quien publica primero tiene la ventaja, pero quien hace el servicio lo más fácil de usar y de forma más cómoda e intuitiva es quien logra hacer la diferencia.
 

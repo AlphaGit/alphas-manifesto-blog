@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: JavaScript IDE para iPhone'
-date: '2010-11-09 12:22:00 +0000'
-date_gmt: '2010-11-09 14:22:00 +0000'
+date: 2010-11-09 12:22:00 +0000
+date_gmt: 2010-11-09 14:22:00 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- desarrollo web
-- desarrollo móvil
-- desarrollo iPhone
-- iPhone
+  - JavaScript
+  - desarrollo web
+  - desarrollo móvil
+  - desarrollo iPhone
+  - iPhone
+description: >-
+  Pequeño IDE para JavaScript en iPhone, autocompleta palabras clave, notifica
+  errores, adaptado a dispositivo, productivo, novedoso, demuestra capacidades.
 ---
+
 
 De parte de un pequeño artículo de [web.desktop.life](http://webdesktoplife.com/post/1358032790/a-javascript-ide-for-the-iphone) me enteré de un pequeño proyecto llamado [jscoder](http://files.stefanlh.de/public/jscoder/), el cual es un pequeño IDE (no tan pequeño si lo vemos desde el iPhone) en donde podemos codificar JavaScript y ejecutarlo allí mismo. Por si fuera poco, también disponemos de la función de autocompletar código, por ahora solo palabras clave, pero en el futuro también habrán snippets de código para utilizar.
 

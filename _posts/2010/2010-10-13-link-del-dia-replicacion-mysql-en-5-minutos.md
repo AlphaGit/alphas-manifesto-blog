@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Replicación MySQL en 5 minutos'
-date: '2010-10-13 11:19:22 +0000'
-date_gmt: '2010-10-13 13:19:22 +0000'
+date: 2010-10-13 11:19:22 +0000
+date_gmt: 2010-10-13 13:19:22 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- bases de datos
-- MySQL
-- desarrollo
-- artículo
-- replicación
+  - bases de datos
+  - MySQL
+  - desarrollo
+  - artículo
+  - replicación
+description: >-
+  Sigue artículo para configurar replicación MySQL en 5 minutos, incluye manual
+  oficial para customización.
 ---
+
 
 Gracias al [Twitter de @BreakingDev](http://twitter.com/BreakingDev) me topé con un artículo muy interesante llamado [Get MySQL Replication up and running in 5 minutes](http://www.clusterdb.com/mysql-cluster/get-mysql-replication-up-and-running-in-5-minutes/). Creo que es realmente útil para novatos como yo en estos asuntos, ya que recuerdo mis pobres intentos de trabajar con replicación MySQL y pasar horas y horas intentando hacerlo trabajar, basándome en unas instrucciones mágicas que alguien que lo comprendía me pasó y yo solo las seguía ciegamente.
 

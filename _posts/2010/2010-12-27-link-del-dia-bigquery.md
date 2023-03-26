@@ -1,20 +1,23 @@
 ---
-
 title: 'Link del día: BigQuery'
-date: '2010-12-27 13:19:29 +0000'
-date_gmt: '2010-12-27 15:19:29 +0000'
+date: 2010-12-27 13:19:29 +0000
+date_gmt: 2010-12-27 15:19:29 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- datos
-- Google
-- bases de datos
-- JSON
-- datamining
-- SQL
-- CSV
-- API
+  - datos
+  - Google
+  - bases de datos
+  - JSON
+  - datamining
+  - SQL
+  - CSV
+  - API
+description: >-
+  Google Labs BigQuery proporciona tratamiento de grandes datos parecido a SQL,
+  con API y futuro potencial para datamining.
 ---
+
 
 Gracias a [un tweet de Woork](http://twitter.com/Woork/status/12499624166162432) me enteré de un proyecto que actualmente forma parte de [Google Labs](https://code.google.com/labs/) llamado [BigQuery](https://code.google.com/apis/bigquery/).
 

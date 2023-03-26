@@ -1,17 +1,20 @@
 ---
-
 title: 'Link of the day: Open Source Project Management'
-date: '2010-05-07 11:25:46 +0000'
-date_gmt: '2010-05-07 13:25:46 +0000'
+date: 2010-05-07 11:25:46 +0000
+date_gmt: 2010-05-07 13:25:46 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- proyecto
-- bugs
-- open source
-- PHP
-- administración
+  - proyecto
+  - bugs
+  - open source
+  - PHP
+  - administración
+description: >-
+  Searching for free issue tracking service, found Flyspray and Wikipedia
+  comparison pages, reviews of project management software.
 ---
+
 
 I spend the first days of this week searching for a good issue tracker with hosted services. Unfortunately, I couldn't find any that wasn't paid, or that didn't force you to share your code with everyone and/or upload the code as well. I ended up using [Flyspray](http://flyspray.org/), a PHP-based issue tracker, even when I would have preferred another options (like [Bugzilla](http://www.bugzilla.org/) or [Trac](http://trac.edgewall.org/)).
 

@@ -1,16 +1,19 @@
 ---
-
 title: 'Link of the Day: Liberate your data!'
-date: '2010-03-05 11:26:24 +0000'
-date_gmt: '2010-03-05 13:26:24 +0000'
+date: 2010-03-05 11:26:24 +0000
+date_gmt: 2010-03-05 13:26:24 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- datos
-- privacidad
-- Google
-- Microsoft
+  - datos
+  - privacidad
+  - Google
+  - Microsoft
+description: >-
+  Google Data Liberation Front enables users to access and control stored data
+  in Google products.
 ---
+
 
 I know that Google has products for everything, and they're still creating new things, making more and more enemies in different business. Besides that, we have the user's data concern: what about privacy? What about having other options? What happens to our Google data?
 

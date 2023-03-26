@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día:  ¿Cómo trabajar con distracciones?'
-date: '2010-08-19 11:54:10 +0000'
-date_gmt: '2010-08-19 13:54:10 +0000'
+date: 2010-08-19 11:54:10 +0000
+date_gmt: 2010-08-19 13:54:10 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- ciencia
-- blog
-- productividad
-- video
-- educación
-- inteligencia artificial
+  - ciencia
+  - blog
+  - productividad
+  - video
+  - educación
+  - inteligencia artificial
+description: >-
+  Distracciones necesarias, Readquisición de contexto, Microsoft herramienta
+  facilitar proceso.
 ---
+
 
 Un post muy interesante titulado [Rethinking interruptions](http://www.johndcook.com/blog/2008/02/04/rethinking-interruptions/), de [John D. Cook](http://www.johndcook.com/), habla de cómo las distracciones no son intrínsecamente malas para el trabajo, sino que, al contrario, en cierta forma son totalmente necesarias e imprescindibles para la solución de problemas. Sin embargo,  ¿hasta qué punto se pueden mantener estas sin que afecten negativamente el trabajo?
 

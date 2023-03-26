@@ -1,21 +1,24 @@
 ---
-
 title: 'Link del día: NoSQL'
-date: '2010-03-02 11:38:44 +0000'
-date_gmt: '2010-03-02 13:38:44 +0000'
+date: 2010-03-02 11:38:44 +0000
+date_gmt: 2010-03-02 13:38:44 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- proyecto
-- Google
-- Twitter
-- Facebook
-- cloud computing
-- MySQL
-- SQL
-- databases
+  - proyecto
+  - Google
+  - Twitter
+  - Facebook
+  - cloud computing
+  - MySQL
+  - SQL
+  - databases
+description: >-
+  Twitter migrando a NoSQL, escalabilidad, Cassandra (Facebook/Google), NoSQL
+  Wikipedia artículo.
 ---
+
 
 Gracias a DG quien me compartió [este artículo](http://bitelia.com/2010/03/twitter-cambia-paradigma-mysql-nosql) en Google Reader, me enteré que Twitter va a estar migrando sus servidores de datos desde un modelo relacional (que en este caso se trata de MySQL) a un modelo no relacional, en este caso, un family-value non-relational database management system (digan eso cinco veces, bien rápido).
 

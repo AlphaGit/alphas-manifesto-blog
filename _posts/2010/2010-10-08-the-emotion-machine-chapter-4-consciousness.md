@@ -1,16 +1,20 @@
 ---
-
 title: 'The Emotion Machine - Chapter 4: Consciousness'
-date: '2010-10-08 14:51:12 +0000'
-date_gmt: '2010-10-08 16:51:12 +0000'
+date: 2010-10-08 14:51:12 +0000
+date_gmt: 2010-10-08 16:51:12 +0000
 categories:
-- Books
+  - Books
 tags:
-- modelo
-- ciencias cognitivas
-- conciencia
-- book
+  - modelo
+  - ciencias cognitivas
+  - conciencia
+  - book
+description: >-
+  Minsky proposes consciousness is interaction of resources, self-reflection,
+  six levels of inner-brains, memory, serial processes, symbolic descriptions,
+  and self-models.
 ---
+
 
 Going on with my reading of [Minsky's book]({{ site.baseUrl }}{% link _posts/2009/2009-09-20-the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering.md %}), chapter 4 is titled "Consciousness" and it definitely treats about that.
 

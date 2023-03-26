@@ -1,16 +1,17 @@
 ---
-
 title: 'Link del día: Patrones de pantallas'
-date: '2010-09-07 15:34:37 +0000'
-date_gmt: '2010-09-07 17:34:37 +0000'
+date: 2010-09-07 15:34:37 +0000
+date_gmt: 2010-09-07 17:34:37 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- usabilidad
-- design
-- web 2.0
-- interfaz
+  - usabilidad
+  - design
+  - web 2.0
+  - interfaz
+description: Colección de patrones de pantallas para mejorar experiencia usuario-máquina.
 ---
+
 
 En un artículo de [Added Bytes](http://www.addedbytes.com/blog/a-collection-of-screen-patterns/) me encontré linkeado esta colección de patrones de pantallas, llamada [12 Standard Screen Patterns](http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns), del blog de [Designing Web Interfaces](http://designingwebinterfaces.com/). Esta gente se dedica a postear información muy interesante sobre cómo hacer más fácil e intuitiva, a la vez de innovadora, la experiencia usuario-máquina a través de distintas visualizaciones, herramientas, técnicas y aproximaciones.
 

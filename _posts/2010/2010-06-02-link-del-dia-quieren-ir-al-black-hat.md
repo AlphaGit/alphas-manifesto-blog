@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Quieren ir al Black Hat?'
-date: '2010-06-02 10:57:17 +0000'
-date_gmt: '2010-06-02 12:57:17 +0000'
+date: 2010-06-02 10:57:17 +0000
+date_gmt: 2010-06-02 12:57:17 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- hacking
-- seguridad
-- educación
-- concurso
+  - hacking
+  - seguridad
+  - educación
+  - concurso
+description: >-
+  Participa en el concurso HSIYF#2 por caridad, gana ticket gratuito BlackHat
+  Vegas.
 ---
+
 
 Esta noticia llegó a mí gracias a un tweet de [@offsectraining](http://twitter.com/offsectraining), el usuario de Twitter de [Offensive Security](http://www.offensive-security.com/), que decía: "Quieren ganar un ticket gratuito de BlackHat a las Vegas? Vengan y hackeen por caridad!".
 

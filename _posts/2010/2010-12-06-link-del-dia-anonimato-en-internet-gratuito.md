@@ -1,19 +1,22 @@
 ---
-
 title: 'Link del día: Anonimato en internet gratuito'
-date: '2010-12-06 11:10:04 +0000'
-date_gmt: '2010-12-06 13:10:04 +0000'
+date: 2010-12-06 11:10:04 +0000
+date_gmt: 2010-12-06 13:10:04 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- anonimidad
-- privacidad
-- cloud computing
-- seguridad
-- artículo
-- SSH
+  - anonimidad
+  - privacidad
+  - cloud computing
+  - seguridad
+  - artículo
+  - SSH
+description: >-
+  Anonimato en internet gratis por un año con VPS de Amazon, SSH, Cloud
+  Computing y sin ISP.
 ---
+
 
 Estaba leyendo algunas cosas cuando caí en el artículo de [HackTimes](http://www.hacktimes.com/) sobre [Anonimato en internet gratis durante un año](http://www.hacktimes.com/anonimato_en_internet_gratis_durante_1_a_o), y tras leer de qué se trataba, realmente me pareció muy interesante. Lo explicaré en pocas palabras.
 

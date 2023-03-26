@@ -1,17 +1,20 @@
 ---
-
 title: 'Link del día: Validación Unicorn'
-date: '2010-08-03 14:01:12 +0000'
-date_gmt: '2010-08-03 16:01:12 +0000'
+date: 2010-08-03 14:01:12 +0000
+date_gmt: 2010-08-03 16:01:12 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- HTML
-- CSS
-- RSS
-- standard
-- W3C
+  - HTML
+  - CSS
+  - RSS
+  - standard
+  - W3C
+description: >-
+  Programadores web checkean markups con W3c, ahora con herramienta "Unicorn".
+  User-friendly, acercarse a estándares web.
 ---
+
 
 Hace ya mucho tiempo que los programadores web checkean sus markups con la [herramienta de validación HTML de W3c](http://validator.w3.org/), sus estilos con el [validador CSS de W3c](http://jigsaw.w3.org/css-validator/), sus sitios móbiles con dicho [servicio de W3C](http://validator.w3.org/mobile/) y también el [validador de feeds](http://validator.w3.org/feed/). Gracias a [un tweet de jmma](http://twitter.com/jmma/status/19757726670), me enteré que ahora W3C dispone de un servicio completo para verificar todo esto al mismo tiempo, llamado [Unicorn](http://validator.w3.org/unicorn/).
 

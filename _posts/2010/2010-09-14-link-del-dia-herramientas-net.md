@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: Herramientas .NET'
-date: '2010-09-14 11:12:42 +0000'
-date_gmt: '2010-09-14 13:12:42 +0000'
+date: 2010-09-14 11:12:42 +0000
+date_gmt: 2010-09-14 13:12:42 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- ".NET"
-- LINQ
-- SQL
-- Visual Studio
-- IDE
-- infografía
+  - .NET
+  - LINQ
+  - SQL
+  - Visual Studio
+  - IDE
+  - infografía
+description: >-
+  Microsoft .NET Framework Tools, Visual Studio, Assembly Binding Log Viewer,
+  SqlMetal, GacUtil, Hanna Barbera characters.
 ---
+
 
 Buscando una herramienta en específica me di cuenta que Microsoft dispone de una sección para todas las herramientas extras para .NET, llamada [.NET Framework Tools](http://msdn.microsoft.com/en-us/library/d9kh6s92.aspx). Me pareció que había muchas cosas interesantes para los que trabajamos en ese entorno.
 

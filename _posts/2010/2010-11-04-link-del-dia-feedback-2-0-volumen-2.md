@@ -1,18 +1,22 @@
 ---
-
 title: 'Link del día: Feedback 2.0, volumen 2'
-date: '2010-11-04 11:45:24 +0000'
-date_gmt: '2010-11-04 13:45:24 +0000'
+date: 2010-11-04 11:45:24 +0000
+date_gmt: 2010-11-04 13:45:24 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- web application
-- redes sociales
-- feedback
-- web 2.0
-- experiencia del usuario
-- user experience
+  - web application
+  - redes sociales
+  - feedback
+  - web 2.0
+  - experiencia del usuario
+  - user experience
+description: >-
+  Obtener feedback usuario, reportar problemas, login con redes sociales,
+  feedback, respuestas, cuenta usuarios afectados, interfaz novedosa, Wheel of
+  Satisfaction, éxito empresas.
 ---
+
 
 Alguna vez hablamos de [dos sistemas (Uservoice y Votebox)]({{ site.baseUrl }}{% link _posts/2010/2010-09-13-link-del-dia-feedback-2-0.md %}) que nos permitían obtener información de parte del usuario como ideas o propuestas para continuar con el desarrollo de nuestro sistema y entender sus necesidades. Sin embargo, quizá no sea del todo buena idea utilizar estos mismos para el reporte de problemas o para un feedback algo negativo sobre lo que los usuarios están encontrando. Ese tipo de cosas que _"son como no deberían ser"_.
 

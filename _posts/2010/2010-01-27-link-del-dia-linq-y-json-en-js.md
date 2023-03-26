@@ -1,20 +1,21 @@
 ---
-
 title: 'Link del día: LINQ y JSON en JS'
-date: '2010-01-27 17:31:20 +0000'
-date_gmt: '2010-01-27 19:31:20 +0000'
+date: 2010-01-27 17:31:20 +0000
+date_gmt: 2010-01-27 19:31:20 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- internet
-- proyecto
-- JavaScript
-- C#
-- desarrollo web
-- Microsoft
-- LINQ
-- JSON
+  - internet
+  - proyecto
+  - JavaScript
+  - C#
+  - desarrollo web
+  - Microsoft
+  - LINQ
+  - JSON
+description: LINQ aplicado a JavaScript para procesamiento de datos.
 ---
+
 
 Aquellos que trabajamos en C# y hemos jugueteado un poco con el lenguaje de LINQ sabemos lo interesante que es poder fácilmente trabajar con datos. Hacer una búsqueda por algún campo de un array antes podía ser algo tan trabajoso como recorrer uno por uno, poner en una lista nueva los que cumplían con este criterio, luego utilizar la nueva lista y volver a filtrar si es que lo necesitamos. Ni hablar de trabajar con dos o más listas al mismo tiempo. Sin embargo, LINQ nos permitió realizar trabajos como ese en códigos de una línea como lista.Where(condicion).Select(campo).
 

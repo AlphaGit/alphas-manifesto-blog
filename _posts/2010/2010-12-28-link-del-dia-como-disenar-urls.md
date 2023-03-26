@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Cómo diseñar URLs'
-date: '2010-12-28 11:52:10 +0000'
-date_gmt: '2010-12-28 13:52:10 +0000'
+date: 2010-12-28 11:52:10 +0000
+date_gmt: 2010-12-28 13:52:10 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- web application
-- desarrollo web
-- URL
-- planificación
+  - web application
+  - desarrollo web
+  - URL
+  - planificación
+description: >-
+  Diseño de URLs, jerarquías, HTML5, recordable, representativo, conflictos,
+  futuro, pregunta, respuestas, curiosas.
 ---
+
 
 El diseño de URLs es lo que primero se ve de una aplicación web. Es prácticamente nuestro punto de entrada a la misma, y de alguna forma nuestro mapa mental del sitio fuera del sitio.
 

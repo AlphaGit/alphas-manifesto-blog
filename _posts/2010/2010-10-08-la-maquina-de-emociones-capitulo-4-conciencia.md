@@ -1,16 +1,19 @@
 ---
-
 title: 'La máquina de emociones - Capítulo 4: Conciencia'
-date: '2010-10-08 14:51:15 +0000'
-date_gmt: '2010-10-08 16:51:15 +0000'
+date: 2010-10-08 14:51:15 +0000
+date_gmt: 2010-10-08 16:51:15 +0000
 categories:
-- Books
+  - Books
 tags:
-- modelo
-- ciencias cognitivas
-- conciencia
-- book
+  - modelo
+  - ciencias cognitivas
+  - conciencia
+  - book
+description: >-
+  Minsky propone conciencia como interacción de recursos mentales, procesos de
+  memoria, seriales, simbólicos y auto-modelamiento.
 ---
+
 
 Continuando con mi lectura del [libro de Minsky]({{ site.baseUrl }}{% link _posts/2009/2009-09-20-the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering.md %}), el capítulo 4 se titula "Conciencia", y definitivamente trata sobre eso.
 

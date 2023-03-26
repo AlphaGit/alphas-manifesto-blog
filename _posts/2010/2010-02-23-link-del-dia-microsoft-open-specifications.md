@@ -1,16 +1,19 @@
 ---
-
 title: 'Link del día: Microsoft Open Specifications'
-date: '2010-02-23 11:35:40 +0000'
-date_gmt: '2010-02-23 13:35:40 +0000'
+date: 2010-02-23 11:35:40 +0000
+date_gmt: 2010-02-23 13:35:40 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- Google
-- Microsoft
-- open
-- protocolo
+  - Google
+  - Microsoft
+  - open
+  - protocolo
+description: >-
+  Microsoft publica especificaciones de archivos PST, OpenXML, PPT, XLS, DOC,
+  protocolos Windows, Exchange y SQL.
 ---
+
 
 Gracias a kangrejo, quién me compartió la noticia a través de Google Reader (pero que leí en Google Buzz), me enteré que hace unos dos o tres días, [Microsoft publicó la especificación de los archivos PST](http://www.fayerwayer.com/2010/02/microsoft-publica-las-especificaciones-de-los-archivos-pst/), es decir, de las carpetas personales de Outlook. Microsoft los publica bajo una licencia que básicamente dice: "te digo de onda que no te voy a hacer problema si lo usás... pero igual tengo la posibilidad de hacerlo."
 

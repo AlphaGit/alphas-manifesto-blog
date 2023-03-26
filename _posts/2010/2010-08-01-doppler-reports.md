@@ -1,26 +1,29 @@
 ---
-
 title: Doppler Reports
-date: '2010-08-01 05:02:44 +0000'
-date_gmt: '2010-08-01 07:02:44 +0000'
+date: 2010-08-01 05:02:44 +0000
+date_gmt: 2010-08-01 07:02:44 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- proyecto
-- performance
-- cloud computing
-- arquitectura
-- design
-- seguridad
-- marketing
-- computación distribuída
-- Doppler
-- email
-- modular
-- tiempo real
-- reporte
+  - proyecto
+  - performance
+  - cloud computing
+  - arquitectura
+  - design
+  - seguridad
+  - marketing
+  - computación distribuída
+  - Doppler
+  - email
+  - modular
+  - tiempo real
+  - reporte
+description: >-
+  Doppler Reports launched - email marketing tool with real-time data,
+  distributed architecture, security, modular design.
 ---
+
 
 ## Hello to you all
 
