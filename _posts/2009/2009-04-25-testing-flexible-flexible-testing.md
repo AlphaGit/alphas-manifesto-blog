@@ -1,12 +1,16 @@
 ---
-
 title: Testing Flexible | Flexible Testing
-date: '2009-04-25 19:06:11 +0000'
-date_gmt: '2009-04-25 21:06:11 +0000'
+date: 2009-04-25 19:06:11 +0000
+date_gmt: 2009-04-25 21:06:11 +0000
 categories:
-- Projects
+  - Projects
 tags: []
+description: >-
+  Testing model adaptable a variabilidad, distintos tipos, planificación,
+  tercerización, calidad, improvisación, documentación, cascada, dependencia,
+  fracaso.
 ---
+
 
 **Español:**
 

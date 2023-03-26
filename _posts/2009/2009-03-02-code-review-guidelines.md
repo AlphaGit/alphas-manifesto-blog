@@ -1,13 +1,16 @@
 ---
-
 title: Code review guidelines
-date: '2009-03-02 00:40:50 +0000'
-date_gmt: '2009-03-02 02:40:50 +0000'
+date: 2009-03-02 00:40:50 +0000
+date_gmt: 2009-03-02 02:40:50 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags: []
+description: >-
+  Estandarizar evaluación código, respetar arquitectura, testing, excepciones,
+  flexibilidad, recursos, performance, seguridad, validación datos.
 ---
+
 
 En estos días mientras anduve haciendo los code reviews se me ocurrió estandarizar de alguna forma cómo podrían estos hacerse y de qué forma podría "puntuarse" al código evaluado en cuestión. Por ahora, eso último queda pendiente (ya que es lo más difícil de determinar y no lo más útil), pero lo primero se convirtió en un conjunto de categorías y puntos que pueden ser muy interesantes tener en cuenta al momento de ver el código y ver qué se puede mejorar de él.
 

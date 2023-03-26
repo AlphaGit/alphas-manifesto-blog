@@ -1,13 +1,16 @@
 ---
-
 title: OCR con Redes Neuronales en MatLab
-date: '2007-11-15 02:57:00 +0000'
-date_gmt: '2007-11-15 02:57:00 +0000'
+date: 2007-11-15 02:57:00 +0000
+date_gmt: 2007-11-15 02:57:00 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags: []
+description: >-
+  Investigación OCR MatLab con Thot, 56% de error. Código MatLab 2007, mejoras
+  en camino.
 ---
+
 
 Esta es una investigación, a modo de trabajo práctico que me pidieron para la universidad en la que estoy. La idea básica es construir un OCR en MatLab, utilizando redes neuronales. Acá está hecho de una determinada manera, que en conjunto con Thot, se logró un error de alrededor del 56%. Obviamente, no es nada bueno ni aceptable para una aplicación real, pero al menos funciona. Es el comienzo de algo.
 

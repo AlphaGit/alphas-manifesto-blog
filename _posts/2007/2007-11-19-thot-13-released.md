@@ -1,12 +1,15 @@
 ---
-
 title: Thot 1.3 Released
-date: '2007-11-19 15:42:00 +0000'
-date_gmt: '2007-11-19 15:42:00 +0000'
+date: 2007-11-19 15:42:00 +0000
+date_gmt: 2007-11-19 15:42:00 +0000
 categories:
-- Projects
+  - Projects
 tags: []
+description: >-
+  Cambié técnica escalado fuentes, ventaja homogéneos datos, desventaja
+  procesamiento, download Thot aquí.
 ---
+
 
 Cambié la técnica de escalado de las fuentes.
 

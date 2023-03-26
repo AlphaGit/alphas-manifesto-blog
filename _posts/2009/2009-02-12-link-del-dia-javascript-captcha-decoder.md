@@ -1,13 +1,16 @@
 ---
-
 title: 'Link del día: Javascript CAPTCHA Decoder'
-date: '2009-02-12 09:50:29 +0000'
-date_gmt: '2009-02-12 11:50:29 +0000'
+date: 2009-02-12 09:50:29 +0000
+date_gmt: 2009-02-12 11:50:29 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags: []
+description: >-
+  Shaun Friedle's JavaScript script decodes Megaupload captcha using neural
+  network. Javascript power demonstrated.
 ---
+
 
 Desde [Hackzine](http://www.hackszine.com/blog/archive/2009/01/javascript_captcha_decoder.html?CMP=OTC-7G2N43923558) me llega un artículo sobre un pequeño script que Shaun Friedle construyó sobre javascript utilizando Greasemonkey. El script en sí toma la imagen que Megaupload muestra para verificar que uno es humano, y la descifra utilizando una red neuronal.
 
