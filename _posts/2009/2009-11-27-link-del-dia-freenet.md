@@ -13,7 +13,6 @@ tags:
 - proyecto
 - ilegal
 - idea
-
 ---
 
 [Freenet](http://freenetproject.org/) es el nombre de un proyecto (no del todo nuevo) que es tan ambicioso como para querer lograr una nueva internet, libre de restricciones y con pura anonimidad. La idea es que internet, en lugar de funcionar de forma servidor-cliente, funcione de una forma descentralizada, en donde nuestros contenidos pueden estar en cualquier lado, y donde cualquiera puede accederlos sin saber a dónde accede o cómo se está llegando ahí.

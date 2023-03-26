@@ -1,17 +1,12 @@
 ---
-title: 'Link del día: BrowserShots'
-date: 2007-10-31 12:29:00 +0000
-date_gmt: 2007-10-31 12:29:00 +0000
-categories:
-  - Link del día
-tags: []
-description: >-
-  Conozca Browsershots: una herramienta útil para desarrolladores web para
-  verificar la compatibilidad de su diseño en diferentes navegadores e incluir
-  opciones como Javascript, Java y Flash. Aunque a veces las sesiones expiran
-  antes de que salgan las imágenes, sigue siendo una buena alternativa.
----
 
+title: 'Link del día: BrowserShots'
+date: '2007-10-31 12:29:00 +0000'
+date_gmt: '2007-10-31 12:29:00 +0000'
+categories:
+- Link del día
+tags: []
+---
 
 El site al que puede acceder [aquí](http://browsershots.org/), es relativamente conocido.
 

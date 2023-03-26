@@ -7,7 +7,6 @@ categories:
 - Link del día
 - Technology
 tags: []
-
 ---
 
 [Let's make the Web Faster](http://code.google.com/intl/de-DE/speed/index.html) es el nombre de un conjunto de artículos disponible en Google Code, que explican muchas formas de optimizar una página web, cubriendo muchos aspectos, desde la codificación misma a la configuración del servidor. Las explicaciones son simples y fáciles de seguir, y están ejemplificadas y con muestras de sus resultados.

@@ -11,7 +11,6 @@ tags:
 - Google
 - cloud computing
 - Microsoft
-
 ---
 
 Hace no mucho hablamos un poco sobre la importancia y los beneficios del cloud computing, o la computación en la nube, como muchos quieren traducir el término. Volviendo sobre la idea, es el concepto de tener sistemas distribuidos para los cuales muchas computadoras físicas a lo largo y a lo ancho de internet están colaborando para un fin común. Puede que estas computadoras sean computadoras personales, o puede que sean servidores dispuestos a ese fin en algún lugar fuera de nuestro alcance.

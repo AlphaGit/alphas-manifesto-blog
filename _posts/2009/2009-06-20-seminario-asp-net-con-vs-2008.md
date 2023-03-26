@@ -1,19 +1,13 @@
 ---
-title: Seminario ASP.NET con VS 2008
-date: 2009-06-20 21:46:36 +0000
-date_gmt: 2009-06-20 23:46:36 +0000
-categories:
-  - Life
-  - Technology
-tags: []
-description: >-
-  Participé como disertante en un seminario en la Universidad FASTA, junto a
-  Adrián Cura de MUG Argentina, discutiendo temas como el nuevo modelo de
-  programación de ASP.NET, AJAX, WCF y Silverlight. Exploramos cómo mejorar la
-  experiencia del usuario en la programación web y cómo utilizar las
-  herramientas de Visual Studio 2008.
----
 
+title: Seminario ASP.NET con VS 2008
+date: '2009-06-20 21:46:36 +0000'
+date_gmt: '2009-06-20 23:46:36 +0000'
+categories:
+- Life
+- Technology
+tags: []
+---
 
 El día de hoy tuve el gusto de poder participar como disertante en [un seminario que se dio en la Universidad FASTA](http://www.mug.org.ar/Eventos/3307.aspx), junto a Adrián Cura, presidente de [MUG Argentina](http://www.mug.org.ar/), quién se encargó de explicar la parte teórica, y yo dando demostraciones en vivo y en directo de cómo funcionan muchas de las características o fundamentos mencionados.
 

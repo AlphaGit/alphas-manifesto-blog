@@ -1,19 +1,13 @@
 ---
-title: 'Link del día: La máquina de emociones'
-date: 2008-08-05 11:54:00 +0000
-date_gmt: 2008-08-05 11:54:00 +0000
-categories:
-  - Books
-  - Link del día
-tags: []
-description: >-
-  Descubre el pensamiento humano a través de _The Emotion Machine_ de Marvin
-  Minsky, uno de los líderes del campo de la inteligencia artificial. Un resumen
-  de cómo las emociones son otra forma de pensamiento, la conciencia y los
-  niveles de actividad mental. ¡Descubre una gran cantidad de conocimiento
-  común!
----
 
+title: 'Link del día: La máquina de emociones'
+date: '2008-08-05 11:54:00 +0000'
+date_gmt: '2008-08-05 11:54:00 +0000'
+categories:
+- Books
+- Link del día
+tags: []
+---
 
 Aunque se quejen, sí, es un link para leer, y mucho. Yo solo leí un poco y me fascinó, lo dejo en mi listadito de lectura para cuando me ponga, quizá incluso vaya a comprar una copia impresa.
 
