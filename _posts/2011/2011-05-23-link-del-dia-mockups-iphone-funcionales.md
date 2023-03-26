@@ -11,7 +11,6 @@ tags:
 - iPhone
 - experiencia del usuario
 - simpleza
-
 ---
 
 Acordándome de cuando hablé de _Create Free iPhone Apps_, quería charlar sobre esta aplicación web llamada [Mokk.me](http://mokk.me/), una aplicación que nos permite visualmente construir elementos de un diseño gráfico para iPhone y personalizar esos elementos a gusto.

@@ -1,23 +1,18 @@
 ---
-title: 'Link del día: Cómo contratar a todo el mundo para hacer tu trabajo'
-date: 2011-01-13 12:07:19 +0000
-date_gmt: 2011-01-13 14:07:19 +0000
-categories:
-  - Link del día
-tags:
-  - web application
-  - cloud computing
-  - computación distribuída
-  - Microsoft Office
-  - Amazon
-  - Microsoft Word
-description: >-
-  Descubre cómo Amazon, con su servicio Mechanical Turk, ofrece un mercado para
-  llevar a cabo tareas de inteligencia humana. Mira el ejemplo de Soylent, un
-  plugin para Microsoft Word que te permite asignar tareas a través de la nube.
-  Lee más en BarraPunto.
----
 
+title: 'Link del día: Cómo contratar a todo el mundo para hacer tu trabajo'
+date: '2011-01-13 12:07:19 +0000'
+date_gmt: '2011-01-13 14:07:19 +0000'
+categories:
+- Link del día
+tags:
+- web application
+- cloud computing
+- computación distribuída
+- Microsoft Office
+- Amazon
+- Microsoft Word
+---
 
 Hace un tiempo que Amazon ofrece, entre sus varios Web Services, un servicio llamado [Mechanical Turk](http://www.mturk.com/), lo cual ellos llaman _Artificial Artificial Intelligence_. Si recuerdan a _ShortTask_, muy seguramente ya conozcan el concepto: Amazon provee un mercado en donde los _Requesters_ pueden postear distintas tareas de inteligencia humana (_HITs_), y un trabajador (_Worker_) puede realizarlas para ganar dinero. Además, Amazon provee el concepto de _Qualifications_, que son pruebas que los usuarios deben tomar para poder acceder a ciertas tareas (aunque es opcional que una tarea requiera de tomar pruebas).
 

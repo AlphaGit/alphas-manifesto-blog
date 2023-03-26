@@ -14,7 +14,6 @@ tags:
 - brevedad
 - precisión
 subtitle: Ser conciso y no-ambiguo
-
 ---
 
 ![]({{ site.baseurl }}/assets/Respuesta.png)

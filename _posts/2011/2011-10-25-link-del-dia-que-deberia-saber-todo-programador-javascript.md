@@ -11,7 +11,6 @@ tags:
 - RIA
 - StackOverflow
 - programming
-
 ---
 
 Aquellos que están en el mundo web, y más que nada en el mundo de las RIA (Rich Internet Applications), no dudarán en decirme que JavaScript es sin duda una de las herramientas más potentes que tenemos disponibles. Otros sabrán de muchas de las mejoras que se vienen en este área, pero no es lo que quería comentar hoy.

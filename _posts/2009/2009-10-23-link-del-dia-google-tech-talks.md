@@ -7,7 +7,6 @@ categories:
 - Link del día
 - Technology
 tags: []
-
 ---
 
 De casualidad me enteré de la existencia de un canal de Youtube llamado [Google Tech Talks](http://www.youtube.com/user/googletechtalks/), en donde Google ha subido muchas conferencias sobre distintos temas. Según lo que ellas dicen: "_Google TechTalks (Las conferencias técnicas de Google) están diseñadas para diseminar un amplio espectro de vistas sobre varios temas, incluyendo temas de actualidad, ciencia, medicina, ingeniería, negocios, humanidades, derecho, entretenimiento y las artes._"

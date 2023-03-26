@@ -11,7 +11,6 @@ tags:
 - ordenamiento
 - procedural
 - algoritmos genéticos
-
 ---
 
 Sí, ya sé que suena demasiado geek, pero cualquiera que pueda abtraerse un poco del algoritmo en sí, de qué haga o cómo lo haga verá que de alguna forma su "orden" logra un algo extra que puede ser realmente hermoso.

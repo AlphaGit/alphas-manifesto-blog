@@ -2,27 +2,21 @@
 excerpt_separator: <!--more-->
 title: SQL Performance Explained
 categories:
-  - Books
+    - Books
 tags:
-  - books
-  - reviews
-  - sql
-  - databases
-  - performance
-  - SQL Server
-  - MySQL
-  - DB2
-  - PostgreSQL
+    - books
+    - reviews
+    - sql
+    - databases
+    - performance
+    - SQL Server
+    - MySQL
+    - DB2
+    - PostgreSQL
 header:
-  image: /assets/2020-05-10-SQL-Performance-Explained/book-cover.webp
-  image_description: SQL Performance explained
-description: >-
-  Learn how to optimize your relational database operations with Markus Winand's
-  free SQL Performance Explained book. Understand the basics of indexes,
-  performance improvements & limitations, and more. Available in web version &
-  for purchase on Amazon.
+    image: /assets/2020-05-10-SQL-Performance-Explained/book-cover.webp
+    image_description: SQL Performance explained
 ---
-
 
 I just finished reading [SQL Performance Explained](https://www.amazon.com/SQL-Performance-Explained-Markus-Winand/dp/3950307826/), by Markus Winand. This book, which is available for free in a web version at [Use the Index, Luke!](https://use-the-index-luke.com/), is absolutely a service to the development community, and from the moment I started reading it, I could not put it down.
 

@@ -12,7 +12,6 @@ tags:
 - librería
 - cookies
 - pantalla
-
 ---
 
 Nuevamente de la gente de [CSS Tricks](http://css-tricks.com/13982-adaptive-images/) me llega un dato de una librería muy útil. En este caso es [Adaptive Images](http://adaptive-images.com/), es una librería en PHP que nos permite servir imágenes con el tamaño justo dependiendo del tipo de cliente. No sólo se hace la diferenciación del tipo de cliente, sino del tamaño de la pantalla real.

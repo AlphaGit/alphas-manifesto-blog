@@ -12,7 +12,6 @@ tags:
 - SQL
 - geografía
 - empleo
-
 ---
 
 Esperemos que pronto podamos volver a la frecuencia común de los links del día. Mientras tanto, intentemos mantenerlos cortitos para que no tomen demasiado tiempo.

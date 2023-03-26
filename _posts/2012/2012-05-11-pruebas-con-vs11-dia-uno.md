@@ -23,7 +23,6 @@ tags:
 - Beta
 - programming
 subtitle: Comenzando a explorar lo que la beta nos ofrece.
-
 ---
 
 Comencé como un proceso de autocapacitación mi investigación personal de las características que Visual Studio 11, todavía en Beta, nos ofrece. Pretendo documentar mi experiencia personal porque si bien no va a ser una buena indicación de cómo es el producto, puede que detecte muchos pequeños problemitas o cosas que estarían buenos tener en cuenta, al menos prepararse para ellos. Conociendo mi suerte, estoy seguro de que algo voy a romper.

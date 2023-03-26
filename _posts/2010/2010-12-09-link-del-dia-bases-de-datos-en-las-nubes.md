@@ -11,7 +11,6 @@ tags:
 - desarrollo
 - databases
 - gratis
-
 ---
 
 Está de moda últimamente hablar de la computación en la nube (y no es para menos, ya que realmente propone un cambio interesante en la forma en que se mantiene el software).  Lo más común para esto son servicios en donde podemos alojar nuestros sistemas con más o menos control de la plataforma, pero pocos de ellos se han centrado solamente en los datos.

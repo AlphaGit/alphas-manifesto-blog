@@ -24,7 +24,6 @@ tags:
 - Travis CI
 - what-now
 subtitle: A todo-list with a twist
-
 ---
 
 Como excusa para probar d3.js, yeoman, travis, heroku, y con el propósito de hacer algo interesante, me propuse el desarrollo de _what-now_, un listado de tareas para hacer (típico to-do list) pero con un desafío extra: mostrar las tareas dependientes de otras y mostrar el camino crítico para la resolución del "proyecto".

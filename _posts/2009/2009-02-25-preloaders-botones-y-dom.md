@@ -1,17 +1,13 @@
 ---
-title: 'Link del día: Preloaders, botones y DOM'
-date: 2009-02-25 10:05:22 +0000
-date_gmt: 2009-02-25 12:05:22 +0000
-categories:
-  - Link del día
-  - Technology
-tags: []
-description: >-
-  Descubre herramientas interesantes para desarrollo web: Preloaders.net, Custom
-  Buttons 3 Demo y una referencia del DOM Core. Personaliza, estiliza y crea
-  contenido web de forma elegante y simple.
----
 
+title: 'Link del día: Preloaders, botones y DOM'
+date: '2009-02-25 10:05:22 +0000'
+date_gmt: '2009-02-25 12:05:22 +0000'
+categories:
+- Link del día
+- Technology
+tags: []
+---
 
 Para aquellos que hacen web / flash / loquefuera, [Preloaders.net](http://preloaders.net/) es una aplicación web que les permite armar fácilmente preloaders para sus aplicaciones, de una forma elegante y bastante simple. Se le puede personalizar el color, el tamaño, la velocidad de animación entre otros parámetros.
 

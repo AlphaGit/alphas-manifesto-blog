@@ -12,7 +12,6 @@ tags:
 - gráficos
 - ASM
 - programming
-
 ---
 
 I don't know if you agree with me, but graphics programming is something I always wanted to learn &ndash; and will eventually do it someday. For that, we need a book that is as explicative as possible and detailed, going through every concept and being insightful on the concepts.  Luckily, I found a web holding a full online version of [Graphics Programming Black Book](http://www.gamedev.net/reference/articles/article1698.asp), a full featured book with really deep explanations and concepts.

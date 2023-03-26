@@ -13,7 +13,6 @@ tags:
 - automatización
 - productividad
 - web 2.0
-
 ---
 
 [IfTTT.com](http://ifttt.com/) es un servicio que me atrevo a calificar de "maravilloso" en donde nos permiten integrar distintas redes sociales o servicios 2.0 en workflows que nosotros definiremos. Dependiendo del uso que le demos, puede sernos más o menos útiles.

@@ -14,7 +14,6 @@ tags:
 - UX
 - web form
 subtitle: Buenas prácticas para formularios web
-
 ---
 
 Otra de las preguntas de los foros de User Experience, bajo el título de [Have I missed anything from my list of web form best practices?](http://ux.stackexchange.com/questions/9898/have-i-missed-anything-from-my-list-of-web-form-best-practices), consiguió una muy buena recopilación de consejos de buenas práctica sobre interfaces de formularios y UI / UX. Si van a mirarlo, miren todas las respuestas, ya que la pregunta principal no ha sido actualizada para recopilar completamente todo lo que han sugerido.

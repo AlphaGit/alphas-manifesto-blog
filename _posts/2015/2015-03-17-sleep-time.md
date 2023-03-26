@@ -1,20 +1,16 @@
 ---
 excerpt_separator: <!--more-->
 title: Sleep time
-date: 2015-03-17 17:23:19 +0000
-date_gmt: 2015-03-17 22:23:19 +0000
+date: '2015-03-17 17:23:19 +0000'
+date_gmt: '2015-03-17 22:23:19 +0000'
 categories:
-  - Life
+- Life
 tags:
-  - Apple
-  - apps
-  - smart alarm
+- Apple
+- apps
+- smart alarm
 subtitle: Smart alarms
-description: >-
-  Improve your sleep quality with smart alarms - find out why they work and how
-  to use them with tips from Azumio's Sleep Time app.
 ---
-
 
 Many of you that know me also know that it has been forever a problem of mine to get to sleep properly. Not to sleep early. Not to wake up early. It's about the quality of sleep. I've tried many things to address this problem, raging from hormones to witchcraft, but something seems to be making a difference: smart alarms.
 

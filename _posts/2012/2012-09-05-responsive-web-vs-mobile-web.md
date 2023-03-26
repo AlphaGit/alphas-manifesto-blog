@@ -20,7 +20,6 @@ tags:
 - responsive
 - media queries
 subtitle: ¿Qué son y cuándo usar cada uno?
-
 ---
 
 ![]({{ site.baseurl }}/assets/pantallas.png)

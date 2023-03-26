@@ -10,7 +10,6 @@ tags:
 - standard
 - HTTP
 - web
-
 ---
 
 Y la tecnología se mueve más y más rápido y lo que dábamos por conocido vuelve a cambiar. En este caso, se trata de los HTTP Status Codes, en donde ahora hay cuatro nuevos propuestos, en estado de draft por la IETF: [Additional HTTP Status Codes](http://tools.ietf.org/html/draft-nottingham-http-new-status-02). Nada del otro mundo realmente, aquí no se están proponiendo cosas que salieron ayer, pero es curioso ver cómo las cosas que dábamos por sentado también cambian de a poco.

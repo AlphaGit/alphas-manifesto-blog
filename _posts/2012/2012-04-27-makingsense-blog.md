@@ -15,7 +15,6 @@ tags:
 - IT
 - webinar
 subtitle: Posts being featured in MakingSense's blog
-
 ---
 
 ## Español

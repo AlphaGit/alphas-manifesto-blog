@@ -1,28 +1,22 @@
 ---
 excerpt_separator: <!--more-->
 title: The Clean Coder
-date: 2016-11-20 18:01:46 +0000
-date_gmt: 2016-11-21 00:01:46 +0000
+date: '2016-11-20 18:01:46 +0000'
+date_gmt: '2016-11-21 00:01:46 +0000'
 categories:
-  - Books
-  - Technology
+- Books
+- Technology
 tags:
-  - software
-  - book
-  - code
-  - book review
-  - professionalism
-  - software engineerng
-  - developing
-  - ethics
+- software
+- book
+- code
+- book review
+- professionalism
+- software engineerng
+- developing
+- ethics
 subtitle: a.k.a. "Software Professionalism"
-description: >-
-  Discover the ethical approach to software development and the importance of
-  professionalism in Uncle Bob's book "The Clean Coder". Learn how to better
-  manage projects, avoid technical debt, and the importance of automated testing
-  in creating reliable software.
 ---
-
 
 ![]({{ site.baseurl }}/assets/the-clean-coder-cover.jpg)
 

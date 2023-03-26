@@ -13,7 +13,6 @@ tags:
 - HTML5
 - framework
 - librería
-
 ---
 
 Para todos aquellos que necesitábamos una forma de fácilmente comenzar con trabajos en HTML5, tenemos la opción de comenzar con algo ya estructurado sobre lo que podemos hacer nuestras modificaciones a gusto.

@@ -10,7 +10,6 @@ tags:
 - HTML5
 - desarrollo móvil
 - framework
-
 ---
 
 Muchas buzzwords en el título, pero no deja de ser verdad. Hace un tiempito ya anda dando vueltas [The-M-Project](http://the-m-project.net/), bajo el título de "HTML5 JavaScript Framework, escribe aplicaciones móviles multi-plataforma". Si eso no es prometedor, no sé qué lo es.

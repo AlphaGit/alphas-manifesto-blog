@@ -10,7 +10,6 @@ tags:
 - seguridad
 - passwords
 - esteganografía
-
 ---
 
 últimamente se ha puesto de moda una buena idea que la gente de [PasswordCard](http://passwordcard.org/) ha propuesto. PasswordCard es la idea de tener una tarjeta de colores y símbolos y una combinación de letras mayúsculas, minúsculas y números.

@@ -11,7 +11,6 @@ tags:
 - HTML5
 - Firefox
 - standard
-
 ---
 
 Ya hace tiempo venimos mencionando lo nuevo que se viene con HTML5 y CSS3, de cómo van a hacer más fácil la vida de los usuarios de internet, de cómo van a hacer más fácil la vida de los desarrolladores y diseñadores web, de cómo van a volver a la web un entorno semántico de información, etc. Sabemos también que aunque estamos algo lejos todavía de que el estándar se apruebe completamente, muchos navegadores ya han comenzado a implementar sus características. Si mal no recuerdo, fue noticia hace bastante tiempo ya que Firefox comenzó a aceptar los tags <video> de HTML5. (Aunque ya parece que cambió el standard y seguramente tengan que cambiar la implementación de Firefox.)

@@ -1,27 +1,21 @@
 ---
 excerpt_separator: <!--more-->
 title: Neural Networks can learn anything
-date: 2017-07-30 13:58:57 +0000
-date_gmt: 2017-07-30 18:58:57 +0000
+date: '2017-07-30 13:58:57 +0000'
+date_gmt: '2017-07-30 18:58:57 +0000'
 categories:
-  - Technology
-  - AI
+- Technology
+- AI
 tags:
-  - node
-  - artificial intelligence
-  - learning
-  - neural network
-  - architecture
-  - function approximator
-  - variables
+- node
+- artificial intelligence
+- learning
+- neural network
+- architecture
+- function approximator
+- variables
 subtitle: A simple explanation on the basis of neural network learning
-description: >-
-  Learn about how neural networks work and the concept of function approximation
-  with this blog post. Understand the basics of function approximation, linear
-  and non-linear combinations, activation functions, and neural network nodes
-  and architectures.
 ---
-
 
 ![]({{ site.baseurl }}/assets/SkunkBalls.jpg)
 

@@ -12,7 +12,6 @@ tags:
 - experiencia del usuario
 - user experience
 - user testing
-
 ---
 
 We've already presented some tools ([[1]]({{ site.baseUrl }}{% link _posts/2010/2010-10-04-link-del-dia-que-recuerdan-los-usuarios-de-tu-sitio.md %}), [[2]]({{ site.baseUrl }}{% link _posts/2010/2010-01-29-link-del-dia-testeo-de-usabilidad.md %}), _[3]_) that allows you to easily have some feedback of what the users do at your site or web application, or how do you need to improve it to make it better for their user experience.

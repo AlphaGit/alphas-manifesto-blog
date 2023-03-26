@@ -9,7 +9,6 @@ tags:
 - web application
 - Imágenes
 - experimento
-
 ---
 
 Alguna vez hablé sobre un sistema que nos permitía buscar imágenes que contuvieran ciertos colores. Pasaron los meses y ya se convirtió en algo común que todos podemos hacer a través de Google Image Search. El buscar imágenes similares también es algo que podemos hacer, también desde Google Image search.

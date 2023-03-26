@@ -14,7 +14,6 @@ tags:
 - máquina
 - decepción
 subtitle: La destrucción de una buena idea
-
 ---
 
 ![]({{ site.baseurl }}/assets/The_Creation_of_a_Conscious_Machine.jpg)

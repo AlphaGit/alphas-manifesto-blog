@@ -8,7 +8,6 @@ categories:
 tags:
 - capacitación
 - habilidades
-
 ---
 
 I found this article at [LifeHacker](http://lifehacker.com/) (which does have lots of interesting articles about technology and life-improving techniques) called [Geek to Live: Take great notes - Capture Tools](http://lifehacker.com/167307/geek-to-live--take-great-notes), and, as simple as it gets on the advices that it gives, it is amazingly interesting to share and to start working on.

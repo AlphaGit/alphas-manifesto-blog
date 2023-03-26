@@ -1,21 +1,17 @@
 ---
-title: 'Link del día: Generación de código'
-date: 2011-02-03 13:26:56 +0000
-date_gmt: 2011-02-03 15:26:56 +0000
-categories:
-  - Link del día
-tags:
-  - C#
-  - procedural
-  - algoritmos genéticos
-  - artículo
-  - generación de código
-description: >-
-  Aprende cómo usar la generación automática de código para crear programas más
-  eficientes y efectivos. Combínala con programación procedural y algoritmos
-  genéticos y verás los resultados.
----
 
+title: 'Link del día: Generación de código'
+date: '2011-02-03 13:26:56 +0000'
+date_gmt: '2011-02-03 15:26:56 +0000'
+categories:
+- Link del día
+tags:
+- C#
+- procedural
+- algoritmos genéticos
+- artículo
+- generación de código
+---
 
 Hace tiempo atrás publiqué  un link sobre [generación automática de código]({{ site.baseUrl }}{% link _posts/2010/2010-07-28-link-del-dia-usar-codigo-para-interpretar-codigo.md %}), pero realmente hacía falta una explicación lenta y paso a paso de cómo se hace o cómo se pueden aprovechar las características que esto nos ofrece.
 

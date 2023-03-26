@@ -11,7 +11,6 @@ tags:
 - evaluación
 - moderación
 subtitle: "Resolviendo: quién vigila al vigilante"
-
 ---
 
 Hace unos días me ocurrió algo genial: fui evaluado y mi evaluación fue mala. Como producto de eso tuve una pequeña epifanía.  ¿Cómo puede ser?

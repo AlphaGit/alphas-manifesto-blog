@@ -13,7 +13,6 @@ tags:
 - time management
 - delegating
 subtitle: Before it makes you frown
-
 ---
 
 ![]({{ site.baseurl }}/assets/multitasking.png)

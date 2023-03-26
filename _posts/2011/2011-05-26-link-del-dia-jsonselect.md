@@ -12,7 +12,6 @@ tags:
 - jQuery
 - JSON
 - librería
-
 ---
 
 Para aquellos que hayan trabajado con jQuery (o con otras librerías JavaScript) sabrá que la sintaxis para usar los selectores es prácticamente algo mágico, que hace muchísimo más simple nuestro trabajo.

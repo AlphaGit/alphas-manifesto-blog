@@ -10,7 +10,6 @@ tags:
 - web application
 - experiencia del usuario
 - user experience
-
 ---
 
 Tanto para probar un diseño o como para probar un website o aplicación web, ya hemos hablado de varios sistemas que nos permiten evaluar qué tan eficiente es nuestro diseño (recuerdan el link de [Usabilia]({{ site.baseUrl }}{% link _posts/2010/2010-01-29-link-del-dia-testeo-de-usabilidad.md %})?). Hoy tenemos dos más muy similares, basados en la prueba de los cincos segundos.

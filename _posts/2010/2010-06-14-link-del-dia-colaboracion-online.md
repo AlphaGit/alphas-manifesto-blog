@@ -10,7 +10,6 @@ tags:
 - iPhone
 - herramientas
 - colaboración
-
 ---
 
 Hemos venido escuchando hace tiempo la idea de colaboración online, con distintas aplicaciones de distinta índole y orientadas a distinto tipo de usuarios.

@@ -13,7 +13,6 @@ tags:
 - SQL
 - databases
 - desarollo
-
 ---
 
 Gracias a [@smashingmag](http://twitter.com/smashingmag) y a [@breakingdev](http://twitter.com/BreakingDev) me entero de una serie de consejos para programadores sobre bases de datos. Es muy buena esta aproximación, ya que por lo general los programadores se enfocan más del lado de la lógica de una aplicación, quizá en cuanto a la arquitectura o al diseño de un sistema, y no tanto a la forma en la que se almacenan los datos para el mismo. Y cabe destacar, que muchas veces esta puede ser una diferencia enorme en cómo se comporta el sistema.

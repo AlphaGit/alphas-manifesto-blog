@@ -11,7 +11,6 @@ tags:
 - desarrollo web
 - video
 - consola
-
 ---
 
 De parte de la gente de [HTML5 Rocks!](http://updates.html5rocks.com) tenemos un pequeño post con dos videos cortos (7 minutos cada uno), llamado [7 minute videos: Javascript Console Protips &amp; newish DOM APIs](http://updates.html5rocks.com/2011/09/7-minute-videos-Javascript-Console-Protips-newish-DOM-APIs), en donde Paul Irish nos cuenta sobre determinados truquillos que podemos utilizar para debuggear JavaScript, mayormente en Chrome (aunque dos de los trucos se aplican a Firefox y a Opera).

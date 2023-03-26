@@ -11,7 +11,6 @@ tags:
 - open source
 - PHP
 - administración
-
 ---
 
 I spend the first days of this week searching for a good issue tracker with hosted services. Unfortunately, I couldn't find any that wasn't paid, or that didn't force you to share your code with everyone and/or upload the code as well. I ended up using [Flyspray](http://flyspray.org/), a PHP-based issue tracker, even when I would have preferred another options (like [Bugzilla](http://www.bugzilla.org/) or [Trac](http://trac.edgewall.org/)).

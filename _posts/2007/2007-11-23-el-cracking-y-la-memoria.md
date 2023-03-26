@@ -1,17 +1,13 @@
 ---
-title: El cracking y la memoria
-date: 2007-11-23 13:00:00 +0000
-date_gmt: 2007-11-23 13:00:00 +0000
-categories:
-  - Projects
-  - Technology
-tags: []
-description: >-
-  Descubre cómo el autor descubrió una falla de seguridad en un foro conocido,
-  explora la vulnerabilidad y genera Rainbow Tables para crackear contraseñas.
-  ¡Sigue la aventura de un zorrinito de sombrero blanco!
----
 
+title: El cracking y la memoria
+date: '2007-11-23 13:00:00 +0000'
+date_gmt: '2007-11-23 13:00:00 +0000'
+categories:
+- Projects
+- Technology
+tags: []
+---
 
 Hace un par de días encontré un hueco de seguridad muy grande en un foro conocido (no voy a dar direcciones por protección del mismo), y dicha falla permitía acceso directo a su base de datos.
 

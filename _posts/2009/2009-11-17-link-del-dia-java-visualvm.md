@@ -7,7 +7,6 @@ categories:
 - Link del día
 - Technology
 tags: []
-
 ---
 
 Gracias a un artículo de [TaranFX](http://www.taranfx.com/blog/java-visualvm) me enteré de algo que, si bien no es nada nuevo, es terriblemente útil para todo desarrollador de Java. Se trata de una aplicación que Sun distribuye llamada VisualVM, que, básicamente, es un manager de aplicaciones y profiler de datos, muy completo, muy amigable y muy fácil de usar. Solo tenemos que tener la máquina virtual de Java instalada y tras eso, podemos bajarnos esta aplicación y ponerla a funcionar, desde el [sitio oficial](https://visualvm.dev.java.net/).

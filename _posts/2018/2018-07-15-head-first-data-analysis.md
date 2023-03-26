@@ -1,23 +1,18 @@
 ---
 excerpt_separator: <!--more-->
 title: Head First Data Analysis
-date: 2018-07-15 10:20:48 +0000
-date_gmt: 2018-07-15 14:20:48 +0000
+date: '2018-07-15 10:20:48 +0000'
+date_gmt: '2018-07-15 14:20:48 +0000'
 categories:
-  - Books
+- Books
 tags:
-  - book
-  - book review
-  - data analysis
-  - data science
-  - head first series
+- book
+- book review
+- data analysis
+- data science
+- head first series
 subtitle: Introductory solid book on Data Analysis
-description: >-
-  Learn data analysis with "Head First Data Analysis", an easily approachable
-  book with real-world examples and exercises. An essential guide for those just
-  starting or brushing up on data science.
 ---
-
 
 ![]({{ site.baseurl }}/assets/headfirstdataanalysis.jpg)
 

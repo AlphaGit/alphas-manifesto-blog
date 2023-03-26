@@ -15,7 +15,6 @@ tags:
 - DARPA
 - identificación
 subtitle: I'm sorry Dave, I'm afraid I can't do that.
-
 ---
 
 En [MicroSiervos publicaron un artículo](http://www.microsiervos.com/archivo//adios-a-las-contrasenas-la-autenticacion-cognoscitiva-te-identifica-por-tu-forma-de-pensar.html) sobre un nuevo método que está siendo investigado en DARPA, llamado Autenticación Cognoscitiva. Según lo dicen ellos también, el sistema podría identificarnos por "tu forma de pensar".

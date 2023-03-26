@@ -10,7 +10,6 @@ tags:
 - standard
 - web semántica
 - SEO
-
 ---
 
 Las URLs son un elemento que usamos en nuestro día a día, más seguramente si trabajamos o estudiamos en algo relacionado a la informática. URLs para sitios web, URLs para aplicaciones 2.0, URLs para web services, URLs para todo. Y sin embargo, es posible que usándolos tanto, aún no sepamos cómo se componen en detalle.
