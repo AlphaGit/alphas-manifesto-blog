@@ -1,13 +1,15 @@
 ---
-
 title: 'Link del día: The Hello World Collection'
-date: '2009-10-27 10:53:49 +0000'
-date_gmt: '2009-10-27 12:53:49 +0000'
+date: 2009-10-27 10:53:49 +0000
+date_gmt: 2009-10-27 12:53:49 +0000
 categories:
-- Link del día
+  - Link del día
 tags: []
-
+description: >-
+  Aprender lenguajes, "Hola Mundo", competencias, muestra de cada lenguaje,
+  interesante recopilación.
 ---
+
 
 Muchos de nosotros hemos querido comenzar a aprender algún lenguaje de programación, y de seguro lo primero que hemos visto en ese lenguaje es el famoso "Hola mundo", que no es más que un simple programita que da como salida visible una cadena de texto "Hola Mundo", o en su versión original, "Hello world".
 

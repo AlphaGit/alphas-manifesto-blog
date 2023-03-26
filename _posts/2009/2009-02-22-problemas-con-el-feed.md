@@ -6,9 +6,8 @@ categories:
   - Miscelaneous
 tags: []
 description: >-
-  Descubre por qué las actualizaciones del blog dejaron de aparecer y cómo
-  solucionar el problema de configuración. Disfruta de un rato de lectura con el
-  zorrinito con problemas.
+  Feedreader problema solucionado, esperando rato leer. Disfrutar zorrinito
+  problemas.
 ---
 
 

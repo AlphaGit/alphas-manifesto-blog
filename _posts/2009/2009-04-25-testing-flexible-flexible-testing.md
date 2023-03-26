@@ -6,10 +6,8 @@ categories:
   - Projects
 tags: []
 description: >-
-  Descubre cómo crear un modelo de testing adaptable y particionable para tu
-  empresa, con distintos tipos de testing que variarán según los requisitos.
-  Planifica desde los requerimientos y logra un buen modelo de testing que
-  aporte calidad.
+  Testing model adaptable, planificable, documentado, tercerizable, mejora
+  calidad, dependencia etapas, improvisado, formal, variabilidad, adaptarse.
 ---
 
 
@@ -28,7 +26,6 @@ Por supuesto, creemos que mientras más haya, mejor, pero esto no es siempre pos
 Desafortunadamente, no puedo detallar información sobre los tipos de testing que hemos definido (ya que estos son propiedad e información de la empresa), pero los mismos también han sido planeado de un estilo y estructural totalmente formal, de manera que fácilmente puede tercerizarse el trabajo, o realizar testing para terceros de ser necesario o de surgir la oportunidad.
 
 _Soy un zorrinito adaptable._
-
 
 ---
 

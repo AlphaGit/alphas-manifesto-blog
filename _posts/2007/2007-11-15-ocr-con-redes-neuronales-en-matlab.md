@@ -6,10 +6,7 @@ categories:
   - Projects
   - Technology
 tags: []
-description: >-
-  Descubre cómo construí un OCR con MatLab utilizando redes neuronales para
-  lograr un error de 56%. Explicación, código y diapositivas disponibles en
-  http://alphagma.googlepages.com/ para MatLab 2007.
+description: Investigación OCR MatLab, 56% error, código MatLab 2007, mejoras por venir.
 ---
 
 

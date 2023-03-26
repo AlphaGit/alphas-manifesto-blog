@@ -7,11 +7,9 @@ categories:
   - Technology
 tags: []
 description: >-
-  Participé como disertante en un seminario en la Universidad FASTA, junto a
-  Adrián Cura de MUG Argentina, discutiendo temas como el nuevo modelo de
-  programación de ASP.NET, AJAX, WCF y Silverlight. Exploramos cómo mejorar la
-  experiencia del usuario en la programación web y cómo utilizar las
-  herramientas de Visual Studio 2008.
+  Participación como disertante en seminario FASTA. Nuevo modelo ASP.NET.
+  Experiencia usuario, .NET Framework, AJAX, WCF, Silverlight, WPF. Charla
+  terminó 13.00.
 ---
 
 

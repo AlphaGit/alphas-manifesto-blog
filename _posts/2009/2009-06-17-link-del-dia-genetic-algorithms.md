@@ -7,9 +7,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Descubre 15 aplicaciones reales de los algoritmos genéticos, además de dos
-  introducciones al tema y una variedad de ejemplos visuales. ¡Aprende todo
-  sobre algoritmos genéticos aquí!
+  Algoritmos genéticos: aplicaciones, introducciones, visualizaciones, autito,
+  Mona Lisa.
 ---
 
 

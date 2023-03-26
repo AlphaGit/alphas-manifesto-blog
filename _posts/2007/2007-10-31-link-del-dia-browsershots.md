@@ -6,10 +6,8 @@ categories:
   - Link del día
 tags: []
 description: >-
-  Conozca Browsershots: una herramienta útil para desarrolladores web para
-  verificar la compatibilidad de su diseño en diferentes navegadores e incluir
-  opciones como Javascript, Java y Flash. Aunque a veces las sesiones expiran
-  antes de que salgan las imágenes, sigue siendo una buena alternativa.
+  Site permite ver diseño en varios navegadores, pero a veces expira antes.
+  Novedoso.
 ---
 
 

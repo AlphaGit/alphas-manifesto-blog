@@ -6,11 +6,7 @@ categories:
   - Link del día
   - Technology
 tags: []
-description: >-
-  Descubre cómo un script de Shaun Friedle combinado con Greasemonkey y una red
-  neuronal pueden descifrar imágenes CAPTCHA de Megaupload. Mira cómo funciona,
-  lee el artículo de John Resig o prueba el decodificador. JavaScript no es para
-  subestimar.
+description: Script decodes Megaupload Captcha using neural networks and JavaScript.
 ---
 
 

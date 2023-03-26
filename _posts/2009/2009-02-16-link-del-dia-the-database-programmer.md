@@ -7,9 +7,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Aprende cómo crear un diseño de base de datos inmune a SQL Injection. Lee el
-  post en el blog The Database Programmer para un enfoque abstracto sobre
-  programación de bases de datos.
+  Post sobre diseño inmune SQL Injection. Ideas complejas e impracticables. Link
+  blog cuestiones programación base de datos.
 ---
 
 

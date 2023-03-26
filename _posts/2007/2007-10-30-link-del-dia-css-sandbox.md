@@ -6,9 +6,8 @@ categories:
   - Link del día
 tags: []
 description: >-
-  ¡Prueba los cambios en tus hojas de estilo!  Con la herramienta de pruebas de
-  CSS de Aurelio, puedes cambiar los elementos a tu gusto para ver cómo se
-  vería. ¡Un sandbox perfecto para probar tus ideas!
+  Sandbox para pruebas CSS, cambiar estilos a gusto, buena herramienta, faltan
+  detalles.
 ---
 
 

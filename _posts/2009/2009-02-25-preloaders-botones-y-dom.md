@@ -7,9 +7,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Descubre herramientas interesantes para desarrollo web: Preloaders.net, Custom
-  Buttons 3 Demo y una referencia del DOM Core. Personaliza, estiliza y crea
-  contenido web de forma elegante y simple.
+  Aplicación web para crear preloaders, Custom Buttons 3, DOM Core, aprender
+  web.
 ---
 
 

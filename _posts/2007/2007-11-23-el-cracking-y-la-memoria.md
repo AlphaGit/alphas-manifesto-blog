@@ -7,9 +7,9 @@ categories:
   - Technology
 tags: []
 description: >-
-  Descubre cómo el autor descubrió una falla de seguridad en un foro conocido,
-  explora la vulnerabilidad y genera Rainbow Tables para crackear contraseñas.
-  ¡Sigue la aventura de un zorrinito de sombrero blanco!
+  Encontré hueco de seguridad, MyBB, PHP muerto, config.php, conexión remota,
+  md5 hashes, Rainbow Tables, desempeño de máquina, 40 archivos, zorrinito de
+  sombrero.
 ---
 
 

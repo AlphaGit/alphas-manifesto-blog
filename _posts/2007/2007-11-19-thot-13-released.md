@@ -6,9 +6,8 @@ categories:
   - Projects
 tags: []
 description: >-
-  Descubre cómo Cambié la técnica de escalado de las fuentes para generar
-  conjuntos de datos mucho más homogéneos y resolver el problema del Font
-  Padding. Descarga Thot e investiga los detalles de la aplicación y el deploy.
+  Cambié técnica escalado fuentes, más homogéneos, font padding, ventaja pero
+  tiempo, bug barra progreso, deploy, descarga Thot.
 ---
 
 

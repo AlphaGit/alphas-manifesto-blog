@@ -5,10 +5,7 @@ date_gmt: 2007-10-12 13:40:00 +0000
 categories:
   - Link del día
 tags: []
-description: >-
-  Descubre herramientas útiles para probar tus aplicaciones web en múltiples
-  navegadores. Prueba con las herramientas instalables y online que te
-  ofrecemos. ¡Empieza a crear hoy!
+description: Herramientas instalables y online para testeo de aplicaciones web.
 ---
 
 

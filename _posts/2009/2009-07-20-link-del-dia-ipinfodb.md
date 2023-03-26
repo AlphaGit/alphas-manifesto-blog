@@ -1,13 +1,15 @@
 ---
-
 title: 'Link del día: IPInfoDB'
-date: '2009-07-20 10:45:06 +0000'
-date_gmt: '2009-07-20 12:45:06 +0000'
+date: 2009-07-20 10:45:06 +0000
+date_gmt: 2009-07-20 12:45:06 +0000
 categories:
-- Link del día
+  - Link del día
 tags: []
-
+description: >-
+  Geolocalización, IPs, país, ciudad, base de datos, API, IPInfoDB, web,
+  consulta, gratuito.
 ---
+
 
 Aquellos que no están mucho en el tema de la geolocalización, lo que más cerca habrán estado de encontrar el link del día de hoy útil es preguntarse algo como:  ¿Puedo saber de qué ciudad se mandó un email?  ¿Puedo saber en qué parte del mundo está alguien?
 

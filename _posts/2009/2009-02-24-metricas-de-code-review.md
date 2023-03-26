@@ -7,10 +7,9 @@ categories:
   - Technology
 tags: []
 description: >-
-  Descubre cómo estandarizar y automatizar los resultados de los code reviews
-  para obtener una idea cuasi-numérica de la calidad del código. Evalúa
-  estándar, arquitectura, code coverage, estabilidad, flexibilidad, recursos y
-  performance.
+  Desarrollando técnicas para automatización de code reviews. Estandarización,
+  arquitectura, code-coverage, estabilidad, flexibilidad, recursos, performance.
+  Futuro útil.
 ---
 
 <div>

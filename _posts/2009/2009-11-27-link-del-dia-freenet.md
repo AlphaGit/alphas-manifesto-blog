@@ -1,20 +1,22 @@
 ---
-
 title: 'Link del día: Freenet'
-date: '2009-11-27 12:52:52 +0000'
-date_gmt: '2009-11-27 14:52:52 +0000'
+date: 2009-11-27 12:52:52 +0000
+date_gmt: 2009-11-27 14:52:52 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- freenet
-- internet
-- anonimidad
-- descentralización
-- proyecto
-- ilegal
-- idea
-
+  - freenet
+  - internet
+  - anonimidad
+  - descentralización
+  - proyecto
+  - ilegal
+  - idea
+description: >-
+  Proyecto Freenet busca nueva internet libre, anónima, descentralizada, con
+  legislación independiente.
 ---
+
 
 [Freenet](http://freenetproject.org/) es el nombre de un proyecto (no del todo nuevo) que es tan ambicioso como para querer lograr una nueva internet, libre de restricciones y con pura anonimidad. La idea es que internet, en lugar de funcionar de forma servidor-cliente, funcione de una forma descentralizada, en donde nuestros contenidos pueden estar en cualquier lado, y donde cualquiera puede accederlos sin saber a dónde accede o cómo se está llegando ahí.
 

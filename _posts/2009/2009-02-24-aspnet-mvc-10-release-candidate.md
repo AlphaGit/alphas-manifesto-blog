@@ -6,10 +6,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Descubre las últimas características de Microsoft ASP.NET MVC descargando la
-  Release Candidate gratuitamente. Organiza tu proyecto con facilidad y saca el
-  máximo partido de los templates para crear proyectos de forma rápida y
-  dinámica. ¡Aprovecha esta oportunidad ahora!
+  Microsoft ASP.NET MVC descargable gratuitamente. Buena organización,
+  integración con VS 2008. Features todavía defectuosas.
 ---
 
 <div>

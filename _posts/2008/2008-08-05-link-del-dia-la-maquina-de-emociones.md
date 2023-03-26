@@ -7,11 +7,9 @@ categories:
   - Link del día
 tags: []
 description: >-
-  Descubre el pensamiento humano a través de _The Emotion Machine_ de Marvin
-  Minsky, uno de los líderes del campo de la inteligencia artificial. Un resumen
-  de cómo las emociones son otra forma de pensamiento, la conciencia y los
-  niveles de actividad mental. ¡Descubre una gran cantidad de conocimiento
-  común!
+  Marvin Minsky: The Emotion Machine; analyze human thought; birth resources;
+  interactions; emotions; consciousness; levels; common sense; multiple forms;
+  self-models.
 ---
 
 

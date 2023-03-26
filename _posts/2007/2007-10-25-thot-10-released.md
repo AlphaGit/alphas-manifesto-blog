@@ -6,9 +6,9 @@ categories:
   - Projects
 tags: []
 description: >-
-  Descubre cómo construir un sistema de redes neuronales para reconocimiento de
-  caracteres OCR con la ayuda de AlphaGMA. Agradecemos el apoyo de JF y Gato
-  Gris para conseguir la mejor performance en la implementación.
+  Programar OCR, generar perceptrones, procesar datos, reconocer letras,
+  agradecer ayuda, mejorar performance, identificar múltiples cruces,
+  orientación de imágenes, idea de encarar, zorrinito programador.
 ---
 
 

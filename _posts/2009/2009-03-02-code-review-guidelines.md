@@ -7,10 +7,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Estandarizar los code reviews, mejorando la legibilidad del código, respetando
-  la arquitectura, creando testing, desarrollando un tratamiento de errores,
-  aumentando la flexibilidad, optimizando los recursos, mejorando el performance
-  y protegiendo la seguridad. Descubre cómo hacerlo en este post.
+  Estandarización del code review: legibilidad, arquitectura, code-coverage,
+  estabilidad, flexibilidad, recursos, performance, seguridad, usuarios.
 ---
 
 

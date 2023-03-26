@@ -7,10 +7,8 @@ categories:
   - Technology
 tags: []
 description: >-
-  Descubre cómo desarrollar un proyecto con las características principales de
-  Symfony usando el ejemplo práctico del manual _Jobeet_. Sigue los pasos de la
-  guía _Practical Symfony_ para entender mejor cada concepto y ponerlo en
-  práctica.
+  Leer manual symfony 1.2 "Jobeet", superficial, fácil de comprender, 24 horas
+  irreal, buena introducción.
 ---
 
 <div>
