@@ -1,12 +1,15 @@
 ---
-
 title: 'Link del día: Un poquito sobre el email'
-date: '2009-07-27 10:53:34 +0000'
-date_gmt: '2009-07-27 12:53:34 +0000'
+date: 2009-07-27 10:53:34 +0000
+date_gmt: 2009-07-27 12:53:34 +0000
 categories:
-- Link del día
+  - Link del día
 tags: []
+description: >-
+  Third-party telephone service, email address length FAQ, Cellular Obscura
+  blog, photographer Shawn Rocco.
 ---
+
 
 [EPH](http://www.eph.co.uk/) o "Extra Pair of Hands" es el nombre de un servicio de tercerización de atención telefónica, que se supone nos brinda la posibilidad de sacarnos un peso de encima si es que eso toma mucho del tiempo de nuestra estadía en la oficina. Pero eso no es lo interesante de hoy, sino un FAQ que publicaron sobre [el tamaño de direcciones de email](http://www.eph.co.uk/resources/email-address-length-faq/). El pequeño informe está bastante completo para tratar de un tema tan específico, llegando a hablar incluso de cuánto en memoria se reserva por los programadores en general y cuánto requerirían los estándares. Algo curioso de conocer.
 

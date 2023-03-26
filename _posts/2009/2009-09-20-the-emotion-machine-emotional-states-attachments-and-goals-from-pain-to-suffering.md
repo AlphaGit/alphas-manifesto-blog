@@ -1,13 +1,17 @@
 ---
-
-title: 'The Emotion Machine: Emotional States, Attachments and Goals, From Pain to
-  Suffering'
-date: '2009-09-20 02:21:17 +0000'
-date_gmt: '2009-09-20 04:21:17 +0000'
+title: >-
+  The Emotion Machine: Emotional States, Attachments and Goals, From Pain to
+  Suffering
+date: 2009-09-20 02:21:17 +0000
+date_gmt: 2009-09-20 04:21:17 +0000
 categories:
-- Books
+  - Books
 tags: []
+description: >-
+  Minsky's book on emotions, resources, goals, plans, suffering, self-awareness,
+  Freud, examples, understanding, complex.
 ---
+
 
 Alguna vez [publiqué algo](https://blog.alphasmanifesto.com.ar/2008/08/05/link-del-dia-la-maquina-de-emociones/) de información sobre el libro de Marvin Minsky, _La Máquina de Emociones _(_The Emotion Machine_), pero nunca había tenido la oportunidad de leerlo en profundidad. Finalmente, a través del paso del tiempo, fui avanzando sobre las páginas &ndash; si es que es válida la expresión &ndash; del mismo.
 

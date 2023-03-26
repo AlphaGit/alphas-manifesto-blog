@@ -1,18 +1,21 @@
 ---
-
 title: 'Link del día: Google Closure'
-date: '2009-12-16 12:28:36 +0000'
-date_gmt: '2009-12-16 14:28:36 +0000'
+date: 2009-12-16 12:28:36 +0000
+date_gmt: 2009-12-16 14:28:36 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- Google
-- JavaScript
-- HTML
-- performance
-- profiling
+  - Google
+  - JavaScript
+  - HTML
+  - performance
+  - profiling
+description: >-
+  Google publica herramientas JavaScript para mejorar rendimiento. Artículo
+  invita a aprender de errores.
 ---
+
 
 Hace ya algunos días que Google publicó sus [Closure Tools](http://googlecode.blogspot.com/2009/11/introducing-closure-tools.html), una serie de herramientas para trabajar con JavaScript eficiente y lograr mejorar la performance, velocidad y tamaño del código. Entre ellos se encuentran [Closure Compiler](http://code.google.com/closure/compiler/), una suerte de compilador para JavaScript, removiendo código innecesario, mejorando el código existente y minimizando lo que queda. También está la [Closure Library](http://code.google.com/closure/library), una librería JavaScript pero versión Google, y por último, los [Closure Templates](http://code.google.com/closure/templates/), una serie de soluciones "pre-hechas" para elementos reutilizables de HTML y UI.
 

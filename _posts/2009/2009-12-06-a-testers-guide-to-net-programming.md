@@ -1,22 +1,26 @@
 ---
-
 title: A Tester's Guide to .NET Programming
-date: '2009-12-06 22:08:00 +0000'
-date_gmt: '2009-12-07 00:08:00 +0000'
+date: 2009-12-06 22:08:00 +0000
+date_gmt: 2009-12-07 00:08:00 +0000
 categories:
-- Books
+  - Books
 tags:
-- testing
-- ".NET"
-- automatización
-- C#
-- capacitación
-- Quality Assurance
-- tratamiento de errores
-- VB.NET
-- VS 2008
-- book
+  - testing
+  - .NET
+  - automatización
+  - C#
+  - capacitación
+  - Quality Assurance
+  - tratamiento de errores
+  - VB.NET
+  - VS 2008
+  - book
+description: >-
+  Libro sobre .NET programación, interesante, detallado, explicativo, no lo
+  esperado, buen hallazgo, conceptos vagos, orientación a objetos, ejercicios
+  prácticos, fácil de comprender.
 ---
+
 
 Terminé hace poco de leer el libro _A Tester's Guide to .NET Programming_, de Randal Root y Mary Romero Sweeney, un interesante libro aproximativo a .NET de unas 630 páginas.
 

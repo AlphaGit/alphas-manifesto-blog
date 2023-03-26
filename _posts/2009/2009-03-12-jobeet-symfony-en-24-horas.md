@@ -1,13 +1,16 @@
 ---
-
 title: Jobeet - symfony en 24 horas
-date: '2009-03-12 10:55:20 +0000'
-date_gmt: '2009-03-12 12:55:20 +0000'
+date: 2009-03-12 10:55:20 +0000
+date_gmt: 2009-03-12 12:55:20 +0000
 categories:
-- Books
-- Technology
+  - Books
+  - Technology
 tags: []
+description: >-
+  Leer manual symfony 1.2 "Jobeet", superficial, fácil de comprender, 24 horas
+  irreal, buena introducción.
 ---
+
 <div>
 
 Ayer terminé de leer y prepararme según el manual de symfony 1.2 llamado _Jobeet_. Este manual es uno de los de la saga de _Practical symfony_, de aquellos que presentan las principales características de la plataforma en base a un ejemplo práctico que se desarrolla de principio a fin. De esta forma, permite al lector no solamente conocer esas características sino además poder ponerlas en práctica, y experimentar por cuenta propia.

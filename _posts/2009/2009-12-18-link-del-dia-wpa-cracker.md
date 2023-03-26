@@ -1,23 +1,26 @@
 ---
-
 title: 'Link del día: WPA Cracker'
-date: '2009-12-18 14:24:22 +0000'
-date_gmt: '2009-12-18 16:24:22 +0000'
+date: 2009-12-18 14:24:22 +0000
+date_gmt: 2009-12-18 16:24:22 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- descentralización
-- ilegal
-- performance
-- web application
-- WPA
-- cracking
-- wifi
-- cloud computing
-- rainbow tables
-- hacking
+  - descentralización
+  - ilegal
+  - performance
+  - web application
+  - WPA
+  - cracking
+  - wifi
+  - cloud computing
+  - rainbow tables
+  - hacking
+description: >-
+  Crackear contraseñas wifi WPA con aplicación web, cloud computing, 17-35
+  dólares, 20 minutos, Moxie Marlinspike.
 ---
+
 
 Si mal no recuerdo creo que fue Nano quién me compartió por Google Reader [este artículo de Kabytes](http://www.kabytes.com/aplicaciones-online/crackear-contrasenas-wifi-con-cifrado-wpa/), en donde hablan de una aplicación web llamada [WPA Cracker](http://www.wpacracker.com/), una aplicación que tomando un archivo pcap de capturas de un wifi WPA, puede compararlo contra una enorme cantidad de palabras y combinaciones (gracias al cloud computing) y devolvernos el password en un pequeño tiempo.
 

@@ -1,14 +1,18 @@
 ---
-
 title: 'AI: Introduction | IA: Introducción'
-date: '2009-10-04 03:43:17 +0000'
-date_gmt: '2009-10-04 05:43:17 +0000'
+date: 2009-10-04 03:43:17 +0000
+date_gmt: 2009-10-04 05:43:17 +0000
 categories:
-- Books
-- Projects
-- Technology
+  - Books
+  - Projects
+  - Technology
 tags: []
+description: >-
+  Personal project to read Artificial Intelligence book. History, theories,
+  implications, limits. Human reference, algorithms, epistemology. Marvin Minsky
+  article. Magic and motivation.
 ---
+
 
 As a personal debt, liking and project, I proposed myself to read the whole book _Artificial Intelligence: A Modern Approach_ (among others) by authors Stuart Russel and Peter Norvig. It is a very recommended book in the subject and just by the size one can tell why. The second edition is the one in my hands and the one I attempt to comment. Due to the same reason (which is it's great extension and detail), my notes about the book and the subjects this one treats won't be a summary of them, but personal notes or ideas that may come out of it.
 

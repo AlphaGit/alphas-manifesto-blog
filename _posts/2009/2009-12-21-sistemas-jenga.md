@@ -1,25 +1,29 @@
 ---
-
 title: Sistemas Jenga
-date: '2009-12-21 19:20:09 +0000'
-date_gmt: '2009-12-21 21:20:09 +0000'
+date: 2009-12-21 19:20:09 +0000
+date_gmt: 2009-12-21 21:20:09 +0000
 categories:
-- Projects
-- Technology
+  - Projects
+  - Technology
 tags:
-- proyecto
-- idea
-- chistes
-- mantenimiento
-- riesgo
-- arquitectura
-- flexibilidad
-- factibilidad
-- requerimientos
-- ciclo de vida
-- bugs
-- backward compatibility
+  - proyecto
+  - idea
+  - chistes
+  - mantenimiento
+  - riesgo
+  - arquitectura
+  - flexibilidad
+  - factibilidad
+  - requerimientos
+  - ciclo de vida
+  - bugs
+  - backward compatibility
+description: >-
+  Mantenimiento de sistemas peligroso, Curva de la tina de baño, backward
+  compatibility, propósito original, adaptarse a nuevos requerimientos,
+  complejidad extra, infactible, obsoleto, Sistema Jenga.
 ---
+
 
 Suelo decir muchas tonterías a modo de chiste, pero de tanto en tanto, alguna de ellas tiene un poco de verdad. Hoy, hablando de un sistema del que estoy encargado (entre otras personas) de mantener, pensé que estaba muy difícil su actualización, [y lo llamé un ](http://twitter.com/AlphaTwi/status/6895562175)_[Sistema Jenga](http://twitter.com/AlphaTwi/status/6895562175)_.  ¿Qué es un _sistema Jenga_? Es un sistema para el cual agregar una pieza hace que peligre toda la estructura de su programación.
 

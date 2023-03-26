@@ -1,12 +1,15 @@
 ---
-
 title: Servicios de Presupuesto - Modelo Iteración 1
-date: '2007-06-29 01:19:00 +0000'
-date_gmt: '2007-06-29 01:19:00 +0000'
+date: 2007-06-29 01:19:00 +0000
+date_gmt: 2007-06-29 01:19:00 +0000
 categories:
-- Projects
+  - Projects
 tags: []
+description: >-
+  Desarrollo sistema presupuestario, Usuario, Empresario, Cliente, Item,
+  Artículo, Servicio, ProductoComplejo, ListadoItems, Presupuesto.
 ---
+
 
 Como ejercicio para la universidad, tengo que desarrollar un servicio de presupuestación para una empresa ficticia. Voy a ir publicando de a poco lo que voy haciendo, muy probablemente le sea útil a alguien más.
 

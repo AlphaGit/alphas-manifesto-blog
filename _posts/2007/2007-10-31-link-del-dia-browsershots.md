@@ -1,12 +1,15 @@
 ---
-
 title: 'Link del día: BrowserShots'
-date: '2007-10-31 12:29:00 +0000'
-date_gmt: '2007-10-31 12:29:00 +0000'
+date: 2007-10-31 12:29:00 +0000
+date_gmt: 2007-10-31 12:29:00 +0000
 categories:
-- Link del día
+  - Link del día
 tags: []
+description: >-
+  Site permite ver diseño en varios navegadores, pero a veces expira antes.
+  Novedoso.
 ---
+
 
 El site al que puede acceder [aquí](http://browsershots.org/), es relativamente conocido.
 

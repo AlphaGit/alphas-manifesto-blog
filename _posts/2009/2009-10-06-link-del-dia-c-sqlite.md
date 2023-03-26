@@ -1,13 +1,16 @@
 ---
-
 title: 'Link del día: C# SQLite'
-date: '2009-10-06 10:51:52 +0000'
-date_gmt: '2009-10-06 12:51:52 +0000'
+date: 2009-10-06 10:51:52 +0000
+date_gmt: 2009-10-06 12:51:52 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags: []
+description: >-
+  SQLite: portable database, free, open source, used in Firefox, CSharp port
+  available, try it!
 ---
+
 
 Por si no lo conocían, [SQLite](http://www.sqlite.org/) es una versión base de datos portátil, citando al sitio: "es una librería de software que implementa un motor de base de datos SQL auto-contenido, sin-servidor, sin-configuración y transaccional." Además, es un motor realmente conocido y usado en muchos lugares (ejemplo, Firefox lo utiliza para el almacenamiento de sus configuraciones y preferencias, o muchas aplicaciones móviles lo usan por su rapidez y sus pocos requerimientos).
 
