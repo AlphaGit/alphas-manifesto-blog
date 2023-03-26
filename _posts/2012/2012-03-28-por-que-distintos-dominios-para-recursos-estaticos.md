@@ -1,27 +1,31 @@
 ---
-
-title: " ¿Por qué distintos dominios para recursos estáticos?"
-date: '2012-03-28 08:39:50 +0000'
-date_gmt: '2012-03-28 13:39:50 +0000'
+title: ' ¿Por qué distintos dominios para recursos estáticos?'
+date: 2012-03-28 08:39:50 +0000
+date_gmt: 2012-03-28 13:39:50 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- Google
-- performance
-- Twitter
-- Facebook
-- navegadores
-- URL
-- HTTP
-- cookies
-- pregunta
-- respuesta
-- estándar
-- bandwidth
-- dominio
+  - Google
+  - performance
+  - Twitter
+  - Facebook
+  - navegadores
+  - URL
+  - HTTP
+  - cookies
+  - pregunta
+  - respuesta
+  - estándar
+  - bandwidth
+  - dominio
 subtitle: La razón detrás de las URLs raras...
+description: >-
+  Sitios grandes alojan recursos en dominios externos. Navegadores limitan
+  conexiones a mismo hostname. Utilizan distintos dominios para CDN. Cookies no
+  carga significativa.
 ---
+
 
 Sabemos que el nombre no es más que un nombre y que no importa cuál sea el servidor actual en donde se están alojando los datos, pero parecería que es una práctica común de muchos sitios grandes (léase: Facebook, Twitter, Google, etc.) hacer referencia a muchos de sus recursos en dominios externos. Por ejemplo, las imágenes de Facebook se encuentran alojadas debajo de _http://static.ak.fbcdn.net/_ y no debajo de _http://www.facebook.com/_, ni siquiera debajo de _http://imgs.facebook.com/_.  ¿Por qué?
 

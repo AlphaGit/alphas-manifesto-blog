@@ -1,24 +1,27 @@
 ---
-
 title: Front-end code standards
-date: '2012-06-01 11:40:54 +0000'
-date_gmt: '2012-06-01 16:40:54 +0000'
+date: 2012-06-01 11:40:54 +0000
+date_gmt: 2012-06-01 16:40:54 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- testing
-- JavaScript
-- HTML
-- performance
-- CSS
-- desarrollo web
-- HTML5
-- standard
-- CSS3
-- best practices
-- estándares
+  - testing
+  - JavaScript
+  - HTML
+  - performance
+  - CSS
+  - desarrollo web
+  - HTML5
+  - standard
+  - CSS3
+  - best practices
+  - estándares
 subtitle: Una aproximación de best practices
+description: >-
+  Leer artículo IsoBar, HTML5, CSS3, JavaScript, Performance, cross-browser,
+  pros/contras, buena referencia, decisión educada, zorrinito front-end.
 ---
+
 
 Acabo de leer el artículo de IsoBar [Front-end Code Standards &amp; Best Practices](http://na.isobar.com/standards/). El artículo cubre de forma extensiva varias de las tecnologías utilizadas, con las sugerencias que esta empresa utiliza interamente. Cubre varios aspectos del uso de HTML (y algunas nuevas características de HTML5), CSS (y algunas nuevas características de CSS3), JavaScript, Performance, e integración cross-browser.
 

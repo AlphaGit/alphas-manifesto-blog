@@ -1,22 +1,25 @@
 ---
-
 title: Barras de progreso y velocidad aparente
-date: '2012-06-21 07:42:51 +0000'
-date_gmt: '2012-06-21 12:42:51 +0000'
+date: 2012-06-21 07:42:51 +0000
+date_gmt: 2012-06-21 12:42:51 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- design
-- animación
-- interfaz
-- user experience
-- experiencia de usuario
-- UX
-- progreso
-- barra de progreso
-- indicador de progreso
+  - design
+  - animación
+  - interfaz
+  - user experience
+  - experiencia de usuario
+  - UX
+  - progreso
+  - barra de progreso
+  - indicador de progreso
 subtitle: La gran diferencia del detalle
+description: >-
+  Interfaces han evolucionado con indicadores de progreso, afectando la
+  velocidad percibida y jugando con la mente.
 ---
+
 
 ## Indicando progreso
 

@@ -1,19 +1,22 @@
 ---
-
 title: Windows Metro explicado
-date: '2012-03-13 08:04:24 +0000'
-date_gmt: '2012-03-13 13:04:24 +0000'
+date: 2012-03-13 08:04:24 +0000
+date_gmt: 2012-03-13 13:04:24 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- sistemas operativos
-- Microsoft
-- experiencia del usuario
-- experiencia de usuario
-- Windows 8
-- Metro
+  - sistemas operativos
+  - Microsoft
+  - experiencia del usuario
+  - experiencia de usuario
+  - Windows 8
+  - Metro
 subtitle: Crítica criteriosa
+description: >-
+  Windows 8, Metro, diferente, XP, Gnome, KDE, balanceado, curiosos, comprar,
+  valer la pena.
 ---
+
 
 > A menos que hayas estado viviendo bajo una roca por los últimos meses, deberías saber lo siguiente:
 > 

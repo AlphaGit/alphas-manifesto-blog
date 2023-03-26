@@ -1,21 +1,24 @@
 ---
-
 title: Pantallas, de cerca
-date: '2012-03-22 10:55:10 +0000'
-date_gmt: '2012-03-22 15:55:10 +0000'
+date: 2012-03-22 10:55:10 +0000
+date_gmt: 2012-03-22 15:55:10 +0000
 categories:
-- Miscelaneous
+  - Miscelaneous
 tags:
-- design
-- iPhone
-- iPad
-- MicroSiervos
-- color
-- dispositivos móviles
-- pantalla
-- tablet
+  - design
+  - iPhone
+  - iPad
+  - MicroSiervos
+  - color
+  - dispositivos móviles
+  - pantalla
+  - tablet
 subtitle: El mundo microscópico de los píxels
+description: >-
+  Comparar pantallas iPad 2/3, otros dispositivos, variabilidad de píxeles,
+  Google reduce verde, Nintendo 3DS.
 ---
+
 
 Hace un par de días, [un artículo en MicroSiervos](http://www.microsiervos.com/archivo/gadgets/pantalla-ipad-3-comparada-ipad-2.html) mostraba una comparación de las pantallas del iPad 2 y el iPad 3 (que no se llama iPad 3). Más interesante aún, dejaron el link al blog de Lukas Mathis, que entre otras cosas escribió un artículo llamado [The New iPad's screen under the Microscope](http://ignorethecode.net/blog/2012/03/16/ipad_screen_microscope/).
 

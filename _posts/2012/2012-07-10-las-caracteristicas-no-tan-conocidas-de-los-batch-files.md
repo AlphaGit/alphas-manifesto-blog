@@ -1,21 +1,24 @@
 ---
-
 title: Las características no tan conocidas de los batch files
-date: '2012-07-10 09:24:36 +0000'
-date_gmt: '2012-07-10 14:24:36 +0000'
+date: 2012-07-10 09:24:36 +0000
+date_gmt: 2012-07-10 14:24:36 +0000
 categories:
-- Link del día
-- Technology
+  - Link del día
+  - Technology
 tags:
-- automatización
-- Windows
-- características
-- batch file
-- batch
-- script
-- DOS
+  - automatización
+  - Windows
+  - características
+  - batch file
+  - batch
+  - script
+  - DOS
 subtitle: Unleash the power of .bat!
+description: >-
+  Automatizar tareas Windows, batch files, habilidades, shell script,
+  StackOverflow, visión, características, post, zorrinito batch.
 ---
+
 
 ![]({{ site.baseurl }}/assets/batchfile.png)
 

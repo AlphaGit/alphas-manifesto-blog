@@ -1,26 +1,29 @@
 ---
-
 title: Auriculares y conversores digitales-analógicos
-date: '2012-12-26 19:06:12 +0000'
-date_gmt: '2012-12-27 00:06:12 +0000'
+date: 2012-12-26 19:06:12 +0000
+date_gmt: 2012-12-27 00:06:12 +0000
 categories:
-- Miscelaneous
-- Life
-- Música
+  - Miscelaneous
+  - Life
+  - Música
 tags:
-- Música
-- design
-- USB
-- calidad
-- Dubstep
-- sonido
-- volumen
-- auricular
-- precio
-- conversor
-- configuración
+  - Música
+  - design
+  - USB
+  - calidad
+  - Dubstep
+  - sonido
+  - volumen
+  - auricular
+  - precio
+  - conversor
+  - configuración
 subtitle: La búsqueda del sonido perfecto
+description: >-
+  Gastar en auriculares para mejorar experiencia escuchando música, modelos
+  Sennheiser, Sony, Bosse. DAC amplifica sin pérdida de calidad. ¡Vale la pena!
 ---
+
 
 Siempre fue de mi filosofía que si uno pasa mucho tiempo en una determinada actividad, debe hacer toda la inversión posible para que sea muy disfrutable. Es muy parecido a la [Ley de Amdahl](http://en.wikipedia.org/wiki/Amdahl's_law): siempre conviene invertir en mejorar las partes más grandes y, como aconsejan muchos sistemas de productividad, solucionar los problemas más graves primero.
 

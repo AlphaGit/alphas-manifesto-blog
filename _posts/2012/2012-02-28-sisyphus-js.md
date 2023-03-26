@@ -1,19 +1,23 @@
 ---
-
 title: Sisyphus.js
-date: '2012-02-28 12:35:36 +0000'
-date_gmt: '2012-02-28 17:35:36 +0000'
+date: 2012-02-28 12:35:36 +0000
+date_gmt: 2012-02-28 17:35:36 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- open source
-- experiencia del usuario
-- user experience
-- formulario
-- autoguardado
+  - JavaScript
+  - open source
+  - experiencia del usuario
+  - user experience
+  - formulario
+  - autoguardado
 subtitle: Widget de autoguardado
+description: >-
+  Gmail autoguardado, Hotmail frustración, Sisyphus.js open source, guardar
+  local storage, formulario información, serializar servidor, relacionada cuenta
+  navegador.
 ---
+
 
 Una característica que seguramente todos adoramos de GMail es el autoguardado. Al momento exacto en que dejamos de escribir un mail, este se autoguarda, y no recuerdo cuándo fue la última vez que perdí un mail por accidentalmente refrescar la página. Quienes vienen de las viejas épocas de Hotmail conocen mi frustración.
 

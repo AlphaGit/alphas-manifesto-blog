@@ -1,22 +1,25 @@
 ---
-
 title: Naturaleza y ciencias
-date: '2012-06-05 08:54:13 +0000'
-date_gmt: '2012-06-05 13:54:13 +0000'
+date: 2012-06-05 08:54:13 +0000
+date_gmt: 2012-06-05 13:54:13 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- ciencia
-- matemática
-- naturaleza
-- aritmética
-- ciencias de la computación
-- monte carlo
-- algoritmos de búsqueda
-- Fibonacci
-- relámpagos
+  - ciencia
+  - matemática
+  - naturaleza
+  - aritmética
+  - ciencias de la computación
+  - monte carlo
+  - algoritmos de búsqueda
+  - Fibonacci
+  - relámpagos
 subtitle: Sobre el punto en donde dos mundos se tocan
+description: >-
+  Nature model for solving scientific problems. Examples: lightning, Fibonacci,
+  plants. Invitation to share more.
 ---
+
 
 ¿Puede la naturaleza ser un modelo de cómo resolver problemas de las ciencias? La pregunta tiene una respuesta obvia. Sabemos que sí, sabemos que muchos procesos pueden copiarse desde la naturaleza para mejorar la forma en la que resolvemos determinados problemas. Desafortunadamente, muchas veces, determinadas áreas de las ciencias quedan fuera porque la relación con el mundo natural está algo alejado. Por ejemplo, las ciencias de la computación o la aritmética.
 

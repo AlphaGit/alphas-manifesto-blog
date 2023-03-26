@@ -1,20 +1,24 @@
 ---
-
 title: Web Form Best Practices
-date: '2012-05-04 07:58:36 +0000'
-date_gmt: '2012-05-04 12:58:36 +0000'
+date: 2012-05-04 07:58:36 +0000
+date_gmt: 2012-05-04 12:58:36 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- web application
-- best practices
-- experiencia del usuario
-- user experience
-- StackExchange
-- UX
-- web form
+  - web application
+  - best practices
+  - experiencia del usuario
+  - user experience
+  - StackExchange
+  - UX
+  - web form
 subtitle: Buenas prácticas para formularios web
+description: >-
+  User Experience forum question, form UI/UX best practices, Web Application
+  Design Patterns reference, share references, label alignment, unified text
+  fields.
 ---
+
 
 Otra de las preguntas de los foros de User Experience, bajo el título de [Have I missed anything from my list of web form best practices?](http://ux.stackexchange.com/questions/9898/have-i-missed-anything-from-my-list-of-web-form-best-practices), consiguió una muy buena recopilación de consejos de buenas práctica sobre interfaces de formularios y UI / UX. Si van a mirarlo, miren todas las respuestas, ya que la pregunta principal no ha sido actualizada para recopilar completamente todo lo que han sugerido.
 

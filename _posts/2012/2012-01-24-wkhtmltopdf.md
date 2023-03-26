@@ -1,19 +1,22 @@
 ---
-
 title: wkhtmltopdf
-date: '2012-01-24 12:53:53 +0000'
-date_gmt: '2012-01-24 17:53:53 +0000'
+date: 2012-01-24 12:53:53 +0000
+date_gmt: 2012-01-24 17:53:53 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- HTML
-- PDF
-- aplicación
-- Webkit
-- documentos
-- páginas
+  - HTML
+  - PDF
+  - aplicación
+  - Webkit
+  - documentos
+  - páginas
 subtitle: De HTML a PDF
+description: >-
+  Aplicación QT y Webkit para conversiones de páginas web a PDFs y imágenes,
+  generación automatizada y procesamiento de contenido.
 ---
+
 
 Nombre complicado, pero aplicación muy útil. Hace algunos días ando trabajando con [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/), una aplicación basada en QT y en Webkit que renderiza páginas web y las convierte en PDFs. Lo interesante es la forma en la que se puede automatizar este proceso, generando elementos más allá del contenido en sí (como tablas de contenido, encabezados y pies de página, etc). Mejor aún, este paquete contiene wkhtmltoimage.
 

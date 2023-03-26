@@ -1,17 +1,21 @@
 ---
-
 title: Mitigando ataques de ingeniería social
-date: '2012-03-06 09:55:27 +0000'
-date_gmt: '2012-03-06 14:55:27 +0000'
+date: 2012-03-06 09:55:27 +0000
+date_gmt: 2012-03-06 14:55:27 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- riesgo
-- ingeniería social
-- ataques
-- newsletter
+  - riesgo
+  - ingeniería social
+  - ataques
+  - newsletter
 subtitle: Top 5 de acciones para prevenirse
+description: >-
+  Esperaba newsletter sobre reducción de riesgo ingeniería social. Newsletter
+  número 29 tiene 5 tips. Describe importancia y consecuencias. Formato roto
+  pero legible.
 ---
+
 
 Desde el mes pasado estoy esperando a que [Social-Engineer.org](http://www.social-engineer.org/) deje salir a la luz el newsletter que enviaron sobre tips de reducción de riesgo ante ataques de ingeniería social. Este newsletter, específicamente el número 29, se titula [The Top 5 Social Engineering Mitigation Tips](http://www.social-engineer.org/newsletter/Social-Engineer.OrgNewsletterVol.03Iss.29.htm).
 

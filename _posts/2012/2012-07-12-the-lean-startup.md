@@ -1,25 +1,31 @@
 ---
-
 title: The Lean Startup
-date: '2012-07-12 20:47:11 +0000'
-date_gmt: '2012-07-13 01:47:11 +0000'
+date: 2012-07-12 20:47:11 +0000
+date_gmt: 2012-07-13 01:47:11 +0000
 categories:
-- Books
+  - Books
 tags:
-- negocios
-- herramientas
-- métricas
-- review
-- reglas
-- book
-- Eric Ries
-- startup
-- entrepeneur
-- entrepeneurship
-- método científico
-- empresas
-subtitle: Cómo los entrepeneurs de hoy usan la innovación continua para crear negocios exitosos
+  - negocios
+  - herramientas
+  - métricas
+  - review
+  - reglas
+  - book
+  - Eric Ries
+  - startup
+  - entrepeneur
+  - entrepeneurship
+  - método científico
+  - empresas
+subtitle: >-
+  Cómo los entrepeneurs de hoy usan la innovación continua para crear negocios
+  exitosos
+description: >-
+  Innovar en entornos inciertos, herramientas útiles, Eric Ries, Lean Startup,
+  casos reales, resultados, procesos, producto, método científico, zorrinito
+  entrepeneur.
 ---
+
 
 [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Eric-Ries/dp/0670921602) es no sólo el título del nuevo libro de **Eric Ries**, sino además el nombre del movimiento que él inició intentando reestructurar la forma en la que se ve al entrepeneurship y a la innovación dentro del mundo que vivimos. Este movimiento tiene su [sitio principal en el sitio de The Lean Startup](http://theleanstartup.com/).
 

@@ -1,18 +1,21 @@
 ---
-
 title: Backbone.js
-date: '2012-02-06 10:40:14 +0000'
-date_gmt: '2012-02-06 15:40:14 +0000'
+date: 2012-02-06 10:40:14 +0000
+date_gmt: 2012-02-06 15:40:14 +0000
 categories:
-- Link del día
+  - Link del día
 tags:
-- JavaScript
-- desarrollo web
-- MVC
-- patterns
-- complejidad
-- BackboneJS
+  - JavaScript
+  - desarrollo web
+  - MVC
+  - patterns
+  - complejidad
+  - BackboneJS
+description: >-
+  Integrar Backbone.js, estructura MVC, difícil aprender, documentación útil,
+  Seven Deadly Sins, zorrinito frontend.
 ---
+
 
 ![]({{ site.baseurl }}/assets/backbone.png)
 

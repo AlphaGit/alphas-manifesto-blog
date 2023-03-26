@@ -1,26 +1,30 @@
 ---
-
 title: Responsive Web vs. Mobile Web
-date: '2012-09-05 21:37:12 +0000'
-date_gmt: '2012-09-06 02:37:12 +0000'
+date: 2012-09-05 21:37:12 +0000
+date_gmt: 2012-09-06 02:37:12 +0000
 categories:
-- Technology
+  - Technology
 tags:
-- HTML
-- web application
-- CSS
-- HTML5
-- desarrollo móvil
-- Technology
-- design
-- CSS3
-- aplicación móvil
-- mobile
-- móvil
-- responsive
-- media queries
+  - HTML
+  - web application
+  - CSS
+  - HTML5
+  - desarrollo móvil
+  - Technology
+  - design
+  - CSS3
+  - aplicación móvil
+  - mobile
+  - móvil
+  - responsive
+  - media queries
 subtitle: ¿Qué son y cuándo usar cada uno?
+description: >-
+  CSS3, HTML5, responsive web design, media queries, contenido vs interacción,
+  web semántica, mobile web, dispositivos móviles, sentido común, elección
+  apropiada.
 ---
+
 
 ![]({{ site.baseurl }}/assets/pantallas.png)
 

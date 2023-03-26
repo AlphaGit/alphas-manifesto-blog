@@ -1,28 +1,31 @@
 ---
-
 title: La confianza por el equipo
-date: '2012-07-30 08:59:31 +0000'
-date_gmt: '2012-07-30 13:59:31 +0000'
+date: 2012-07-30 08:59:31 +0000
+date_gmt: 2012-07-30 13:59:31 +0000
 categories:
-- Life
+  - Life
 tags:
-- proyecto
-- Quality Assurance
-- requerimientos
-- comunicación
-- user testing
-- historia
-- confianza
-- procesos
-- problemas
-- anécdota
-- coordinación
-- team work
-- UAT
-- QA
-- project management
+  - proyecto
+  - Quality Assurance
+  - requerimientos
+  - comunicación
+  - user testing
+  - historia
+  - confianza
+  - procesos
+  - problemas
+  - anécdota
+  - coordinación
+  - team work
+  - UAT
+  - QA
+  - project management
 subtitle: El manual de Nick Fury para coordinar equipos
+description: >-
+  Nick Fury arriesga todo para defender equipo. Confianza crece entre equipo y
+  cliente. Usuarios felices con sinceridad. Buen resultado final.
 ---
+
 
 Cuando escribí _mi review de la película Avengers_ mencioné lo siguiente:
 
