@@ -11,7 +11,6 @@ tags:
 - librería
 - encriptación
 - RSA
-
 ---
 
 Ya alguna vez había mencionado una librería JavaScript para encriptar datos (_jCryption_), pero nunca está de más considerar otras alternativas. En este caso se trata de [cryptico.js](http://cryptico.wwwtyro.net/). El proyecto también es de Open Source y nos permite usar AES y RSA (o eso leí, pero la [documentación](http://code.google.com/p/cryptico/) sólo menciona RSA), y con una serie de métodos muy simples, nos permite operar con cadenas que queramos utilizar para transmitir de forma segura.

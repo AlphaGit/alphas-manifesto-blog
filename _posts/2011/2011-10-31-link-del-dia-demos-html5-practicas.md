@@ -10,7 +10,6 @@ tags:
 - Technology
 - demo
 - referencia
-
 ---
 
 Cuando se viene el momento de implementar cosas en HTML5 puede que nos demos cuenta que nuestro conocimiento del mismo no es lo suficientemente profundo aún como para poder utilizarlo de una forma autónoma. Esto es, todavía nos falta algo de práctica y de separación de conceptos para tener todo claro y simple en nuestra cabeza. Lo mejor para estos casos sería sin duda un manual de referencia con ejemplos cortitos, y eso es lo que alguien más pensó para hacer esta galería de demos.

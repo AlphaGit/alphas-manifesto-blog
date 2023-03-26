@@ -9,7 +9,6 @@ tags:
 - seguridad
 - navegadores
 - cache
-
 ---
 
 Gracias a una característica propia de los browsers en cuanto a la forma que cachean elementos (algo que está funcionando desde hace un buen tiempo ya), resulta que es posible que explotando esa funcionalidad se pueda hacer trackeo de usuarios de la misma forma que podríamos hacerlo con cookies u otros elementos persistentes (recuerdan [EverCookie]({{ site.baseUrl }}{% link _posts/2010/2010-10-21-link-del-dia-evercookie.md %})?).

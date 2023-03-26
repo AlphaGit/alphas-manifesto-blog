@@ -11,7 +11,6 @@ tags:
 - Vimeo
 - videos
 - plugin
-
 ---
 
 De la misma forma que hace poco hablamos de [Adaptive Images]({{ site.baseUrl }}{% link _posts/2011/2011-09-02-link-del-dia-adaptive-images-mobile.md %}), hoy tenemos una propuesta parecida para videos, llamada [FitVids](http://fitvidsjs.com/) (también de parte de la gente de [CSS Tricks](http://css-tricks.com/14103-fitvids-js/)). Más que una configuración del lado del servidor, FitVids se trata de un plugin de jQuery que nos permite hacer el tamaño de los videos fluidos, ajustados al máximo de su contenedor, permitiendo que las cajas de los videos sean también fluidos con el diseño de la página.

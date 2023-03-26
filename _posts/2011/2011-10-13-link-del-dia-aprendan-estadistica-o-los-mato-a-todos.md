@@ -11,7 +11,6 @@ tags:
 - artículo
 - rant
 - programming
-
 ---
 
 Este link que me llegó del nuevo Delicious trata de un _rant_ de Zed Shaw titulado [Programmers need to learn statistics or I will kill them all](http://zedshaw.com/essays/programmer_stats.html). Trata de las frustraciones que él encuentra al momento de discutir resultados de tests y generalizaciones con determinados programadores con los que ha trabajado.

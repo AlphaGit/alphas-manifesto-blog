@@ -10,7 +10,6 @@ tags:
 - ataques
 - encriptación
 - permisos
-
 ---
 
 Seguramente nosotros nos sentimos protegidos porque tenemos... qué? Un antivirus y un firewall? Muchos de nosotros ni eso debemos tener.

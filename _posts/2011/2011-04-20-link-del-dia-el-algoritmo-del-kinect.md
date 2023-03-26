@@ -1,21 +1,17 @@
 ---
-title: 'Link del día: El algoritmo del Kinect'
-date: 2011-04-20 11:59:13 +0000
-date_gmt: 2011-04-20 13:59:13 +0000
-categories:
-  - Link del día
-  - Technology
-tags:
-  - Microsoft
-  - algoritmo
-  - gaming
-  - paper
-description: >-
-  Descubre el algoritmo detrás del Kinect que Microsoft acaba de revelar en un
-  paper reciente. Conoce cómo se hace el reconocimiento de gestos y ¡sé el
-  próximo en armar tu aplicación Kinect-like!
----
 
+title: 'Link del día: El algoritmo del Kinect'
+date: '2011-04-20 11:59:13 +0000'
+date_gmt: '2011-04-20 13:59:13 +0000'
+categories:
+- Link del día
+- Technology
+tags:
+- Microsoft
+- algoritmo
+- gaming
+- paper
+---
 
 Si es que han visto demos, publicidades, o han jugado personalmente con el Kinect, probablemente se habrán dado cuenta que tiene mucho trabajo volcado en ese producto, y mucha tecnología novedosa sobre la forma en la que se pueden reconocer los cuerpos, las caras y los movimientos. Simplemente, una forma que resultó ser viable de utilizar el reconocimiento de gestos de una forma muy amplia.
 

@@ -10,7 +10,6 @@ tags:
 - Technology
 - MicroSiervos
 - neurociencia
-
 ---
 
 Esto no es particularmente nuevo, y de hecho, he escuchado de algunas personas que ya se han adquirido uno de estos productos. Se trata de una versión "simpática"/"neko" de _Emotiv_, aunque realmente no sé si las marcas estén relacionadas. Aunque está claro que la tecnología detrás de esto si lo está.

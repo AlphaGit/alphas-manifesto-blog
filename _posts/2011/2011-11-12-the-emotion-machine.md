@@ -11,7 +11,6 @@ tags:
 - Minsky
 - mente
 - book
-
 ---
 
 I have finally finished reading [Marvin Minsky](http://web.media.mit.edu/~minsky/)'s The Emotion Machine. As I read the different chapters, I had written some reviews about it ([[1]](http://automatumvitae.com/2009/09/20/the-emotion-machine-emotional-states-attachments-and-goals-from-pain-to-suffering/), [[2]]({{ site.baseUrl }}{% link _posts/2010/2010-10-08-the-emotion-machine-chapter-4-consciousness.md %})), but I decided not to do that anymore as I was missing the point of the book into the details. My assumption was correct: the final chapters do provide some sort of global vision of the rest of the book that explains the whole theory and provides a good wrap-up of Minsky's theory.

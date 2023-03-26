@@ -1,21 +1,17 @@
 ---
-title: 'Link del día: Patrones CSS3'
-date: 2011-04-19 13:02:46 +0000
-date_gmt: 2011-04-19 15:02:46 +0000
-categories:
-  - Link del día
-tags:
-  - desarrollo web
-  - blog
-  - design
-  - CSS3
-  - galería
-description: >-
-  Descubre la magia de CSS3 creando patrones de fondos con código, interactúa
-  con la [CSS3 Pattern Gallery](http://leaverou.me/css3patterns/) de Lea Verou,
-  un blog sobre estándares webs y técnicas CSS.
----
 
+title: 'Link del día: Patrones CSS3'
+date: '2011-04-19 13:02:46 +0000'
+date_gmt: '2011-04-19 15:02:46 +0000'
+categories:
+- Link del día
+tags:
+- desarrollo web
+- blog
+- design
+- CSS3
+- galería
+---
 
 La magia de CSS3 nos da la posibilidad de crear una enorme cantidad de figuras complejas, y lo bueno es que son características propias del lenguaje, no se tratan de hacks o de implementaciones propias de navegadores.
 

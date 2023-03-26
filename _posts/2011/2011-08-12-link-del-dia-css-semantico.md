@@ -10,7 +10,6 @@ tags:
 - desarrollo web
 - web semántica
 - best practices
-
 ---
 
 Desde [CSS Tricks](http://css-tricks.com/) (muy buen sitio de referencia, por cierto) me llegó un artículo llamado [What Makes for a Semantic Class Name?](http://css-tricks.com/13423-semantic-class-names/) Este tema parece algo tonto desde su concepción básica: "cómo nombrar clases de CSS". En un principio, realmente no importa cómo se llamen, si el estilo está bien, se verá bien y será como nosotros queremos.

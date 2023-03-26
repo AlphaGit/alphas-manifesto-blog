@@ -11,7 +11,6 @@ tags:
 - estadísticas
 - artículo
 - fraude
-
 ---
 
 Esto no es ninguna novedad, pero para mí sí lo es: [La ley de Benford](http://en.wikipedia.org/wiki/Benford's_law) es una ley estadística que dice que en muestras númericas del mundo real, hay una distribución determinada de la aparición de los primeros dígitos en esos números. Es decir, que si midiéramos a todos los seres humanos, el número que más aparecería en esas mediciones, los números que empiezan con 1 tendrían cierta distribución, los que empiezan con 2 tendrían otra, etc.
