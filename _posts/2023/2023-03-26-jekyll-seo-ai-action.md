@@ -51,9 +51,13 @@ Also, having the model process the YAML front matter of the blog post did add a 
 In the end, I ended up with this shorter version of the prompt, which worked better:
 
 > Provide exactly 10 words summarizing a blog post provided in markdown format, in the same language as the post. Keep the response without formatting of any kind. 
+>
 > ---BLOG POST BEGIN---
+>
 > {text of the blogpost}
+>
 > ---BLOG POST END---
+>
 > 10 word summary:
 
 **Lesson learned #3:** The latest parts of the model input have bigger priority and presence than the rest of the text provided. (Which makes sense, because it's a text completion model.)
