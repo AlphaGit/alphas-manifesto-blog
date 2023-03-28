@@ -262,14 +262,15 @@ When doing so, explain:
 <tr>
 <td><pre>// FIXME user permissions are wrong</pre></td>
 <td><pre>// TODO review given user permissions,
-// they may be not allowing users of type "regularUser" to save data (LS-102)</pre></td>
+// they may be not allowing users of
+// type "regularUser" to save data (LS-102)</pre></td>
 </tr>
 <tr>
 <td></td>
 <td><pre>// TODO rename this method to "saveUserData",
 // as it explains better its purpose. Won't do
-// that right now because the API depends on it and that involves
-// major changes. (LS-105)</pre></td>
+// that right now because the API depends on it
+// and that involves major changes. (LS-105)</pre></td>
 </tr>
 </tbody>
 </table>
