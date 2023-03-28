@@ -159,6 +159,10 @@ td {
     padding: 1em;
 }
 
+    td pre {
+        width: unset;
+    }
+
 dt {
     margin-top: 0.5em;
     font-style: italic;
