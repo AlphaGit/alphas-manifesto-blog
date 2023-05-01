@@ -80,7 +80,7 @@ Mail mío del 28/06/2007:
 > 
 > PD: Te mando una imagen con un diagrama de estas clases. En lugar de ayudarte te va a complicar más y te acerca en un 0.05% a la embolia cerebral. Pero es un problema que resuelve tu instancia, no la mía. xD
 > 
-> ![]({{ site.baseurl }}/assets/Clases+Iteracion+1.GIF)
+> ![]({{ site.baseurl }}/assets/PresupuestoClasesIteracion1.gif)
 > 
 > PD 2:  Me olvidé de decir que la clase **Presupuesto** es hija de la clase  **ListadoItems**. Esto es porque debe tener toda la funcionalidad que tiene un listado de items. De hecho, es básicamente un listado con un poco más de funcionalidad. Me olvidé de mencionarlo pero en el diagrama está indicado.
 
