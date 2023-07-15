@@ -12,8 +12,8 @@ tags:
   - JsonGrid
   - JavaScript
 header:
-  image: assets/TODO
-  image_description: TODO
+  image: assets/whip.png
+  image_description: Sharpening the whip! (If that even makes sense.)
 description: >-
   Making the Switch: From Insomnia REST to Postman with Enhanced JSON Visualization
   using JsonGrid.
@@ -31,7 +31,7 @@ One of the things I absolutely loved about my return to Postman is the existence
 
 For JSON visualizations, the default prettifier is pretty good and pretty much what you'd expect. However, for responses where there are arrays of objects, it becomes very tiresome to go through each of them, when usually you're looking for a particular value, or looking to compare the same value across different objects.
 
-<TODO: Image>
+![Postman visualizer example]({{ site.baseurl }}/assets/2023-07-13-postman-jsongrid/postman-visualizers.jpg)
 
 ## JsonGrid
 
@@ -39,7 +39,7 @@ I've always liked Chris Nielsen's [JSON Visualization tool](https://altearius.gi
 
 It also happens that JsonGrid is a portable (and pre-packaged) open source library, [available at GitHub](https://github.com/araujoigor/json-grid). And it also turns out that the integration work is mostly 3 lines.
 
-<TODO: Image>
+![JSonGrid website example]({{ site.baseurl }}/assets/2023-07-13-postman-jsongrid/jsongrid-example.jpg)
 
 ## Integration
 
@@ -67,4 +67,4 @@ pm.visualizer.set(template);
 
 From it, you're free to add any styles that you'd like (I personally like to reduce the fonts a little bit), and you're good to go!
 
-<TODO: Image>
+![Visualization example]({{ site.baseurl }}/assets/2023-07-13-postman-jsongrid/visualization-example.jpg)
