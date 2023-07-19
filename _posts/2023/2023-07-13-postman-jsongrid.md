@@ -46,16 +46,14 @@ It also happens that JsonGrid is a portable (and pre-packaged) open source libra
 Add this into your "Tests" tab for a collection/folder/request and you're good to go!
 
 ```javascript
-const responseJson = pm.response.json();
-const resJsonString = JSON.stringify(responseJson);
-
 const template = `
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/@araujoigor/json-grid/dist/json-grid.css">
     <script src="https://unpkg.com/@araujoigor/json-grid/dist/JSONGrid.min.js"></script>
     
     <div id="container"></div>
     <script>
-        const data = ${resJsonString};
+        const data = ${responseBody};
         var container = document.getElementById("container");
         var jsonGrid = new JSONGrid(data, container);
         jsonGrid.render();
@@ -68,3 +66,5 @@ pm.visualizer.set(template);
 From it, you're free to add any styles that you'd like (I personally like to reduce the fonts a little bit), and you're good to go!
 
 ![Visualization example]({{ site.baseurl }}/assets/2023-07-13-postman-jsongrid/visualization-example.jpg)
+
+**Update 2023-07-19:** Postman already provides a `responseBody` available variable that contains the response in text format, and JSonGrid can handle text types without issues at all. That means that we get simpler code and even non-JSON response parsing. How wonderful is that?
