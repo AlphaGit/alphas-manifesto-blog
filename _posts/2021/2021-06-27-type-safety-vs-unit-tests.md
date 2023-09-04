@@ -9,7 +9,7 @@ tags:
   - Languages
   - Best practices
 header:
-  image: assets/strong-typing-vs-unit-testing/type-safety.webp
+  image: assets/alpha/type-safety.webp
   image_description: Type Safety
 description: >-
   Strong typed languages offer more than type-unit tests, better abstracting

@@ -12,7 +12,7 @@ tags:
   - JsonGrid
   - JavaScript
 header:
-  image: assets/whip.png
+  image: assets/alpha/whip.png
   image_description: Sharpening the whip! (If that even makes sense.)
 description: >-
   Making the Switch: From Insomnia REST to Postman with Enhanced JSON Visualization

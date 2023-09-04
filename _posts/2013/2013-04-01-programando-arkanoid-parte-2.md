@@ -21,7 +21,7 @@ tags:
 subtitle: El escenario de juego y el jugador en él
 ---
 
-![]({{ site.baseurl }}/assets/Building2lq.jpg)
+![]({{ site.baseurl }}/assets/alpha/Building2lq.jpg)
 
 [En la entrega pasada]({{ site.baseUrl }}{% link _posts/2013/2013-03-13-programando-arkanoid-parte-1.md %}) hablamos sobre cómo comenzó el <a title="Arkanoid" href="https://github.com/AlphaGit/random-javascript/tree/master/arkanoid-canvas">juego de Arkanoid</a>, ahora continuaremos ese camino sobre la construcción del escenario de juego.
 
@@ -65,7 +65,7 @@ Como nota extra, notarán que no me preocupó escribir esto en el global scope. 
 
 ## El jugador
 
-![]({{ site.baseurl }}/assets/Building1lq.jpg)
+![]({{ site.baseurl }}/assets/alpha/Building1lq.jpg)
 
 
 El jugador será el primero de los elementos que se dibuje en nuestra pantalla, y eso ya agrega varias responsabilidades a resolver. El dibujado en sí no debería ser una responsabilidad del jugador, sino las características que lo hacen un jugador (como su posición y su movimiento). Por supuesto, también debe dibujarse pero esa no es una característica única de él. ¡Esto suena a herencia de objetos!

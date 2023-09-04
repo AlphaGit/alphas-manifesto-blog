@@ -20,7 +20,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/WhysFox.png)
+![]({{ site.baseurl }}/assets/alpha/WhysFox.png)
 
 A few of you may already know that I've started learning Ruby. I cannot tell at this moment if its going to be a huge career shift for me or not, but still, here I am. And I started with Why's Poignant Guide to Ruby, a definitely... unusual book.
 

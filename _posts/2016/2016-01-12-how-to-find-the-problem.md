@@ -24,7 +24,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/chemistryskunk.png)
+![]({{ site.baseurl }}/assets/alpha/chemistryskunk.png)
 
 User minusSeven from the StackExchange community asked a seemingly uninteresting question that happens to be really deep and meaningful: [How do you learn programming when you're stuck and without access to the internet?](http://productivity.stackexchange.com/questions/4827) All the answers there are really good and useful, but I think there's an underlying theme worth discussing: how a methodical approach should be.
 

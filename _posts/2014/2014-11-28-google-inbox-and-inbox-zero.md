@@ -19,7 +19,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Inbox.png)
+![]({{ site.baseurl }}/assets/alpha/Inbox.png)
 
 I recently received a Google Inbox invitation, after requesting it three weeks ago. And after trying it out... boy, I love it.
 

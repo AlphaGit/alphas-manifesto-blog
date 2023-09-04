@@ -8,7 +8,7 @@ tags:
   - Privacy
   - Security
 header:
-  image: assets/cookies.webp
+  image: assets/alpha/cookies.webp
   image_description: Inspecting cookies
 description: >-
   Privacy battle is difficult; companies, governments, and individuals misuse

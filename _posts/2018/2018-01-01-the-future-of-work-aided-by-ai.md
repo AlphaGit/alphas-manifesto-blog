@@ -22,7 +22,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/BeeDrones.jpg)
+![]({{ site.baseurl }}/assets/alpha/BeeDrones.jpg)
 
 I recently came across the article [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/), by Shan Carter and Michael Nielsen. I'd like to tell you a bit about the ideas that this essay mentions, and a few interpretations of my own about them.
 

@@ -19,7 +19,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/whip.png)
+![]({{ site.baseurl }}/assets/alpha/whip.png)
 
 Have you ever met a carpenter that would pick up a wrench and hit a nail with it? Probably not, and if you saw that, you would probably be thinking in taking your business elsewhere. And if you wouldn't, then you should. Here's why.
 

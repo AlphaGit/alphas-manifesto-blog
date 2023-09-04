@@ -9,7 +9,7 @@ tags:
   - Algorithms
   - Science
 header:
-  image: assets/roboticskunk.webp
+  image: assets/alpha/roboticskunk.webp
   image_description: AI
 description: >-
   Machine learning algorithm predicts planetary motions from observational data,

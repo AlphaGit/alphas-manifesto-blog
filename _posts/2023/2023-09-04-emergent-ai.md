@@ -10,7 +10,7 @@ tags:
   - AGI
   - Complexity
 header:
-  image: assets/BeeDrones.jpg
+  image: assets/alpha/BeeDrones.jpg
   image_description: Bee drones header image
 ---
 

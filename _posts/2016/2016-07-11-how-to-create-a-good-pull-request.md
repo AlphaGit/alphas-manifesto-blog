@@ -18,7 +18,7 @@ tags:
 subtitle: A meta-guide for creating easy to review requests
 ---
 
-![]({{ site.baseurl }}/assets/CodeReviewFilter1.jpg)
+![]({{ site.baseurl }}/assets/alpha/CodeReviewFilter1.jpg)
 
 This has been a common question and a subject of debate since everyone has their opinions on what _good code_ is and what _bad code_ is. Regardless, the pull request is not about the code itself but about the actions of reviewing, adjusting, discussing and assimilating (merging) code, which may be good or bad in itself.
 

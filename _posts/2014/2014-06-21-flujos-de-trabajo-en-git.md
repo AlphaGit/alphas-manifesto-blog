@@ -21,7 +21,7 @@ description: Git rebase squash proporciona línea de tiempo simple y útil.
 ---
 
 
-![]({{ site.baseurl }}/assets/gitTree.png)
+![]({{ site.baseurl }}/assets/alpha/gitTree.png)
 
 Desde la última vez que dí una actualización sobre what-now ha pasado un tiempo considerable. Mi intención original era ser más consistente con estas actualizaciones, a modo de diario de desarrollo, pero varias cosas me detuvieron. Por un lado no quise convertirme en spam o publicidad de un producto que ni siquiera vale la pena, y por otro lado, no siempre tengo algo interesante que contar.
 

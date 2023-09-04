@@ -27,7 +27,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Singleton.png)
+![]({{ site.baseurl }}/assets/alpha/Singleton.png)
 
 No, I'm not talking about those that can't find someone to be with. You're ok in my book.
 

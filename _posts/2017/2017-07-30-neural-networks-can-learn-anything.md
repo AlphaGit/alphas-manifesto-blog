@@ -21,7 +21,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/SkunkBalls.jpg)
+![]({{ site.baseurl }}/assets/alpha/SkunkBalls.jpg)
 
 This is a question I've been recently asked, and I think it's interesting enough to share about. A few people asked me how is it that machines can learn, and specifically, how is it that neural networks can learn to understand data that may be really complex. The goal of this article is not to give an in-depth explanation, but rather one that can be easily understood.
 

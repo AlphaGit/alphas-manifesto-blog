@@ -22,7 +22,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Semaforo1.png)
+![]({{ site.baseurl }}/assets/alpha/Semaforo1.png)
 
 **Software engineers, amirite?** They keep blabbing about this fancy-pantsy weird wibbly-wobbly stuff nobody understands and they just want to keep things complicated. They want to _test_ things even before they are done and _then_ develop the app. Are they insane? And it even takes more time, so it's a waste of money.
 

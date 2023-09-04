@@ -26,7 +26,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/pantallas.png)
+![]({{ site.baseurl }}/assets/alpha/pantallas.png)
 
 Ahora que el mundo web se ha acelerado de forma increíble, CSS3 y HTML5 son más y más poderosos cada día. Una de las características que trajo CSS3 son _media queries_, que habilitan un nuevo tipo de sitio llamado _responsive web_.  ¿Qué es esto y cómo nos afecta?
 
@@ -66,7 +66,7 @@ La aplicación más interesante para responsive design fue, entonces, el mercado
 
 ##  ¿Es Responsive Design entonces la respuesta para sitios mobile?
 
-![]({{ site.baseurl }}/assets/ZorriDepende.png)
+![]({{ site.baseurl }}/assets/alpha/ZorriDepende.png)
 
 
 **La respuesta es, como muchas cosas: depende.**

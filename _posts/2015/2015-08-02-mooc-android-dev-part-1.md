@@ -18,7 +18,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/android.png)
+![]({{ site.baseurl }}/assets/alpha/android.png)
 
 Yes, I continue to go on courses. Now I just finished the [Android Development Part 1](https://www.coursera.org/course/androidpart1) (or "Programming Mobile Applications for Android Handheld Systems: Part 1"), dictated by the University of Maryland.
 
