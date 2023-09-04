@@ -24,7 +24,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/juggling.png)
+![]({{ site.baseurl }}/assets/alpha/juggling.png)
 
 A few days ago I got the combination of Angular + Protractor + TravisCI + SauceLabs working together. There are a few quirks into making this work, but nowhere I found a comprehensive description to jump all the obstacles. Here I'll describe what I did to get there.
 

@@ -19,7 +19,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/robotchessplayer.png)
+![]({{ site.baseurl }}/assets/alpha/robotchessplayer.png)
 
 I've recently taken and finished the course on [General Game Playing](https://www.coursera.org/course/ggp), by Stanford University. Let me tell you what it was about and what the experience was like.
 

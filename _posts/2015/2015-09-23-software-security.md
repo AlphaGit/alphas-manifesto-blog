@@ -22,7 +22,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/candado.png)
+![]({{ site.baseurl }}/assets/alpha/candado.png)
 
 Yes, I continue to go on courses. Now I just finished the [Software Security](https://www.coursera.org/course/softwaresec) course, from the University of Maryland.
 

@@ -22,7 +22,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Favorites.jpg)
+![]({{ site.baseurl }}/assets/alpha/Favorites.jpg)
 
 [Una amiga mía preguntó en DeviantArt](http://trollkhatt.deviantart.com/journal/Question-Why-do-you-fav-370017816):  ¿por qué favean?  ¿Qué hacen con sus favoritos?
 

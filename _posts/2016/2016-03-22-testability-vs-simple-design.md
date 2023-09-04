@@ -25,7 +25,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/arrow.jpg)
+![]({{ site.baseurl }}/assets/alpha/arrow.jpg)
 
 You may know I'm a proponent for simplicity. I believe that if a particular feature can be achieved with a single `if` statement, then that's all that needs to be done. I'm also a proponent of testability, that all code should be easily testable so that we can make sure that it works. As it turns out, these two don't usually go hand in hand. (Spoiler alert: that's not true.)
 

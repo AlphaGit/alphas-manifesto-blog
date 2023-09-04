@@ -19,7 +19,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/multitasking.png)
+![]({{ site.baseurl }}/assets/alpha/multitasking.png)
 
 Not sure if this has happened to you, but sometimes there's just too much going on at the same time. Pretty much more that we can handle in our head.
 

@@ -20,7 +20,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Art.png)
+![]({{ site.baseurl }}/assets/alpha/Art.png)
 
 I just finished an art course on an MOOC platform and got a certificate for it. Let me tell you how was it like.
 

@@ -12,7 +12,7 @@ tags:
   - Jekyll
   - JavaScript
 header:
-  image: assets/chemistryskunk.png
+  image: assets/alpha/chemistryskunk.png
   image_description: Chemistry skunk
 description: >-
   Exploring OpenAI's GPT-3 models to autogenerate blog post descriptions with

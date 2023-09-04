@@ -21,7 +21,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/CodeReviewFilter2.jpg)
+![]({{ site.baseurl }}/assets/alpha/CodeReviewFilter2.jpg)
 
 I recently wrote about [how to create a good pull request]({{ site.baseUrl }}{% link _posts/2016/2016-07-11-how-to-create-a-good-pull-request.md %}), this is, how to make your code changes easy to review and discuss. Now we're going to talk about the second part: reviewing someone else's code. This puts you on the reviewers side, and hopefully the person submitting code did follow our guidelines to make your life easier.
 

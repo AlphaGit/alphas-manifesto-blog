@@ -21,7 +21,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Calendar_marked.png)
+![]({{ site.baseurl }}/assets/alpha/Calendar_marked.png)
 
 Long time ago I wrote about a proposal from a StackExchange user about [how to use Google Calendar for task planning]({{ site.baseUrl }}{% link _posts/2013/2013-09-16-google-calendar-para-manejo-de-tareas.md %}) across projects and activities. The idea seemed good, and after months of making it my bread and butter, I think I have perfected it to address most of the problems I had with [my workflow in Trello]({{ site.baseUrl }}{% link _posts/2013/2013-08-08-como-uso-trello-para-trabajar-actualizado.md %}). It's  not the holy grail of productivity, but it has helped me a lot.
 

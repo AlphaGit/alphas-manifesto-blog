@@ -10,7 +10,7 @@ tags:
   - Technical Management
   - Time Management
 header:
-  image: assets/TechnicalManagementRoadMeme.webp
+  image: assets/alpha/TechnicalManagementRoadMeme.webp
   image_description: Management (Technical) vs. Technical Management
 description: >-
   Technical leadership involves designing solutions, delegating, balancing team

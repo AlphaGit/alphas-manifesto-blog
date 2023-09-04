@@ -60,7 +60,7 @@ Me aseguré que el volumen no me fuera a hacer explotar la cabeza y puse música
 
 Hoy, casi un año después, pienso exactamente lo mismo.
 
-![]({{ site.baseurl }}/assets/Headphones.jpg)
+![]({{ site.baseurl }}/assets/alpha/Headphones.jpg)
 
 ## DAC -- Conversor digital a análogo
 

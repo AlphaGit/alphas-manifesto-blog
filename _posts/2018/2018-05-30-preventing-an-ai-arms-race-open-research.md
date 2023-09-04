@@ -19,7 +19,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/papers.png)
+![]({{ site.baseurl }}/assets/alpha/papers.png)
 
 I've noticed a trend in the AI research field, and one I feel pretty proud to talk about.
 

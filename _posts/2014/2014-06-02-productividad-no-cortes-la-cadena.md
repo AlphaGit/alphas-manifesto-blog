@@ -19,7 +19,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Calendar_marked.png)
+![]({{ site.baseurl }}/assets/alpha/Calendar_marked.png)
 
 Hace mes y medio (uf! cómo vuela el tiempo), [Andrés Mochini](https://github.com/andresmoschini) compartió un artículo con la técnica de productividad del mismísimo John Resig, la famosa técnica de comenzar un hábito para los proyectos personales y no abandonarlo. Prometí probarla y ver qué tal me acomodaba, y aquí están los resultados.
 

@@ -17,7 +17,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Journal.gif)
+![]({{ site.baseurl }}/assets/alpha/Journal.gif)
 
 I have just learned about this technique called Bullet Journalism, which seem to have revolutionized daily planning for lots of people. I've tried it out myself and it has been definitely something to share. Let me tell you more about it.
 

@@ -21,7 +21,7 @@ description: Expresar condiciones rest como jerarquía con JSON.
 ---
 
 
-![]({{ site.baseurl }}/assets/ToRestOrNotToRest.jpg)
+![]({{ site.baseurl }}/assets/alpha/ToRestOrNotToRest.jpg)
 
 Es muy común que en la especificación de condiciones a llamadas GET REST, la inclusión de diferentes parámetros indique una relación AND entre ambas condiciones.
 

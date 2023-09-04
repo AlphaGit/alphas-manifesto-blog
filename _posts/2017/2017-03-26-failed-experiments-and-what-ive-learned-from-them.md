@@ -24,7 +24,7 @@ description: >-
 ---
 
 
-![]({{ site.baseurl }}/assets/Experiment.png)
+![]({{ site.baseurl }}/assets/alpha/Experiment.png)
 
 In a preparation for a post that I'm going to write, I've prepared some code examples, and of course, making sure they work correctly. I spent nearly all of last week trying to find out what was wrong with my code, and when I did it, it was something really stupid. I don't consider myself very stupid, so why did this happen? Let's reflect a bit.
 

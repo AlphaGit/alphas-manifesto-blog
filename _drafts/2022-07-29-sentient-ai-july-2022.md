@@ -9,8 +9,8 @@ tags:
     - Philosophy
     - Sentience
 header:
-    image: assets/papers.png
-    image_description: #TODO
+    image: assets/alpha/papers.png
+    image_description: Lots of work!
 ---
 
 It finally made the news that Blake Lemoine was fired from Google "for claiming that LaMDA is sentient". At least, that's his version and the title going around.
