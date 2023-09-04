@@ -1,5 +1,4 @@
 ---
-excerpt_separator: <!--more-->
 title: Emergent behaviour and the boom of AI
 subtitle: How a simple concept gave rise to so much more
 categories:
@@ -12,6 +11,9 @@ tags:
 header:
   image: assets/alpha/BeeDrones.jpg
   image_description: Bee drones header image
+description: >-
+  Exploring how a simple concept gave rise to so much more, and how this particular concept is the basis of current explosion of complexity in AI.
+excerpt_separator: <!--more-->
 ---
 
 This year has witnessed a significant transformation in the world, all thanks to a singular technological advancement: improved text prediction.

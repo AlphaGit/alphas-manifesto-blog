@@ -8,11 +8,13 @@ layout: default
   <div class="postContainer">
     <article>
       <div class="postContent">
+        {%- if post.title -%}
         <h1>
           <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h1>
+        {%- endif -%}
 
         {%- if post.subtitle -%}
         <p class="subtitle">
