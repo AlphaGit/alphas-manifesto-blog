@@ -8,17 +8,17 @@ layout: default
   <div class="postContainer">
     <article>
       <div class="postContent">
-        {%- if post.title -%}
+        {%- if post.title or page.title -%}
         <h1>
           <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            {{ post.title | default: page.title }}
           </a>
         </h1>
         {%- endif -%}
 
-        {%- if post.subtitle -%}
+        {%- if post.subtitle or page.subtitle -%}
         <p class="subtitle">
-          {{ post.subtitle }}
+          {{ post.subtitle | default: page.subtitle }}
         </p>
         {%- endif -%}
 
