@@ -8,6 +8,18 @@ layout: default
   <div class="postContainer">
     <article>
       <div class="postContent">
+        <h1>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h1>
+
+        {%- if post.subtitle -%}
+        <p class="subtitle">
+          {{ post.subtitle }}
+        </p>
+        {%- endif -%}
+
         {% include post-main-image.html %}
 
         <div>
