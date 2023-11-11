@@ -68,8 +68,8 @@ alphasmanifesto:
           url: "https://www.linkedin.com/in/raimondijuan/"
         - label: "GitHub"
           url: "https://www.github.com/AlphaGit"
-        - label: "Random thoughts"
-          url: "https://medium.com/@SkunksAndStuff"
+        - label: "Tech Garden"
+          url: "https://techgarden.alphasmanifesto.com/"
   disqus_shortname: "alphasmanifestoblog"
   google_analytics:
     tag_id: "G-6BPLZKSSS1"
