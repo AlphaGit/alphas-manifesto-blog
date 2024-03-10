@@ -52,7 +52,7 @@ That skill is a big deal. Once the complexities of the search and curation are i
 
 Let's illustrate this with a quick example. I have an old Pokèmon Go Plus device that I used to play. Whenever it has issues I need to reset its Bluetooth connection and set it up from scratch. It probably happens once a year, and by that time, I have already forgotten how to do it.
 
-![Pokemon Go Plus, Image from https://www.cnet.com/reviews/nintendo-pokemon-go-plus-review/](assets/2024-03-10-ai-search-has-made-me-more-human/PokemonGoPlus.webp)
+![Pokemon Go Plus, Image from https://www.cnet.com/reviews/nintendo-pokemon-go-plus-review/]({{ site.baseurl }}/assets/2024-03-10-ai-search-has-made-me-more-human/PokemonGoPlus.webp)
 
 My process would be:
 
