@@ -104,19 +104,13 @@ TZ=America/Toronto
 
 There are a few choices that I had to make that are not quite intuitive.
 
-#### It runs periodically
-
-As I mentioned, iCloud does not comply with your decision to keep a folder downloaded, but it will comply with downloading it once you specify it. `brctl` works better for downloading than the UI features provided by iCloud and Finder.
+**It runs periodically:** As I mentioned, iCloud does not comply with your decision to keep a folder downloaded, but it will comply with downloading it once you specify it. `brctl` works better for downloading than the UI features provided by iCloud and Finder.
 
 The timeframe can be adjusted to your liking, I've found that doing this every hour has been a sweet spot for me. It depends on how frequently you return to Obsidian and how frequently you use the space on your disk (which would prompt iCloud to offload some of the folders out).
 
-#### It needs to use absolute paths
+**It needs to use absolute paths:** As I have been working on my [dotfiles repository](https://github.com/AlphaGit/dotfiles) for a while, most of what I can make relative is better, as it will adapt to different setups and even different people. However, `cron` is not able to properly execute the commands on relative paths, or even use `~`, so I used 
 
-As I have been working on my [dotfiles repository](https://github.com/AlphaGit/dotfiles) for a while, most of what I can make relative is better, as it will adapt to different setups and even different people. However, `cron` is not able to properly execute the commands on relative paths, or even use `~`, so I used 
-
-#### It needs to iterate on files
-
-While `brctl` claims to have support on folders, my practical tests showed that operating on files directly will trigger the download right away. I have no explanation for that one.
+**It needs to iterate on files:** While `brctl` claims to have support on folders, my practical tests showed that operating on files directly will trigger the download right away. I have no explanation for that one.
 
 Also, I could not find a way to properly pass multiple files at once (not that it would be feasible anyway, unless it accepted glob parameters which I highly doubt). The `download` command is undocumented at the moment.
 
