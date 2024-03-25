@@ -32,6 +32,18 @@ Deactivating "Optimize my Mac" (which drives this behaviour) might not be an opt
 
 iCloud for Windows has a [Pin Folder functionality](https://support.apple.com/en-ca/guide/icloud-windows/icw8531ad6b7/icloud) that will ensure a selected folder stays locally even though the rest of them might now. Why this is not available to MacOS, it's a mystery to most of the internet. ¯\\_(ツ)_/¯
 
+## Failed solutions
+
+Here are some approaches I've tried and why they didn't work for me.
+
+**Keeping a local copy and just copying it to iCloud every once in a while.** While this approach looks simple and easy to do, it comes with a problem: what do you do about moved/renamed/deleted files? You would have to keep track of all the changes and apply them to the other vaults. At this point, copying is not enough, you're talking about synchronization.
+
+**Synchronization then, using rsync.** I tried this too -- but what happens when you make changes in another computer or on mobile? At this point, your rsync process becomes destructive, because it's only one way.
+
+**Two-way synchronization, using unison.** [Unison](https://github.com/bcpierce00/unison?tab=readme-ov-file) is a really cool tool: you set it up with multiple folders and with some really complex settings (but really smart defaults) and it will listen to changes in them and sync changes from any of those to all the others. However, it doesn't recognize iCloud files as real files, so it will detect everything as being deleted once iCloud decides to offload any of the files.
+
+At this point, we have cornered the problem enough to understand what we need to attack: iCloud needs to keep the files locally.
+
 ## The solution
 
 The `brctl` command (bird service control center) will allow us to download files and folders from iCloud, and it nudges it in the direction of keeping the folder downloaded for a bit.
