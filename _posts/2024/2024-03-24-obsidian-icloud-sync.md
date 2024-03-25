@@ -14,7 +14,7 @@ description: >-
 excerpt_separator: <!--more-->
 ---
 
-For a few years now I've been using [Obsidian as my second brain]({{ site.baseUrl }}{% link _posts/2010/2022-04-11-obsidian.md %}). The magic of Obsidian is that it's only a bunch of markdown files and a clever editor on top of it. This means that any file-syncing solution should be good enough. But the truth is a little bit more complicated than that.
+For a few years now I've been using [Obsidian as my second brain]({{ site.baseUrl }}{% link _posts/2022/2022-04-11-obsidian.md %}). The magic of Obsidian is that it's only a bunch of markdown files and a clever editor on top of it. This means that any file-syncing solution should be good enough. But the truth is a little bit more complicated than that.
 
 <!-- more -->
 
