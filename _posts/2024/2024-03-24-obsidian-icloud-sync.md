@@ -42,6 +42,8 @@ Here are some approaches I've tried and why they didn't work for me.
 
 **Two-way synchronization, using unison.** [Unison](https://github.com/bcpierce00/unison?tab=readme-ov-file) is a really cool tool: you set it up with multiple folders and with some really complex settings (but really smart defaults) and it will listen to changes in them and sync changes from any of those to all the others. However, it doesn't recognize iCloud files as real files, so it will detect everything as being deleted once iCloud decides to offload any of the files.
 
+I was really close to testing multi-computer synchronization out of iCloud using tools like [SyncThing](https://syncthing.net/), but I stopped myself right before that: if I need to sidestep the tools I use (iCloud for synchronization), then I'm only complicating my own ecosystem.
+
 At this point, we have cornered the problem enough to understand what we need to attack: iCloud needs to keep the files locally.
 
 ## The solution
