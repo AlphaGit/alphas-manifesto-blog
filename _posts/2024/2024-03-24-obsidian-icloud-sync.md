@@ -30,7 +30,7 @@ However, a very common problem with it is that, as your vault grows, iCloud will
 
 Deactivating "Optimize my Mac" (which drives this behaviour) might not be an option if you don't want your full iCloud to be stored locally.
 
-iCloud for Windows has a [Pin Folder functionality](https://support.apple.com/en-ca/guide/icloud-windows/icw8531ad6b7/icloud) that will ensure a selected folder stays locally even though the rest of them might now. Why this is not available to MacOS, it's a mystery to most of the internet. ¯\\_(ツ)_/¯
+iCloud for Windows has a [Pin Folder functionality](https://support.apple.com/en-ca/guide/icloud-windows/icw8531ad6b7/icloud) that will ensure a selected folder stays locally even though the rest of them might now. Why this is not available to MacOS, it's a mystery to most of the internet. ¯\\\_(ツ)\_/¯
 
 ## Failed solutions
 
