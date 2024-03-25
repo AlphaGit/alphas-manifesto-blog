@@ -132,6 +132,6 @@ However, I moved away from DropBox a bit ago because most of the Apple environme
 
 Finally, note that if your vault is in an arbitrary location (which is usually the case with DropBox), then the Obsidian mobile apps won't be able to read the vaults from there. In using iCloud, Obsidian decides where the folder is located but I'm free to add as many vaults as I like in it. After all, it's files all the way down.
 
-## Git
+### Git
 
 Some people use git to sync which not only keeps a copy of their files around, it also gives them version history. I did not explore this option because it would require me to go out of the app, add, commit, push, and remember to pull and merge every time I switch to another option. As I mentioned, I usually write notes "right away", so it's not the solution for me.
