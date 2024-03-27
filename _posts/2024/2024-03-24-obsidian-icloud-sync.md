@@ -100,6 +100,8 @@ TZ=America/Toronto
 
 (Source: [AlphaGit/dotfiles - .alpha_crontab](https://github.com/AlphaGit/dotfiles/blob/main/.alpha_crontab))
 
+As a last note, don't forget to give `/usr/sbin/cron` full disk access in Privacy settings, or otherwise it will complain it cannot execute the `find` operation on the iCloud folder. I haven't quite found an elegant way to automate this step. To do it manually, you can just drag the executable file from Finder into the Settings app.
+
 ### Design choices
 
 There are a few choices that I had to make that are not quite intuitive.
