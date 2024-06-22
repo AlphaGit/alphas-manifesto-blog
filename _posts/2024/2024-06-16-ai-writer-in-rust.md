@@ -9,7 +9,7 @@ tags:
   - Rust
   - Automation
 header:
-  image: assets/alpha/commonParts.png
+  image: assets/alpha/commonPartsWide.png
   image_description: Alpha assembling something
 description: >-
   Creating an automated blog writer as an excuse to try Rust.
