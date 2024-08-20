@@ -1,22 +1,21 @@
 ---
-title: 'Link del día: HTML5 Ilustrado'
+title: "Link del día: HTML5 Ilustrado"
 date: 2010-04-26 12:22:13 +0000
 date_gmt: 2010-04-26 14:22:13 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - internet
   - JavaScript
   - HTML
   - CSS
-  - desarrollo web
+  - web
   - HTML5
   - creatividad
   - standard
   - CSS3
-description: >-
-  Aprende HTML5 con presentación en vivo. Explora lo que se puede hacer con él.
-  ¡No nos quedemos atrás!
+  - desarrollo-web
+description: Aprende HTML5 con presentación en vivo. Explora lo que se puede hacer con él. ¡No nos quedemos atrás!
 ---
 
 

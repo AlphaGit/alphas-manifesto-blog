@@ -1,18 +1,16 @@
 ---
-title: 'Link del día: LoadTest'
+title: "Link del día: LoadTest"
 date: 2011-08-23 11:22:46 +0000
 date_gmt: 2011-08-23 13:22:46 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - testing
-  - web application
-  - web 2.0
+  - application
+  - web
   - herramientas
-  - load testing
-description: >-
-  Herramienta web gratuita para test de stress de websites. Resultados simples
-  para detectar problemas de performance.
+  - load-testing
+description: Herramienta web gratuita para test de stress de websites. Resultados simples para detectar problemas de performance.
 ---
 
 

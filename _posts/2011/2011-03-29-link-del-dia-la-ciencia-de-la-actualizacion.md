@@ -1,22 +1,18 @@
 ---
-title: 'Link del día: La ciencia de la actualización'
+title: "Link del día: La ciencia de la actualización"
 date: 2011-03-29 12:12:49 +0000
 date_gmt: 2011-03-29 14:12:49 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - video
   - Windows
   - experimento
-  - experiencia del usuario
-  - user experience
   - artículo
   - instalación
   - actualización
-description: >-
-  Experimento instalar Windows 1.0 a 10, mejorar experiencias, simplicidad,
-  información adecuada, progreso visible, acceso detalles, características
-  producto visibles.
+  - UX
+description: Experimento instalar Windows 1.0 a 10, mejorar experiencias, simplicidad, información adecuada, progreso visible, acceso detalles, características producto visibles.
 ---
 
 

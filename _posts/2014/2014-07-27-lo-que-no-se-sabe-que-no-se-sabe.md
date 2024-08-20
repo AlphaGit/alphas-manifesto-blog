@@ -3,20 +3,17 @@ title: Lo que no se sabe que no se sabe
 date: 2014-07-27 11:14:43 +0000
 date_gmt: 2014-07-27 16:14:43 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - Youtube
   - ciencia
   - video
   - filosofía
   - conocimiento
-  - Hank Green
   - ignoracia
   - epistemología
 subtitle: Manejo del conocimiento, parte 2
-description: >-
-  Explorar lo desconocido, aceptar errores, cuestionar opiniones, cambiar
-  conocimiento, ser consciente, liberador "no sé".
+description: Explorar lo desconocido, aceptar errores, cuestionar opiniones, cambiar conocimiento, ser consciente, liberador "no sé".
 ---
 
 

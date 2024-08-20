@@ -3,7 +3,7 @@ title: ¡Volvieron los comentarios!
 date: 2012-02-19 20:18:56 +0000
 date_gmt: 2012-02-20 01:18:56 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - blog
   - misceláneos

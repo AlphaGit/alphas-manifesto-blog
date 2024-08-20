@@ -1,15 +1,13 @@
 ---
-title: 'Link of the Day: How to effectively take notes in a meeting / course'
+title: "Link of the Day: How to effectively take notes in a meeting / course"
 date: 2010-02-12 11:24:39 +0000
 date_gmt: 2010-02-12 13:24:39 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - capacitación
   - habilidades
-description: >-
-  Improve note taking techniques, Lifehacker article, capture details, public
-  speaking, study, skunk analogy.
+description: Improve note taking techniques, Lifehacker article, capture details, public speaking, study, skunk analogy.
 ---
 
 

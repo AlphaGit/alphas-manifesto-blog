@@ -3,15 +3,13 @@ title: ¡Nuevo diseño!
 date: 2012-01-11 22:18:06 +0000
 date_gmt: 2012-01-12 03:18:06 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - design
   - funcionalidad
   - comentarios
 subtitle: Empezando un blog más ordenado y limpio
-description: >-
-  Actualización de estilos, más limpio y legible, búsqueda, encabezados, caja
-  comentarios, links, sidebars, críticas, sugerencias, mobile friendly.
+description: Actualización de estilos, más limpio y legible, búsqueda, encabezados, caja comentarios, links, sidebars, críticas, sugerencias, mobile friendly.
 ---
 
 

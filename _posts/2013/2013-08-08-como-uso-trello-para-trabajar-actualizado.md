@@ -3,19 +3,17 @@ title: Cómo uso Trello para trabajar, actualizado
 date: 2013-08-08 18:13:36 +0000
 date_gmt: 2013-08-08 23:13:36 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
   - Projects
 tags:
-  - web application
   - organización
   - productividad
   - work
   - Trello
   - estrategia
+  - web-application
 subtitle: Cambios a mi flujo de trabajo para más productividad
-description: >-
-  Uso etiquetas, tracking de tiempo, listas por prioridad, orden de las listas,
-  powerups de Trello.
+description: Uso etiquetas, tracking de tiempo, listas por prioridad, orden de las listas, powerups de Trello.
 ---
 
 

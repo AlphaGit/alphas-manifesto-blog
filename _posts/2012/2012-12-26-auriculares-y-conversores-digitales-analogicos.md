@@ -3,7 +3,7 @@ title: Auriculares y conversores digitales-analógicos
 date: 2012-12-26 19:06:12 +0000
 date_gmt: 2012-12-27 00:06:12 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
   - Life
   - Música
 tags:
@@ -19,9 +19,7 @@ tags:
   - conversor
   - configuración
 subtitle: La búsqueda del sonido perfecto
-description: >-
-  Gastar en auriculares para mejorar experiencia escuchando música, modelos
-  Sennheiser, Sony, Bosse. DAC amplifica sin pérdida de calidad. ¡Vale la pena!
+description: Gastar en auriculares para mejorar experiencia escuchando música, modelos Sennheiser, Sony, Bosse. DAC amplifica sin pérdida de calidad. ¡Vale la pena!
 ---
 
 
