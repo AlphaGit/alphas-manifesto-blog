@@ -3,17 +3,15 @@ title: Take 2 minutes
 date: 2012-03-26 11:31:56 +0000
 date_gmt: 2012-03-26 16:31:56 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
-  - web application
   - seguridad
   - MicroSiervos
   - permisos
   - apps
+  - web-application
 subtitle: ...to clear your app permisions
-description: >-
-  Links a permisos de aplicaciones, remover/editar, Facebook, Twitter, Google,
-  Yahoo, Dropbox, revisar, usar, zorrinito seguro.
+description: Links a permisos de aplicaciones, remover/editar, Facebook, Twitter, Google, Yahoo, Dropbox, revisar, usar, zorrinito seguro.
 ---
 
 

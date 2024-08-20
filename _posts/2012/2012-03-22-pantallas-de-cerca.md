@@ -3,20 +3,18 @@ title: Pantallas, de cerca
 date: 2012-03-22 10:55:10 +0000
 date_gmt: 2012-03-22 15:55:10 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - design
   - iPhone
   - iPad
   - MicroSiervos
   - color
-  - dispositivos móviles
   - pantalla
   - tablet
+  - dispositivos-móviles
 subtitle: El mundo microscópico de los píxels
-description: >-
-  Comparar pantallas iPad 2/3, otros dispositivos, variabilidad de píxeles,
-  Google reduce verde, Nintendo 3DS.
+description: Comparar pantallas iPad 2/3, otros dispositivos, variabilidad de píxeles, Google reduce verde, Nintendo 3DS.
 ---
 
 

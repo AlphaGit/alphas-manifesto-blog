@@ -3,20 +3,18 @@ title: Autenticación cognoscitiva
 date: 2012-04-19 11:12:20 +0000
 date_gmt: 2012-04-19 16:12:20 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - seguridad
   - investigación
-  - ciencias cognitivas
   - paper
   - autenticación
   - biométrica
   - DARPA
   - identificación
+  - ciencias-cognitivas
 subtitle: I'm sorry Dave, I'm afraid I can't do that.
-description: >-
-  DARPA investiga Autenticación Cognoscitiva para reemplazar contraseñas. Datos
-  biométricos, tecleo, escaneos oculares, lectura y comunicación.
+description: DARPA investiga Autenticación Cognoscitiva para reemplazar contraseñas. Datos biométricos, tecleo, escaneos oculares, lectura y comunicación.
 ---
 
 

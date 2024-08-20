@@ -3,7 +3,7 @@ title: MakingSense blog
 date: 2012-04-27 12:00:03 +0000
 date_gmt: 2012-04-27 17:00:03 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - blog
   - artículo
@@ -14,9 +14,7 @@ tags:
   - IT
   - webinar
 subtitle: Posts being featured in MakingSense's blog
-description: >-
-  Posts aparecerán en blog MakingSense. Negocio IT, tendencias, management.
-  Recomendado. Soy zorrinito publicitario.
+description: Posts aparecerán en blog MakingSense. Negocio IT, tendencias, management. Recomendado. Soy zorrinito publicitario.
 ---
 
 

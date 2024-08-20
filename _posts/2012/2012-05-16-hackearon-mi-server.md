@@ -1,26 +1,25 @@
 ---
-
 title: '"Hackearon mi server"'
-date: '2012-05-16 09:47:32 +0000'
-date_gmt: '2012-05-16 14:47:32 +0000'
+date: 2012-05-16 09:47:32 +0000
+date_gmt: 2012-05-16 14:47:32 +0000
 categories:
-- Miscelaneous
+  - Miscellaneous
 tags:
-- internet
-- datos
-- privacidad
-- hacking
-- mantenimiento
-- riesgo
-- problema
-- seguridad
-- artículo
-- administrador de sistemas
-- procesos
-- pregunta
-- respuesta
-- legal
-- servidor
+  - internet
+  - datos
+  - privacidad
+  - hacking
+  - mantenimiento
+  - riesgo
+  - problema
+  - seguridad
+  - artículo
+  - procesos
+  - pregunta
+  - respuesta
+  - legal
+  - servidor
+  - sysadmin
 subtitle: ¿Y ahora qué hago?
 ---
 

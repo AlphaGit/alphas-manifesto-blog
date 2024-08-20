@@ -1,9 +1,9 @@
 ---
-title: ' ¿Es el desarrollo de software un arte?'
+title: " ¿Es el desarrollo de software un arte?"
 date: 2013-03-21 13:56:03 +0000
 date_gmt: 2013-03-21 18:56:03 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - desarrollo
   - art
@@ -12,9 +12,7 @@ tags:
   - disciplina
   - estructuras
 subtitle: ¿O acaso no lo es?
-description: >-
-  Software development not art, but can create art. Complexity and creativity
-  present. Intuition, elegance and skill required.
+description: Software development not art, but can create art. Complexity and creativity present. Intuition, elegance and skill required.
 ---
 
 

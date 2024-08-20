@@ -3,12 +3,12 @@ title: A Novice's Introduction to Data Science
 date: 2018-02-10 17:31:04 +0000
 date_gmt: 2018-02-10 22:31:04 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - link
-  - data science
-  - guest post
   - buzzwords
+  - data-science
+  - guest-post
 subtitle: Guest post on Making Sense's blog
 description: Data Science introduction blog post, check out to learn why it's popular.
 ---

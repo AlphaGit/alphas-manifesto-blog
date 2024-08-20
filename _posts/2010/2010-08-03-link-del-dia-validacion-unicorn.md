@@ -1,18 +1,16 @@
 ---
-title: 'Link del día: Validación Unicorn'
+title: "Link del día: Validación Unicorn"
 date: 2010-08-03 14:01:12 +0000
 date_gmt: 2010-08-03 16:01:12 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - HTML
   - CSS
   - RSS
   - standard
   - W3C
-description: >-
-  Programadores web checkean markups con W3c, ahora con herramienta "Unicorn".
-  User-friendly, acercarse a estándares web.
+description: Programadores web checkean markups con W3c, ahora con herramienta "Unicorn". User-friendly, acercarse a estándares web.
 ---
 
 

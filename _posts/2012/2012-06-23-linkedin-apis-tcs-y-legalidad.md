@@ -1,17 +1,16 @@
 ---
-
 title: LinkedIn APIs T&Cs y legalidad
-date: '2012-06-23 18:20:28 +0000'
-date_gmt: '2012-06-23 23:20:28 +0000'
+date: 2012-06-23 18:20:28 +0000
+date_gmt: 2012-06-23 23:20:28 +0000
 categories:
-- Miscelaneous
+  - Miscellaneous
 tags:
-- desarrollo
-- API
-- legal
-- LinkedIn
-- términos y condiciones
-- integración
+  - desarrollo
+  - API
+  - legal
+  - LinkedIn
+  - integración
+  - términos-y-condiciones
 subtitle: O "shenanigams para que nadie use nuestro sistema"
 ---
 

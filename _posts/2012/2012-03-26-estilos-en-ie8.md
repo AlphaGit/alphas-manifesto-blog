@@ -3,18 +3,15 @@ title: Estilos en IE8-
 date: 2012-03-26 22:05:56 +0000
 date_gmt: 2012-03-27 03:05:56 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - CSS
   - HTML5
   - blog
-  - Internet Explorer
   - estilos
+  - internet-explorer
 subtitle: Y mi sobrada misericordia
-description: >-
-  IE8- no acepta elementos HTML5, perdono a minoría usuarios, solucioné
-  problema, añadí dos colores, búsqueda disponible, soy zorrinito
-  misericordioso.
+description: IE8- no acepta elementos HTML5, perdono a minoría usuarios, solucioné problema, añadí dos colores, búsqueda disponible, soy zorrinito misericordioso.
 ---
 
 

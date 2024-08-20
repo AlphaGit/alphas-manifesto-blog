@@ -3,22 +3,20 @@ title: SOPA, PIPA, y MEPA que se están equivocando
 date: 2012-01-22 00:16:44 +0000
 date_gmt: 2012-01-22 05:16:44 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - creatividad
-  - open source
-  - free software
+  - software
   - marketing
   - work
-  - software
   - política
   - licencias
-  - Creative Commoms
   - SaaS
+  - open-source
+  - free-software
+  - creative-commons
 subtitle: El problema es la receta, no la sopa.
-description: >-
-  Propiedad intelectual, copyright, SOPA, justicia, trabajo, cultura, parásitos,
-  narcisistas, extorsión, injusticia.
+description: Propiedad intelectual, copyright, SOPA, justicia, trabajo, cultura, parásitos, narcisistas, extorsión, injusticia.
 ---
 
 

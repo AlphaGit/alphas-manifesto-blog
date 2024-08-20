@@ -4,19 +4,17 @@ title: Udacity's Deep Learning Nanodegree Foundations
 date: 2017-06-27 20:28:32 +0000
 date_gmt: 2017-06-28 01:28:32 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - udacity
   - course
   - MOOC
-  - artificial intelligence
-  - deep learning
   - tensorflow
-  - machine learning
+  - AI
+  - deep-learning
+  - machine-learning
 subtitle: Course contents and structure
-description: >-
-  Graduated Udacity Deep Learning Nanodegree, five projects, tools, community,
-  content covered, worth it.
+description: Graduated Udacity Deep Learning Nanodegree, five projects, tools, community, content covered, worth it.
 ---
 
 

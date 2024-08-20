@@ -3,25 +3,22 @@ title: La visualización y el espiritismo
 date: 2012-12-24 11:10:16 +0000
 date_gmt: 2012-12-24 16:10:16 +0000
 categories:
-  - Miscelaneous
+  - Miscellaneous
 tags:
   - filosofía
   - visualización
   - artículo
-  - ciencias cognitivas
   - realidad
-  - ciencias ocultas
   - aura
-  - sueños lúcidos
   - meditación
   - espiritismo
   - paranormal
   - ocultismo
   - alucinación
+  - ciencias-cognitivas
+  - sueños-lúcidos
 subtitle: ¿Por qué es tan importante visualizar?
-description: >-
-  Visualización, realidad, fenomenalismo, Tesla, rituales, lúcidos, auriculares,
-  alucinaciones, elevación, habilidades.
+description: Visualización, realidad, fenomenalismo, Tesla, rituales, lúcidos, auriculares, alucinaciones, elevación, habilidades.
 ---
 
 
