@@ -137,3 +137,7 @@ Finally, note that if your vault is in an arbitrary location (which is usually t
 ### Git
 
 Some people use git to sync which not only keeps a copy of their files around, it also gives them version history. I did not explore this option because it would require me to go out of the app, add, commit, push, and remember to pull and merge every time I switch to another option. As I mentioned, I usually write notes "right away", so it's not the solution for me.
+
+## Update 2024-10-10
+
+With the release of Mac OS 15 Seqouia (and iOS 18) all of Apple's platforms now have the option to "Keep Downloaded" for specific iCloud folders, rendering this custom solution obsolete. Still, it was fun to figure out! Hooray for official support!
