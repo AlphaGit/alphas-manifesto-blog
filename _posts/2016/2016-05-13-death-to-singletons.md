@@ -52,7 +52,17 @@ The usual design looks like this:
 
 The usual implementation goes like this:
 
-https://gist.github.com/AlphaGit/ab3506c321179a67db6e044ec34e5f21
+```csharp
+public class MySingletonClass {
+    private static MySingletonClass _instance;
+    
+    // private constructor
+    private MySingletonClass() { }
+    
+    // public accessor property that instantiates if needed
+    public static Instance => _instance ?? (_instance = new MySingletonClass());
+}
+```
 
 This is a line-by-line description of the previous piece of code:
 
