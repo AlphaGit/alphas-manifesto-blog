@@ -38,7 +38,7 @@ Algorithms for search that use indexes work in a very similar way. They look to 
 
 Furthermore, if the search itself doesn't happen as often as needed, the categorization work is overblown in effort.
 
-![Balanced tree, User:Mikm, Public domain, via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:AVLtreef.svg]({{ site.baseurl }}/assets/AVLtreef.png)
+![Balanced tree, User:Mikm, Public domain, via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:AVLtreef.svg]({{ site.baseurl }}/assets/2025-01-11-bags-of-cats/AVLtreef.png)
 
 As an example, take a balanced tree structure. On every insertion, it is possible that the whole tree needs to be rebalanced and moved around so that lookups are easier.
 
@@ -93,6 +93,6 @@ When I start a task, then that task becomes a "bag of cats". Anything related to
 
 ## Conclusion
 
-![PKMS in a nutshell meme, https://www.reddit.com/r/ObsidianMD/comments/wbtczk/pkms_in_a_nutshell/]({{ site.baseurl }}/complexNotesMeme.jpg)
+![PKMS in a nutshell meme, https://www.reddit.com/r/ObsidianMD/comments/wbtczk/pkms_in_a_nutshell/]({{ site.baseurl }}/assets/2025-01-11-bags-of-cats/complexNotesMeme.jpg)
 
 As always, whatever works for you is what works for you and stick to that. But make sure that whatever you do, the organization is worth the payout.
