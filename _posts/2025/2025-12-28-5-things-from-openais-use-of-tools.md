@@ -23,7 +23,7 @@ On December 12th 2025, a tweet demonstrated that ChatGPT would deliver files fro
 
 Beyond security concerns, what does this reveal about OpenAI's use of tools and agents for GPT 5.2 Thinking?
 
----
+<!--more-->
 
 ## What was leaked?
 
