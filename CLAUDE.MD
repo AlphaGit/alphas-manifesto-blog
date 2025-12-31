@@ -25,7 +25,7 @@ This document provides comprehensive guidelines for AI agents working on Alpha's
 
 ## Repository Structure
 
-```
+```text
 alphas-manifesto-blog/
 ├── _config.yml              # Jekyll configuration
 ├── _posts/                  # Blog posts organized by year
@@ -175,7 +175,7 @@ Opening paragraph that serves as a hook. This appears before the excerpt separat
 
 Your main content goes here. Use proper markdown formatting:
 
-- Headings: `##` for main sections, `###` for subsections
+- Headings: `##` for main sections, `###` for subsections (note: `#` is reserved for the main title of the page, generated from front matter)
 - Code blocks: Use triple backticks with language identifier
 - Images: `![Alt text](path/to/image.png)`
 - Links: `[Link text](https://example.com)`
@@ -203,7 +203,7 @@ Wrap up your thoughts.
 
 3. **Reference in markdown**:
    ```markdown
-   ![Architecture diagram showing the system components](assets/2025-12-31-post-slug/architecture-diagram.png)
+   ![Architecture diagram showing the system components]({{ site.baseurl }}/assets/2025-12-31-post-slug/architecture-diagram.png)
    ```
 
 4. **For single images**, you can place them directly in the `assets/` root directory
@@ -314,8 +314,8 @@ After deploying to GitHub Pages:
 2. **Check live site**: Visit `https://blog.alphasmanifesto.com`
 3. **Verify the post appears**: Navigate to the specific post URL
 4. **Test social sharing**: Check Open Graph tags using:
-   - Twitter Card Validator: https://cards-dev.twitter.com/validator
-   - Facebook Sharing Debugger: https://developers.facebook.com/tools/debug/
+   - [Twitter Card Validator](https://cards-dev.twitter.com/validator)
+   - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
 5. **Check RSS feed**: Verify post appears in `https://blog.alphasmanifesto.com/feed.xml`
 
 ## Visual Design Guidelines
@@ -324,7 +324,7 @@ After deploying to GitHub Pages:
 
 Alpha's Manifesto uses a **clean, minimalist design** with a focus on readability. The design emphasizes:
 
-- High contrast text for readability
+- High-contrast text for readability
 - Generous whitespace
 - Clear typography hierarchy
 - Monospace font theme (technical/coding aesthetic)
@@ -520,7 +520,7 @@ If you need to modify the workflow:
 
 Use clear, descriptive commit messages:
 
-```
+```text
 Add new post about Rust micrograd implementation
 
 - Created post file with front matter
@@ -671,11 +671,11 @@ Add new post about Rust micrograd implementation
 
 ## Additional Resources
 
-- **Jekyll Documentation**: https://jekyllrb.com/docs/
-- **Liquid Template Language**: https://shopify.github.io/liquid/
-- **Markdown Guide**: https://www.markdownguide.org/
-- **GitHub Pages Docs**: https://docs.github.com/en/pages
-- **Jekyll Theme Development**: https://jekyllrb.com/docs/themes/
+- **Jekyll Documentation**: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+- **Liquid Template Language**: [https://shopify.github.io/liquid/](https://shopify.github.io/liquid/)
+- **Markdown Guide**: [https://www.markdownguide.org/](https://www.markdownguide.org/)
+- **GitHub Pages Docs**: [https://docs.github.com/en/pages](https://docs.github.com/en/pages)
+- **Jekyll Theme Development**: [https://jekyllrb.com/docs/themes/](https://jekyllrb.com/docs/themes/)
 
 ## Quick Reference Commands
 
