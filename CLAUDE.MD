@@ -448,40 +448,6 @@ If you need to modify styles:
    - Use browser DevTools (F12) to inspect elements
    - Verify changes across different screen sizes
 
-## Working with Includes
-
-Includes are reusable HTML components. Common use cases:
-
-### Modifying Existing Includes
-
-1. Open the include file in `_includes/`
-2. Make your changes
-3. Jekyll will rebuild automatically
-4. Refresh browser to see changes
-
-### Creating New Includes
-
-1. Create a new file in `_includes/` (e.g., `_includes/custom-component.html`)
-2. Add your HTML/Liquid code
-3. Include it in a layout or post:
-   ```liquid
-   {% include custom-component.html %}
-   ```
-
-### Passing Parameters to Includes
-
-Example:
-```liquid
-{% include custom-component.html title="My Title" color="blue" %}
-```
-
-In the include file:
-```html
-<div style="color: {{ include.color }}">
-  <h2>{{ include.title }}</h2>
-</div>
-```
-
 ## CI/CD Pipeline
 
 ### GitHub Actions Workflow
