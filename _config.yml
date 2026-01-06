@@ -36,6 +36,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+exclude:
+  - CLAUDE.md
+
 # Defaults 
 defaults:
   - scope:
