@@ -79,7 +79,7 @@ This is, of course, very challenging to get right, and very dangerous too — we
 
 As I write this, vibe coding is still evolving as people find out new patterns of requesting work and having it done, the newest approach being *The Ralph Wiggum Shot*.
 
-<div class="tenor-gif-embed" data-postid="14149962" data-share-method="host" data-aspect-ratio="1.78439" data-width="100%"><a href="https://tenor.com/view/chuckles-im-in-danger-ralph-wiggum-the-simpsons-gif-14149962">Chuckles Im In Danger GIF</a> from <a href="https://tenor.com/search/chuckles-gifs">Chuckles GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="14149962" data-share-method="host" data-aspect-ratio="1.78439" data-width="100%"><a href="https://tenor.com/view/chuckles-im-in-danger-ralph-wiggum-the-simpsons-gif-14149962">Chuckles Im In Danger GIF</a> from <a href="https://tenor.com/search/chuckles-gifs">Chuckles GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script><br/>
 
 It's called like this because you need to allow the agent to do whatever it wants with your system in order to progress fully autonomously, usually through a flag called `--dangerously-skip-permissions`.
 
