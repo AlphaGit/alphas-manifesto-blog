@@ -194,7 +194,8 @@ pre {
     overflow-x: auto;
     margin-bottom: 1em;
     word-wrap: normal;
-    width: min(100vw, 760px);
+    max-width: 760px;
+    width: 100%;
     padding: 1em;
 }
 
