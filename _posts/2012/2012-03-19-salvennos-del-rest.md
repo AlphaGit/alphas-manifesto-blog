@@ -4,6 +4,7 @@ date: 2012-03-19 13:25:02 +0000
 date_gmt: 2012-03-19 18:25:02 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - REST
   - artículo

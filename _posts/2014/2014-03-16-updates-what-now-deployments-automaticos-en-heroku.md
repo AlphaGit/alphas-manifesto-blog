@@ -5,7 +5,7 @@ date: '2014-03-16 15:49:22 +0000'
 date_gmt: '2014-03-16 20:49:22 +0000'
 categories:
 - Projects
-- Technology
+- Tools
 tags:
 - proyecto
 - automatización

@@ -4,6 +4,7 @@ date: 2010-01-26 10:56:17 +0000
 date_gmt: 2010-01-26 12:56:17 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - internet
   - capacitación

@@ -4,6 +4,7 @@ date: 2012-01-10 13:09:14 +0000
 date_gmt: 2012-01-10 18:09:14 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - bases de datos
   - open source

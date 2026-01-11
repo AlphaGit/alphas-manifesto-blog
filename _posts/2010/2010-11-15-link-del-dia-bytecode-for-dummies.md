@@ -4,6 +4,7 @@ date: 2010-11-15 17:20:51 +0000
 date_gmt: 2010-11-15 19:20:51 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - máquina virtual
   - .NET

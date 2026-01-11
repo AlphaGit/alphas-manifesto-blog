@@ -4,6 +4,8 @@ date: 2011-05-03 12:48:24 +0000
 date_gmt: 2011-05-03 14:48:24 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - HTML5
   - algoritmo

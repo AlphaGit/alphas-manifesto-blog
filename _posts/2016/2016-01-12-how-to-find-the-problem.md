@@ -4,8 +4,7 @@ title: How to find the problem
 date: 2016-01-12 22:36:05 +0000
 date_gmt: 2016-01-13 04:36:05 +0000
 categories:
-  - Projects
-  - Technology
+  - Development
 tags:
   - Technology
   - development

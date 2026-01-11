@@ -3,7 +3,7 @@ title: A personal media server
 subtitle: How to choose, set up and use a personal media server
 categories:
   - Technology
-  - Miscellaneous
+  - Tools
 tags:
   - software
   - open-source

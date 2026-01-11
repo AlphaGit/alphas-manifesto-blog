@@ -4,6 +4,8 @@ date: 2007-10-12 13:40:00 +0000
 date_gmt: 2007-10-12 13:40:00 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags: []
 description: Herramientas instalables y online para testeo de aplicaciones web.
 ---

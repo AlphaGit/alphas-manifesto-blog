@@ -4,6 +4,7 @@ date: 2012-06-05 08:54:13 +0000
 date_gmt: 2012-06-05 13:54:13 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - ciencia
   - matemática

@@ -3,6 +3,7 @@ title: Netflix acquires Warner Bros
 subtitle: A new era of multimedia might be around the corner, and we're watching it happen
 categories:
   - News
+  - Thoughts
 tags:
   - thoughts
   - business

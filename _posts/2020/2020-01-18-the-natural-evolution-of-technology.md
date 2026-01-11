@@ -3,6 +3,7 @@ excerpt_separator: <!--more-->
 title: The "natural evolution" of technology
 categories:
   - Technology
+  - Thoughts
 tags:
   - technology
   - privacy

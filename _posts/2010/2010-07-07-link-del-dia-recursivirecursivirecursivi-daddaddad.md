@@ -4,6 +4,7 @@ date: 2010-07-07 14:13:37 +0000
 date_gmt: 2010-07-07 16:13:37 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - matemática
   - blog

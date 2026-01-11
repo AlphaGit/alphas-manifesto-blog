@@ -4,6 +4,7 @@ date: 2011-08-24 16:04:57 +0000
 date_gmt: 2011-08-24 18:04:57 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - matemática
   - Apple

@@ -3,7 +3,8 @@ title: ¡Nuevo diseño!
 date: 2012-01-11 22:18:06 +0000
 date_gmt: 2012-01-12 03:18:06 +0000
 categories:
-  - Miscellaneous
+  - Projects
+  - Technology
 tags:
   - design
   - funcionalidad

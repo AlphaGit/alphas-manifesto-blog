@@ -3,6 +3,7 @@ title: How NOT to publicize your AI practices
 subtitle: Based on a true story
 categories:
   - Security
+  - AI
 tags:
   - Security
   - AI

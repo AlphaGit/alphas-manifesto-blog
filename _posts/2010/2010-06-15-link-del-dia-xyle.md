@@ -4,6 +4,8 @@ date: 2010-06-15 09:45:50 +0000
 date_gmt: 2010-06-15 11:45:50 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - HTML
   - CSS

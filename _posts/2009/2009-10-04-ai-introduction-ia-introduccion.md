@@ -3,9 +3,8 @@ title: 'AI: Introduction | IA: Introducción'
 date: 2009-10-04 03:43:17 +0000
 date_gmt: 2009-10-04 05:43:17 +0000
 categories:
+  - AI
   - Books
-  - Projects
-  - Technology
 tags: []
 description: >-
   Personal project to read Artificial Intelligence book. History, theories,

@@ -4,6 +4,7 @@ date: 2007-10-25 00:28:00 +0000
 date_gmt: 2007-10-25 00:28:00 +0000
 categories:
   - Projects
+  - AI
 tags: []
 description: >-
   Programar OCR, generar perceptrones, procesar datos, reconocer letras,

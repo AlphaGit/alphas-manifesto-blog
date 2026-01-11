@@ -3,9 +3,7 @@ title: Auriculares y conversores digitales-analógicos
 date: 2012-12-26 19:06:12 +0000
 date_gmt: 2012-12-27 00:06:12 +0000
 categories:
-  - Miscellaneous
-  - Life
-  - Música
+  - Thoughts
 tags:
   - Música
   - design

@@ -4,8 +4,8 @@ title: The future of work, aided by AI?
 date: 2018-01-01 11:21:41 +0000
 date_gmt: 2018-01-01 16:21:41 +0000
 categories:
-  - Technology
   - AI
+  - Thoughts
 tags:
   - artificial intelligence
   - futurism

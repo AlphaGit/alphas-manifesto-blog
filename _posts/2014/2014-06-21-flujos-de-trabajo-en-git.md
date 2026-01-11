@@ -3,8 +3,8 @@ title: Flujos de trabajo en git
 date: 2014-06-21 18:26:08 +0000
 date_gmt: 2014-06-21 23:26:08 +0000
 categories:
-  - Projects
-  - Technology
+  - Development
+  - Tools
 tags:
   - desarrollo
   - work

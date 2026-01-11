@@ -4,8 +4,8 @@ title: Dealing with "unreasonable" clients
 date: 2017-03-20 20:26:33 +0000
 date_gmt: 2017-03-21 01:26:33 +0000
 categories:
-  - Projects
-  - Technology
+  - Development
+  - Thoughts
 tags:
   - management
   - project management

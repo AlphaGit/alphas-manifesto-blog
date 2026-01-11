@@ -4,6 +4,8 @@ date: 2011-02-07 17:01:21 +0000
 date_gmt: 2011-02-07 19:01:21 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - testing
   - Google

@@ -4,6 +4,7 @@ date: 2009-12-06 22:08:00 +0000
 date_gmt: 2009-12-07 00:08:00 +0000
 categories:
   - Books
+  - Development
 tags:
   - testing
   - .NET

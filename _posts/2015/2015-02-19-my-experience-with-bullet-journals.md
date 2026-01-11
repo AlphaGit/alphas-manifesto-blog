@@ -5,6 +5,7 @@ date: 2015-02-19 17:35:46 +0000
 date_gmt: 2015-02-19 23:35:46 +0000
 categories:
   - Life
+  - Productivity
 tags:
   - journal
   - bullet journal

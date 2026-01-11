@@ -1,0 +1,33 @@
+technology:
+  title: Technology
+  description: Posts exploring software, hardware, and applied tech.
+projects:
+  title: Projects
+  description: Personal and collaborative builds, experiments, and write-ups.
+ai:
+  title: AI
+  description: Research, experiments, and essays about artificial intelligence.
+books:
+  title: Books
+  description: Reviews and notes from books across tech and beyond.
+development:
+  title: Development
+  description: Software engineering practices, tooling, and career topics.
+link-del-dia:
+  title: Link del día
+  description: (Spanish Only) Links diarios explicados sobre tecnología.
+security:
+  title: Security
+  description: Information security, privacy, and defensive techniques.
+thoughts:
+  title: Thoughts
+  description: Opinion pieces, ideas, and essays.
+tools:
+  title: Tools
+  description: Utilities, frameworks, and helpful resources.
+productivity:
+  title: Productivity
+  description: Tips, tricks, and strategies for effective work and life management.
+security:
+  title: Security
+  description: Information security, privacy, and defensive techniques.

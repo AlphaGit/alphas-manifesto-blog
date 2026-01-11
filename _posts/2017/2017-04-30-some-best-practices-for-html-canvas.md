@@ -16,7 +16,7 @@ author:
 date: 2017-04-30 13:57:05 +0000
 date_gmt: 2017-04-30 18:57:05 +0000
 categories:
-  - Technology
+  - Development
 tags:
   - HTML
   - performance

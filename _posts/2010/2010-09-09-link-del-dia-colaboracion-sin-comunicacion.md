@@ -4,6 +4,7 @@ date: 2010-09-09 14:56:54 +0000
 date_gmt: 2010-09-09 16:56:54 +0000
 categories:
   - Link del día
+  - Tools
 tags:
   - cloud computing
   - Juegos

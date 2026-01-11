@@ -5,7 +5,7 @@ date: 2015-09-06 14:01:23 +0000
 date_gmt: 2015-09-06 19:01:23 +0000
 categories:
   - Projects
-  - Technology
+  - Development
 tags:
   - AngularJS
   - npm

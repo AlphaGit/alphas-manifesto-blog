@@ -4,6 +4,7 @@ date: 2010-05-04 11:45:17 +0000
 date_gmt: 2010-05-04 13:45:17 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - matemática
   - arquitectura

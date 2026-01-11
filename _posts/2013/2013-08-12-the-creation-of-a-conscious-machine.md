@@ -4,6 +4,7 @@ date: 2013-08-12 21:08:35 +0000
 date_gmt: 2013-08-13 02:08:35 +0000
 categories:
   - Books
+  - AI
 tags:
   - religión
   - inteligencia artificial

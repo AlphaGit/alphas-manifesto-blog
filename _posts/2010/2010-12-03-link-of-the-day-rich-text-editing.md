@@ -4,6 +4,7 @@ date: 2010-12-03 13:06:25 +0000
 date_gmt: 2010-12-03 15:06:25 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - JavaScript
   - web application

@@ -3,7 +3,7 @@ title: "Consejos de comunicación, parte 1: Palabras clave"
 date: 2013-06-29 10:50:34 +0000
 date_gmt: 2013-06-29 15:50:34 +0000
 categories:
-  - Miscellaneous
+  - Productivity
 tags:
   - comunicación
   - palabras

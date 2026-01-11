@@ -4,6 +4,7 @@ date: 2010-11-10 11:22:37 +0000
 date_gmt: 2010-11-10 13:22:37 +0000
 categories:
   - Link del día
+  - Books
 tags:
   - web 2.0
   - book

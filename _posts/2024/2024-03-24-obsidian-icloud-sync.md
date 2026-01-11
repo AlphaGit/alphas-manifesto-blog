@@ -2,6 +2,7 @@
 title: Obsidian-iCloud sync
 subtitle: Keep your notes in sync
 categories:
+  - Projects
   - Tools
 tags:
   - Tools

@@ -4,7 +4,8 @@ title: Software Security
 date: 2015-09-23 07:08:27 +0000
 date_gmt: 2015-09-23 12:08:27 +0000
 categories:
-  - Technology
+  - Development
+  - Security
 tags:
   - coursera
   - course

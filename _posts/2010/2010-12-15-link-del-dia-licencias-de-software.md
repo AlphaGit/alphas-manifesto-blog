@@ -4,6 +4,7 @@ date: 2010-12-15 12:46:03 +0000
 date_gmt: 2010-12-15 14:46:03 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - proyecto
   - jQuery

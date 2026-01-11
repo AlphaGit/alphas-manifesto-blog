@@ -4,6 +4,7 @@ date: 2011-10-18 07:37:42 +0000
 date_gmt: 2011-10-18 12:37:42 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - desarrollo web
   - Safari

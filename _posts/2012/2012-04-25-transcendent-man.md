@@ -3,7 +3,8 @@ title: Transcendent Man
 date: 2012-04-25 02:03:02 +0000
 date_gmt: 2012-04-25 07:03:02 +0000
 categories:
-  - Technology
+  - Books
+  - AI
 tags:
   - Technology
   - película

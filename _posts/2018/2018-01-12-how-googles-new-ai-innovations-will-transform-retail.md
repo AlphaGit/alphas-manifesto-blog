@@ -13,7 +13,6 @@ author:
 date: 2018-01-12 20:19:58 +0000
 date_gmt: 2018-01-13 01:19:58 +0000
 categories:
-  - Technology
   - AI
 tags:
   - Google

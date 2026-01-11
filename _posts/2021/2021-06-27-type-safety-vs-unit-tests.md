@@ -2,7 +2,8 @@
 title: Type safety vs. unit tests
 subtitle: A debate of several years...
 categories:
-  - Technology
+  - Development
+  - Thoughts
 tags:
   - Type-safety
   - Unit tests

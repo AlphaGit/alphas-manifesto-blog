@@ -2,7 +2,8 @@
 excerpt_separator: <!--more-->
 title: Exporting from Wordpress to Jekyll
 categories:
-  - Technology
+  - Development
+  - Tools
 tags:
   - wordpress
   - jekyll

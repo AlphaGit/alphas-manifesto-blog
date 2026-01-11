@@ -3,6 +3,7 @@ excerpt_separator: <!--more-->
 title: Interdisciplinary AI
 categories:
   - AI
+  - Thoughts
 tags:
   - ethics
   - AI

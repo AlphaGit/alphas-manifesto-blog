@@ -4,8 +4,7 @@ title: How to perform a good code review
 date: 2016-11-17 14:23:22 +0000
 date_gmt: 2016-11-17 20:23:22 +0000
 categories:
-  - Projects
-  - Technology
+  - Development
 tags:
   - code review
   - code

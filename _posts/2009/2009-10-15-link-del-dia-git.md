@@ -4,6 +4,8 @@ date: 2009-10-15 11:23:11 +0000
 date_gmt: 2009-10-15 13:23:11 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags: []
 description: >-
   Git portado a .NET, cambios, backup, uso para sistemas, interesante futuro,

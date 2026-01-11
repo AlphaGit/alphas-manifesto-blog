@@ -4,6 +4,7 @@ date: 2014-06-02 21:46:22 +0000
 date_gmt: 2014-06-03 02:46:22 +0000
 categories:
   - Projects
+  - Productivity
 tags:
   - proyecto
   - problema

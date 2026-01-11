@@ -4,6 +4,7 @@ date: 2011-05-31 21:58:45 +0000
 date_gmt: 2011-05-31 23:58:45 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - Twitter
   - design

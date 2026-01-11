@@ -4,6 +4,7 @@ date: 2011-09-12 08:16:30 +0000
 date_gmt: 2011-09-12 13:16:30 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - Google Chrome
   - Safari

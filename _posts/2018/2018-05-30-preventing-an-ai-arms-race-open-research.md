@@ -5,6 +5,7 @@ date: 2018-05-30 19:58:57 +0000
 date_gmt: 2018-05-30 23:58:57 +0000
 categories:
   - AI
+  - Thoughts
 tags:
   - artificial intelligence
   - open software

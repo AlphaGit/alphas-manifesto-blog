@@ -4,7 +4,7 @@ title: Testability vs. simple design
 date: 2016-03-22 20:21:31 +0000
 date_gmt: 2016-03-23 01:21:31 +0000
 categories:
-  - Technology
+  - Development
 tags:
   - testing
   - .NET

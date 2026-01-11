@@ -3,6 +3,7 @@ excerpt_separator: <!--more-->
 title: SQL Performance Explained
 categories:
   - Books
+  - Development
 tags:
   - books
   - reviews

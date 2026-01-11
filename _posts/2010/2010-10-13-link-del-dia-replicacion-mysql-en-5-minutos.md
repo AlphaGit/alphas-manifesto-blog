@@ -4,6 +4,7 @@ date: 2010-10-13 11:19:22 +0000
 date_gmt: 2010-10-13 13:19:22 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - bases de datos
   - MySQL

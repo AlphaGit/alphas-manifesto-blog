@@ -3,7 +3,7 @@ title: Capacitación VS2008 & Framework .NET 3.5
 date: 2009-03-10 21:00:54 +0000
 date_gmt: 2009-03-10 23:00:54 +0000
 categories:
-  - Technology
+  - Development
 tags: []
 description: >-
   MUG, Visual Studio 2008, .NET 3.5, Workflow, WCF, WPF, Silverlight, Expression

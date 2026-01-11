@@ -3,6 +3,7 @@ excerpt_separator: <!--more-->
 title: Algorithms, transhumanism and futurism
 categories:
   - Technology
+  - Thoughts
 tags:
   - Technology
   - futurism

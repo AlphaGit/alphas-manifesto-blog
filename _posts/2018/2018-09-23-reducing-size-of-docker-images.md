@@ -4,7 +4,8 @@ title: Reducing size of Docker images
 date: 2018-09-23 20:16:19 +0000
 date_gmt: 2018-09-24 00:16:19 +0000
 categories:
-  - Technology
+  - Development
+  - Tools
 tags:
   - continuous integration
   - docker

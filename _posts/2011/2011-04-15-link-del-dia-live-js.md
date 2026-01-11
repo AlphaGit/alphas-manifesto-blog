@@ -4,6 +4,8 @@ date: 2011-04-15 12:50:04 +0000
 date_gmt: 2011-04-15 14:50:04 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - JavaScript
   - HTML

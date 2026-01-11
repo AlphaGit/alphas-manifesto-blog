@@ -4,6 +4,7 @@ date: 2012-02-29 10:17:37 +0000
 date_gmt: 2012-02-29 15:17:37 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - blog
   - Zen

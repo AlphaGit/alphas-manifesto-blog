@@ -3,6 +3,7 @@ title: 5 things we can learn from OpenAI's use of tools
 subtitle: A new leak tells us about how to properly code agents
 categories:
   - AI
+  - Development
 tags:
   - artificial intelligence
   - projects

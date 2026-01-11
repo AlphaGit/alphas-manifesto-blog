@@ -4,6 +4,7 @@ date: 2009-07-27 10:53:34 +0000
 date_gmt: 2009-07-27 12:53:34 +0000
 categories:
   - Link del día
+  - Thoughts
 tags: []
 description: >-
   Third-party telephone service, email address length FAQ, Cellular Obscura

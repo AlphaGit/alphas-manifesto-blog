@@ -4,6 +4,8 @@ date: 2010-10-28 16:30:56 +0000
 date_gmt: 2010-10-28 18:30:56 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - JavaScript
   - HTML

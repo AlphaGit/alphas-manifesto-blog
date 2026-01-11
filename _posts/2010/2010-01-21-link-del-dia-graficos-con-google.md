@@ -4,6 +4,8 @@ date: 2010-01-21 12:12:44 +0000
 date_gmt: 2010-01-21 14:12:44 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - Google
   - HTML

@@ -4,6 +4,7 @@ date: 2010-12-09 11:29:02 +0000
 date_gmt: 2010-12-09 13:29:02 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - bases de datos
   - cloud computing

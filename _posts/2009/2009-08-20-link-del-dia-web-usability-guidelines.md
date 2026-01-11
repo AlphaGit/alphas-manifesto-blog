@@ -4,6 +4,7 @@ date: 2009-08-20 11:26:46 +0000
 date_gmt: 2009-08-20 13:26:46 +0000
 categories:
   - Link del día
+  - Development
 tags: []
 description: >-
   Desarrollo web, usabilidad, experiencia usuario, Web Usability Guidelines, 247

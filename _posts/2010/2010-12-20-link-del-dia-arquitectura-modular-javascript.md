@@ -4,6 +4,7 @@ date: 2010-12-20 12:00:10 +0000
 date_gmt: 2010-12-20 14:00:10 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - JavaScript
   - Twitter

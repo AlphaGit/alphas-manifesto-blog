@@ -4,6 +4,7 @@ date: 2012-04-25 10:35:00 +0000
 date_gmt: 2012-04-25 15:35:00 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - design
   - buenas prácticas

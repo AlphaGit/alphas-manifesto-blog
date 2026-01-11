@@ -5,6 +5,7 @@ date: 2018-09-01 16:32:24 +0000
 date_gmt: 2018-09-01 20:32:24 +0000
 categories:
   - Books
+  - Development
 tags:
   - design
   - best practices
