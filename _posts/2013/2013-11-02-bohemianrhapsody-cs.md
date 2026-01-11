@@ -3,7 +3,7 @@ title: BohemianRhapsody.cs
 date: 2013-11-02 19:50:41 +0000
 date_gmt: 2013-11-03 00:50:41 +0000
 categories:
-  - Store
+  - Projects
 tags:
   - C#
   - Música

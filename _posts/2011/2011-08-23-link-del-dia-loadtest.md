@@ -3,7 +3,7 @@ title: "Link del día: LoadTest"
 date: 2011-08-23 11:22:46 +0000
 date_gmt: 2011-08-23 13:22:46 +0000
 categories:
-  - Miscellaneous
+  - Development
 tags:
   - testing
   - application
