@@ -37,7 +37,9 @@ plugins:
   - jekyll-include-cache
 
 exclude:
+  - AGENTS.md
   - CLAUDE.md
+  - .github/copilot-instructions.md
 
 # Defaults 
 defaults:
