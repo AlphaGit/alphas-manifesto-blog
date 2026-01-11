@@ -3,7 +3,7 @@ title: "Link del día: Validación Unicorn"
 date: 2010-08-03 14:01:12 +0000
 date_gmt: 2010-08-03 16:01:12 +0000
 categories:
-  - Miscellaneous
+  - Development
 tags:
   - HTML
   - CSS

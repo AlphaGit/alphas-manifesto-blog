@@ -3,7 +3,7 @@ title: "Link of the Day: How to effectively take notes in a meeting / course"
 date: 2010-02-12 11:24:39 +0000
 date_gmt: 2010-02-12 13:24:39 +0000
 categories:
-  - Miscellaneous
+  - Productivity
 tags:
   - capacitación
   - habilidades

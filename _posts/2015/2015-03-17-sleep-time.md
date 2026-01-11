@@ -4,7 +4,7 @@ title: Sleep time
 date: 2015-03-17 17:23:19 +0000
 date_gmt: 2015-03-17 22:23:19 +0000
 categories:
-  - Life
+  - Thoughts
 tags:
   - Apple
   - apps
