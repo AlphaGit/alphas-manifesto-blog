@@ -38,8 +38,9 @@ plugins:
 
 exclude:
   - AGENTS.md
-  - CLAUDE.md
+  - CLAUDE.MD
   - .github/copilot-instructions.md
+  - README.md
 
 # Defaults 
 defaults:
