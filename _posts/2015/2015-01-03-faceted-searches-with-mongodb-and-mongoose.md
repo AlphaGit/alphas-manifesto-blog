@@ -5,7 +5,7 @@ date: 2015-01-03 17:13:04 +0000
 date_gmt: 2015-01-03 23:13:04 +0000
 categories:
   - Projects
-  - Technology
+  - Development
 tags:
   - design
   - search

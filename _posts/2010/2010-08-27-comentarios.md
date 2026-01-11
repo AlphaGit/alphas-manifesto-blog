@@ -3,7 +3,7 @@ title: Comentarios
 date: 2010-08-27 19:51:47 +0000
 date_gmt: 2010-08-27 21:51:47 +0000
 categories:
-  - Miscellaneous
+  - Technology
 tags: 
 description: Cambié estilo sección comentarios, bonito, edición interesante, soy zorrinito estilo.
 ---

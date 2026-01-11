@@ -4,6 +4,7 @@ date: 2012-05-30 11:23:10 +0000
 date_gmt: 2012-05-30 16:23:10 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - blog
   - MicroSiervos

@@ -4,6 +4,7 @@ date: 2010-06-14 10:41:35 +0000
 date_gmt: 2010-06-14 12:41:35 +0000
 categories:
   - Link del día
+  - Tools
 tags:
   - cloud computing
   - iPhone

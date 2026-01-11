@@ -4,8 +4,8 @@ title: Technical Leaders **must** write code
 date: 2017-05-19 19:11:30 +0000
 date_gmt: 2017-05-20 00:11:30 +0000
 categories:
-  - Projects
-  - Technology
+  - Development
+  - Thoughts
 tags:
   - coding
   - team work

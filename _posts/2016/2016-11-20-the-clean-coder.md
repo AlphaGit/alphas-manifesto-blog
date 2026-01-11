@@ -5,7 +5,7 @@ date: 2016-11-20 18:01:46 +0000
 date_gmt: 2016-11-21 00:01:46 +0000
 categories:
   - Books
-  - Technology
+  - Development
 tags:
   - software
   - book

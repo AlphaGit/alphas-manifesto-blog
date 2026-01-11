@@ -4,6 +4,7 @@ date: 2011-06-07 12:35:16 +0000
 date_gmt: 2011-06-07 14:35:16 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - ciencia
   - negocios

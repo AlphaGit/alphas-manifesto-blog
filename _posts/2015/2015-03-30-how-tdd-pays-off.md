@@ -4,8 +4,7 @@ title: How TDD pays off
 date: 2015-03-30 22:34:26 +0000
 date_gmt: 2015-03-31 03:34:26 +0000
 categories:
-  - Projects
-  - Technology
+  - Development
 tags:
   - testing
   - TDD

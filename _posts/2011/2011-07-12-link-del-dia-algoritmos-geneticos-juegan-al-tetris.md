@@ -4,6 +4,7 @@ date: 2011-07-12 13:24:24 +0000
 date_gmt: 2011-07-12 15:24:24 +0000
 categories:
   - Link del día
+  - AI
 tags:
   - blog
   - video

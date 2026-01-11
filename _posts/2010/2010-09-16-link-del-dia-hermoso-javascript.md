@@ -4,6 +4,8 @@ date: 2010-09-16 14:59:29 +0000
 date_gmt: 2010-09-16 16:59:29 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - JavaScript
   - seguridad

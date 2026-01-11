@@ -4,8 +4,8 @@ title: 'My time tracker: Google Calendar'
 date: 2015-05-19 23:30:42 +0000
 date_gmt: 2015-05-20 04:30:42 +0000
 categories:
-  - Life
   - Projects
+  - Productivity
 tags:
   - Google
   - Trello

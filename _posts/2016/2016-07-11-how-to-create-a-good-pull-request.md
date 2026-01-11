@@ -4,8 +4,7 @@ title: How to create a good pull request
 date: '2016-07-11 22:33:07 +0000'
 date_gmt: '2016-07-12 03:33:07 +0000'
 categories:
-- Projects
-- Technology
+- Development
 tags:
 - GitHub
 - guidelines

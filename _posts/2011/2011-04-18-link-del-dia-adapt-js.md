@@ -4,6 +4,8 @@ date: 2011-04-18 12:40:28 +0000
 date_gmt: 2011-04-18 14:40:28 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - JavaScript
   - CSS

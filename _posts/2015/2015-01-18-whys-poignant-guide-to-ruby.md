@@ -5,6 +5,7 @@ date: 2015-01-18 12:44:50 +0000
 date_gmt: 2015-01-18 18:44:50 +0000
 categories:
   - Books
+  - Development
 tags:
   - Ruby
   - review

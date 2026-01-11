@@ -4,6 +4,7 @@ date: 2012-02-04 19:19:31 +0000
 date_gmt: 2012-02-05 00:19:31 +0000
 categories:
   - Books
+  - Development
 tags:
   - JavaScript
   - Microsoft

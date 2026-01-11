@@ -4,6 +4,8 @@ date: 2010-02-11 11:56:03 +0000
 date_gmt: 2010-02-11 13:56:03 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - proyecto
   - JavaScript

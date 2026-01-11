@@ -4,6 +4,7 @@ date: 2011-08-05 13:28:07 +0000
 date_gmt: 2011-08-05 15:28:07 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - JavaScript
   - jQuery

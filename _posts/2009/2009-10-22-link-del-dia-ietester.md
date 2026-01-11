@@ -4,6 +4,8 @@ date: 2009-10-22 11:08:18 +0000
 date_gmt: 2009-10-22 13:08:18 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags: []
 description: >-
   Herramientas de desarrollo y pruebas para Internet Explorer, incluyendo

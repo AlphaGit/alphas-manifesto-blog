@@ -4,7 +4,8 @@ title: Consejos para un no-programador
 date: '2013-06-22 21:18:32 +0000'
 date_gmt: '2013-06-23 02:18:32 +0000'
 categories:
-- Technology
+- Development
+- Thoughts
 tags:
 - proyecto
 - automatización

@@ -4,6 +4,7 @@ date: 2011-12-19 09:53:57 +0000
 date_gmt: 2011-12-19 14:53:57 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - design
   - presentación

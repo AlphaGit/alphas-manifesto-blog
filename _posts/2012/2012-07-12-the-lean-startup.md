@@ -4,6 +4,7 @@ date: 2012-07-12 20:47:11 +0000
 date_gmt: 2012-07-13 01:47:11 +0000
 categories:
   - Books
+  - Development
 tags:
   - negocios
   - herramientas

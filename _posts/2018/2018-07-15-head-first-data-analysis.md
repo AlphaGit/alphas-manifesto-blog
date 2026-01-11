@@ -5,6 +5,7 @@ date: 2018-07-15 10:20:48 +0000
 date_gmt: 2018-07-15 14:20:48 +0000
 categories:
   - Books
+  - AI
 tags:
   - book
   - book review

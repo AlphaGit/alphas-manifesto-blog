@@ -3,8 +3,7 @@ title: Testing como parte del proceso de calidad de software
 date: 2009-03-21 22:24:30 +0000
 date_gmt: 2009-03-22 00:24:30 +0000
 categories:
-  - Life
-  - Technology
+  - Development
 tags: []
 description: >-
   Curso de Testing finalizó con éxito, organizado por ATICMA, FASTA, SEPYME e

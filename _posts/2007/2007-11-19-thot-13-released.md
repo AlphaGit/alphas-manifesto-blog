@@ -4,6 +4,7 @@ date: 2007-11-19 15:42:00 +0000
 date_gmt: 2007-11-19 15:42:00 +0000
 categories:
   - Projects
+  - AI
 tags: []
 description: >-
   Cambié técnica escalado fuentes, más homogéneos, font padding, ventaja pero

@@ -4,6 +4,7 @@ date: 2009-10-27 10:53:49 +0000
 date_gmt: 2009-10-27 12:53:49 +0000
 categories:
   - Link del día
+  - Development
 tags: []
 description: >-
   Aprender lenguajes, "Hola Mundo", competencias, muestra de cada lenguaje,

@@ -4,6 +4,7 @@ date: 2011-11-08 09:45:06 +0000
 date_gmt: 2011-11-08 14:45:06 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - experiencia del usuario
   - user experience

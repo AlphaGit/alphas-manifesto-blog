@@ -4,6 +4,7 @@ date: 2010-03-01 13:36:58 +0000
 date_gmt: 2010-03-01 15:36:58 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - capacitación
   - creatividad

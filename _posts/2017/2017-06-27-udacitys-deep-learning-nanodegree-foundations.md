@@ -4,7 +4,7 @@ title: Udacity's Deep Learning Nanodegree Foundations
 date: 2017-06-27 20:28:32 +0000
 date_gmt: 2017-06-28 01:28:32 +0000
 categories:
-  - Miscellaneous
+  - AI
 tags:
   - udacity
   - course

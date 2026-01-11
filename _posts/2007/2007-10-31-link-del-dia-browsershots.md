@@ -4,6 +4,8 @@ date: 2007-10-31 12:29:00 +0000
 date_gmt: 2007-10-31 12:29:00 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags: []
 description: >-
   Site permite ver diseño en varios navegadores, pero a veces expira antes.

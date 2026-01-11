@@ -4,6 +4,7 @@ date: 2010-03-15 15:06:53 +0000
 date_gmt: 2010-03-15 17:06:53 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - Google
   - MySQL

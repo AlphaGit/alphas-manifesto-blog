@@ -4,6 +4,7 @@ date: 2011-06-01 13:47:07 +0000
 date_gmt: 2011-06-01 15:47:07 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - HTML
   - CSS

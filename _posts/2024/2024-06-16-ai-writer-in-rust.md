@@ -3,6 +3,7 @@ title: I wrote an automated blog post writer in Rust
 subtitle: Who needs to write anyway
 categories:
   - Projects
+  - AI
 tags:
   - Projects
   - AI

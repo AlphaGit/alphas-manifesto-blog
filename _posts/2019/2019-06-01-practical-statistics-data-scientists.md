@@ -3,6 +3,7 @@ excerpt_separator: <!--more-->
 title: Practical Statistics for data scientists
 categories:
   - Books
+  - AI
 tags:
   - data science
   - statistics

@@ -3,7 +3,8 @@ title: Take 2 minutes
 date: 2012-03-26 11:31:56 +0000
 date_gmt: 2012-03-26 16:31:56 +0000
 categories:
-  - Miscellaneous
+  - Productivity
+  - Thoughts
 tags:
   - seguridad
   - MicroSiervos

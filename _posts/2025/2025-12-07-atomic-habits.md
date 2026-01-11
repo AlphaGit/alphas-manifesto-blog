@@ -3,6 +3,7 @@ title: Atomic Habits
 subtitle: A review on James Clear's book
 categories:
   - Books
+  - Productivity
 tags:
   - habits
   - review

@@ -4,6 +4,7 @@ date: 2012-06-01 11:40:54 +0000
 date_gmt: 2012-06-01 16:40:54 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - testing
   - JavaScript

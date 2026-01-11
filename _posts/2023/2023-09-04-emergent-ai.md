@@ -2,7 +2,8 @@
 title: Emergent behaviour and the boom of AI
 subtitle: How a simple concept gave rise to so much more
 categories:
-  - Technology
+  - AI
+  - Thoughts
 tags:
   - OpenAI
   - AI

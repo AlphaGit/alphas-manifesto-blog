@@ -3,7 +3,8 @@ title: Estilos en IE8-
 date: 2012-03-26 22:05:56 +0000
 date_gmt: 2012-03-27 03:05:56 +0000
 categories:
-  - Miscellaneous
+  - Development
+  - Technology
 tags:
   - CSS
   - HTML5

@@ -3,7 +3,8 @@ title: Pantallas, de cerca
 date: 2012-03-22 10:55:10 +0000
 date_gmt: 2012-03-22 15:55:10 +0000
 categories:
-  - Miscellaneous
+  - Link del día
+  - Thoughts
 tags:
   - design
   - iPhone

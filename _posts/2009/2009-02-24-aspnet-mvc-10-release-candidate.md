@@ -3,7 +3,7 @@ title: ASP.NET MVC 1.0 Release Candidate
 date: 2009-02-24 00:19:26 +0000
 date_gmt: 2009-02-24 02:19:26 +0000
 categories:
-  - Technology
+  - Development
 tags: []
 description: >-
   Microsoft ASP.NET MVC descargable gratuitamente. Buena organización,

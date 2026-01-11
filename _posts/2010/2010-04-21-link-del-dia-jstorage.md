@@ -4,6 +4,8 @@ date: 2010-04-21 09:53:56 +0000
 date_gmt: 2010-04-21 11:53:56 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - JavaScript
   - HTML5

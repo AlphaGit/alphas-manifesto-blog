@@ -3,8 +3,7 @@ title: Desacoplando $scope
 date: 2014-04-29 23:36:42 +0000
 date_gmt: 2014-04-30 04:36:42 +0000
 categories:
-  - Projects
-  - Technology
+  - Development
 tags:
   - design
   - unit testing

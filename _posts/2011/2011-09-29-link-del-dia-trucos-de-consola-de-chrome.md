@@ -4,6 +4,7 @@ date: 2011-09-29 09:00:49 +0000
 date_gmt: 2011-09-29 14:00:49 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - JavaScript
   - Google Chrome

@@ -4,6 +4,8 @@ date: 2010-02-26 11:52:56 +0000
 date_gmt: 2010-02-26 13:52:56 +0000
 categories:
   - Link del día
+  - Thoughts
+  - Development
 tags:
   - Google
   - Youtube

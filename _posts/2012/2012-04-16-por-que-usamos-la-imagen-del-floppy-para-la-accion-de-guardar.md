@@ -4,6 +4,7 @@ date: 2012-04-16 10:16:12 +0000
 date_gmt: 2012-04-16 15:16:12 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - user experience
   - diseño gráfico

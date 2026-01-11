@@ -4,7 +4,6 @@ date: 2013-03-13 20:46:58 +0000
 date_gmt: 2013-03-14 01:46:58 +0000
 categories:
   - Projects
-  - Technology
 tags:
   - JavaScript
   - CSS

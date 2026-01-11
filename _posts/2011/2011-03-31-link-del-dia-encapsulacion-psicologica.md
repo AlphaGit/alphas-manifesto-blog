@@ -4,6 +4,7 @@ date: 2011-03-31 13:15:46 +0000
 date_gmt: 2011-03-31 15:15:46 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - Twitter
   - open source

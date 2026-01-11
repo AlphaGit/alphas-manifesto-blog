@@ -4,6 +4,7 @@ date: 2011-07-22 14:28:29 +0000
 date_gmt: 2011-07-22 16:28:29 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - Google
   - Google Chrome

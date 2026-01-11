@@ -3,7 +3,8 @@ title: Cómo uso Trello para trabajar
 date: 2012-01-20 18:31:00 +0000
 date_gmt: 2012-01-20 23:31:00 +0000
 categories:
-  - Miscellaneous
+  - Tools
+  - Productivity
   - Projects
 tags:
   - organización

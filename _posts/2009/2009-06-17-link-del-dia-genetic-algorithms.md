@@ -4,7 +4,7 @@ date: 2009-06-17 10:49:38 +0000
 date_gmt: 2009-06-17 12:49:38 +0000
 categories:
   - Link del día
-  - Technology
+  - AI
 tags: []
 description: >-
   Algoritmos genéticos: aplicaciones, introducciones, visualizaciones, autito,

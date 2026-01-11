@@ -4,6 +4,7 @@ date: 2011-08-31 10:26:57 +0000
 date_gmt: 2011-08-31 15:26:57 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - usabilidad
   - experiencia del usuario

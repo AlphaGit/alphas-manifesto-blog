@@ -4,7 +4,8 @@ title: Write it down!
 date: 2014-12-22 05:57:29 +0000
 date_gmt: 2014-12-22 11:57:29 +0000
 categories:
-  - Life
+  - Productivity
+  - Thoughts
 tags:
   - work
   - team work

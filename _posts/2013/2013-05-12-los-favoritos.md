@@ -3,8 +3,7 @@ title: Los favoritos
 date: 2013-05-12 10:16:43 +0000
 date_gmt: 2013-05-12 15:16:43 +0000
 categories:
-  - Miscellaneous
-  - Technology
+  - Thoughts
 tags:
   - Youtube
   - Twitter

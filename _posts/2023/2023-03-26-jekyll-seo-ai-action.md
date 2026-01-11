@@ -4,6 +4,7 @@ title: Jekyll SEO AI Action
 subtitle: Using OpenAI's for SEO optimization
 categories:
   - Projects
+  - Tools
 tags:
   - OpenAI
   - GPT-3

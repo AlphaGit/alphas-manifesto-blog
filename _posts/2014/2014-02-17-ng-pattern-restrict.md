@@ -4,7 +4,7 @@ date: 2014-02-17 21:12:11 +0000
 date_gmt: 2014-02-18 02:12:11 +0000
 categories:
   - Projects
-  - Technology
+  - Development
 tags:
   - proyecto
   - JavaScript

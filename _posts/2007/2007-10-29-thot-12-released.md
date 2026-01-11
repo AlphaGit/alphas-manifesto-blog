@@ -4,6 +4,7 @@ date: 2007-10-29 04:07:00 +0000
 date_gmt: 2007-10-29 04:07:00 +0000
 categories:
   - Projects
+  - AI
 tags: []
 description: >-
   Redes neuronales, intuición, magia, Thot, escalado, centrado, pruebas, error,

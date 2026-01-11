@@ -4,6 +4,7 @@ date: 2010-06-01 11:03:07 +0000
 date_gmt: 2010-06-01 13:03:07 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - Youtube
   - blog

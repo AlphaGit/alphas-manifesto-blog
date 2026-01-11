@@ -3,8 +3,7 @@ title: Code review guidelines
 date: 2009-03-02 00:40:50 +0000
 date_gmt: 2009-03-02 02:40:50 +0000
 categories:
-  - Projects
-  - Technology
+  - Development
 tags: []
 description: >-
   Estandarización del code review: legibilidad, arquitectura, code-coverage,

@@ -4,7 +4,8 @@ title: Death to Singletons!
 date: 2016-05-13 20:08:44 +0000
 date_gmt: 2016-05-14 01:08:44 +0000
 categories:
-  - Technology
+  - Development
+  - Thoughts
 tags:
   - C#
   - design

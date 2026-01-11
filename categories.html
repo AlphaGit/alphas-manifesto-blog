@@ -9,18 +9,17 @@ title: Categories
 
 <div id="categories">
 {% for category in categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    {% assign cat_slug = category_name | slugify: "latin" %}
+    {% assign cat_info = site.data.categories[cat_slug] %}
     <div class="archive-group">
-        {% capture category_name %}{{ category | first }}{% endcapture %}
-        <h1 id="category-{{ category_name | slugify }}" class="category-head">{{ category_name }}</h1>
-
-        <ul>
-        {% for post in site.categories[category_name] %}
-            <li>
-                <a href="{{ site.baseUrl }}{{ post.url }}">{{ post.title }}</a>
-                ({{ post.date | date: date_format }})
-            </li>
-        {% endfor %}
-        </ul>
+        <h2 id="category-{{ cat_slug }}" class="category-head">
+            <a href="{{ "/categories/" | append: cat_slug | relative_url }}">{{ cat_info.title | default: category_name
+                }}</a>
+        </h2>
+        {% if cat_info and cat_info.description %}
+        <p class="subtitle">{{ cat_info.description }}</p>
+        {% endif %}
     </div>
 {% endfor %}
 </div>

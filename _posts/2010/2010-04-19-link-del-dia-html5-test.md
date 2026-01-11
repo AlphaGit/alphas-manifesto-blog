@@ -4,6 +4,8 @@ date: 2010-04-19 11:54:45 +0000
 date_gmt: 2010-04-19 13:54:45 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - HTML
   - Google Chrome

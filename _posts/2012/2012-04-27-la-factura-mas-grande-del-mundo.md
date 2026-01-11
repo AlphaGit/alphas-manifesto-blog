@@ -4,6 +4,7 @@ date: 2012-04-27 12:09:08 +0000
 date_gmt: 2012-04-27 17:09:08 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - software
   - freelancer

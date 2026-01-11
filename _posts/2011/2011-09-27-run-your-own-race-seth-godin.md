@@ -3,7 +3,7 @@ title: '"Run your own race" (Seth Godin)'
 date: 2011-09-27 21:50:14 +0000
 date_gmt: 2011-09-28 02:50:14 +0000
 categories:
-  - Miscellaneous
+  - Thoughts
 tags:
   - blog
   - productividad

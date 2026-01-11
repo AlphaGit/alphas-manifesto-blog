@@ -4,6 +4,7 @@ date: 2011-10-13 08:17:46 +0000
 date_gmt: 2011-10-13 13:17:46 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - testing
   - estadísticas

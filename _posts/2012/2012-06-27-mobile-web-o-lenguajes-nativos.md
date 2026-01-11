@@ -3,7 +3,8 @@ title: 'Mobile:  ¿Web o lenguajes nativos?'
 date: 2012-06-27 00:30:28 +0000
 date_gmt: 2012-06-27 05:30:28 +0000
 categories:
-  - Technology
+  - Development
+  - Thoughts
 tags:
   - JavaScript
   - HTML

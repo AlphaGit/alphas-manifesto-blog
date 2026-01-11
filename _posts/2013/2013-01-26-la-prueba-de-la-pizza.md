@@ -4,6 +4,7 @@ date: 2013-01-26 18:04:06 +0000
 date_gmt: 2013-01-26 23:04:06 +0000
 categories:
   - Projects
+  - Thoughts
 tags:
   - experiencia del usuario
   - user experience

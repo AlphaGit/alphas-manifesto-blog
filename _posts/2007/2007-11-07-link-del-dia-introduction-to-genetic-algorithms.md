@@ -4,6 +4,7 @@ date: 2007-11-07 12:36:00 +0000
 date_gmt: 2007-11-07 12:36:00 +0000
 categories:
   - Link del día
+  - AI
 tags: []
 description: >-
   Introducción a algoritmos genéticos, enfoque matemático y probabilístico,

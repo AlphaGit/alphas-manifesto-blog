@@ -4,6 +4,8 @@ date: 2010-02-23 11:35:40 +0000
 date_gmt: 2010-02-23 13:35:40 +0000
 categories:
   - Link del día
+  - Development
+  - Tools
 tags:
   - Google
   - Microsoft

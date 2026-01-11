@@ -3,7 +3,7 @@ title: '"Hackearon mi server"'
 date: 2012-05-16 09:47:32 +0000
 date_gmt: 2012-05-16 14:47:32 +0000
 categories:
-  - Miscellaneous
+  - Development
 tags:
   - internet
   - datos

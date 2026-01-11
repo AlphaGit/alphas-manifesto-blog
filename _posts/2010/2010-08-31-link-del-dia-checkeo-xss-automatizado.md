@@ -4,6 +4,7 @@ date: 2010-08-31 15:56:53 +0000
 date_gmt: 2010-08-31 17:56:53 +0000
 categories:
   - Link del día
+  - Security
 tags:
   - seguridad
   - plugin

@@ -3,8 +3,7 @@ title: El cracking y la memoria
 date: 2007-11-23 13:00:00 +0000
 date_gmt: 2007-11-23 13:00:00 +0000
 categories:
-  - Projects
-  - Technology
+  - Security
 tags: []
 description: >-
   Encontré hueco de seguridad, MyBB, PHP muerto, config.php, conexión remota,

@@ -4,7 +4,7 @@ title: Google Inbox and Inbox Zero
 date: 2014-11-28 18:53:10 +0000
 date_gmt: 2014-11-28 23:53:10 +0000
 categories:
-  - Miscellaneous
+  - Productivity
 tags:
   - Google
   - productividad

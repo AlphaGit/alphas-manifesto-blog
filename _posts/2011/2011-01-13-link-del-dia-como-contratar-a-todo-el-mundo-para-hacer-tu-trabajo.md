@@ -4,6 +4,7 @@ date: 2011-01-13 12:07:19 +0000
 date_gmt: 2011-01-13 14:07:19 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - web application
   - cloud computing

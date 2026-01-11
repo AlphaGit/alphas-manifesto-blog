@@ -4,7 +4,7 @@ date: 2007-11-15 02:57:00 +0000
 date_gmt: 2007-11-15 02:57:00 +0000
 categories:
   - Projects
-  - Technology
+  - AI
 tags: []
 description: Investigación OCR MatLab, 56% error, código MatLab 2007, mejoras por venir.
 ---

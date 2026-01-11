@@ -3,7 +3,7 @@ title: A Novice's Introduction to Data Science
 date: 2018-02-10 17:31:04 +0000
 date_gmt: 2018-02-10 22:31:04 +0000
 categories:
-  - Miscellaneous
+  - AI
 tags:
   - link
   - buzzwords

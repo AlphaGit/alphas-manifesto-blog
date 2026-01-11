@@ -4,6 +4,7 @@ date: 2012-02-22 11:38:03 +0000
 date_gmt: 2012-02-22 16:38:03 +0000
 categories:
   - Link del día
+  - Thoughts
 tags:
   - preguntas
   - entrevista

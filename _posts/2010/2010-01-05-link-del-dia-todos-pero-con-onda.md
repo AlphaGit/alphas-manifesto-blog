@@ -4,6 +4,8 @@ date: 2010-01-05 12:45:31 +0000
 date_gmt: 2010-01-05 14:45:31 +0000
 categories:
   - Link del día
+  - Productivity
+  - Tools
 tags:
   - web application
   - organización

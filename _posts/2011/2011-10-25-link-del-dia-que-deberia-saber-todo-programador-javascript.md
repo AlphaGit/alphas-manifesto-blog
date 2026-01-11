@@ -4,6 +4,7 @@ date: 2011-10-25 07:56:44 +0000
 date_gmt: 2011-10-25 12:56:44 +0000
 categories:
   - Link del día
+  - Development
 tags:
   - JavaScript
   - desarrollo web
