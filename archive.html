@@ -46,8 +46,9 @@ title: Archive
             {% assign posts_by_month = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
             <ul class="month-list">
               {% for month in posts_by_month %}
+                {% assign month_num = month.items.first.date | date: "%m" %}
                 <li>
-                  <a href="{{ "/" | append: year.name | append: "/" | append: month.items.first.date | date: "%m" | append: "/" | relative_url }}">
+                  <a href="{{ "/" | append: year.name | append: "/" | append: month_num | append: "/" | relative_url }}">
                     {{ month.name }}
                     <span class="count">({{ month.items.size }})</span>
                   </a>
