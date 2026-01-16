@@ -1,0 +1,9 @@
+<nav class="main-navigation">
+  <ul class="nav-menu">
+    {%- for item in site.data.navigation -%}
+      <li class="nav-item">
+        <a href="{{ item.url | relative_url }}" class="nav-link">{{ item.title }}</a>
+      </li>
+    {%- endfor -%}
+  </ul>
+</nav>
