@@ -762,3 +762,149 @@ article iframe, article video, article embed {
         page-break-inside: avoid;
     }
 }
+
+/* Main Navigation Styles */
+.main-navigation {
+    background: #333;
+    border-top: 1px solid #555;
+    padding: 0;
+}
+
+.nav-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-item {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 25px;
+    font-weight: 600;
+    transition: background 0.3s ease;
+}
+
+    .nav-link:hover {
+        background: #222;
+        color: #fff;
+    }
+
+/* Archive Page Styles */
+main.archive {
+    grid-template-columns: unset;
+    display: block;
+}
+
+article.archive {
+    grid-template-columns: unset;
+    display: block;
+}
+
+.archive-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 60px;
+    margin: 0 auto;
+}
+
+.archive-grid h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #444;
+}
+
+.category-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .category-list li {
+        margin-bottom: 10px;
+    }
+
+    .category-list a {
+        color: #2a7ae2;
+        text-decoration: none;
+        display: block;
+        padding: 5px 0;
+        transition: color 0.2s ease;
+    }
+
+        .category-list a:hover {
+            color: #1756a9;
+            text-decoration: underline;
+        }
+
+.count {
+    color: #999;
+    font-size: 0.9em;
+    margin-left: 5px;
+}
+
+.year-group {
+    margin-bottom: 30px;
+}
+
+    .year-group h3 {
+        font-size: 1.3em;
+        font-weight: bold;
+        color: #444;
+        margin-bottom: 15px;
+    }
+
+.month-list {
+    list-style: none;
+    padding: 0 0 0 15px;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+    .month-list li {
+        margin: 0;
+    }
+
+    .month-list a {
+        color: #2a7ae2;
+        text-decoration: none;
+        font-size: 0.95em;
+        display: block;
+        padding: 5px 0;
+        transition: color 0.2s ease;
+    }
+
+        .month-list a:hover {
+            color: #1756a9;
+            text-decoration: underline;
+        }
+
+/* Responsive Design */
+@media (max-width: 767px) {
+    .archive-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+
+    .month-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media print {
+    .main-navigation {
+        display: none;
+    }
+}

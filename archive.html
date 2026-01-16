@@ -1,0 +1,62 @@
+---
+layout: full-width
+permalink: /archive/
+title: Archive
+---
+
+<article class="archive">
+  <h1>
+    <a href="{{ post.url | relative_url }}">
+      Archive
+    </a>
+  </h1>
+
+  <div class="archive-grid">
+    <div>
+      <input type="checkbox" id="displayMenus" class="menuSwitcher">
+      <label for="displayMenus" class="menuSwitcher"></label>
+
+      <!-- Categories Section -->
+      <div>
+        <h2>Categories</h2>
+        <ul class="category-list">
+        {% assign sorted_categories = site.categories | sort %}
+        {% for category in sorted_categories %}
+          {% assign category_name = category[0] %}
+          {% assign cat_slug = category_name | slugify: "latin" %}
+          {% assign cat_info = site.data.categories[cat_slug] %}
+          <li>
+          <a href="{{ "/categories/" | append: cat_slug | relative_url }}">
+              {{ cat_info.title | default: category_name }}
+              <span class="count">({{ category[1].size }})</span>
+          </a>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div>
+      <h2>By Date</h2>
+      <div class="date-archive">
+        {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
+        {% for year in posts_by_year %}
+          <div class="year-group">
+            <h3>{{ year.name }}</h3>
+            {% assign posts_by_month = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
+            <ul class="month-list">
+              {% for month in posts_by_month %}
+                <li>
+                  <a href="{{ "/" | append: year.name | append: "/" | append: month.items.first.date | date: "%m" | append: "/" | relative_url }}">
+                    {{ month.name }}
+                    <span class="count">({{ month.items.size }})</span>
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</article>

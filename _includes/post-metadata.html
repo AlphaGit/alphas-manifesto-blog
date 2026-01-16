@@ -10,7 +10,7 @@
         {% for category in post.categories %}
         {% assign cat_slug = category | slugify %}
         <a href="{{ '/categories/' | append: cat_slug | relative_url }}">{{ category }}</a>
-        {% unless forloop.last %}, {% endunless %}
+        {%- unless forloop.last %}, {% endunless %}
         {% endfor %}
     </div>
 
