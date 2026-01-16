@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: |
           gem install jekyll bundler
-          gem install jekyll-sitemap jekyll-paginate jekyll-gist jekyll-feed jekyll-include-cache jekyll-seo-tag
+          gem install jekyll-sitemap jekyll-paginate jekyll-gist jekyll-feed jekyll-include-cache jekyll-seo-tag jekyll-archives
 
       - name: Build with Jekyll
         run: |
