@@ -2,7 +2,6 @@
 layout: default
 ---
 
-{% assign date_format = site.alphasmanifesto.date_format | default: "%b %-d, %Y" %}
 {% assign month_name = page.date | date: "%B %Y" %}
 
 <main aria-label="Content">
@@ -17,43 +16,46 @@ layout: default
                     {{ page.posts.size }} {% if page.posts.size == 1 %}post{% else %}posts{% endif %} published in {{ month_name }}
                 </p>
 
-                {% if page.posts.size == 0 %}
-                <p>No posts found for this month.</p>
-                {% else %}
-                <ul class="post-list">
-                    {% for post in page.posts %}
-                    <li>
-                        <h2>
-                            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                        </h2>
-                        {%- if post.subtitle -%}
-                        <p class="subtitle">{{ post.subtitle }}</p>
-                        {%- endif -%}
-                        <p class="post-meta">
-                            <time datetime="{{ post.date | date_to_xmlschema }}">
-                                {{ post.date | date: date_format }}
-                            </time>
-                            {% if post.categories.size > 0 %}
-                            • {% for category in post.categories %}
-                                {% assign cat_slug = category | slugify: "latin" %}
-                                <a href="{{ "/categories/" | append: cat_slug | relative_url }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
-                            {% endfor %}
-                            {% endif %}
-                        </p>
-                        {% if post.excerpt %}
-                        <div class="post-excerpt">
-                            {{ post.excerpt }}
-                        </div>
-                        {% endif %}
-                    </li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
-
                 <p class="archive-navigation">
                     <a href="{{ "/archive/" | relative_url }}">&larr; Back to Archives</a>
                 </p>
             </div>
         </article>
+
+        {% if page.posts.size == 0 %}
+        <article>
+            <div class="postContent">
+                <p>No posts found for this month.</p>
+            </div>
+        </article>
+        {% else %}
+        {% for post in page.posts %}
+        <article>
+            <div class="postContent">
+                <h1>
+                    <a href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}
+                    </a>
+                </h1>
+
+                {%- if post.subtitle -%}
+                <p class="subtitle">
+                    {{ post.subtitle }}
+                </p>
+                {%- endif -%}
+
+                {% include post-main-image.html %}
+
+                {{ post.excerpt }}
+
+                <p>
+                    <a href="{{ post.url | relative_url }}" class="more-link">(Read more &rarr;)</a>
+                </p>
+            </div>
+
+            {% include post-metadata.html %}
+        </article>
+        {% endfor %}
+        {% endif %}
     </div>
 </main>

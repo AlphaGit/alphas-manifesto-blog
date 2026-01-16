@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% assign date_format = site.alphasmanifesto.date_format | default: "%b %-d, %Y" %}
-
 <main aria-label="Content">
     {% include left-sidebar.html %}
 
@@ -16,28 +14,46 @@ layout: default
                     {{ page.posts.size }} {% if page.posts.size == 1 %}post{% else %}posts{% endif %} published in {{ page.date | date: "%Y" }}
                 </p>
 
-                {% if page.posts.size == 0 %}
-                <p>No posts found for this year.</p>
-                {% else %}
-                {% assign posts_by_month = page.posts | group_by_exp: "post", "post.date | date: '%B'" %}
-
-                {% for month_group in posts_by_month %}
-                <h2>{{ month_group.name }}</h2>
-                <ul>
-                    {% for post in month_group.items %}
-                    <li>
-                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                        <span class="post-date">({{ post.date | date: date_format }})</span>
-                    </li>
-                    {% endfor %}
-                </ul>
-                {% endfor %}
-                {% endif %}
-
                 <p class="archive-navigation">
                     <a href="{{ "/archive/" | relative_url }}">&larr; Back to Archives</a>
                 </p>
             </div>
         </article>
+
+        {% if page.posts.size == 0 %}
+        <article>
+            <div class="postContent">
+                <p>No posts found for this year.</p>
+            </div>
+        </article>
+        {% else %}
+        {% for post in page.posts %}
+        <article>
+            <div class="postContent">
+                <h1>
+                    <a href="{{ post.url | relative_url }}">
+                        {{ post.title | escape }}
+                    </a>
+                </h1>
+
+                {%- if post.subtitle -%}
+                <p class="subtitle">
+                    {{ post.subtitle }}
+                </p>
+                {%- endif -%}
+
+                {% include post-main-image.html %}
+
+                {{ post.excerpt }}
+
+                <p>
+                    <a href="{{ post.url | relative_url }}" class="more-link">(Read more &rarr;)</a>
+                </p>
+            </div>
+
+            {% include post-metadata.html %}
+        </article>
+        {% endfor %}
+        {% endif %}
     </div>
 </main>
