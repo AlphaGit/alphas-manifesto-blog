@@ -5,3 +5,8 @@
 <link rel="mask-icon" href="{{ site.baseUrl }}/safari-pinned-tab.svg" color="#2c2624">
 <meta name="msapplication-TileColor" content="#2c2624">
 <meta name="theme-color" content="#000000">
+{%- if page.image -%}
+<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{%- elsif page.header.image -%}
+<meta name="twitter:image" content="{{ page.header.image | absolute_url }}">
+{%- endif -%}
