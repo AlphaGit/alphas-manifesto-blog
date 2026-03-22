@@ -15,11 +15,7 @@ google:
 
 # Site Author
 author:
-  name: "JD Raimondi"
-  avatar: "/assets/avatarJD.jpg"
-  bio: "Software engineer. Curious person. Very serious. Not a robot (yet)."
-  email: "raimondijuan@gmail.com"
-  twitter: "AlphasManifesto"
+  name: "Alpha"
 
 # Outputting
 permalink: /:year/:month/:day/:slug/
@@ -82,10 +78,6 @@ alphasmanifesto:
   widgets:
     - title: "My Other Sites"
       links:
-        - label: "Twitter"
-          url: "https://twitter.com/AlphasManifesto"
-        - label: "LinkedIn"
-          url: "https://www.linkedin.com/in/raimondijuan/"
         - label: "GitHub"
           url: "https://www.github.com/AlphaGit"
         - label: "Tech Garden"
