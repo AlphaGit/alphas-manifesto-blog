@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" font-family="system-ui, -apple-system, sans-serif">
+  <!-- Background -->
+  <rect width="720" height="400" fill="#f8f8f8" rx="8"/>
+
+  <!-- Room -->
+  <rect x="200" y="60" width="320" height="280" fill="#e8e0d4" stroke="#6b5b4f" stroke-width="2.5" rx="4"/>
+  <text x="360" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#4a3f35">THE ROOM</text>
+
+  <!-- Person (stick figure) -->
+  <circle cx="340" cy="145" r="18" fill="none" stroke="#4a3f35" stroke-width="2"/>
+  <line x1="340" y1="163" x2="340" y2="210" stroke="#4a3f35" stroke-width="2"/>
+  <line x1="340" y1="175" x2="315" y2="195" stroke="#4a3f35" stroke-width="2"/>
+  <line x1="340" y1="175" x2="365" y2="195" stroke="#4a3f35" stroke-width="2"/>
+  <line x1="340" y1="210" x2="320" y2="240" stroke="#4a3f35" stroke-width="2"/>
+  <line x1="340" y1="210" x2="360" y2="240" stroke="#4a3f35" stroke-width="2"/>
+  <!-- Question mark in head -->
+  <text x="340" y="150" text-anchor="middle" font-size="16" font-weight="bold" fill="#4a3f35">?</text>
+  <text x="340" y="260" text-anchor="middle" font-size="11" fill="#6b5b4f">Person</text>
+  <text x="340" y="274" text-anchor="middle" font-size="10" fill="#8b7b6f">(no Chinese)</text>
+
+  <!-- Rulebook -->
+  <rect x="400" y="130" width="80" height="100" fill="#f5f0e0" stroke="#8b7b6f" stroke-width="1.5" rx="3"/>
+  <line x1="410" y1="150" x2="470" y2="150" stroke="#c0b090" stroke-width="1"/>
+  <line x1="410" y1="162" x2="470" y2="162" stroke="#c0b090" stroke-width="1"/>
+  <line x1="410" y1="174" x2="470" y2="174" stroke="#c0b090" stroke-width="1"/>
+  <line x1="410" y1="186" x2="470" y2="186" stroke="#c0b090" stroke-width="1"/>
+  <line x1="410" y1="198" x2="460" y2="198" stroke="#c0b090" stroke-width="1"/>
+  <line x1="410" y1="210" x2="455" y2="210" stroke="#c0b090" stroke-width="1"/>
+  <text x="440" y="145" text-anchor="middle" font-size="9" font-weight="bold" fill="#6b5b4f">RULES</text>
+  <text x="440" y="248" text-anchor="middle" font-size="11" fill="#6b5b4f">Rulebook</text>
+  <text x="440" y="262" text-anchor="middle" font-size="10" fill="#8b7b6f">(in English)</text>
+
+  <!-- Input slot (left) -->
+  <rect x="195" y="170" width="10" height="40" fill="#6b5b4f"/>
+
+  <!-- Output slot (right) -->
+  <rect x="515" y="170" width="10" height="40" fill="#6b5b4f"/>
+
+  <!-- Chinese characters input -->
+  <text x="110" y="160" text-anchor="middle" font-size="22" fill="#c0392b">你好吗</text>
+  <text x="110" y="180" text-anchor="middle" font-size="11" fill="#666">Chinese</text>
+  <text x="110" y="194" text-anchor="middle" font-size="11" fill="#666">question in</text>
+
+  <!-- Input arrow -->
+  <line x1="150" y1="185" x2="193" y2="185" stroke="#c0392b" stroke-width="2" marker-end="url(#arrowRed)"/>
+
+  <!-- Output arrow -->
+  <line x1="527" y1="185" x2="570" y2="185" stroke="#2471a3" stroke-width="2" marker-end="url(#arrowBlue)"/>
+
+  <!-- Chinese characters output -->
+  <text x="630" y="160" text-anchor="middle" font-size="22" fill="#2471a3">我很好</text>
+  <text x="630" y="180" text-anchor="middle" font-size="11" fill="#666">Chinese</text>
+  <text x="630" y="194" text-anchor="middle" font-size="11" fill="#666">answer out</text>
+
+  <!-- Bottom label -->
+  <text x="360" y="370" text-anchor="middle" font-size="12" fill="#888">From outside: indistinguishable from a native Chinese speaker</text>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowRed" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#c0392b"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#2471a3"/>
+    </marker>
+  </defs>
+</svg>

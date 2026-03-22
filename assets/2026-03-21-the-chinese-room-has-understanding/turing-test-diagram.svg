@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" font-family="system-ui, -apple-system, sans-serif">
+  <!-- Background -->
+  <rect width="700" height="320" fill="#f8f8f8" rx="8"/>
+
+  <!-- Title -->
+  <text x="350" y="28" text-anchor="middle" font-size="14" font-weight="bold" fill="#4a3f35">The Turing Test</text>
+
+  <!-- The wall / barrier -->
+  <rect x="310" y="50" width="6" height="220" fill="#c9b99a" rx="2"/>
+  <text x="313" y="290" text-anchor="middle" font-size="9" fill="#8b7b6f">The judge can't see who's on the other side.</text>
+
+  <!-- Left side: Judge -->
+  <text x="150" y="68" text-anchor="middle" font-size="12" font-weight="bold" fill="#4a3f35">Judge</text>
+
+  <!-- Judge stick figure -->
+  <circle cx="150" cy="100" r="16" fill="none" stroke="#4a3f35" stroke-width="2"/>
+  <circle cx="144" cy="97" r="1.5" fill="#4a3f35"/>
+  <circle cx="156" cy="97" r="1.5" fill="#4a3f35"/>
+  <path d="M 144,105 Q 150,109 156,105" fill="none" stroke="#4a3f35" stroke-width="1.2"/>
+  <line x1="150" y1="116" x2="150" y2="155" stroke="#4a3f35" stroke-width="2"/>
+  <line x1="130" y1="135" x2="170" y2="135" stroke="#4a3f35" stroke-width="2"/>
+  <line x1="150" y1="155" x2="133" y2="180" stroke="#4a3f35" stroke-width="2"/>
+  <line x1="150" y1="155" x2="167" y2="180" stroke="#4a3f35" stroke-width="2"/>
+
+  <text x="150" y="210" text-anchor="middle" font-size="10" fill="#666">"Which one is human?"</text>
+
+  <!-- Conversation arrows through the wall -->
+  <line x1="230" y1="128" x2="305" y2="98" stroke="#2471a3" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowBlue)"/>
+  <line x1="230" y1="148" x2="305" y2="198" stroke="#2471a3" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowBlue)"/>
+
+  <!-- Participant A (top right) -->
+  <rect x="365" y="55" width="250" height="90" fill="#fff" stroke="#8b7b6f" stroke-width="1" rx="6"/>
+  <text x="380" y="76" font-size="11" font-weight="bold" fill="#4a3f35">Participant A</text>
+
+  <!-- Person stick figure -->
+  <circle cx="410" cy="112" r="12" fill="none" stroke="#4a3f35" stroke-width="1.5"/>
+  <line x1="410" y1="124" x2="410" y2="138" stroke="#4a3f35" stroke-width="1.5"/>
+  <line x1="400" y1="130" x2="420" y2="130" stroke="#4a3f35" stroke-width="1.5"/>
+
+  <!-- Speech bubble for A -->
+  <rect x="438" y="96" width="165" height="40" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1" rx="10"/>
+  <text x="520" y="113" text-anchor="middle" font-size="9" fill="#2e7d32">"I think the weather is</text>
+  <text x="520" y="126" text-anchor="middle" font-size="9" fill="#2e7d32">nice today, don't you?"</text>
+
+  <!-- Participant B (bottom right) -->
+  <rect x="365" y="160" width="250" height="90" fill="#fff" stroke="#8b7b6f" stroke-width="1" rx="6"/>
+  <text x="380" y="181" font-size="11" font-weight="bold" fill="#4a3f35">Participant B</text>
+
+  <!-- Robot/machine icon -->
+  <rect x="398" y="199" width="24" height="20" fill="none" stroke="#4a3f35" stroke-width="1.5" rx="3"/>
+  <circle cx="405" cy="208" r="2" fill="#4a3f35"/>
+  <circle cx="415" cy="208" r="2" fill="#4a3f35"/>
+  <line x1="410" y1="195" x2="410" y2="199" stroke="#4a3f35" stroke-width="1.5"/>
+
+  <!-- Speech bubble for B -->
+  <rect x="438" y="201" width="165" height="40" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1" rx="10"/>
+  <text x="520" y="218" text-anchor="middle" font-size="9" fill="#2e7d32">"It's lovely! Perfect for</text>
+  <text x="520" y="231" text-anchor="middle" font-size="9" fill="#2e7d32">a walk in the park."</text>
+
+  <!-- "human?" / "machine?" labels with or-vice-versa between them -->
+  <text x="640" y="105" text-anchor="middle" font-size="11" fill="#8b7b6f">human?</text>
+  <path d="M 640,112 L 640,183" fill="none" stroke="#8b7b6f" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="655" y="150" font-size="9" fill="#8b7b6f">or vice</text>
+  <text x="655" y="162" font-size="9" fill="#8b7b6f">versa?</text>
+  <text x="640" y="200" text-anchor="middle" font-size="11" fill="#8b7b6f">machine?</text>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#2471a3"/>
+    </marker>
+  </defs>
+</svg>

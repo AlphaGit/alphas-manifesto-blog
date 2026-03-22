@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 330" font-family="system-ui, -apple-system, sans-serif">
+  <!-- Background -->
+  <rect width="700" height="330" fill="#f8f8f8" rx="8"/>
+
+  <!-- === TOP: Searle's binary view === -->
+  <text x="350" y="28" text-anchor="middle" font-size="13" font-weight="bold" fill="#4a3f35">Searle's view: binary</text>
+
+  <!-- Two blocks — dividing line at x=370 to align with spectrum line below -->
+  <rect x="40" y="42" width="322" height="50" fill="#fde8e8" stroke="#c0392b" stroke-width="1.5" rx="5"/>
+  <text x="200" y="63" text-anchor="middle" font-size="11" font-weight="bold" fill="#c0392b">Doesn't understand</text>
+  <text x="200" y="79" text-anchor="middle" font-size="9" fill="#888">thermostat, gzip, regression, DNN, Chinese Room...</text>
+
+  <rect x="378" y="42" width="282" height="50" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5" rx="5"/>
+  <text x="519" y="63" text-anchor="middle" font-size="11" font-weight="bold" fill="#2e7d32">Understands</text>
+  <text x="519" y="79" text-anchor="middle" font-size="9" fill="#888">medical students, doctors, Einstein...</text>
+
+  <!-- Dividing line between them -->
+  <line x1="370" y1="38" x2="370" y2="96" stroke="#4a3f35" stroke-width="2.5"/>
+  <text x="370" y="110" text-anchor="middle" font-size="9" fill="#4a3f35">hard boundary</text>
+
+  <!-- === Divider === -->
+  <line x1="60" y1="130" x2="640" y2="130" stroke="#ddd" stroke-width="1"/>
+  <text x="350" y="126" text-anchor="middle" font-size="9" fill="#bbb" font-style="italic">vs.</text>
+
+  <!-- === BOTTOM: Spectrum view === -->
+  <text x="350" y="155" text-anchor="middle" font-size="13" font-weight="bold" fill="#4a3f35">The alternative: a gradient</text>
+
+  <!-- Axis labels — above the bar -->
+  <text x="40" y="175" font-size="9" fill="#c0392b">less understanding</text>
+  <text x="660" y="175" text-anchor="end" font-size="9" fill="#2e7d32">more understanding</text>
+
+  <!-- Gradient bar -->
+  <defs>
+    <linearGradient id="spectrumGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fde8e8"/>
+      <stop offset="30%" stop-color="#f5dcc0"/>
+      <stop offset="60%" stop-color="#d4e8b0"/>
+      <stop offset="100%" stop-color="#b5dfb5"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="182" width="620" height="30" fill="url(#spectrumGrad)" stroke="#8b7b6f" stroke-width="1" rx="4"/>
+
+  <!-- Data points on the bar -->
+  <!-- Thermostat -->
+  <line x1="70" y1="182" x2="70" y2="212" stroke="#4a3f35" stroke-width="1.5"/>
+  <circle cx="70" cy="197" r="4" fill="#4a3f35"/>
+  <text x="70" y="228" text-anchor="middle" font-size="9" fill="#666">thermostat</text>
+
+  <!-- Linear regression -->
+  <line x1="165" y1="182" x2="165" y2="212" stroke="#4a3f35" stroke-width="1.5"/>
+  <circle cx="165" cy="197" r="4" fill="#4a3f35"/>
+  <text x="165" y="228" text-anchor="middle" font-size="9" fill="#666">linear</text>
+  <text x="165" y="239" text-anchor="middle" font-size="9" fill="#666">regression</text>
+
+  <!-- Deep neural network -->
+  <line x1="295" y1="182" x2="295" y2="212" stroke="#4a3f35" stroke-width="1.5"/>
+  <circle cx="295" cy="197" r="4" fill="#4a3f35"/>
+  <text x="295" y="228" text-anchor="middle" font-size="9" fill="#666">deep neural</text>
+  <text x="295" y="239" text-anchor="middle" font-size="9" fill="#666">network</text>
+
+  <!-- Medical student -->
+  <line x1="440" y1="182" x2="440" y2="212" stroke="#4a3f35" stroke-width="1.5"/>
+  <circle cx="440" cy="197" r="4" fill="#4a3f35"/>
+  <text x="440" y="228" text-anchor="middle" font-size="9" fill="#666">medical</text>
+  <text x="440" y="239" text-anchor="middle" font-size="9" fill="#666">student</text>
+
+  <!-- Chinese Room (if it works) -->
+  <line x1="490" y1="182" x2="490" y2="212" stroke="#2471a3" stroke-width="1.5"/>
+  <circle cx="490" cy="197" r="5" fill="#2471a3"/>
+  <text x="490" y="260" text-anchor="middle" font-size="9" font-weight="bold" fill="#2471a3">Chinese Room</text>
+  <text x="490" y="271" text-anchor="middle" font-size="8" fill="#2471a3">(if it works)</text>
+
+  <!-- Experienced doctor -->
+  <line x1="550" y1="182" x2="550" y2="212" stroke="#4a3f35" stroke-width="1.5"/>
+  <circle cx="550" cy="197" r="4" fill="#4a3f35"/>
+  <text x="550" y="228" text-anchor="middle" font-size="9" fill="#666">experienced</text>
+  <text x="550" y="239" text-anchor="middle" font-size="9" fill="#666">doctor</text>
+
+  <!-- Einstein -->
+  <line x1="630" y1="182" x2="630" y2="212" stroke="#4a3f35" stroke-width="1.5"/>
+  <circle cx="630" cy="197" r="4" fill="#4a3f35"/>
+  <text x="630" y="228" text-anchor="middle" font-size="9" fill="#666">Einstein</text>
+
+  <!-- Searle's line drawn on the spectrum — aligned with binary line at x=370 -->
+  <line x1="370" y1="175" x2="370" y2="220" stroke="#c0392b" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="370" y="295" text-anchor="middle" font-size="9" fill="#c0392b">Searle draws a line here,</text>
+  <text x="370" y="307" text-anchor="middle" font-size="9" fill="#c0392b">anchored to human cognition</text>
+
+  <!-- Arrow pointing to the line -->
+  <line x1="370" y1="285" x2="370" y2="223" stroke="#c0392b" stroke-width="1" marker-end="url(#arrowRed)"/>
+
+  <defs>
+    <marker id="arrowRed" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#c0392b"/>
+    </marker>
+  </defs>
+</svg>
