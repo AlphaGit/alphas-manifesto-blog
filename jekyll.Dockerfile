@@ -3,4 +3,4 @@ RUN gem install jekyll-sitemap jekyll-paginate jekyll-gist jekyll-feed jekyll-in
 
 FROM jekyll
 VOLUME [ "/srv/jekyll" ]
-CMD [ "jekyll", "serve", "--watch", "--incremental" ]
+CMD [ "jekyll", "serve", "--watch", "--incremental", "--livereload" ]
