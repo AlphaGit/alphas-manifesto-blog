@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" font-family="system-ui, -apple-system, sans-serif">
+  <!-- Background -->
+  <rect width="720" height="430" fill="#f8f8f8" rx="8"/>
+
+  <!-- Title -->
+  <text x="360" y="30" text-anchor="middle" font-size="14" font-weight="bold" fill="#4a3f35">What would the rulebook actually need?</text>
+
+  <!-- Left column: The problem space -->
+  <text x="120" y="62" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a3f35">All possible Chinese</text>
+  <text x="120" y="76" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a3f35">conversations</text>
+
+  <!-- Cloud shape for infinite space -->
+  <ellipse cx="120" cy="130" rx="95" ry="42" fill="#e8d8c8" stroke="#8b7b6f" stroke-width="1.5"/>
+  <text x="120" y="120" text-anchor="middle" font-size="10" fill="#4a3f35">infinite sentences</text>
+  <text x="120" y="133" text-anchor="middle" font-size="10" fill="#4a3f35">infinite contexts</text>
+  <text x="120" y="146" text-anchor="middle" font-size="10" fill="#4a3f35">infinite ambiguities</text>
+
+  <!-- Arrow from left to right -->
+  <line x1="230" y1="130" x2="310" y2="130" stroke="#4a3f35" stroke-width="2"/>
+  <polygon points="310,130 300,124 300,136" fill="#4a3f35"/>
+  <text x="270" y="122" text-anchor="middle" font-size="9" fill="#666">must fit in a</text>
+  <text x="270" y="143" text-anchor="middle" font-size="9" fill="#666">finite book</text>
+
+  <!-- Option A: Lookup table -->
+  <rect x="325" y="55" width="370" height="70" fill="#fff" stroke="#c0392b" stroke-width="1.5" rx="6" stroke-dasharray="5,3"/>
+  <text x="340" y="76" font-size="11" font-weight="bold" fill="#c0392b">Option A: Lookup table</text>
+  <text x="340" y="93" font-size="10" fill="#666">Store every possible input → output pair.</text>
+  <text x="340" y="108" font-size="10" fill="#666">Simple rules, no understanding needed.</text>
+  <text x="680" y="80" font-size="9" fill="#c0392b" text-anchor="end">Size: ∞</text>
+  <text x="680" y="94" font-size="9" fill="#c0392b" text-anchor="end">Physically impossible.</text>
+
+  <!-- Option B: Compressed rules -->
+  <rect x="325" y="140" width="370" height="70" fill="#fff" stroke="#2e7d32" stroke-width="1.5" rx="6"/>
+  <text x="340" y="161" font-size="11" font-weight="bold" fill="#2e7d32">Option B: Compressed rules</text>
+  <text x="340" y="178" font-size="10" fill="#666">Encode principles that generate correct responses.</text>
+  <text x="340" y="195" font-size="10" fill="#666">Finite book. But what must it contain?</text>
+  <text x="680" y="168" font-size="9" fill="#2e7d32" text-anchor="end">Only feasible option.</text>
+
+  <!-- Requirements label (two lines to avoid cutoff) -->
+  <text x="360" y="258" font-size="11" font-weight="bold" fill="#4a3f35" text-anchor="middle">To compress infinite Chinese into finite rules,</text>
+  <text x="360" y="274" font-size="11" font-weight="bold" fill="#4a3f35" text-anchor="middle">the book must encode:</text>
+
+  <!-- Requirement boxes in a row -->
+  <rect x="40" y="290" width="118" height="38" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1" rx="4"/>
+  <text x="99" y="313" text-anchor="middle" font-size="10" fill="#2e7d32">Grammar</text>
+
+  <rect x="170" y="290" width="118" height="38" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1" rx="4"/>
+  <text x="229" y="313" text-anchor="middle" font-size="10" fill="#2e7d32">Semantics</text>
+
+  <rect x="300" y="290" width="118" height="38" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1" rx="4"/>
+  <text x="359" y="313" text-anchor="middle" font-size="10" fill="#2e7d32">Context</text>
+
+  <rect x="430" y="290" width="118" height="38" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1" rx="4"/>
+  <text x="489" y="313" text-anchor="middle" font-size="10" fill="#2e7d32">Inference</text>
+
+  <rect x="560" y="290" width="130" height="38" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1" rx="4"/>
+  <text x="625" y="313" text-anchor="middle" font-size="10" fill="#2e7d32">Disambiguation</text>
+
+  <!-- Arrow down to the punchline -->
+  <line x1="360" y1="333" x2="360" y2="358" stroke="#4a3f35" stroke-width="1.5"/>
+  <polygon points="360,363 354,353 366,353" fill="#4a3f35"/>
+
+  <!-- The contradiction box -->
+  <rect x="80" y="370" width="560" height="50" fill="#fff3e0" stroke="#e65100" stroke-width="2" rx="6"/>
+  <text x="360" y="390" text-anchor="middle" font-size="12" font-weight="bold" fill="#e65100">Searle's sleight of hand</text>
+  <text x="360" y="408" text-anchor="middle" font-size="11" fill="#4a3f35">He describes Option B's output, but asks you to picture Option A's simplicity.</text>
+</svg>
