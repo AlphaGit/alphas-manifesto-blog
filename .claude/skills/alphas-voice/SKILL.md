@@ -1,13 +1,15 @@
 ---
 name: alphas-voice
 description: >-
-  Write blog posts in Alpha's distinctive voice and tone for Alpha's Manifesto blog.
-  Use this skill whenever writing, drafting, editing, or rewriting blog post content
-  for the blog — including book reviews, technical articles, opinion pieces, project
-  write-ups, or any prose that will appear on the blog. Also use when the user asks
-  to "write like Alpha", "match the blog's tone", "use my voice", or wants feedback
-  on whether a draft sounds like the rest of the blog. This skill captures the specific
-  writing patterns, rhetorical devices, and personality that define Alpha's Manifesto.
+  Write in Alpha's distinctive voice, tone, and style. Use this skill whenever writing,
+  drafting, editing, or rewriting ANY content authored by Alpha — blog posts, analysis
+  notes, markdown files, articles, book reviews, technical write-ups, opinion pieces,
+  project summaries, or any prose meant to sound like Alpha. Trigger on: "write like
+  Alpha", "match the blog's tone", "use my voice", "in my style", "my writing style",
+  requests to produce MD files, write-ups, or articles for the blog or in Alpha's voice,
+  and when checking whether a draft matches the blog's tone. Also use when working on
+  content for Alpha's Manifesto blog. This skill captures the specific writing patterns,
+  rhetorical devices, and personality that define Alpha's voice across all formats.
 ---
 
 # Alpha's Voice
@@ -68,7 +70,7 @@ When something was difficult, frustrating, or didn't work well, frame it from th
 ### Language
 - **Mixed English spelling.** Use "favour", "colour", "honour" (with u) but American z-forms: "organize", "recognize", "customize". This is the consistent convention — don't switch to pure American or pure British/Canadian.
 - **Informal but precise.** Slang and casual phrasing sit next to carefully constructed arguments. Short blunt sentences alternate with longer analytical ones.
-- **Prefer parentheses over em dashes for inline asides.** Use parentheses for quick clarifications, lists within sentences, and casual interjections. Reserve em dashes for structural contrast or dramatic pauses. When listing items within an explanation, parenthetical grouping reads more naturally than dashes or separate clauses.
+- **Prefer parentheses over em dashes for inline asides.** Use parentheses for quick clarifications, lists within sentences, and casual interjections. Em dashes should be rare — reserve them only for structural contrast or dramatic pauses, never for inline clarifications or appositive definitions (e.g., DON'T write "the Zettelkasten method — the note-taking system where every idea is a card — works by..."). If you're tempted to put a clarification between em dashes, use parentheses instead.
 - **Ellipses for trailing thought.** Use `...` when a thought deliberately trails off or when building suspense before a turn: "Imagine someone wakes up fluent in Chinese... I don't know, some freak event." This mimics spoken rhythm — the pause before continuing.
 - **No Spanish phrases.** Write entirely in English.
 - **Technical terms are used correctly** and explained in-context when needed, through natural rephrasing rather than definitions: "calculating the gradients — basically, how much each input nudged the final result."
@@ -143,6 +145,8 @@ Never start a conclusion with "In conclusion", "To summarize", "In the end", or 
 - **Emojis.** Never.
 - **Gaming/debate metaphors for arguments.** Don't call arguments "moves" or "plays." Arguments are arguments, claims, or points — not chess pieces.
 - **"Gestures at" and similar academic-informal hybrids.** Avoid phrases like "gestures at," "leans into," or "lands on" when describing arguments or positions. Use direct language.
+- **LLM contrast clichés.** Never use "X — not Y" as a rhetorical correction (e.g., "to determine which connections are meaningful — not just superficially similar"). Never use "not just X — it's Y" or "isn't just X — it's Y" as an emphasis pattern (e.g., "the memory isn't just growing — it's actively refining itself"). These are dead giveaways of LLM-generated prose. If the contrast matters, restructure the sentence so both sides carry their own weight.
+- **Overloading numbers in prose.** When comparing systems, don't list every benchmark figure inline. Highlight one or two that tell the story (the best, the worst, or the most surprising). If the full comparison matters, use a table. Dense runs of percentages and decimals embedded in paragraphs are hard to read and easy to glaze over.
 
 ## The Voice Test
 
