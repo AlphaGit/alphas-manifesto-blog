@@ -62,26 +62,30 @@ q {
 blockquote {
     background: #eee;
     quotes: "\201C""\201D""\2018""\2019";
-    padding: 2em 1em 1em 2em;
+    padding: 2em 3.5em;
     font-style: italic;
     margin-bottom: 1em;
+    position: relative;
 }
 
     blockquote:before, blockquote:after {
-        color: #bbb;
-        font-size: 6em;
-        line-height: 0.1em;
+        color: rgba(0, 0, 0, 0.12);
+        font-size: 5em;
+        font-family: Georgia, serif;
+        position: absolute;
+        line-height: 1;
     }
 
     blockquote:before {
         content: open-quote;
-        vertical-align: -0.4em;
-        margin-right: 0.1em;
+        top: 0.1em;
+        left: 0.25em;
     }
 
     blockquote:after {
         content: close-quote;
-        vertical-align: -0.6em;
+        bottom: -0.3em;
+        right: 0.3em;
     }
 
     blockquote cite, blockquote q, blockquote em, blockquote var, blockquote i {
