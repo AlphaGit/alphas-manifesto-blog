@@ -10,3 +10,14 @@
 {%- elsif page.header.image -%}
 <meta name="twitter:image" content="{{ page.header.image | absolute_url }}">
 {%- endif -%}
+{%- if page.math -%}
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['\\(', '\\)']],
+    displayMath: [['\\[', '\\]']]
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
+{%- endif -%}
