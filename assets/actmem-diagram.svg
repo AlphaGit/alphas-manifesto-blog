@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1160" font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555" />
+    </marker>
+    <marker id="arrow-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#dc2626" />
+    </marker>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3b82f6" />
+    </marker>
+    <marker id="arrow-orange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#ea580c" />
+    </marker>
+    <filter id="shadow" x="-3%" y="-3%" width="106%" height="110%">
+      <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.08" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="1160" fill="#fafafa" rx="8" />
+
+  <!-- ==================== STAGE 1: Raw Dialogue → Fact Extraction ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="30" width="620" height="100" rx="12" fill="#eff6ff" stroke="#93c5fd" stroke-width="1.5" />
+  </g>
+  <text x="60" y="58" font-size="14" font-weight="700" fill="#1e40af">Stage 1: Fact Extraction</text>
+
+  <!-- Raw dialogue bubble -->
+  <rect x="60" y="70" width="200" height="44" rx="8" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+  <text x="160" y="88" text-anchor="middle" font-size="11" fill="#475569">"My puppy is teething,</text>
+  <text x="160" y="103" text-anchor="middle" font-size="11" fill="#475569">chewing on everything..."</text>
+
+  <!-- Arrow -->
+  <line x1="268" y1="92" x2="308" y2="92" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)" />
+  <text x="288" y="86" text-anchor="middle" font-size="9" fill="#64748b">LLM</text>
+
+  <!-- Atomic facts -->
+  <rect x="316" y="68" width="324" height="50" rx="8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1" />
+  <text x="478" y="86" text-anchor="middle" font-size="11" font-weight="600" fill="#1e40af">Atomic facts</text>
+  <text x="478" y="103" text-anchor="middle" font-size="11" fill="#3b82f6">f₁: puppy crazy · f₂: teething · f₃: chewing · f₄: keep safe</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="130" x2="350" y2="165" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)" />
+
+  <!-- ==================== STAGE 2: Fact Clustering ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="170" width="620" height="90" rx="12" fill="#f0fdf4" stroke="#86efac" stroke-width="1.5" />
+  </g>
+  <text x="60" y="198" font-size="14" font-weight="700" fill="#166534">Stage 2: Fact Clustering</text>
+  <text x="60" y="218" font-size="11" fill="#16a34a">Group facts by embedding similarity into topic clusters</text>
+
+  <!-- Mini clusters -->
+  <rect x="380" y="185" width="120" height="32" rx="6" fill="#fef2f2" stroke="#fca5a5" stroke-width="1" />
+  <text x="440" y="205" text-anchor="middle" font-size="10" font-weight="600" fill="#991b1b">Puppy care</text>
+  <text x="440" y="205" text-anchor="middle" font-size="10" font-weight="600" fill="#991b1b">Puppy care</text>
+
+  <rect x="520" y="185" width="120" height="32" rx="6" fill="#f0fdf4" stroke="#86efac" stroke-width="1" />
+  <text x="580" y="205" text-anchor="middle" font-size="10" font-weight="600" fill="#166534">Plant shopping</text>
+
+  <text x="380" y="246" font-size="10" fill="#16a34a" font-style="italic">f₁, f₂, f₃, f₄ → Puppy care</text>
+  <text x="380" y="246" font-size="10" fill="#16a34a" font-style="italic">f₁, f₂, f₃, f₄ → Puppy care     f₅, f₆ → Plant shopping</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="260" x2="350" y2="295" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)" />
+
+  <!-- ==================== STAGE 3: Memory KG ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="300" width="620" height="280" rx="12" fill="#fefce8" stroke="#fde047" stroke-width="1.5" />
+  </g>
+  <text x="60" y="328" font-size="14" font-weight="700" fill="#854d0e">Stage 3: Memory Knowledge Graph</text>
+  <text x="60" y="348" font-size="11" fill="#a16207">Build semantic + causal edges within clusters. Causal edges PMI-verified.</text>
+
+  <!-- Puppy cluster box -->
+  <rect x="70" y="365" width="260" height="190" rx="10" fill="#fef2f2" stroke="#fca5a5" stroke-width="1" stroke-dasharray="5,3" />
+  <text x="200" y="385" text-anchor="middle" font-size="12" font-weight="600" fill="#991b1b">Puppy care cluster</text>
+
+  <!-- Nodes -->
+  <circle cx="130" cy="425" r="22" fill="#fee2e2" stroke="#ef4444" stroke-width="1.5" />
+  <text x="130" y="429" text-anchor="middle" font-size="11" font-weight="600" fill="#b91c1c">f₁</text>
+
+  <circle cx="240" cy="425" r="22" fill="#fee2e2" stroke="#ef4444" stroke-width="1.5" />
+  <text x="240" y="429" text-anchor="middle" font-size="11" font-weight="600" fill="#b91c1c">f₂</text>
+
+  <circle cx="130" cy="515" r="22" fill="#fee2e2" stroke="#ef4444" stroke-width="1.5" />
+  <text x="130" y="519" text-anchor="middle" font-size="11" font-weight="600" fill="#b91c1c">f₃</text>
+
+  <circle cx="240" cy="515" r="22" fill="#fee2e2" stroke="#ef4444" stroke-width="1.5" />
+  <text x="240" y="519" text-anchor="middle" font-size="11" font-weight="600" fill="#b91c1c">f₄</text>
+
+  <!-- Semantic edges (dashed gray) -->
+  <line x1="152" y1="425" x2="218" y2="425" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" />
+  <line x1="130" y1="447" x2="130" y2="493" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" />
+  <line x1="240" y1="447" x2="240" y2="493" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" />
+  <line x1="152" y1="515" x2="218" y2="515" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" />
+  <line x1="148" y1="440" x2="222" y2="500" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" />
+  <line x1="222" y1="440" x2="148" y2="500" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" />
+
+  <!-- Causal edge f2 → f3 (curved path, arcs left to avoid overlapping diagonals) -->
+  <path d="M 240 447 Q 85 470 130 493" stroke="#dc2626" stroke-width="2.5" fill="none" marker-end="url(#arrow-red)" />
+  <text x="100" y="462" text-anchor="middle" font-size="9" font-weight="700" fill="#dc2626">causal</text>
+
+  <!-- Plant cluster box -->
+  <rect x="380" y="365" width="260" height="190" rx="10" fill="#f0fdf4" stroke="#86efac" stroke-width="1" stroke-dasharray="5,3" />
+  <text x="510" y="385" text-anchor="middle" font-size="12" font-weight="600" fill="#166534">Plant shopping cluster</text>
+
+  <circle cx="450" cy="470" r="22" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5" />
+  <text x="450" y="474" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">f₅</text>
+
+  <circle cx="570" cy="470" r="22" fill="#dcfce7" stroke="#22c55e" stroke-width="1.5" />
+  <text x="570" y="474" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">f₆</text>
+
+  <line x1="472" y1="470" x2="548" y2="470" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" />
+
+  <!-- No edges label between clusters -->
+  <text x="350" y="475" text-anchor="middle" font-size="10" fill="#94a3b8" font-style="italic">no</text>
+  <text x="350" y="488" text-anchor="middle" font-size="10" fill="#94a3b8" font-style="italic">edges</text>
+
+  <!-- Legend -->
+  <line x1="80" y1="565" x2="112" y2="565" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4,3" />
+  <text x="118" y="569" font-size="10" fill="#64748b">semantic edge</text>
+  <line x1="220" y1="565" x2="252" y2="565" stroke="#dc2626" stroke-width="2.5" marker-end="url(#arrow-red)" />
+  <text x="262" y="569" font-size="10" fill="#64748b">causal edge (PMI-verified)</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="580" x2="350" y2="620" stroke="#555" stroke-width="1.5" marker-end="url(#arrow)" />
+
+  <!-- ==================== STAGE 4: Counterfactual Retrieval ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="625" width="620" height="510" rx="12" fill="#faf5ff" stroke="#c084fc" stroke-width="1.5" />
+  </g>
+  <text x="350" y="656" text-anchor="middle" font-size="14" font-weight="700" fill="#6b21a8">Stage 4: Counterfactual Retrieval</text>
+
+  <!-- User query -->
+  <rect x="80" y="676" width="540" height="40" rx="8" fill="#fff7ed" stroke="#fb923c" stroke-width="1.5" />
+  <text x="105" y="700" font-size="11" font-weight="600" fill="#c2410c">User query:</text>
+  <text x="193" y="700" font-size="11" fill="#9a3412">"Where can I buy Sago Palms nearby?"</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="716" x2="350" y2="740" stroke="#6b21a8" stroke-width="1.5" marker-end="url(#arrow)" />
+
+  <!-- Step 1 -->
+  <rect x="80" y="745" width="540" height="60" rx="10" fill="#f5f3ff" stroke="#a78bfa" stroke-width="1" />
+  <text x="105" y="770" font-size="12" font-weight="700" fill="#5b21b6">Step 1:</text>
+  <text x="163" y="770" font-size="12" fill="#6b21a8">Retrieve by vector similarity</text>
+  <text x="105" y="790" font-size="11" fill="#7c3aed">→ Returns f₅ (indoor plants), f₆ (Sago Palms)</text>
+  <text x="440" y="790" font-size="10" fill="#a78bfa" font-style="italic">Puppy facts are invisible</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="805" x2="350" y2="829" stroke="#6b21a8" stroke-width="1.5" marker-end="url(#arrow)" />
+
+  <!-- Step 2 -->
+  <rect x="80" y="834" width="540" height="80" rx="10" fill="#fdf4ff" stroke="#d946ef" stroke-width="1" />
+  <text x="105" y="859" font-size="12" font-weight="700" fill="#86198f">Step 2:</text>
+  <text x="163" y="859" font-size="12" fill="#86198f">Counterfactual reasoning</text>
+  <text x="105" y="881" font-size="11" fill="#a21caf">LLM asks: "If the user does this, what could go wrong?"</text>
+  <text x="105" y="901" font-size="11" font-weight="600" fill="#86198f">→ k_cs: "Sago Palms contain cycasin, toxic to dogs when ingested"</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="914" x2="350" y2="938" stroke="#6b21a8" stroke-width="1.5" marker-end="url(#arrow)" />
+
+  <!-- Step 3 -->
+  <rect x="80" y="943" width="540" height="60" rx="10" fill="#f5f3ff" stroke="#a78bfa" stroke-width="1" />
+  <text x="105" y="968" font-size="12" font-weight="700" fill="#5b21b6">Step 3:</text>
+  <text x="163" y="968" font-size="12" fill="#6b21a8">Re-retrieve using k_cs as new anchor</text>
+  <text x="105" y="988" font-size="11" fill="#7c3aed">→ "toxic to dogs" now matches f₂ (teething), f₃ (chewing), f₄ (keep safe)</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="1003" x2="350" y2="1027" stroke="#6b21a8" stroke-width="1.5" marker-end="url(#arrow)" />
+
+  <!-- Final answer -->
+  <rect x="80" y="1032" width="540" height="52" rx="10" fill="#ecfdf5" stroke="#34d399" stroke-width="2" />
+  <text x="350" y="1055" text-anchor="middle" font-size="12" font-weight="700" fill="#065f46">Final context: f₂ + f₃ + f₄ + f₅ + f₆ + k_cs</text>
+  <text x="350" y="1075" text-anchor="middle" font-size="11" fill="#059669" font-style="italic">"I wouldn't recommend Sago Palms — they're toxic to your puppy."</text>
+
+</svg>
