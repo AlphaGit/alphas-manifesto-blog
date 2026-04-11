@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1000" font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280" />
+    </marker>
+    <marker id="arrow-teal" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#0d9488" />
+    </marker>
+    <marker id="arrow-indigo" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6366f1" />
+    </marker>
+    <filter id="shadow" x="-3%" y="-3%" width="106%" height="110%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2.5" flood-opacity="0.06" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="1000" fill="#fcfcfc" rx="6" />
+
+  <!-- ==================== INPUT: New Memory ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="30" width="620" height="48" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1" />
+  </g>
+  <text x="350" y="59" text-anchor="middle" font-size="12" font-weight="500" fill="#475569">New interaction: "User's puppy is teething and chewing on furniture"</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="78" x2="350" y2="108" stroke="#6b7280" stroke-width="1.2" marker-end="url(#arrow)" />
+
+  <!-- ==================== STEP 1: Note Construction ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="113" width="620" height="215" rx="10" fill="#f8fafc" stroke="#c7d2fe" stroke-width="1" />
+  </g>
+  <text x="60" y="139" font-size="13" font-weight="700" fill="#4338ca">Step 1: Note Construction</text>
+  <text x="60" y="157" font-size="10.5" fill="#6366f1">LLM analyses the interaction and generates enriched components</text>
+
+  <!-- The note card -->
+  <rect x="80" y="170" width="540" height="140" rx="6" fill="#fff" stroke="#e0e7ff" stroke-width="1" />
+
+  <!-- Note fields -->
+  <text x="100" y="192" font-size="10.5" font-weight="600" fill="#4338ca">Content:</text>
+  <text x="170" y="192" font-size="10.5" fill="#475569">"User's puppy is teething and chewing on furniture"</text>
+
+  <text x="100" y="213" font-size="10.5" font-weight="600" fill="#4338ca">Keywords:</text>
+  <text x="178" y="213" font-size="10.5" fill="#475569">puppy, teething, chewing, furniture, pet care</text>
+
+  <text x="100" y="234" font-size="10.5" font-weight="600" fill="#4338ca">Tags:</text>
+  <text x="142" y="234" font-size="10.5" fill="#475569">pet-behaviour, puppy-phase, home-damage</text>
+
+  <text x="100" y="255" font-size="10.5" font-weight="600" fill="#4338ca">Context:</text>
+  <text x="162" y="255" font-size="10.5" fill="#475569">"User owns a young dog going through teething stage"</text>
+
+  <text x="100" y="276" font-size="10.5" font-weight="600" fill="#4338ca">Embedding:</text>
+  <text x="180" y="276" font-size="10.5" fill="#475569">eᵢ = encode(content + keywords + tags + context)</text>
+
+  <text x="100" y="297" font-size="10.5" font-weight="600" fill="#4338ca">Links:</text>
+  <text x="148" y="297" font-size="10.5" fill="#9ca3af" font-style="italic">(empty, generated in Step 2)</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="328" x2="350" y2="358" stroke="#6b7280" stroke-width="1.2" marker-end="url(#arrow)" />
+
+  <!-- ==================== STEP 2: Link Generation ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="363" width="620" height="245" rx="10" fill="#f8fafc" stroke="#99f6e4" stroke-width="1" />
+  </g>
+  <text x="60" y="389" font-size="13" font-weight="700" fill="#0f766e">Step 2: Link Generation</text>
+  <text x="60" y="407" font-size="10.5" fill="#0d9488">Find top-k similar memories, then LLM evaluates which connections are genuine</text>
+
+  <!-- Node: new memory -->
+  <circle cx="350" cy="468" r="24" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.5" />
+  <text x="350" y="464" text-anchor="middle" font-size="9.5" font-weight="700" fill="#4338ca">NEW</text>
+  <text x="350" y="477" text-anchor="middle" font-size="8.5" fill="#4338ca">puppy</text>
+
+  <!-- Existing nodes -->
+  <circle cx="160" cy="458" r="20" fill="#f9fafb" stroke="#d1d5db" stroke-width="1" />
+  <text x="160" y="454" text-anchor="middle" font-size="8.5" font-weight="600" fill="#6b7280">m₁</text>
+  <text x="160" y="466" text-anchor="middle" font-size="7.5" fill="#9ca3af">dog food</text>
+
+  <circle cx="540" cy="458" r="20" fill="#f9fafb" stroke="#d1d5db" stroke-width="1" />
+  <text x="540" y="454" text-anchor="middle" font-size="8.5" font-weight="600" fill="#6b7280">m₂</text>
+  <text x="540" y="466" text-anchor="middle" font-size="7.5" fill="#9ca3af">vet visit</text>
+
+  <circle cx="160" cy="548" r="20" fill="#f9fafb" stroke="#d1d5db" stroke-width="1" />
+  <text x="160" y="544" text-anchor="middle" font-size="8.5" font-weight="600" fill="#6b7280">m₃</text>
+  <text x="160" y="556" text-anchor="middle" font-size="7.5" fill="#9ca3af">recipes</text>
+
+  <circle cx="540" cy="548" r="20" fill="#f9fafb" stroke="#d1d5db" stroke-width="1" />
+  <text x="540" y="544" text-anchor="middle" font-size="8.5" font-weight="600" fill="#6b7280">m₄</text>
+  <text x="540" y="556" text-anchor="middle" font-size="7.5" fill="#9ca3af">furniture</text>
+
+  <!-- Existing edges between old nodes (thin gray) -->
+  <line x1="175" y1="474" x2="175" y2="532" stroke="#e5e7eb" stroke-width="1" />
+  <line x1="525" y1="474" x2="525" y2="532" stroke="#e5e7eb" stroke-width="1" />
+
+  <!-- Accepted links (teal) -->
+  <line x1="326" y1="466" x2="180" y2="460" stroke="#0d9488" stroke-width="1.3" stroke-dasharray="5,3" marker-end="url(#arrow-teal)" />
+  <line x1="374" y1="466" x2="520" y2="460" stroke="#0d9488" stroke-width="1.3" stroke-dasharray="5,3" marker-end="url(#arrow-teal)" />
+  <line x1="362" y1="490" x2="525" y2="535" stroke="#0d9488" stroke-width="1.3" stroke-dasharray="5,3" marker-end="url(#arrow-teal)" />
+
+  <!-- Accepted labels -->
+  <text x="232" y="450" font-size="8.5" fill="#0d9488" font-weight="600">genuine</text>
+  <text x="445" y="450" font-size="8.5" fill="#0d9488" font-weight="600">genuine</text>
+  <text x="462" y="522" font-size="8.5" fill="#0d9488" font-weight="600">genuine</text>
+
+  <!-- Rejected link -->
+  <line x1="338" y1="490" x2="175" y2="535" stroke="#e11d48" stroke-width="1" stroke-dasharray="3,3" opacity="0.6" />
+  <text x="224" y="528" font-size="8.5" fill="#e11d48" font-weight="500">rejected</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="608" x2="350" y2="638" stroke="#6b7280" stroke-width="1.2" marker-end="url(#arrow)" />
+
+  <!-- ==================== STEP 3: Memory Evolution ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="643" width="620" height="195" rx="10" fill="#f8fafc" stroke="#fde68a" stroke-width="1" />
+  </g>
+  <text x="60" y="669" font-size="13" font-weight="700" fill="#92400e">Step 3: Memory Evolution</text>
+  <text x="60" y="687" font-size="10.5" fill="#b45309">LLM re-evaluates linked memories in light of new information and updates them</text>
+
+  <!-- Before box -->
+  <rect x="80" y="703" width="240" height="115" rx="6" fill="#fff" stroke="#e5e7eb" stroke-width="1" />
+  <text x="200" y="722" text-anchor="middle" font-size="10.5" font-weight="600" fill="#9ca3af">m₁ BEFORE</text>
+  <text x="100" y="742" font-size="10" fill="#475569">Content: "User bought dog food"</text>
+  <text x="100" y="759" font-size="10" fill="#475569">Tags: pet-care, shopping</text>
+  <text x="100" y="776" font-size="10" fill="#475569">Context: "User is a dog owner"</text>
+  <text x="100" y="793" font-size="10" fill="#475569">Links: [ ]</text>
+
+  <!-- Arrow -->
+  <line x1="328" y1="760" x2="370" y2="760" stroke="#b45309" stroke-width="1.5" marker-end="url(#arrow)" />
+  <text x="349" y="752" text-anchor="middle" font-size="8.5" font-weight="600" fill="#b45309">evolve</text>
+
+  <!-- After box -->
+  <rect x="380" y="703" width="260" height="115" rx="6" fill="#fffbeb" stroke="#fde68a" stroke-width="1" />
+  <text x="510" y="722" text-anchor="middle" font-size="10.5" font-weight="600" fill="#92400e">m₁ AFTER</text>
+  <text x="400" y="742" font-size="10" fill="#475569">Content: "User bought dog food"</text>
+  <text x="400" y="759" font-size="10" fill="#92400e" font-weight="500">Tags: pet-care, shopping, puppy</text>
+  <text x="400" y="776" font-size="10" fill="#92400e" font-weight="500">Context: "User owns a teething puppy"</text>
+  <text x="400" y="793" font-size="10" fill="#92400e" font-weight="500">Links: [new_memory]</text>
+
+  <!-- Arrow down -->
+  <line x1="350" y1="838" x2="350" y2="868" stroke="#6b7280" stroke-width="1.2" marker-end="url(#arrow)" />
+
+  <!-- ==================== RETRIEVAL ==================== -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="873" width="620" height="95" rx="10" fill="#f8fafc" stroke="#c4b5fd" stroke-width="1" />
+  </g>
+  <text x="60" y="899" font-size="13" font-weight="700" fill="#5b21b6">Retrieval</text>
+  <text x="60" y="919" font-size="10.5" fill="#7c3aed">Query embedding → cosine similarity against all memories → return top-k notes</text>
+  <text x="60" y="937" font-size="10.5" fill="#7c3aed">Links provide additional context: connected memories are retrieved together</text>
+
+</svg>
