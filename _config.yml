@@ -12,6 +12,7 @@ search_provider: google
 google:
   search_engine_id: "ed903ebbf9cc19bb1"
   instant_search: true
+future: true
 
 # Site Author
 author:
