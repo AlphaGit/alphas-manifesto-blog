@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign category_name = page.category %}
-{% assign category_slug = category_name | slugify %}
+{% assign category_slug = category_name | slugify: "latin" %}
 {% assign category_info = site.data.categories[category_slug] %}
 {% assign date_format = site.alphasmanifesto.date_format | default: "%b %-d, %Y" %}
 
