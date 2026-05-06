@@ -42,7 +42,11 @@ title: Archive
         {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
         {% for year in posts_by_year %}
           <div class="year-group">
-            <h3>{{ year.name }}</h3>
+            <h3>
+              <a href="{{ "/" | append: year.name | append: "/" | relative_url }}">
+                {{ year.name }}
+              </a>
+            </h3>
             {% assign posts_by_month = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
             <ul class="month-list">
               {% for month in posts_by_month %}
