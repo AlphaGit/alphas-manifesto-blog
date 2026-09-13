@@ -21,13 +21,13 @@ Between those dangers was one called Mind Crimes, and those are not hypothetical
 
 <!--more-->
 
-Mind Crimes
+## Mind Crimes
 
 In Bostrom’s original writing, Mind Crime would arise from a potential case of a superintelligence trying to understand or extract computational resources from humans. Ideally, having enough computation would allow this entity to just simulate human brains, such that it was able to test out what made them happier, how they reacted to situations, and learn more about the human experience.
 
 However, the moral problem behind this is that a sufficiently advanced simulation of a human brain would likely have human moral status. This means that simulated pleasure would, in a way, be real pleasure, and simulated suffering would indeed be real suffering. As such, these acts of simulating human minds were dubbed “Mind Crime”.
 
-The Fruit Fly Connectome
+## The Fruit Fly Connectome
 
 Back in June, scientists at Harvard and Princeton completed and published the connectome for a fruit fly (link to actual publication). You can probably see where this is going.
 
@@ -37,7 +37,7 @@ Mind you (heh), it’s not the first time we have had a full connectome, but it 
 
 Now, I think the general consensus right now is that a fly does not have moral status (why not?) so people weren’t really discussing much about it. But…
 
-The memes
+## The memes
 
 The fruit fly connectome is available online for anyone to download and do as they please. Internet being internet, they have done a bit of everything with the fly, including:
 
@@ -65,7 +65,7 @@ I have not made up any of these examples. I am watching them on Twitter as I wri
 
 I’ll be honest… I feel incredibly uneasy about this.
 
-The moral implications
+## The moral implications
 
 I honestly don’t know about fruit fly sentience or biology to have an opinion on the intelligence of fruit flies. But, following our descriptions for above, a sufficiently advanced simulation of suffering is actual suffering, isn’t it?
 
@@ -75,7 +75,7 @@ I know I might have lost you in that last paragraph, I don’t even know where I
 
 So are we causing suffering to fruit flies? With what we know today, our two acceptable answers are “Yes” and “Maybe”.
 
-The moral implications, part two
+## The moral implications, part two
 
 But then, what does this all say about us? Once we actually had the power to use a real brain and a real body to study and improve the world in a way… we’re using it for our amusement? (Is our amusement compensation enough for the fruit fly suffering?)
 
@@ -85,7 +85,7 @@ Once we have a human baby brain, someone is going to make it dance the blockbust
 
 I’m really uncomfortable with where this is going.
 
-Against my own line of thought
+## Against my own line of thought
 
 I know what I have described is a fallacy, particularly two of them:
 
@@ -94,7 +94,7 @@ I know what I have described is a fallacy, particularly two of them:
 
 Still, a fallacy points to wrong reasoning, not necessarily to a falsehood. So… where do we stand?
 
-We need to have a deeper conversation
+## We need to have a deeper conversation
 
 As technology gets more powerful, it’ll get weirder. And I’m all for it. Through the media that I like and consume (with lots of moral dilemmas), I feel like I’ve always been prepared to discuss these situations. However, I also always thought that we’d be having these conversations and taking stances before we actually had to wield such power. Now I’m thinking that might not be the case.
 
