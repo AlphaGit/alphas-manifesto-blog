@@ -3,7 +3,7 @@ title: Architecture Rots With or Without AI
 subtitle: We were always bad at predicting the future, we just got faster at being wrong
 categories:
   - AI
-  - Software Engineering
+  - Development
 tags:
   - ai
   - architecture
