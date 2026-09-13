@@ -29,17 +29,17 @@ However, the moral problem behind this is that a sufficiently advanced simulatio
 
 ## The Fruit Fly Connectome
 
-Back in June, scientists at Harvard and Princeton completed and published the connectome for a fruit fly (link to actual publication). You can probably see where this is going.
+Back in June, scientists at Harvard and Princeton completed and published the [connectome for a fruit fly](https://hms.harvard.edu/news/researchers-publish-first-complete-connectome-fruit-fly-brain-spinal-cord) ([link to actual publication](https://www.nature.com/articles/s41586-026-10735-w)). You can probably see where this is going.
 
 The connectome includes mapping of brain activity to corporeal reactions, meaning that by stimulating the brain we can predict how the body of the fly would move. This is an amazing step in solving one of the most difficult issues both in science and philosophy, but at the very least, it’s a step towards understanding how a whole brain and body work together.
 
-Mind you (heh), it’s not the first time we have had a full connectome, but it is the first one that this has happened (the C. Elegans connectome was completed back in 2018), but this is the step on the ladder towards more complex animals.
+Mind you (heh), it’s not the first time we have had a full connectome, but it is the first one that this has happened (the [C. Elegans connectome was completed back in 2018](https://pubmed.ncbi.nlm.nih.gov/30366562/)), but this is the step on the ladder towards more complex animals.
 
 Now, I think the general consensus right now is that a fly does not have moral status (why not?) so people weren’t really discussing much about it. But…
 
 ## The memes
 
-The fruit fly connectome is available online for anyone to download and do as they please. Internet being internet, they have done a bit of everything with the fly, including:
+The fruit fly connectome is [available online](https://codex.flywire.ai/) for anyone to download and do as they please. Internet being internet, they have done a bit of everything with the fly, including:
 
 * Have it play Beat Saber
 * Parallel park with a car
@@ -61,7 +61,7 @@ The fruit fly connectome is available online for anyone to download and do as th
 
 Not even Black Mirror predicted these.
 
-I have not made up any of these examples. I am watching them on Twitter as I write this. I will not link to them because none of these accounts seem to be accounts that will last a lot. Know Your Meme generally does a better job at keeping examples.
+I have not made up any of these examples. I am watching them on Twitter as I write this. I will not link to them because none of these accounts seem to be accounts that will last a lot. [Know Your Meme](https://knowyourmeme.com/memes/fruit-fly-brain-simulations) generally does a better job at keeping examples.
 
 I’ll be honest… I feel incredibly uneasy about this.
 
