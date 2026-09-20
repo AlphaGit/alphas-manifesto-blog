@@ -17,7 +17,7 @@ description: Cloud rendering with Lambdas and GPUs using Blender, SQS, and Terra
 
 [GitHub repository](https://github.com/AlphaGit/blender-lambda)
 
-I recently published [TAS-PC](https://blog.alphasmanifesto.com/2021/11/22/tas-pc/), a producer-queue-consumer lambda terraform module. This was an intermediate step for creating a distributed rendering engine.
+I recently published [TAS-PC]({% post_url 2021/2021-11-22-tas-pc %}), a producer-queue-consumer lambda terraform module. This was an intermediate step for creating a distributed rendering engine.
 
 In this post I'd like to discuss some of the technical aspects of that work.
 
@@ -31,7 +31,7 @@ So instead I chose to use docker containers and lambdas. Sure, lambdas are curre
 
 ## Architecture
 
-As explained in the [TAS-PC](https://blog.alphasmanifesto.com/2021/11/22/tas-pc/) post, this is a producer-queue-consumer pattern used for serverless loads.
+As explained in the [TAS-PC]({% post_url 2021/2021-11-22-tas-pc %}) post, this is a producer-queue-consumer pattern used for serverless loads.
 
 ### Producer
 

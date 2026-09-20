@@ -135,7 +135,7 @@ These metrics look promising and impressive. And it's worth noting that the benc
 
 ## How it compares to ActMem
 
-If you read my [previous post on ActMem]({{ site.baseurl }}/2026/04/04/actmem-when-remembering-isnt-enough/), you'll notice these two papers attack the same problem (agent memory is too passive) from opposite ends.
+If you read my [previous post on ActMem]({% post_url 2026/2026-04-04-actmem-when-remembering-isnt-enough %}), you'll notice these two papers attack the same problem (agent memory is too passive) from opposite ends.
 
 A-MEM invests everything at **storage time**. When a new memory arrives, it gets enriched, linked, and used to update existing memories. The knowledge graph is built and maintained incrementally. By the time you need to retrieve something, the structure is already there; retrieval is just a cosine similarity lookup that benefits from all the work done upfront.
 
