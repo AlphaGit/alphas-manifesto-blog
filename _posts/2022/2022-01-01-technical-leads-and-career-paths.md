@@ -38,7 +38,7 @@ However, a team with a technical leader has the leader make some of those decisi
 
 ## Technical Leadership part II: Leadership
 
-Still, if this is not what you're looking for as a technical leader and indeed you'd like to spend more time writing code and pushing commits, not only it is okay that you make time for that, but indeed you **should** make time for that. See my article stating that [Technical Leaders Must Write Code](https://blog.alphasmanifesto.com/2017/05/19/technical-leaders-must-write-code/).
+Still, if this is not what you're looking for as a technical leader and indeed you'd like to spend more time writing code and pushing commits, not only it is okay that you make time for that, but indeed you **should** make time for that. See my article stating that [Technical Leaders Must Write Code]({% post_url 2017/2017-05-19-technical-leaders-must-write-code %}).
 
 The key here is that as a technical leader, you are the one making the decisions on how to use your time, and making the decision on how the time of your team members is used too. Make use of that power to allow yourself to code too along your peers. Keep your planning work to a healthy minimum, or find a way to make it efficient. As someone stated in their own answer, [you have the power to delegate too](https://workplace.stackexchange.com/a/181870/25611)!
 
@@ -46,4 +46,4 @@ If you're a first timer into leadership, you might be thinking that this is avoi
 
 Once you make it, spending some time to code is absolutely trivial.
 
-I'd also like to repeat, it's not only a wish for most developers that become leaders, but it is a duty. [Technical Leaders Must Write Code](https://blog.alphasmanifesto.com/2017/05/19/technical-leaders-must-write-code/)!
+I'd also like to repeat, it's not only a wish for most developers that become leaders, but it is a duty. [Technical Leaders Must Write Code]({% post_url 2017/2017-05-19-technical-leaders-must-write-code %})!
